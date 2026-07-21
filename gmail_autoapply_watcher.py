@@ -25,6 +25,8 @@ Run: python gmail_autoapply_watcher.py
 """
 
 import email
+import email.header
+from email.message import Message
 import html
 import imaplib
 import json
@@ -97,7 +99,7 @@ def parse_apply_link(url: str) -> dict | None:
     return {"job_id": job_id, "title": title, "url": url, "source": "google"}
 
 
-def extract_from_email(msg: email.message.Message) -> list[dict]:
+def extract_from_email(msg: Message) -> list[dict]:
     """Return all Google apply openings found in one email (HTML or plain)."""
     bodies = []
     if msg.is_multipart():
