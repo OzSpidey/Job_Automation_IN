@@ -103,7 +103,7 @@ def step_of(url: str) -> str:
     u = (url or "").lower()
     if u.endswith("/form") or "/form" in u:            return "profile"
     if "/role" in u:                                   return "role"
-    if "self" in u or "identification" in u:           return "selfid"
+    if "/vsi" in u or "self" in u or "identification" in u: return "selfid"
     if "/review" in u:                                 return "review"
     if "confirm" in u or "success" in u or "thank" in u: return "done"
     return "unknown"
@@ -217,18 +217,18 @@ def fill_role_info(page, ans: dict) -> None:
 
 
 def handle_self_id(page) -> None:
-    """Voluntary — decline where possible, otherwise just proceed."""
-    for label in ("I don't wish to answer", "Decline to self-identify",
-                  "I do not wish to answer", "Prefer not to say"):
+    """Voluntary self-ID (/vsi): decline every question. Each of gender, race,
+    disability and military status offers 'I choose not to disclose'."""
+    decline = page.get_by_text(re.compile(r"^\s*I choose not to disclose\s*$", re.I))
+    n = decline.count()
+    clicked = 0
+    for i in range(n):
         try:
-            el = page.get_by_text(re.compile(label, re.I))
-            if el.count() > 0:
-                el.first.click(timeout=1500)
-                print(f"  self-id: chose '{label}'")
-                return
-        except Exception:
-            continue
-    print("  self-id: left blank (voluntary)")
+            decline.nth(i).click(timeout=2000)
+            clicked += 1
+        except Exception as exc:
+            print(f"    vsi[{i}]: {exc}")
+    print(f"  self-id: declined {clicked}/{n} question(s)")
 
 
 def click_next(page) -> str | None:
