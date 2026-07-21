@@ -350,12 +350,14 @@ def apply(page, jobs: list[dict], ans: dict) -> None:
                         except Exception as exc:
                             print(f"  review consent: {exc}")
                     page.wait_for_timeout(600)
+                    snap(page, f"review_{jid[:16]}")   # evidence of what we submit
                     if ENABLE_SUBMIT:
                         btn = page.get_by_role("button", name=re.compile(r"^\s*Apply\s*$", re.I))
                         if btn.count() > 0 and btn.first.is_enabled():
                             btn.first.click()
-                            page.wait_for_timeout(5000)
+                            page.wait_for_timeout(6000)
                             submitted = True
+                            snap(page, f"applied_{jid[:16]}")   # confirmation page
                             print("  [submit] 'Apply' clicked — application submitted.")
                         else:
                             print("  [submit] 'Apply' button missing/disabled — not submitted.")

@@ -47,8 +47,8 @@ jobs:
           APPLY_LIMIT:              ${{ inputs.limit }}
         run: python google_autoapply.py --${{ inputs.mode }}
 
-      - name: Upload recon/walk artifacts
-        if: ${{ always() && inputs.mode != 'apply' }}
+      - name: Upload recon/walk/apply artifacts
+        if: ${{ always() }}
         uses: actions/upload-artifact@v4
         with:
           name: google-recon
