@@ -59,6 +59,14 @@ APPLY_LINK_RE = re.compile(
     re.I,
 )
 
+# We only auto-apply to early/mid roles. The scraper email carries Google's
+# level in a dedicated table cell; these are the exact strings it renders.
+LEVEL_STRINGS = {"early", "mid", "advanced", "expert / director"}
+SKIP_LEVELS   = {"advanced", "expert / director"}   # never apply to these
+_TAG_RE = re.compile(r"<[^>]+>")
+_TR_RE  = re.compile(r"<tr\b.*?</tr>", re.S | re.I)
+_TD_RE  = re.compile(r"<td\b[^>]*>(.*?)</td>", re.S | re.I)
+
 # ──────────────────────────────────────────────────────────────────────────────
 # STATE
 # ──────────────────────────────────────────────────────────────────────────────
@@ -99,31 +107,67 @@ def parse_apply_link(url: str) -> dict | None:
     return {"job_id": job_id, "title": title, "url": url, "source": "google"}
 
 
+def _decode_part(part) -> str:
+    try:
+        return part.get_payload(decode=True).decode(
+            part.get_content_charset() or "utf-8", errors="replace")
+    except (AttributeError, LookupError):
+        return ""
+
+
+def _row_level(row_html: str) -> str:
+    """Level from the row's dedicated Level cell. Exact match so a title like
+    'Software Engineer, Early Career' isn't mistaken for the 'Early' level."""
+    for cell in _TD_RE.findall(row_html):
+        text = html.unescape(_TAG_RE.sub("", cell)).strip()
+        if text.lower() in LEVEL_STRINGS:
+            return text
+    return ""
+
+
 def extract_from_email(msg: Message) -> list[dict]:
-    """Return all Google apply openings found in one email (HTML or plain)."""
-    bodies = []
+    """Google apply openings from one email, tagged with level. Advanced and
+    Expert/Director roles are dropped — we only apply to early/mid (and roles
+    where Google exposes no level)."""
+    html_body = plain_body = ""
     if msg.is_multipart():
         for part in msg.walk():
             ctype = part.get_content_type()
-            if ctype in ("text/html", "text/plain"):
-                try:
-                    bodies.append(part.get_payload(decode=True).decode(
-                        part.get_content_charset() or "utf-8", errors="replace"))
-                except (AttributeError, LookupError):
-                    continue
+            if ctype == "text/html" and not html_body:
+                html_body = _decode_part(part)
+            elif ctype == "text/plain" and not plain_body:
+                plain_body = _decode_part(part)
     else:
-        try:
-            bodies.append(msg.get_payload(decode=True).decode(
-                msg.get_content_charset() or "utf-8", errors="replace"))
-        except (AttributeError, LookupError):
-            pass
+        html_body = _decode_part(msg)
 
-    found = {}
-    for body in bodies:
-        for m in APPLY_LINK_RE.finditer(body):
+    found: dict[str, dict] = {}
+    skipped = 0
+
+    if html_body:
+        # Row-aware: pair each apply link with the Level cell in the same <tr>.
+        for row in _TR_RE.findall(html_body):
+            m = APPLY_LINK_RE.search(row)
+            if not m:
+                continue
+            rec = parse_apply_link(m.group(0))
+            if not rec:
+                continue
+            level = _row_level(row)
+            if level.lower() in SKIP_LEVELS:
+                skipped += 1
+                continue
+            rec["level"] = level
+            found[rec["job_id"]] = rec
+    else:
+        # No HTML table -> can't read levels; take all links from plain text.
+        for m in APPLY_LINK_RE.finditer(plain_body):
             rec = parse_apply_link(m.group(0))
             if rec:
-                found[rec["job_id"]] = rec   # dedup within the email by job_id
+                rec["level"] = ""
+                found[rec["job_id"]] = rec
+
+    if skipped:
+        print(f"    (skipped {skipped} advanced/expert role(s) — early/mid only)")
     return list(found.values())
 
 
@@ -197,7 +241,7 @@ def main() -> None:
         queue.append(o)
         known.add(o["job_id"])
         added += 1
-        print(f"  QUEUED: {o['title'] or '(untitled)'}  [{o['job_id']}]")
+        print(f"  QUEUED [{o.get('level') or 'level?'}]: {o['title'] or '(untitled)'}")
 
     _save(QUEUE_FILE, queue)
     print(f"\nAdded {added} new opening(s). Queue depth: {len(queue)}.")
