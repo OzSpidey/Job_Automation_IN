@@ -1,0 +1,44 @@
+name: Amazon India Scraper
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write            # needed to commit amazon_india_api_seen_jobs.json back
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: pip install python-dotenv
+
+      - name: Run Amazon India Scraper
+        env:
+          EMAIL_TO_INDIA:     ${{ secrets.EMAIL_TO_INDIA }}
+          EMAIL_SENDER:       ${{ secrets.EMAIL_SENDER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python amazon_scraper_india.py
+
+      - name: Persist seen-jobs list
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add json/amazon_india_api_seen_jobs.json
+          git diff --staged --quiet || git commit -m "chore: update amazon india seen jobs [skip ci]"
+          git checkout -- . 2>/dev/null || true
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $i failed, retrying in $((i * 3))s..."
+            sleep $((i * 3))
+          done
