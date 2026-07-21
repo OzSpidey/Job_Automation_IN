@@ -14,10 +14,10 @@ GitHub Actions (no external private-repo checkout).
 | Google Careers | `google_scraper_india.py` | Scrapes the embedded Boq `ds:1` state from the server-rendered results page, `location=India` | `json/google_india_seen_jobs.json` |
 | Amazon Jobs | `amazon_scraper_india.py` | Public `search.json` API, `sort=recent`, India filtered in Python | `json/amazon_india_api_seen_jobs.json` |
 
-Both match the same target roles as the US versions (Data Engineer, Data Analyst,
-Business Intelligence / Analyst, BI Engineer/Developer, AI Engineer, Early Grad),
-excluding senior+ levels. Only the location filter, recipient, timezone, and
-email labels differ from the US scripts.
+India tracks a **software-only** role set — Software Engineer, Software Developer /
+SDE, and Early Grad / Early Career roles, excluding senior+ levels. No data or BI
+roles (that's the key difference from the US scrapers, which also match Data
+Engineer / Analyst / BI).
 
 ## Running in Actions
 

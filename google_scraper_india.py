@@ -64,28 +64,20 @@ REQUEST_DELAY_S = 0.6        # polite pause between page fetches
 # Secondary keyword search pass — catches roles that don't surface in the
 # date-sorted feed (Google's sort_by=date is not strictly chronological).
 KEYWORD_SEARCHES = [
-    "analyst",
-    "data engineer",
-    "data scientist",
-    "analytics engineer",
-    "business intelligence",
+    "software engineer",
+    "software developer",
+    "early career",
 ]
 SEEN_JOBS_FILE  = os.path.join(os.path.dirname(__file__), "json", "google_india_seen_jobs.json")
 USER_AGENT      = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
 
 TARGET_ROLES = [
-    "data",
-    "analyst",
-    "analytics",
-    "early grad",
     "software engineer",
     "software developer",
-    "forward deployed",
+    "early grad",
+    "early career",
+    "new grad",
 ]
-
-# Regex catches BI/AI roles where plain substring would false-positive inside other words.
-BI_REGEX = re.compile(r"\bbusiness intelligence\b|\bbi\b", re.I)
-AI_REGEX = re.compile(r"\bai engineer\b", re.I)
 
 # Exclude senior+ levels — we want entry/mid only.
 EXCLUDE_SUBSTRINGS = [
@@ -121,13 +113,7 @@ def is_target_role(title: str) -> bool:
     t = title.lower()
     if any(x in t for x in EXCLUDE_SUBSTRINGS):
         return False
-    if any(role in t for role in TARGET_ROLES):
-        return True
-    if BI_REGEX.search(title):
-        return True
-    if AI_REGEX.search(title):
-        return True
-    return False
+    return any(role in t for role in TARGET_ROLES)
 
 
 _DUMP_FIELDS_DONE = False  # print raw indices for first job once per run
@@ -361,8 +347,7 @@ def send_email(jobs: list[dict], previously_seen: set[str]) -> None:
         <html><body style="font-family:Arial,sans-serif;color:#333">
         <h2 style="color:#202124">Google Jobs — India — Matching Roles</h2>
         <p>Found <strong>{count}</strong> role(s) matching:
-           <em>Data Engineer &nbsp;|&nbsp; Business Intelligence Engineer &nbsp;|&nbsp;
-           Business Analyst &nbsp;|&nbsp; Data Analyst &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Early Grad</em>
+           <em>Software Engineer &nbsp;|&nbsp; Software Developer &nbsp;|&nbsp; Early Grad / Early Career</em>
         </p>
         <table style="border-collapse:collapse;width:100%;max-width:1100px">
           <tr style="background:#202124;color:#FBBC04">

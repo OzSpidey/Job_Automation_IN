@@ -54,19 +54,14 @@ SEEN_JOBS_FILE = os.path.join(os.path.dirname(__file__), "json", "amazon_india_a
 USER_AGENT     = "Mozilla/5.0 (compatible; AmazonJobsScanner/1.0)"
 
 TARGET_ROLES = [
-    "data engineer",
-    "data analyst",
-    # "data scientist",
-    "business intelligence",
-    "business intel",
-    "business analyst",
-    "bi engineer",
-    "bi developer",
-    "bie",
+    "software engineer",
+    "software developer",
+    "software development engineer",
+    "sde",
     "early grad",
+    "early career",
+    "new grad",
 ]
-
-AI_REGEX = re.compile(r"\bai engineer\b", re.I)
 
 EXCLUDE_SUBSTRINGS = [
     "senior", "sr", "staff", "lead", "principal",
@@ -98,9 +93,7 @@ def save_seen_urls(urls: set[str]) -> None:
 def is_target_role(title: str) -> bool:
     if _EXCLUDE_RE.search(title):
         return False
-    if _TARGET_RE.search(title):
-        return True
-    return bool(AI_REGEX.search(title))
+    return bool(_TARGET_RE.search(title))
 
 
 def parse_posted_date(s: str) -> datetime:
@@ -267,8 +260,7 @@ def send_email(jobs: list[dict], previously_seen: set[str]) -> None:
         <html><body style="font-family:Arial,sans-serif;color:#333">
         <h2 style="color:#232F3E">Amazon Jobs (API) — India — Matching Roles</h2>
         <p>Found <strong>{count}</strong> role(s) matching:
-           <em>Data Engineer &nbsp;|&nbsp; Business Intelligence Engineer &nbsp;|&nbsp;
-           Business Analyst &nbsp;|&nbsp; Data Analyst &nbsp;|&nbsp; AI Engineer &nbsp;|&nbsp; BI Developer &nbsp;|&nbsp; Early Grad</em>
+           <em>Software Engineer &nbsp;|&nbsp; Software Developer &nbsp;|&nbsp; SDE &nbsp;|&nbsp; Early Grad / Early Career</em>
         </p>
         <table style="border-collapse:collapse;width:100%;max-width:1100px">
           <tr style="background:#232F3E;color:#FF9900">
