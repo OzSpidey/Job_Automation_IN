@@ -42,6 +42,7 @@ RECON_DIR      = os.path.join(HERE, "recon")
 SESSION_FILE  = os.environ.get("GOOGLE_SESSION_FILE", os.path.join(HERE, "google_session.json"))
 ENABLE_SUBMIT = os.environ.get("AUTOAPPLY_ENABLE_SUBMIT", "") == "1"
 RECON_LIMIT   = int(os.environ.get("RECON_LIMIT", "3"))
+APPLY_LIMIT   = int(os.environ.get("APPLY_LIMIT", "0"))  # 0 = whole queue
 MAX_STEPS     = 6  # safety cap on how many pages we'll click through
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -322,9 +323,12 @@ def walk(page, jobs: list[dict], ans: dict) -> None:
 def apply(page, jobs: list[dict], ans: dict) -> None:
     applied = _load(APPLIED_FILE)
     remaining = []
-    for job in jobs:
+    limit = APPLY_LIMIT or len(jobs)
+    for idx, job in enumerate(jobs):
+        if idx >= limit:                       # respect APPLY_LIMIT; rest stay queued
+            remaining.append(job); continue
         jid = job["job_id"]
-        print(f"\n[apply] {job.get('title','')}  {jid[:20]}…")
+        print(f"\n[apply {idx+1}] {job.get('title','')}  {jid[:20]}…")
         submitted = False
         try:
             page.goto(job["url"], wait_until="domcontentloaded", timeout=45000)
@@ -335,27 +339,35 @@ def apply(page, jobs: list[dict], ans: dict) -> None:
 
             for n in range(MAX_STEPS):
                 step = step_of(page.url)
-                print(f"  step {n}: {step}")
+                print(f"  step {n}: {step} ({(page.url or '').rsplit('/', 1)[-1]})")
                 if step == "review":
+                    # Final privacy-consent checkbox — 'Apply' stays disabled without it.
+                    cbs = page.get_by_role("checkbox")
+                    if cbs.count() > 0:
+                        try:
+                            cbs.last.click(timeout=2500)
+                            print("  review: consent ticked")
+                        except Exception as exc:
+                            print(f"  review consent: {exc}")
+                    page.wait_for_timeout(600)
                     if ENABLE_SUBMIT:
-                        btn = page.get_by_role("button",
-                              name=re.compile(r"submit application|^submit$", re.I))
-                        if btn.count() > 0:
+                        btn = page.get_by_role("button", name=re.compile(r"^\s*Apply\s*$", re.I))
+                        if btn.count() > 0 and btn.first.is_enabled():
                             btn.first.click()
-                            page.wait_for_timeout(4000)
+                            page.wait_for_timeout(5000)
                             submitted = True
-                            print("  [submit] submitted.")
+                            print("  [submit] 'Apply' clicked — application submitted.")
                         else:
-                            print("  [submit] submit button not found.")
+                            print("  [submit] 'Apply' button missing/disabled — not submitted.")
                     else:
-                        print("  [dry-run] at review; AUTOAPPLY_ENABLE_SUBMIT!=1, not submitting.")
+                        print("  [dry-run] at review; AUTOAPPLY_ENABLE_SUBMIT!=1 — not submitting.")
                     break
                 if step == "done":
                     submitted = True; break
                 do_step(page, step, ans)
                 page.wait_for_timeout(600)
                 if not click_next(page):
-                    print("  no advance button — stopping.")
+                    print("  no advance button — stopping this job.")
                     break
                 page.wait_for_timeout(3500)
         except Exception as exc:
