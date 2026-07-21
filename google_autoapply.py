@@ -155,52 +155,65 @@ def _yn(val: str, default: str) -> str:
 
 
 def select_first_location(page) -> None:
+    """Pick a preferred location only if none is pre-filled (don't clobber it)."""
     combo = page.get_by_role("combobox")
     if combo.count() == 0:
-        print("  location: no combobox found (maybe single fixed location)")
+        print("  location: no combobox (fixed single location)")
+        return
+    try:
+        current = combo.first.inner_text(timeout=800) or ""
+    except Exception:
+        current = ""
+    cur = re.sub(r"(?i)preferred location\*?", "", current).strip(" *\n\t")
+    if cur:
+        print(f"  location: already set to '{cur[:40]}' — leaving it")
         return
     try:
         combo.first.click()
         page.wait_for_timeout(700)
         opts = page.get_by_role("option")
-        if opts.count() > 0:
-            label = (opts.first.inner_text(timeout=800) or "").strip()[:45]
-            opts.first.click()
-            print(f"  location: selected first option '{label}'")
-        else:
-            page.keyboard.press("Escape")
-            print("  location: no options appeared (leaving as-is)")
+        for i in range(min(opts.count(), 12)):
+            label = (opts.nth(i).inner_text(timeout=500) or "").strip()
+            if label:
+                opts.nth(i).click()
+                print(f"  location: selected '{label[:40]}'")
+                return
+        page.keyboard.press("Escape")
+        print("  location: no non-empty option found")
     except Exception as exc:
         print(f"  location: error {exc}")
 
 
-def answer_radio_group(page, name_re, choice: str) -> bool:
-    grp = page.get_by_role("radiogroup", name=name_re)
+def _click_group_radio(group_loc, index: int, label: str) -> bool:
+    """Click option at `index` (Yes=0, No=1, Not sure=2) in a radiogroup. The
+    radios expose no accessible name, so we select positionally by DOM order."""
     try:
-        if grp.count() > 0:
-            grp.first.get_by_role("radio", name=re.compile(rf"^\s*{choice}\s*$", re.I)).first.click(timeout=4000)
-            return True
+        group_loc.get_by_role("radio").nth(index).click(timeout=3000)
+        print(f"    {label}: option #{index} clicked")
+        return True
     except Exception as exc:
-        print(f"    [radiogroup click failed: {exc}]")
-    # Fallback: a radio whose accessible name embeds the question text + choice
-    try:
-        r = page.get_by_role("radio", name=name_re)
-        if r.count() > 0:
-            r.first.click(timeout=3000)
-            return True
-    except Exception:
-        pass
-    return False
+        print(f"    {label}: FAILED ({exc})")
+        return False
 
 
 def fill_role_info(page, ans: dict) -> None:
     select_first_location(page)
+
+    # Minimum qualifications — user policy: answer "Yes" (option 0) to every one.
+    mq = page.get_by_role("radiogroup", name=re.compile("minimum qualif", re.I))
+    nmq = mq.count()
+    done = sum(_click_group_radio(mq.nth(i), 0, f"min-qual[{i}]=Yes") for i in range(nmq))
+    print(f"  min-quals: {done}/{nmq} answered Yes")
+
+    # Work authorization (Yes=0, No=1)
     elig  = _yn(ans.get("work_eligible"), "Yes")
     spons = _yn(ans.get("needs_sponsorship"), "No")
-    ok1 = answer_radio_group(page, re.compile("legally eligible", re.I), elig)
-    ok2 = answer_radio_group(page, re.compile("sponsor", re.I), spons)
-    print(f"  eligible={elig} ({'ok' if ok1 else 'NOT FOUND'}) | "
-          f"sponsorship={spons} ({'ok' if ok2 else 'NOT FOUND'})")
+    eg = page.get_by_role("radiogroup", name=re.compile("legally eligible", re.I))
+    if eg.count():
+        _click_group_radio(eg.first, 0 if elig == "Yes" else 1, f"eligible={elig}")
+    sg = page.get_by_role("radiogroup", name=re.compile("sponsor", re.I))
+    if sg.count():
+        _click_group_radio(sg.first, 0 if spons == "Yes" else 1, f"sponsorship={spons}")
 
 
 def handle_self_id(page) -> None:
