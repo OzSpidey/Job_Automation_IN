@@ -217,18 +217,35 @@ def fill_role_info(page, ans: dict) -> None:
 
 
 def handle_self_id(page) -> None:
-    """Voluntary self-ID (/vsi): decline every question. Each of gender, race,
-    disability and military status offers 'I choose not to disclose'."""
-    decline = page.get_by_text(re.compile(r"^\s*I choose not to disclose\s*$", re.I))
-    n = decline.count()
-    clicked = 0
-    for i in range(n):
+    """Voluntary self-ID (/vsi): decline every question, then tick the required
+    consent box so Next enables. Controls carry no accessible names, so select
+    positionally. In each radio question 'I choose not to disclose' is the LAST
+    option; among the checkboxes the race 'I choose not to disclose' is the
+    second-to-last and the consent box is the last."""
+    groups = page.get_by_role("radiogroup")
+    ng = groups.count()
+    for i in range(ng):
         try:
-            decline.nth(i).click(timeout=2000)
-            clicked += 1
+            radios = groups.nth(i).get_by_role("radio")
+            radios.nth(radios.count() - 1).click(timeout=2500)  # last = decline
         except Exception as exc:
-            print(f"    vsi[{i}]: {exc}")
-    print(f"  self-id: declined {clicked}/{n} question(s)")
+            print(f"    vsi radiogroup[{i}]: {exc}")
+    print(f"  self-id: declined {ng} radio question(s)")
+
+    cbs = page.get_by_role("checkbox")
+    ncb = cbs.count()
+    print(f"  self-id: {ncb} checkbox(es) present")
+    if ncb >= 2:
+        try:
+            cbs.nth(ncb - 2).click(timeout=2500)   # race: 'I choose not to disclose'
+        except Exception as exc:
+            print(f"    vsi race-cb: {exc}")
+    if ncb >= 1:
+        try:
+            cbs.nth(ncb - 1).click(timeout=2500)   # consent (required)
+            print("  self-id: consent ticked")
+        except Exception as exc:
+            print(f"    vsi consent-cb: {exc}")
 
 
 def click_next(page) -> str | None:
