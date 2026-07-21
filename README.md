@@ -19,20 +19,49 @@ SDE, and Early Grad / Early Career roles, excluding senior+ levels. No data or B
 roles (that's the key difference from the US scrapers, which also match Data
 Engineer / Analyst / BI).
 
+India alerts are sent to the dedicated auto-apply inbox `oswin.autoapply@gmail.com`.
+
+## Auto-apply pipeline (Google, India)
+
+The goal is hands-off applying to new Google openings. Flow:
+
+1. `gmail_autoapply_watcher.py` — polls the auto-apply inbox over IMAP, extracts
+   Google Careers apply links (job_id + title come straight from the URL), and
+   appends new openings to `json/autoapply_queue.json` (deduped against
+   `json/autoapply_applied.json`).
+2. `google_autoapply.py` — replays a captured Google session (Playwright) against
+   each queued job.
+   - `--recon` (default): screenshots + dumps the form DOM to artifacts, and
+     reports whether the session survives the runner IP. Never fills/submits.
+   - `--apply`: fills the form from the answers profile, uploads the resume, and
+     submits **only** when `AUTOAPPLY_ENABLE_SUBMIT=1`.
+
+> Google is not a standard ATS — applying drives its own logged-in UI, which has
+> IP-tied bot detection. The recon run is the feasibility check for running this
+> from GitHub Actions vs. a residential/self-hosted runner.
+
 ## Running in Actions
 
-Both workflows are `workflow_dispatch` (manual / external-cron triggered):
+All workflows are `workflow_dispatch`:
 
 - **Google India Scraper** → `.github/workflows/google_scraper_india.yml`
 - **Amazon India Scraper** → `.github/workflows/amazon_scraper_india.yml`
+- **Gmail Auto-Apply Watcher** → `.github/workflows/gmail_watcher.yml`
+- **Google Auto-Apply** → `.github/workflows/google_autoapply.yml` (mode: recon/apply)
 
-## Required secrets
+## Required secrets / vars
 
 | Secret | Purpose |
 | ------ | ------- |
 | `EMAIL_SENDER` | Gmail address that sends the alerts |
 | `GMAIL_APP_PASSWORD` | Gmail app password for the sender |
-| `EMAIL_TO_INDIA` | Recipient(s), comma-separated |
+| `EMAIL_TO_INDIA` | Recipient(s), comma-separated (the auto-apply inbox) |
+| `AUTOAPPLY_GMAIL_APP_PASSWORD` | App password for the auto-apply inbox (IMAP read) |
+| `GOOGLE_SESSION_B64` | base64 of a Playwright storageState JSON (captured Google login) |
+| `AUTOAPPLY_ANSWERS_JSON` | JSON answer profile (name, phone, work auth, …) |
+| `PRIVATE_REPO_PAT` | fetches the resume PDF from `Job_Automation_Private` at runtime |
+
+Repo variable `AUTOAPPLY_ENABLE_SUBMIT=1` arms real submission (off by default).
 
 ## Local run
 

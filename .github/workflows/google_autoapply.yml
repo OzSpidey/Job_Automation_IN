@@ -1,0 +1,76 @@
+name: Google Auto-Apply
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "recon (screenshot + dump form) or apply (fill/submit)"
+        type: choice
+        default: recon
+        options: [recon, apply]
+
+permissions:
+  contents: write            # apply mode commits queue/applied state back
+
+jobs:
+  autoapply:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Playwright + Chromium
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Fetch resume from private repo (apply mode only)
+        if: ${{ inputs.mode == 'apply' }}
+        env:
+          GH_TOKEN: ${{ secrets.PRIVATE_REPO_PAT }}
+          RESUME_REPO: OzSpidey/Job_Automation_Private
+          RESUME_REPO_PATH: resumes/Osborne_SDE.pdf
+        run: |
+          gh api "repos/$RESUME_REPO/contents/$RESUME_REPO_PATH" \
+            --jq '.content' | base64 -d > resume.pdf
+          echo "RESUME_PATH=$GITHUB_WORKSPACE/resume.pdf" >> "$GITHUB_ENV"
+
+      - name: Run auto-apply (${{ inputs.mode }})
+        env:
+          GOOGLE_SESSION_B64:       ${{ secrets.GOOGLE_SESSION_B64 }}
+          AUTOAPPLY_ANSWERS_JSON:   ${{ secrets.AUTOAPPLY_ANSWERS_JSON }}
+          AUTOAPPLY_ENABLE_SUBMIT:  ${{ vars.AUTOAPPLY_ENABLE_SUBMIT }}
+          RECON_LIMIT:              "3"
+        run: python google_autoapply.py --${{ inputs.mode }}
+
+      - name: Upload recon artifacts
+        if: ${{ always() && inputs.mode == 'recon' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: google-recon
+          path: |
+            screenshots/
+            recon/
+          if-no-files-found: ignore
+          retention-days: 7
+
+      - name: Persist queue/applied state (apply mode)
+        if: ${{ inputs.mode == 'apply' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add json/autoapply_queue.json json/autoapply_applied.json
+          git diff --staged --quiet || git commit -m "chore: update autoapply state [skip ci]"
+          git checkout -- . 2>/dev/null || true
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $i failed, retrying in $((i * 3))s..."
+            sleep $((i * 3))
+          done
