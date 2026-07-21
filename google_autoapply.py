@@ -42,7 +42,8 @@ RECON_DIR      = os.path.join(HERE, "recon")
 SESSION_FILE  = os.environ.get("GOOGLE_SESSION_FILE", os.path.join(HERE, "google_session.json"))
 ENABLE_SUBMIT = os.environ.get("AUTOAPPLY_ENABLE_SUBMIT", "") == "1"
 RECON_LIMIT   = int(os.environ.get("RECON_LIMIT", "3"))
-APPLY_LIMIT   = int(os.environ.get("APPLY_LIMIT", "0"))  # 0 = whole queue
+APPLY_LIMIT   = int(os.environ.get("APPLY_LIMIT", "0"))  # 0 = whole queue (per run)
+MONTHLY_CAP   = int(os.environ.get("AUTOAPPLY_MONTHLY_CAP", "3"))  # Google's ~3/month
 MAX_STEPS     = 6  # safety cap on how many pages we'll click through
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -82,6 +83,20 @@ def ensure_session_file() -> str:
 
 def answers() -> dict:
     return json.loads(os.environ.get("AUTOAPPLY_ANSWERS_JSON", "{}") or "{}")
+
+
+def _apps_this_month(applied: list[dict]) -> int:
+    """How many applications were submitted in the current (UTC) calendar month."""
+    now = datetime.now(timezone.utc)
+    n = 0
+    for j in applied:
+        try:
+            d = datetime.fromisoformat(j.get("applied_at", ""))
+        except ValueError:
+            continue
+        if (d.year, d.month) == (now.year, now.month):
+            n += 1
+    return n
 
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -322,13 +337,20 @@ def walk(page, jobs: list[dict], ans: dict) -> None:
 
 def apply(page, jobs: list[dict], ans: dict) -> None:
     applied = _load(APPLIED_FILE)
+    used = _apps_this_month(applied)
+    print(f"This month: {used}/{MONTHLY_CAP} application(s) already used.")
     remaining = []
-    limit = APPLY_LIMIT or len(jobs)
-    for idx, job in enumerate(jobs):
-        if idx >= limit:                       # respect APPLY_LIMIT; rest stay queued
+    attempts_budget = APPLY_LIMIT or len(jobs)
+    attempted = 0
+    for job in jobs:
+        if attempted >= attempts_budget:            # per-run attempt cap
             remaining.append(job); continue
+        if ENABLE_SUBMIT and used >= MONTHLY_CAP:    # hard monthly cap (Google 3/mo)
+            print(f"  monthly cap {MONTHLY_CAP} reached — leaving job queued for next month.")
+            remaining.append(job); continue
+        attempted += 1
         jid = job["job_id"]
-        print(f"\n[apply {idx+1}] {job.get('title','')}  {jid[:20]}…")
+        print(f"\n[apply {attempted}] {job.get('title','')}  {jid[:20]}…")
         submitted = False
         try:
             page.goto(job["url"], wait_until="domcontentloaded", timeout=45000)
@@ -379,6 +401,7 @@ def apply(page, jobs: list[dict], ans: dict) -> None:
             job["applied_at"] = datetime.now(timezone.utc).isoformat()
             job["status"] = "applied"
             applied.append(job)
+            used += 1
         else:
             remaining.append(job)
 
