@@ -59,10 +59,11 @@ APPLY_LINK_RE = re.compile(
     re.I,
 )
 
-# We only auto-apply to early/mid roles. The scraper email carries Google's
-# level in a dedicated table cell; these are the exact strings it renders.
+# Google caps applications at ~3 per month, so we ONLY auto-apply to EARLY
+# roles (not Mid, not Advanced). The scraper email carries Google's level in a
+# dedicated table cell; these are the exact strings it renders.
 LEVEL_STRINGS = {"early", "mid", "advanced", "expert / director"}
-SKIP_LEVELS   = {"advanced", "expert / director"}   # never apply to these
+ALLOW_LEVELS  = {"early"}   # queue Early only; everything else is skipped
 _TAG_RE = re.compile(r"<[^>]+>")
 _TR_RE  = re.compile(r"<tr\b.*?</tr>", re.S | re.I)
 _TD_RE  = re.compile(r"<td\b[^>]*>(.*?)</td>", re.S | re.I)
@@ -153,21 +154,18 @@ def extract_from_email(msg: Message) -> list[dict]:
             if not rec:
                 continue
             level = _row_level(row)
-            if level.lower() in SKIP_LEVELS:
+            if level.lower() not in ALLOW_LEVELS:
                 skipped += 1
                 continue
             rec["level"] = level
             found[rec["job_id"]] = rec
     else:
-        # No HTML table -> can't read levels; take all links from plain text.
-        for m in APPLY_LINK_RE.finditer(plain_body):
-            rec = parse_apply_link(m.group(0))
-            if rec:
-                rec["level"] = ""
-                found[rec["job_id"]] = rec
+        # No HTML table -> can't read levels; with Early-only we cannot confirm
+        # a role is Early, so queue nothing rather than risk a wasted application.
+        print("    (no HTML body — can't read levels; skipping all)")
 
     if skipped:
-        print(f"    (skipped {skipped} advanced/expert role(s) — early/mid only)")
+        print(f"    (skipped {skipped} non-Early role(s) — Early only)")
     return list(found.values())
 
 
