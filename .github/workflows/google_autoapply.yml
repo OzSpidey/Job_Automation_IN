@@ -4,10 +4,10 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "recon (screenshot + dump form) or apply (fill/submit)"
+        description: "recon (screenshot only) | walk (fill+advance, no submit) | apply"
         type: choice
         default: recon
-        options: [recon, apply]
+        options: [recon, walk, apply]
 
 permissions:
   contents: write            # apply mode commits queue/applied state back
@@ -31,16 +31,8 @@ jobs:
           pip install playwright
           python -m playwright install --with-deps chromium
 
-      - name: Fetch resume from private repo (apply mode only)
-        if: ${{ inputs.mode == 'apply' }}
-        env:
-          GH_TOKEN: ${{ secrets.PRIVATE_REPO_PAT }}
-          RESUME_REPO: OzSpidey/Job_Automation_Private
-          RESUME_REPO_PATH: resumes/Osborne_SDE.pdf
-        run: |
-          gh api "repos/$RESUME_REPO/contents/$RESUME_REPO_PATH" \
-            --jq '.content' | base64 -d > resume.pdf
-          echo "RESUME_PATH=$GITHUB_WORKSPACE/resume.pdf" >> "$GITHUB_ENV"
+      # Résumé is supplied by the saved Google Careers profile, so the flow
+      # skips the upload step — no per-run résumé fetch needed.
 
       - name: Run auto-apply (${{ inputs.mode }})
         env:
@@ -50,8 +42,8 @@ jobs:
           RECON_LIMIT:              "3"
         run: python google_autoapply.py --${{ inputs.mode }}
 
-      - name: Upload recon artifacts
-        if: ${{ always() && inputs.mode == 'recon' }}
+      - name: Upload recon/walk artifacts
+        if: ${{ always() && inputs.mode != 'apply' }}
         uses: actions/upload-artifact@v4
         with:
           name: google-recon
