@@ -29,9 +29,12 @@ import base64
 import json
 import os
 import re
+import smtplib
 import sys
 import time
 from datetime import datetime, timezone
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 
 HERE           = os.path.dirname(__file__)
 QUEUE_FILE     = os.path.join(HERE, "json", "autoapply_queue.json")
@@ -83,6 +86,43 @@ def ensure_session_file() -> str:
 
 def answers() -> dict:
     return json.loads(os.environ.get("AUTOAPPLY_ANSWERS_JSON", "{}") or "{}")
+
+
+def send_confirmation_email(job: dict) -> None:
+    """Notify the user that an application was fully submitted."""
+    recipient = os.environ.get("APPLY_NOTIFY_EMAIL", "").strip()
+    sender    = os.environ.get("EMAIL_SENDER", "")
+    password  = os.environ.get("GMAIL_APP_PASSWORD", "")
+    if not (recipient and sender and password):
+        print("  [notify] APPLY_NOTIFY_EMAIL / EMAIL_SENDER / GMAIL_APP_PASSWORD not set — skipping email.")
+        return
+    role    = job.get("title") or "a role"
+    company = "Google"
+    url     = job.get("url", "")
+    subject = f"Application submitted: {role} at {company}"
+    html = f"""<html><body style="font-family:Arial,sans-serif;color:#333">
+      <h2 style="color:#188038">&#10003; Application submitted</h2>
+      <p>Your application has been <strong>completely submitted</strong> to:</p>
+      <p style="font-size:16px"><strong>{role}</strong> at <strong>{company}</strong></p>
+      <p><a href="{url}">{url}</a></p>
+      <p style="font-size:12px;color:#888">Auto-applied via Job_Automation_IN &middot;
+      {datetime.now(timezone.utc).strftime('%b %d, %Y %H:%M UTC')}</p>
+    </body></html>"""
+    plain = f"Application completely submitted to {role} at {company}\n{url}"
+    recipients = [a.strip() for a in recipient.split(",") if a.strip()]
+    msg = MIMEMultipart("alternative")
+    msg["Subject"] = subject
+    msg["From"]    = sender
+    msg["To"]      = ", ".join(recipients)
+    msg.attach(MIMEText(plain, "plain"))
+    msg.attach(MIMEText(html,  "html"))
+    try:
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465) as srv:
+            srv.login(sender, password)
+            srv.sendmail(sender, recipients, msg.as_string())
+        print(f"  [notify] confirmation emailed to {', '.join(recipients)}")
+    except Exception as exc:
+        print(f"  [notify] email failed: {exc}")
 
 
 def _apps_this_month(applied: list[dict]) -> int:
@@ -402,6 +442,7 @@ def apply(page, jobs: list[dict], ans: dict) -> None:
             job["status"] = "applied"
             applied.append(job)
             used += 1
+            send_confirmation_email(job)
         else:
             remaining.append(job)
 

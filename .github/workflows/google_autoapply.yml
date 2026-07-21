@@ -43,8 +43,12 @@ jobs:
           GOOGLE_SESSION_B64:       ${{ secrets.GOOGLE_SESSION_B64 }}
           AUTOAPPLY_ANSWERS_JSON:   ${{ secrets.AUTOAPPLY_ANSWERS_JSON }}
           AUTOAPPLY_ENABLE_SUBMIT:  ${{ vars.AUTOAPPLY_ENABLE_SUBMIT }}
+          AUTOAPPLY_MONTHLY_CAP:    "3"
           RECON_LIMIT:              "3"
           APPLY_LIMIT:              ${{ inputs.limit }}
+          EMAIL_SENDER:             ${{ secrets.EMAIL_SENDER }}
+          GMAIL_APP_PASSWORD:       ${{ secrets.GMAIL_APP_PASSWORD }}
+          APPLY_NOTIFY_EMAIL:       ${{ secrets.APPLY_NOTIFY_EMAIL }}
         run: python google_autoapply.py --${{ inputs.mode }}
 
       - name: Upload recon/walk/apply artifacts

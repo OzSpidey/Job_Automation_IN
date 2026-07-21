@@ -90,6 +90,9 @@ jobs:
           AUTOAPPLY_ENABLE_SUBMIT: ${{ vars.AUTOAPPLY_ENABLE_SUBMIT }}
           AUTOAPPLY_MONTHLY_CAP:   "3"
           APPLY_LIMIT:             "1"
+          EMAIL_SENDER:            ${{ secrets.EMAIL_SENDER }}
+          GMAIL_APP_PASSWORD:      ${{ secrets.GMAIL_APP_PASSWORD }}
+          APPLY_NOTIFY_EMAIL:      ${{ secrets.APPLY_NOTIFY_EMAIL }}
         run: python google_autoapply.py --apply
       - name: Upload artifacts
         if: ${{ always() }}
