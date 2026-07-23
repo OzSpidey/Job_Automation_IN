@@ -1,0 +1,58 @@
+name: Naukri India Scraper
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write            # commits naukri_india_seen_jobs.json back
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: pip install python-dotenv playwright
+
+      - name: Install Playwright Chromium + deps
+        run: |
+          python -m playwright install chromium
+          python -m playwright install-deps chromium
+
+      - name: Install Xvfb
+        run: sudo apt-get install -y xvfb
+
+      # Naukri blocks HEADLESS Chrome, so run HEADFUL under a virtual display.
+      - name: Run Naukri India Scraper (headful under Xvfb)
+        env:
+          EMAIL_TO_INDIA:     ${{ secrets.EMAIL_TO_INDIA }}
+          EMAIL_SENDER:       ${{ secrets.EMAIL_SENDER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          HEADLESS: "false"
+          DISPLAY: ":99"
+        run: |
+          Xvfb :99 -screen 0 1280x900x24 &
+          sleep 2
+          python naukri_scraper_india.py
+
+      - name: Persist seen-jobs list
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add json/naukri_india_seen_jobs.json
+          git diff --staged --quiet || git commit -m "chore: update naukri india seen jobs [skip ci]"
+          git checkout -- . 2>/dev/null || true
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $i failed, retrying in $((i * 3))s..."
+            sleep $((i * 3))
+          done

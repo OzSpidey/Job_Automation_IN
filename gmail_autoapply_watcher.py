@@ -77,6 +77,11 @@ APPLE_LINK_RE = re.compile(
 )
 APPLE_ID_RE = re.compile(r"/details/(\d+)/([^/?\s\"'<>]*)", re.I)
 
+# ── Naukri ──────────────────────────────────────────────────────────────────────
+# Naukri job links: naukri.com/job-listings-<slug>-<trailing-digits>
+NAUKRI_LINK_RE = re.compile(r"https://www\.naukri\.com/job-listings-[^\s\"'<>]+", re.I)
+NAUKRI_ID_RE   = re.compile(r"-(\d+)(?:\?|#|$)")
+
 # ──────────────────────────────────────────────────────────────────────────────
 # STATE
 # ──────────────────────────────────────────────────────────────────────────────
@@ -226,6 +231,40 @@ def extract_apple(html_body: str, plain_body: str) -> list[dict]:
 
 
 # ──────────────────────────────────────────────────────────────────────────────
+# NAUKRI PARSE (all software roles — the scraper already filters to SWE/recent)
+# ──────────────────────────────────────────────────────────────────────────────
+
+def parse_naukri_link(url: str, row_title: str = "") -> dict | None:
+    """Pull job_id (trailing digits) + title out of a Naukri job-listings URL."""
+    url = html.unescape(url).replace("&amp;", "&")
+    path = urllib.parse.urlparse(url).path
+    m = NAUKRI_ID_RE.search(path)
+    job_id = m.group(1) if m else path  # fall back to the path if no id
+    title = (row_title or "").strip()
+    return {"job_id": job_id, "title": title, "url": url, "source": "naukri"}
+
+
+def extract_naukri(html_body: str, plain_body: str) -> list[dict]:
+    """Every Naukri opening in the email (no level gate — scraper filtered already)."""
+    found: dict[str, dict] = {}
+    if html_body:
+        for row in _TR_RE.findall(html_body):
+            m = NAUKRI_LINK_RE.search(row)
+            if not m:
+                continue
+            rec = parse_naukri_link(m.group(0), _row_role_text(row))
+            if rec:
+                found[rec["job_id"]] = rec
+    if not found:
+        for body in (html_body, plain_body):
+            for m in NAUKRI_LINK_RE.finditer(body or ""):
+                rec = parse_naukri_link(m.group(0))
+                if rec:
+                    found.setdefault(rec["job_id"], rec)
+    return list(found.values())
+
+
+# ──────────────────────────────────────────────────────────────────────────────
 # DISPATCH
 # ──────────────────────────────────────────────────────────────────────────────
 
@@ -235,6 +274,8 @@ def source_from_subject(subject: str) -> str | None:
         return "google"
     if "apple" in s:
         return "apple"
+    if "naukri" in s:
+        return "naukri"
     return None
 
 
@@ -244,6 +285,8 @@ def extract_from_email(msg: Message, source: str) -> list[dict]:
         return extract_google(html_body)
     if source == "apple":
         return extract_apple(html_body, plain_body)
+    if source == "naukri":
+        return extract_naukri(html_body, plain_body)
     return []
 
 
@@ -328,8 +371,9 @@ def main() -> None:
     _save(QUEUE_FILE, queue)
     n_google = sum(1 for r in queue if r.get("source", "google") == "google")
     n_apple  = sum(1 for r in queue if r.get("source") == "apple")
+    n_naukri = sum(1 for r in queue if r.get("source") == "naukri")
     print(f"\nAdded {added} new opening(s). Queue depth: {len(queue)} "
-          f"(google={n_google}, apple={n_apple}).")
+          f"(google={n_google}, apple={n_apple}, naukri={n_naukri}).")
     print("Done.")
 
 
