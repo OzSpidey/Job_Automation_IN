@@ -16,6 +16,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main            # each job needs the latest committed queue/seen state
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -49,6 +51,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main            # each job needs the latest committed queue/seen state
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -75,6 +79,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main            # each job needs the latest committed queue/seen state
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'

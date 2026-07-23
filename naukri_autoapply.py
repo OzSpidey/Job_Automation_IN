@@ -151,15 +151,23 @@ def looks_logged_out(page) -> bool:
 
 
 def apply_succeeded(page) -> bool:
-    """Naukri one-click apply redirects to .../myapply/saveApply?...:200 on success."""
-    u = (page.url or "")
-    if "saveapply" in u.lower() and ":200" in u:
+    """Naukri confirms an apply two ways: (1) a redirect to
+    .../myapply/saveApply?...:200, or (2) an 'Apply Confirmation' page whose
+    banner reads 'Applied to <role>'. Accept either."""
+    u = (page.url or "").lower()
+    if "saveapply" in u and ":200" in u:
+        return True
+    try:
+        title = (page.title() or "").lower()
+    except Exception:
+        title = ""
+    if "apply confirmation" in title:
         return True
     try:
         body = (page.inner_text("body") or "").lower()
     except Exception:
         body = ""
-    return any(m in body for m in ("successfully applied", "application sent",
+    return any(m in body for m in ("applied to", "successfully applied", "application sent",
                                    "you have applied", "applied successfully"))
 
 
