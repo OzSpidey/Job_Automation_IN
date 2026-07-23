@@ -150,6 +150,31 @@ def looks_logged_out(page) -> bool:
             or "register to apply" in body)
 
 
+def apply_succeeded(page) -> bool:
+    """Naukri one-click apply redirects to .../myapply/saveApply?...:200 on success."""
+    u = (page.url or "")
+    if "saveapply" in u.lower() and ":200" in u:
+        return True
+    try:
+        body = (page.inner_text("body") or "").lower()
+    except Exception:
+        body = ""
+    return any(m in body for m in ("successfully applied", "application sent",
+                                   "you have applied", "applied successfully"))
+
+
+def chatbot_open(page) -> bool:
+    """Heuristic: Naukri sometimes opens a recruiter Q&A drawer after Apply."""
+    for sel in ('[class*="chatbot" i]', '[class*="chatBot"]', 'div._chatBot',
+                'div[class*="drawer"] textarea', 'div[class*="drawer"] input'):
+        try:
+            if page.locator(sel).count() > 0:
+                return True
+        except Exception:
+            continue
+    return False
+
+
 def snap(page, name: str) -> None:
     os.makedirs(SCREENSHOT_DIR, exist_ok=True)
     os.makedirs(RECON_DIR, exist_ok=True)
@@ -245,41 +270,30 @@ def recon(page, jobs: list[dict]) -> None:
         if not cta:
             print("  apply CTA: none found")
             continue
-        kind, el = cta
+        kind, _ = cta
         print(f"  apply CTA: {kind}")
         if kind == "company":
-            print("  -> company-site redirect; would SKIP in apply mode.")
-            continue
-        try:
-            el.click(timeout=4000)
-            page.wait_for_timeout(4000)
-            snap(page, f"naukri_afterapply_{jid}")
-            dump_controls(page, f"afterapply_{jid}")
-            print(f"  after Apply url: {page.url}")
-        except Exception as exc:
-            print(f"  [warn] apply click: {exc}")
+            print("  -> company-site redirect; SKIP in apply mode.")
+        else:
+            # A click here SUBMITS immediately (one-click), so recon never clicks.
+            print("  -> on-site ONE-CLICK Apply available (recon does NOT click — a click submits).")
     print("\nRECON RESULT:", "session survives." if authed else "session did NOT hold (recapture).")
 
 
 def walk(page, jobs: list[dict], ans: dict) -> None:
+    # Naukri Apply is one-click (a click submits), so walk NEVER clicks it — it
+    # only inspects. Use --apply (armed) to actually submit.
     job = jobs[0]
     print(f"\n[walk] {job.get('title','')}  {job['job_id']}")
     page.goto(job["url"], wait_until="domcontentloaded", timeout=45000)
     page.wait_for_timeout(4000)
-    for n in range(MAX_STEPS):
-        snap(page, f"naukri_walk{n}")
-        dump_controls(page, f"walk{n}")
-        if looks_logged_out(page):
-            print("  session challenged — stopping walk."); break
-        cta = find_apply(page)
-        if cta and cta[0] == "onsite":
-            cta[1].click(timeout=4000)
-            page.wait_for_timeout(3500)
-            continue
-        try:
-            fill_chatbot(page, ans)
-        except NotImplementedError as exc:
-            print(f"  fill_chatbot stub: {exc}"); break
+    snap(page, "naukri_walk0")
+    dump_controls(page, "walk0")
+    if looks_logged_out(page):
+        print("  session challenged."); return
+    cta = find_apply(page)
+    print(f"  apply CTA: {cta[0] if cta else 'none'}")
+    print("  walk does NOT click (Naukri Apply is one-click submit). Use --apply when armed.")
 
 
 def apply(page, jobs: list[dict], ans: dict, others: list[dict]) -> None:
@@ -306,19 +320,31 @@ def apply(page, jobs: list[dict], ans: dict, others: list[dict]) -> None:
             if cta[0] == "company":
                 print("  company-site redirect — SKIP (can't auto-submit off-platform).")
                 remaining.append(job); continue
-            snap(page, f"naukri_review_{jid}")
             if not ENABLE_SUBMIT:
-                print("  [dry-run] NAUKRI_ENABLE_SUBMIT!=1 — not clicking Apply.")
+                # A click submits instantly, so never click in dry-run.
+                print("  [dry-run] NAUKRI_ENABLE_SUBMIT!=1 — on-site Apply available, not clicking.")
                 remaining.append(job); continue
-            cta[1].click(timeout=4000)
-            page.wait_for_timeout(4000)
-            try:
-                fill_chatbot(page, ans)      # NotImplemented until mapped
-            except NotImplementedError as exc:
-                print(f"  [skip] {exc}")
-                remaining.append(job); continue
+
+            cta[1].click(timeout=4000)   # one-click submit
+            page.wait_for_timeout(5000)
             snap(page, f"naukri_applied_{jid}")
-            submitted = True
+
+            if apply_succeeded(page):
+                submitted = True
+                print("  [submit] one-click Apply succeeded (saveApply :200).")
+            elif chatbot_open(page):
+                # Some jobs open a recruiter Q&A. Not mapped yet -> don't guess; requeue.
+                try:
+                    fill_chatbot(page, ans)
+                    page.wait_for_timeout(3000)
+                    submitted = apply_succeeded(page)
+                except NotImplementedError:
+                    print("  [skip] recruiter chatbot appeared — not mapped yet; leaving queued.")
+                if not submitted:
+                    remaining.append(job); continue
+            else:
+                print("  [skip] no success signal after Apply — leaving queued.")
+                remaining.append(job); continue
         except Exception as exc:
             print(f"  [error] {exc}")
 
