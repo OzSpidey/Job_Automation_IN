@@ -44,12 +44,18 @@ SMTP_PORT       = 465
 SEEN_JOBS_FILE  = os.path.join(os.path.dirname(__file__), "json", "naukri_india_seen_jobs.json")
 HEADLESS        = os.environ.get("HEADLESS", "true").lower() != "false"
 
-# India = software only. (keyword, direct search URL with experience=1 filter)
+# India = software (broad). (keyword, direct search URL with experience=1 filter)
 TARGET_SEARCHES = [
-    ("Software Engineer",  "https://www.naukri.com/software-engineer-jobs?k=software+engineer&experience=1"),
-    ("Software Developer", "https://www.naukri.com/software-developer-jobs?k=software+developer&experience=1"),
-    ("Python Developer",   "https://www.naukri.com/python-developer-jobs?k=python+developer&experience=1"),
-    ("Backend Developer",  "https://www.naukri.com/backend-developer-jobs?k=backend+developer&experience=1"),
+    ("Software Engineer",         "https://www.naukri.com/software-engineer-jobs?k=software+engineer&experience=1"),
+    ("Software Developer",        "https://www.naukri.com/software-developer-jobs?k=software+developer&experience=1"),
+    ("SDE",                       "https://www.naukri.com/sde-jobs?k=sde&experience=1"),
+    ("Site Reliability Engineer", "https://www.naukri.com/site-reliability-engineer-jobs?k=site+reliability+engineer&experience=1"),
+    ("Backend Developer",         "https://www.naukri.com/backend-developer-jobs?k=backend+developer&experience=1"),
+    ("Frontend Developer",        "https://www.naukri.com/frontend-developer-jobs?k=frontend+developer&experience=1"),
+    ("Full Stack Developer",      "https://www.naukri.com/full-stack-developer-jobs?k=full+stack+developer&experience=1"),
+    ("Java Developer",            "https://www.naukri.com/java-developer-jobs?k=java+developer&experience=1"),
+    ("Python Developer",          "https://www.naukri.com/python-developer-jobs?k=python+developer&experience=1"),
+    ("C++ Developer",             "https://www.naukri.com/c-plus-plus-jobs?k=c%2B%2B&experience=1"),
 ]
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -103,7 +109,7 @@ def send_email(jobs: list[dict], previously_seen: set[str]) -> None:
     <html><body style="font-family:Arial,sans-serif;color:#333">
     <h2 style="color:#4a4a4a">Naukri Jobs — India — Software Roles</h2>
     <p>Found <strong>{count}</strong> role(s) posted recently —
-       Software Engineer &nbsp;|&nbsp; Software Developer &nbsp;|&nbsp; Python &nbsp;|&nbsp; Backend</p>
+       SDE / SWE / SRE &nbsp;|&nbsp; Backend / Frontend / Full-stack &nbsp;|&nbsp; Java / Python / C++</p>
     <table style="border-collapse:collapse;width:100%;max-width:1200px">
       <tr style="background:#4a4a4a;color:#fff">
         <th style="padding:10px;border:1px solid #555;text-align:left;">Role</th>

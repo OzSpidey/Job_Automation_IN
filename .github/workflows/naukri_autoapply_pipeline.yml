@@ -86,7 +86,7 @@ jobs:
           NAUKRI_SESSION_B64:   ${{ secrets.NAUKRI_SESSION_B64 }}
           NAUKRI_ANSWERS_JSON:  ${{ secrets.NAUKRI_ANSWERS_JSON }}
           NAUKRI_ENABLE_SUBMIT: ${{ vars.NAUKRI_ENABLE_SUBMIT }}
-          APPLY_LIMIT:          "3"
+          APPLY_LIMIT:          "10"
           EMAIL_SENDER:         ${{ secrets.EMAIL_SENDER }}
           GMAIL_APP_PASSWORD:   ${{ secrets.GMAIL_APP_PASSWORD }}
           APPLY_NOTIFY_EMAIL:   ${{ secrets.APPLY_NOTIFY_EMAIL }}
