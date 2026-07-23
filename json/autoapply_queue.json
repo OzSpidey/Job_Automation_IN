@@ -1,1 +1,162 @@
-[]
+[
+  {
+    "job_id": "230726502497",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-jp-morgan-and-chase-mumbai-1-to-6-years-230726502497",
+    "source": "naukri",
+    "company": "JPMorgan Chase Bank",
+    "location": "Mumbai",
+    "queued_at": "2026-07-23T18:20:45.676219+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230726504896",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-atlassian-bengaluru-0-to-8-years-230726504896",
+    "source": "naukri",
+    "company": "Atlassian",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-23T18:20:45.676219+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230726500249",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-google-india-private-limited-bengaluru-0-to-1-years-230726500249",
+    "source": "naukri",
+    "company": "Google",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-23T18:20:45.676219+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230726010557",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-230726010557",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-07-23T18:20:45.676219+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230726500461",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-texas-instruments-india-ltd-bengaluru-0-to-3-years-230726500461",
+    "source": "naukri",
+    "company": "Texas Instruments",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-23T18:20:45.676219+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230726501482",
+    "title": "Senior Mobile Software Developer",
+    "url": "https://www.naukri.com/job-listings-senior-mobile-software-developer-barclays-shared-services-pune-0-to-7-years-230726501482",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune",
+    "queued_at": "2026-07-23T18:20:45.676219+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230726506848",
+    "title": "Personal Care - SDE - East",
+    "url": "https://www.naukri.com/job-listings-personal-care-sde-east-cavinkare-pvt-ltd-kolkata-1-to-4-years-230726506848",
+    "source": "naukri",
+    "company": "CavinKare",
+    "location": "Kolkata",
+    "queued_at": "2026-07-23T18:20:45.676219+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230726506207",
+    "title": "Personal Care - SDE - South",
+    "url": "https://www.naukri.com/job-listings-personal-care-sde-south-cavinkare-pvt-ltd-chennai-1-to-4-years-230726506207",
+    "source": "naukri",
+    "company": "CavinKare",
+    "location": "Chennai",
+    "queued_at": "2026-07-23T18:20:45.676219+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230726505985",
+    "title": "Developer - Backend",
+    "url": "https://www.naukri.com/job-listings-developer-backend-makemytrip-india-pvt-ltd-mumbai-gurugram-1-to-6-years-230726505985",
+    "source": "naukri",
+    "company": "Makemytrip",
+    "location": "Mumbai, Gurugram",
+    "queued_at": "2026-07-23T18:20:45.676219+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230726500412",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-mitigata-bengaluru-1-to-2-years-230726500412",
+    "source": "naukri",
+    "company": "Mitigata Insurance",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-23T18:20:45.676219+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230726500411",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-mitigata-new-delhi-1-to-2-years-230726500411",
+    "source": "naukri",
+    "company": "Mitigata Insurance",
+    "location": "New Delhi",
+    "queued_at": "2026-07-23T18:20:45.676219+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230726501714",
+    "title": "Full Stack Developers",
+    "url": "https://www.naukri.com/job-listings-full-stack-developers-quickzaps-business-solution-private-limited-noida-1-to-4-years-230726501714",
+    "source": "naukri",
+    "company": "Quickzaps Business Solution",
+    "location": "Noida",
+    "queued_at": "2026-07-23T18:20:45.676219+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230726501058",
+    "title": "Full Stack Laravel Developer (BuzzCart Product Team)",
+    "url": "https://www.naukri.com/job-listings-full-stack-laravel-developer-buzzcart-product-team-brainybuzz-solution-ghaziabad-1-to-5-years-230726501058",
+    "source": "naukri",
+    "company": "Brainybuzz Solution",
+    "location": "Ghaziabad",
+    "queued_at": "2026-07-23T18:20:45.676219+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230726501905",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-lighthouse-bengaluru-0-to-2-years-230726501905",
+    "source": "naukri",
+    "company": "Lighthouse",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-23T18:20:45.676219+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230726933913",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-rimpac-hr-services-llp-pune-bengaluru-1-to-6-years-230726933913",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Pune, Bengaluru",
+    "queued_at": "2026-07-23T18:20:45.676219+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230726502064",
+    "title": "C++ Programmer (Networking)",
+    "url": "https://www.naukri.com/job-listings-c-programmer-networking-ernst-young-bengaluru-0-to-4-years-230726502064",
+    "source": "naukri",
+    "company": "EY",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-23T18:20:45.676219+00:00",
+    "status": "queued"
+  }
+]
