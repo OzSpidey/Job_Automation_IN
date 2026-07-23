@@ -1,0 +1,37 @@
+name: Naukri Recon (IP / bot-block probe)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  recon:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      - name: Install Playwright + Chromium
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Run Naukri recon
+        env:
+          # Optional: set the NAUKRI_SESSION_B64 secret to probe logged-in.
+          # Left unset => anonymous probe (fastest make-or-break signal).
+          NAUKRI_SESSION_B64: ${{ secrets.NAUKRI_SESSION_B64 }}
+        run: python naukri_recon.py
+      - name: Upload recon artifacts
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: naukri-recon
+          path: |
+            screenshots/
+            recon/
+          if-no-files-found: ignore
+          retention-days: 7
