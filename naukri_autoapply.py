@@ -299,14 +299,13 @@ def walk(page, jobs: list[dict], ans: dict) -> None:
 def apply(page, jobs: list[dict], ans: dict, others: list[dict]) -> None:
     applied = _load(APPLIED_FILE)
     remaining: list[dict] = []
-    attempts_budget = APPLY_LIMIT or len(jobs)
-    attempted = 0
+    submit_budget = APPLY_LIMIT or len(jobs)   # APPLY_LIMIT = max SUBMISSIONS/run
+    submitted_count = 0
     for job in jobs:
-        if attempted >= attempts_budget:
-            remaining.append(job); continue
-        attempted += 1
+        if submitted_count >= submit_budget:
+            remaining.append(job); continue     # cap reached — leave the rest queued
         jid = job["job_id"]
-        print(f"\n[apply {attempted}] {job.get('title','')}  {jid}")
+        print(f"\n[naukri {jid}] {job.get('title','')}")
         submitted = False
         try:
             page.goto(job["url"], wait_until="domcontentloaded", timeout=45000)
@@ -352,6 +351,7 @@ def apply(page, jobs: list[dict], ans: dict, others: list[dict]) -> None:
             job["applied_at"] = datetime.now(timezone.utc).isoformat()
             job["status"] = "applied"
             applied.append(job)
+            submitted_count += 1
             send_confirmation_email(job)
         else:
             remaining.append(job)
