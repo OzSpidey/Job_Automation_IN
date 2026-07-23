@@ -342,10 +342,13 @@ def scan() -> tuple[list[dict], int]:
     seen_urls: set[str] = set()
     for j in raw:
         title = j.get("postingTitle") or ""
-        if not is_target_role(title):
-            continue
         gmt = j.get("postDateInGMT") or ""
-        if not is_within_max_age(gmt):
+        role_ok = is_target_role(title)
+        age_ok  = is_within_max_age(gmt)
+        print(f"  [india] role_ok={role_ok} age_ok={age_ok} | {title!r} | {format_date_ist(gmt) or gmt or '?'}")
+        if not role_ok:
+            continue
+        if not age_ok:
             continue
         url = job_url(j)
         if url in seen_urls:
