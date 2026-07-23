@@ -2,6 +2,11 @@ name: Naukri Recon (IP / bot-block probe)
 
 on:
   workflow_dispatch:
+    inputs:
+      anon:
+        description: "force anonymous (ignore session secret)"
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -22,8 +27,9 @@ jobs:
       - name: Run Naukri recon
         env:
           # Optional: set the NAUKRI_SESSION_B64 secret to probe logged-in.
-          # Left unset => anonymous probe (fastest make-or-break signal).
+          # anon=true forces anonymous (ignores the secret).
           NAUKRI_SESSION_B64: ${{ secrets.NAUKRI_SESSION_B64 }}
+          NAUKRI_ANON: ${{ inputs.anon }}
         run: python naukri_recon.py
       - name: Upload recon artifacts
         if: ${{ always() }}

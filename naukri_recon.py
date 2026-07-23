@@ -49,6 +49,8 @@ sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 
 def maybe_session() -> str | None:
+    if os.environ.get("NAUKRI_ANON", "").lower() in ("1", "true"):
+        return None   # forced anonymous — replicate the old cloud scraper exactly
     if os.path.exists(SESSION_FILE):
         return SESSION_FILE
     b64 = os.environ.get("NAUKRI_SESSION_B64", "")
