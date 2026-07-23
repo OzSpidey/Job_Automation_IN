@@ -1,27 +1,12 @@
 [
   {
-    "job_id": "230726504896",
-    "title": "NEWSoftware Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-atlassian-bengaluru-0-to-8-years-230726504896",
-    "source": "naukri",
-    "queued_at": "2026-07-23T16:53:41.075154+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "230726500249",
     "title": "NEWSoftware Engineer",
     "url": "https://www.naukri.com/job-listings-software-engineer-google-india-private-limited-bengaluru-0-to-1-years-230726500249",
     "source": "naukri",
     "queued_at": "2026-07-23T16:53:41.075154+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "230726501924",
-    "title": "NEWSoftware Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-wm-universal-solutions-private-limited-faridabad-pahari-gurugram-0-to-2-years-230726501924",
-    "source": "naukri",
-    "queued_at": "2026-07-23T16:53:41.075154+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "230726010557",
@@ -29,31 +14,8 @@
     "url": "https://www.naukri.com/job-listings-software-engineer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-230726010557",
     "source": "naukri",
     "queued_at": "2026-07-23T16:53:41.075154+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "230726500461",
-    "title": "NEWSoftware Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-texas-instruments-india-ltd-bengaluru-0-to-3-years-230726500461",
-    "source": "naukri",
-    "queued_at": "2026-07-23T16:53:41.075154+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "230726501482",
-    "title": "NEWSenior Mobile Software Developer",
-    "url": "https://www.naukri.com/job-listings-senior-mobile-software-developer-barclays-shared-services-pune-0-to-7-years-230726501482",
-    "source": "naukri",
-    "queued_at": "2026-07-23T16:53:41.075154+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "230726501905",
-    "title": "NEWPython Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-lighthouse-bengaluru-0-to-2-years-230726501905",
-    "source": "naukri",
-    "queued_at": "2026-07-23T16:53:41.075154+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "230726933913",
@@ -61,7 +23,8 @@
     "url": "https://www.naukri.com/job-listings-python-developer-rimpac-hr-services-llp-pune-bengaluru-1-to-6-years-230726933913",
     "source": "naukri",
     "queued_at": "2026-07-23T16:53:41.075154+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "230726500273",
@@ -69,86 +32,7 @@
     "url": "https://www.naukri.com/job-listings-backend-developer-zenith-india-pvt-ltd-new-delhi-1-to-3-years-230726500273",
     "source": "naukri",
     "queued_at": "2026-07-23T16:53:41.075154+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "230726505985",
-    "title": "NEWDeveloper - Backend",
-    "url": "https://www.naukri.com/job-listings-developer-backend-makemytrip-india-pvt-ltd-mumbai-gurugram-1-to-6-years-230726505985",
-    "source": "naukri",
-    "queued_at": "2026-07-23T16:53:41.075154+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "230726500412",
-    "title": "NEWBackend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-mitigata-bengaluru-1-to-2-years-230726500412",
-    "source": "naukri",
-    "queued_at": "2026-07-23T16:53:41.075154+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "230726500411",
-    "title": "NEWBackend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-mitigata-new-delhi-1-to-2-years-230726500411",
-    "source": "naukri",
-    "queued_at": "2026-07-23T16:53:41.075154+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "230726502497",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-jp-morgan-and-chase-mumbai-1-to-6-years-230726502497",
-    "source": "naukri",
-    "queued_at": "2026-07-23T17:27:31.418078+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "230726504498",
-    "title": "Software Developer - WPF",
-    "url": "https://www.naukri.com/job-listings-software-developer-wpf-keepsake-automation-ahmedabad-0-to-1-years-230726504498",
-    "source": "naukri",
-    "queued_at": "2026-07-23T17:27:31.418078+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "230726506848",
-    "title": "Personal Care - SDE - East",
-    "url": "https://www.naukri.com/job-listings-personal-care-sde-east-cavinkare-pvt-ltd-kolkata-1-to-4-years-230726506848",
-    "source": "naukri",
-    "queued_at": "2026-07-23T17:27:31.418078+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "230726506207",
-    "title": "Personal Care - SDE - South",
-    "url": "https://www.naukri.com/job-listings-personal-care-sde-south-cavinkare-pvt-ltd-chennai-1-to-4-years-230726506207",
-    "source": "naukri",
-    "queued_at": "2026-07-23T17:27:31.418078+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "230726501714",
-    "title": "Full Stack Developers",
-    "url": "https://www.naukri.com/job-listings-full-stack-developers-quickzaps-business-solution-private-limited-noida-1-to-4-years-230726501714",
-    "source": "naukri",
-    "queued_at": "2026-07-23T17:27:31.418078+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "230726501058",
-    "title": "Full Stack Laravel Developer (BuzzCart Product Team)",
-    "url": "https://www.naukri.com/job-listings-full-stack-laravel-developer-buzzcart-product-team-brainybuzz-solution-ghaziabad-1-to-5-years-230726501058",
-    "source": "naukri",
-    "queued_at": "2026-07-23T17:27:31.418078+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "230726502064",
-    "title": "C++ Programmer (Networking)",
-    "url": "https://www.naukri.com/job-listings-c-programmer-networking-ernst-young-bengaluru-0-to-4-years-230726502064",
-    "source": "naukri",
-    "queued_at": "2026-07-23T17:27:31.418078+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
