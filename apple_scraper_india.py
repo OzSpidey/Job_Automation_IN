@@ -73,27 +73,31 @@ SOFTWARE_QUERIES = [
     "full stack engineer",
 ]
 
-# India = software only (matches the Google India scraper's SWE-only policy).
-TARGET_ROLES = [
-    "software engineer",
-    "software developer",
-    "software development engineer",
-    "software development",
-    "software engineering",
-    "sde",
-    "full stack",
-    "back end",
-    "backend",
-    "front end",
-    "frontend",
-    "new grad",
-    "university graduate",
-    "early career",
+# A posting is "software IC" if its title carries a software indicator …
+SOFTWARE_TITLE_HINTS = [
+    "software", "developer", "sde", "full stack", "full-stack",
+    "backend", "back end", "back-end", "frontend", "front end", "front-end",
+    "site reliability", "sre", "application engineer", "platform engineer",
+    "web engineer", "mobile engineer", "ios engineer", "android engineer",
+    "machine learning engineer", "ml engineer", "data engineer", "devops",
 ]
+# … and does NOT look like management or an explicitly-senior title. (Apple
+# doesn't put level in the title, but when it DOES say "Senior/Staff/Principal"
+# that's a definitive senior signal, so we drop those without a detail fetch.)
+TITLE_MGMT   = ["manager", "director", "vice president", " vp", "head of", "lead"]
+TITLE_SENIOR = ["senior", "sr.", "sr ", "staff", "principal", "distinguished"]
 
-# Skip senior+ levels — we want entry/mid software roles.
-EXCLUDE_LEVELS = ["senior", "sr.", "principal", "lead", "staff", "manager",
-                  "director", "architect"]
+# ── Level detection (from the DETAIL page's qualifications) ─────────────────────
+DETAIL_API        = "https://jobs.apple.com/api/v1/details/{pid}?locale=en-in"
+SENIOR_MIN_YEARS  = 5      # min required years >= this => senior => drop
+INCLUDE_UNKNOWN_LEVEL = True  # keep roles whose detail states no years (usually entry/mid)
+
+# "N+ years", "N-M years", "at least N years", "minimum of N years", "N years"
+_YEARS_RE = re.compile(
+    r"(\d{1,2})\s*(?:\+|-\s*\d{1,2})?\s*(?:or more\s+)?years?", re.I)
+_GRAD_RE = re.compile(
+    r"(new grad|recent grad|currently pursuing|final year|graduating|entry[- ]level"
+    r"|0-2 years|0 to 2 years)", re.I)
 
 # ──────────────────────────────────────────────────────────────────────────────
 # HELPERS
@@ -112,11 +116,37 @@ def save_seen_urls(urls: set[str]) -> None:
         json.dump(sorted(urls), f, indent=2)
 
 
-def is_target_role(title: str) -> bool:
-    t = title.lower()
-    if any(level in t for level in EXCLUDE_LEVELS):
+def title_is_software_ic(title: str) -> bool:
+    """True for an individual-contributor software title. Drops management and
+    explicitly-senior titles; level for the rest comes from the detail fetch."""
+    t = f" {title.lower()} "
+    if any(m in t for m in TITLE_MGMT):
         return False
-    return any(role in t for role in TARGET_ROLES)
+    if any(s in t for s in TITLE_SENIOR):   # explicit senior => not early/mid
+        return False
+    return any(h in t for h in SOFTWARE_TITLE_HINTS)
+
+
+def _min_years(text: str) -> int | None:
+    """Smallest 'N years' figure in the text (the entry bar), or None."""
+    yrs = [int(m.group(1)) for m in _YEARS_RE.finditer(text or "")]
+    return min(yrs) if yrs else None
+
+
+def classify_level(detail: dict) -> tuple[str, bool]:
+    """(label, keep) for early/mid-only policy, from the detail qualifications.
+    keep=False means senior. Unknown-level is kept iff INCLUDE_UNKNOWN_LEVEL."""
+    text = " ".join(str(detail.get(k) or "") for k in
+                    ("minimumQualifications", "keyQualifications",
+                     "preferredQualifications", "jobSummary", "description"))
+    yrs = _min_years(text)
+    if yrs is not None:
+        if yrs >= SENIOR_MIN_YEARS:
+            return (f"senior ({yrs}+ yrs)", False)
+        return (f"early/mid ({yrs}+ yrs)", True)
+    if _GRAD_RE.search(text):
+        return ("early (new-grad)", True)
+    return ("unknown", INCLUDE_UNKNOWN_LEVEL)
 
 
 def parse_gmt_date(s: str) -> datetime:
@@ -228,10 +258,31 @@ def fetch_page(opener, page: int, query: str = "") -> dict:
         return json.loads(r.read())
 
 
-def fetch_query_jobs() -> list[dict]:
+def fetch_detail(opener, position_id: str) -> dict:
+    """Fetch a single posting's detail JSON (carries the qualifications text)."""
+    url = DETAIL_API.format(pid=position_id)
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": USER_AGENT,
+            "Accept":     "application/json",
+            "Referer":    SEARCH_PAGE_URL,
+            "Origin":     "https://jobs.apple.com",
+        },
+    )
+    with opener.open(req, timeout=30) as r:
+        data = json.loads(r.read())
+    # Detail may nest the job under a key; normalise to the job dict.
+    if isinstance(data, dict):
+        for key in ("res", "job", "detail", "data"):
+            if isinstance(data.get(key), dict):
+                return data[key]
+    return data if isinstance(data, dict) else {}
+
+
+def fetch_query_jobs(opener) -> list[dict]:
     """Search each software keyword, page through, keep the India postings.
     Deduped across keywords by positionId."""
-    opener = make_opener()
     by_pos: dict[str, dict] = {}
     for kw in SOFTWARE_QUERIES:
         kept = 0
@@ -280,6 +331,7 @@ def send_email(jobs: list[dict], previously_seen: set[str]) -> None:
             rows.append(
                 f'<tr style="{row_bg}">'
                 f'<td style="padding:8px;border:1px solid #d2d2d7;">{badge}{j["title"]}</td>'
+                f'<td style="padding:8px;border:1px solid #d2d2d7;">{j.get("level", "")}</td>'
                 f'<td style="padding:8px;border:1px solid #d2d2d7;">{j.get("location", "")}</td>'
                 f'<td style="padding:8px;border:1px solid #d2d2d7;">'
                 f'<a href="{j["url"]}" style="color:#0071e3">Apply</a></td>'
@@ -293,10 +345,11 @@ def send_email(jobs: list[dict], previously_seen: set[str]) -> None:
            <em>Software Engineer &nbsp;|&nbsp; Software Developer &nbsp;|&nbsp; SDE &nbsp;|&nbsp; New Grad / Early Career</em></p>
         <table style="border-collapse:collapse;width:100%;max-width:1100px">
           <tr style="background:#1d1d1f;color:#f5f5f7">
-            <th style="padding:10px;border:1px solid #424245;text-align:left;width:38%">Role</th>
-            <th style="padding:10px;border:1px solid #424245;text-align:left;width:30%">Location</th>
-            <th style="padding:10px;border:1px solid #424245;text-align:left;width:12%">Link</th>
-            <th style="padding:10px;border:1px solid #424245;text-align:left;width:20%">Date Posted</th>
+            <th style="padding:10px;border:1px solid #424245;text-align:left;width:34%">Role</th>
+            <th style="padding:10px;border:1px solid #424245;text-align:left;width:14%">Level</th>
+            <th style="padding:10px;border:1px solid #424245;text-align:left;width:24%">Location</th>
+            <th style="padding:10px;border:1px solid #424245;text-align:left;width:10%">Link</th>
+            <th style="padding:10px;border:1px solid #424245;text-align:left;width:18%">Date Posted</th>
           </tr>
           {chr(10).join(rows)}
         </table>
@@ -307,7 +360,7 @@ def send_email(jobs: list[dict], previously_seen: set[str]) -> None:
         """
         plain = f"Found {count} matching role(s) ({new_count} NEW):\n\n" + "\n".join(
             f"- {'[NEW] ' if j['url'] not in previously_seen else ''}"
-            f"{j['title']} — {j.get('location', 'location unknown')}\n"
+            f"{j['title']} [{j.get('level', '')}] — {j.get('location', 'location unknown')}\n"
             f"  {j.get('date', '')}\n  {j['url']}"
             for j in jobs
         )
@@ -331,36 +384,41 @@ def send_email(jobs: list[dict], previously_seen: set[str]) -> None:
 # ──────────────────────────────────────────────────────────────────────────────
 
 def scan() -> tuple[list[dict], int]:
+    opener = make_opener()
     print(f"[1] Searching Apple by software keyword ({len(SOFTWARE_QUERIES)} queries), "
           f"India-filtered...")
-    raw = fetch_query_jobs()   # already India-only
+    raw = fetch_query_jobs(opener)   # already India-only
     india_seen = len(raw)
     print(f"  India software-search postings found: {india_seen}")
 
-    # [debug] What does the API expose per job? Looking for qualifications /
-    # experience text so we can classify level from requirements, not title.
-    if raw:
-        s = raw[0]
-        print(f"[debug] job keys: {sorted(s.keys())}")
-        for k in ("jobSummary", "minimumQualifications", "preferredQualifications",
-                  "description", "keyQualifications", "educationExperience",
-                  "reasonableAccommodation", "postingTitle"):
-            v = s.get(k)
-            if v:
-                print(f"[debug] {k}: {str(v)[:400]}")
-
-    print(f"[2] Filtering by target role title + recency (<= {MAX_AGE_DAYS} days)...")
+    print(f"[2] Title (software IC) + recency (<= {MAX_AGE_DAYS}d) + detail-level (early/mid only)...")
     matched: list[dict] = []
     seen_urls: set[str] = set()
+    debugged = False
     for j in raw:
         title = j.get("postingTitle") or ""
-        gmt = j.get("postDateInGMT") or ""
-        role_ok = is_target_role(title)
-        age_ok  = is_within_max_age(gmt)
-        print(f"  [india] role_ok={role_ok} age_ok={age_ok} | {title!r} | {format_date_ist(gmt) or gmt or '?'}")
-        if not role_ok:
+        gmt   = j.get("postDateInGMT") or ""
+        if not title_is_software_ic(title):
             continue
-        if not age_ok:
+        if not is_within_max_age(gmt):
+            print(f"  [skip old] {title!r} | {format_date_ist(gmt) or gmt}")
+            continue
+        pos = j.get("positionId") or ""
+        try:
+            detail = fetch_detail(opener, pos)
+        except Exception as exc:
+            print(f"  [detail err] {title!r}: {exc} — treating level as unknown.")
+            detail = {}
+        if not debugged and detail:
+            print(f"[debug] detail keys: {sorted(detail.keys())}")
+            for k in ("minimumQualifications", "keyQualifications",
+                      "preferredQualifications", "jobSummary"):
+                if detail.get(k):
+                    print(f"[debug] {k}: {str(detail.get(k))[:300]}")
+            debugged = True
+        level, keep = classify_level(detail)
+        print(f"  [{'KEEP' if keep else 'drop'}] {title!r} -> level={level}")
+        if not keep:
             continue
         url = job_url(j)
         if url in seen_urls:
@@ -371,9 +429,10 @@ def scan() -> tuple[list[dict], int]:
             "url":      url,
             "location": format_locations(j),
             "date":     format_date_ist(gmt),
+            "level":    level,
             "gmt":      gmt,
         })
-        print(f"  MATCH: {title}  [{matched[-1]['location']}]")
+        time.sleep(REQUEST_DELAY_S)
 
     matched.sort(key=lambda j: parse_gmt_date(j["gmt"]), reverse=True)
     return matched, india_seen
