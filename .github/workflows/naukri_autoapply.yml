@@ -4,10 +4,10 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "recon (screenshot only) | walk (fill+advance, no submit) | apply"
+        description: "recon | walk | apply | email-test (send a sample summary email)"
         type: choice
         default: recon
-        options: [recon, walk, apply]
+        options: [recon, walk, apply, email-test]
       limit:
         description: "apply mode: max applications to submit this run (0 = whole naukri queue)"
         default: "1"

@@ -424,6 +424,17 @@ def main() -> None:
     print(f"Naukri Auto-Apply — India · mode={mode} · submit={'ON' if ENABLE_SUBMIT else 'off'}")
     print("=" * 60)
 
+    # --email-test: send a real summary email of already-applied Naukri roles
+    # (or a sample from the queue) to verify the notification plumbing. No browser.
+    if "--email-test" in sys.argv:
+        applied = _load(APPLIED_FILE)
+        sample = [j for j in applied if j.get("source") == SOURCE]
+        if not sample:
+            sample = [j for j in _load(QUEUE_FILE) if j.get("source") == SOURCE][:3]
+        print(f"[email-test] sending run-summary email for {len(sample)} naukri role(s)...")
+        send_run_summary_email(sample)
+        return
+
     all_jobs = _load(QUEUE_FILE)
     jobs   = [j for j in all_jobs if j.get("source") == SOURCE]
     others = [j for j in all_jobs if j.get("source") != SOURCE]
