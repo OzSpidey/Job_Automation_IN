@@ -54,6 +54,7 @@ ENABLE_SUBMIT = os.environ.get("NAUKRI_ENABLE_SUBMIT", "") == "1"
 RECON_LIMIT   = int(os.environ.get("RECON_LIMIT", "4"))
 APPLY_LIMIT   = int(os.environ.get("APPLY_LIMIT", "0"))  # 0 = whole naukri queue (per run)
 MAX_STEPS     = 8
+MAX_ATTEMPTS  = int(os.environ.get("NAUKRI_MAX_ATTEMPTS", "3"))  # drop a stuck job after N tries
 
 # On-site apply CTAs (we can complete these). Company-site = external redirect.
 APPLY_BTN_RE   = re.compile(r"^\s*(apply|i am interested|apply now)\s*$", re.I)
@@ -98,25 +99,49 @@ def answers() -> dict:
     return json.loads(os.environ.get("NAUKRI_ANSWERS_JSON", "{}") or "{}")
 
 
-def send_confirmation_email(job: dict) -> None:
+def send_run_summary_email(jobs: list[dict]) -> None:
+    """One summary email after the run: a table of the roles applied to this run,
+    each role name hyperlinked to its Naukri posting."""
     recipient = os.environ.get("APPLY_NOTIFY_EMAIL", "").strip()
     sender    = os.environ.get("EMAIL_SENDER", "")
     password  = os.environ.get("GMAIL_APP_PASSWORD", "")
-    if not (recipient and sender and password):
-        print("  [notify] APPLY_NOTIFY_EMAIL / EMAIL_SENDER / GMAIL_APP_PASSWORD not set — skipping email.")
+    if not jobs:
         return
-    role = job.get("title") or "a role"
-    url  = job.get("url", "")
-    subject = f"Application submitted: {role} (Naukri)"
+    if not (recipient and sender and password):
+        print("  [notify] APPLY_NOTIFY_EMAIL / EMAIL_SENDER / GMAIL_APP_PASSWORD not set — skipping summary.")
+        return
+    n = len(jobs)
+    subject = f"Naukri Auto-Apply — {n} role(s) applied"
+    rows = []
+    for j in jobs:
+        title = j.get("title") or "(role)"
+        url   = j.get("url", "")
+        rows.append(
+            f'<tr>'
+            f'<td style="padding:8px;border:1px solid #ddd;">'
+            f'<a href="{url}" style="color:#0a66c2;text-decoration:none;font-weight:600">{title}</a></td>'
+            f'<td style="padding:8px;border:1px solid #ddd;">{j.get("company", "") or ""}</td>'
+            f'<td style="padding:8px;border:1px solid #ddd;">{j.get("location", "") or ""}</td>'
+            f'</tr>'
+        )
     html = f"""<html><body style="font-family:Arial,sans-serif;color:#333">
-      <h2 style="color:#188038">&#10003; Application submitted</h2>
-      <p>Your application has been <strong>submitted</strong> via Naukri to:</p>
-      <p style="font-size:16px"><strong>{role}</strong></p>
-      <p><a href="{url}">{url}</a></p>
-      <p style="font-size:12px;color:#888">Auto-applied via Job_Automation_IN &middot;
+      <h2 style="color:#188038">&#10003; Naukri Auto-Apply — {n} role(s) applied</h2>
+      <p>Applications submitted this run (role name links to the Naukri posting):</p>
+      <table style="border-collapse:collapse;width:100%;max-width:900px">
+        <tr style="background:#4a4a4a;color:#fff">
+          <th style="padding:10px;border:1px solid #555;text-align:left;width:50%">Role</th>
+          <th style="padding:10px;border:1px solid #555;text-align:left;width:25%">Company</th>
+          <th style="padding:10px;border:1px solid #555;text-align:left;width:25%">Location</th>
+        </tr>
+        {chr(10).join(rows)}
+      </table>
+      <p style="font-size:12px;color:#888;margin-top:20px">Auto-applied via Job_Automation_IN &middot;
       {datetime.now(timezone.utc).strftime('%b %d, %Y %H:%M UTC')}</p>
     </body></html>"""
-    plain = f"Application submitted via Naukri to {role}\n{url}"
+    plain = f"Naukri Auto-Apply — {n} role(s) applied:\n\n" + "\n".join(
+        f"- {j.get('title', '(role)')} @ {j.get('company', '') or '?'} | {j.get('location', '') or '?'}\n  {j.get('url', '')}"
+        for j in jobs
+    )
     recipients = [a.strip() for a in recipient.split(",") if a.strip()]
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
@@ -128,9 +153,9 @@ def send_confirmation_email(job: dict) -> None:
         with smtplib.SMTP_SSL("smtp.gmail.com", 465) as srv:
             srv.login(sender, password)
             srv.sendmail(sender, recipients, msg.as_string())
-        print(f"  [notify] confirmation emailed to {', '.join(recipients)}")
+        print(f"  [notify] summary emailed to {', '.join(recipients)} ({n} role(s)).")
     except Exception as exc:
-        print(f"  [notify] email failed: {exc}")
+        print(f"  [notify] summary email failed: {exc}")
 
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -307,11 +332,25 @@ def walk(page, jobs: list[dict], ans: dict) -> None:
 def apply(page, jobs: list[dict], ans: dict, others: list[dict]) -> None:
     applied = _load(APPLIED_FILE)
     remaining: list[dict] = []
+    applied_now: list[dict] = []
+    dropped = 0
     submit_budget = APPLY_LIMIT or len(jobs)   # APPLY_LIMIT = max SUBMISSIONS/run
     submitted_count = 0
+
+    def requeue_or_drop(job: dict, reason: str) -> None:
+        """Retry a stuck job up to MAX_ATTEMPTS, then drop it so the queue can't
+        clog (fully-automated workflow, no manual cleanup)."""
+        nonlocal dropped
+        job["attempts"] = job.get("attempts", 0) + 1
+        if job["attempts"] >= MAX_ATTEMPTS:
+            dropped += 1
+            print(f"  dropping after {job['attempts']} attempt(s): {reason}")
+        else:
+            remaining.append(job)
+
     for job in jobs:
         if submitted_count >= submit_budget:
-            remaining.append(job); continue     # cap reached — leave the rest queued
+            remaining.append(job); continue     # per-run submit cap — leave the rest queued
         jid = job["job_id"]
         print(f"\n[naukri {jid}] {job.get('title','')}")
         submitted = False
@@ -319,16 +358,19 @@ def apply(page, jobs: list[dict], ans: dict, others: list[dict]) -> None:
             page.goto(job["url"], wait_until="domcontentloaded", timeout=45000)
             page.wait_for_timeout(4000)
             if looks_logged_out(page):
-                print("  [abort] session challenged — leaving queued.")
+                # Session issue, not the job's fault — requeue without counting an attempt.
+                print("  [abort] session challenged — leaving queued (will retry).")
                 remaining.append(job); continue
             cta = find_apply(page)
+            if cta and cta[0] == "company":
+                # User policy: fully-automated apply IGNORES company-site jobs entirely.
+                print("  company-site redirect — IGNORED (dropped from queue).")
+                dropped += 1; continue
             if not cta:
-                print("  no apply CTA — leaving queued."); remaining.append(job); continue
-            if cta[0] == "company":
-                print("  company-site redirect — SKIP (can't auto-submit off-platform).")
-                remaining.append(job); continue
+                print("  no on-site Apply CTA (already applied / not applyable).")
+                requeue_or_drop(job, "no apply CTA"); continue
             if not ENABLE_SUBMIT:
-                # A click submits instantly, so never click in dry-run.
+                # A click submits instantly, so never click in dry-run. Not an attempt.
                 print("  [dry-run] NAUKRI_ENABLE_SUBMIT!=1 — on-site Apply available, not clicking.")
                 remaining.append(job); continue
 
@@ -338,36 +380,35 @@ def apply(page, jobs: list[dict], ans: dict, others: list[dict]) -> None:
 
             if apply_succeeded(page):
                 submitted = True
-                print("  [submit] one-click Apply succeeded (saveApply :200).")
+                print("  [submit] Apply succeeded.")
             elif chatbot_open(page):
-                # Some jobs open a recruiter Q&A. Not mapped yet -> don't guess; requeue.
                 try:
                     fill_chatbot(page, ans)
                     page.wait_for_timeout(3000)
                     submitted = apply_succeeded(page)
                 except NotImplementedError:
-                    print("  [skip] recruiter chatbot appeared — not mapped yet; leaving queued.")
+                    print("  [skip] recruiter chatbot appeared — not mapped yet.")
                 if not submitted:
-                    remaining.append(job); continue
+                    requeue_or_drop(job, "chatbot not mapped"); continue
             else:
-                print("  [skip] no success signal after Apply — leaving queued.")
-                remaining.append(job); continue
+                print("  [skip] no success signal after Apply.")
+                requeue_or_drop(job, "no success signal"); continue
         except Exception as exc:
             print(f"  [error] {exc}")
+            requeue_or_drop(job, f"error: {exc}"); continue
 
         if submitted:
             job["applied_at"] = datetime.now(timezone.utc).isoformat()
             job["status"] = "applied"
             applied.append(job)
+            applied_now.append(job)
             submitted_count += 1
-            send_confirmation_email(job)
-        else:
-            remaining.append(job)
 
     _save(QUEUE_FILE, others + remaining)   # keep other-source rows intact
     _save(APPLIED_FILE, applied)
-    print(f"\nApplied: {len(applied)} total | still queued: {len(others + remaining)} "
-          f"(naukri={len(remaining)}, other={len(others)})")
+    send_run_summary_email(applied_now)      # one summary table after the run
+    print(f"\nApplied this run: {len(applied_now)} | dropped: {dropped} | "
+          f"still queued: {len(others + remaining)} (naukri={len(remaining)}, other={len(others)})")
 
 
 # ──────────────────────────────────────────────────────────────────────────────

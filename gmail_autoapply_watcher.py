@@ -248,8 +248,14 @@ def parse_naukri_link(url: str, row_title: str = "") -> dict | None:
     return {"job_id": job_id, "title": title, "url": url, "source": "naukri"}
 
 
+def _row_cells(row_html: str) -> list[str]:
+    return [html.unescape(_TAG_RE.sub("", c)).strip() for c in _TD_RE.findall(row_html)]
+
+
 def extract_naukri(html_body: str, plain_body: str) -> list[dict]:
-    """Every Naukri opening in the email (no level gate — scraper filtered already)."""
+    """Every Naukri opening in the email (no level gate — scraper filtered already).
+    Captures company + location from the row so the apply summary can show them.
+    Row order in the scraper email: Role, Company, Location, Experience, Posted, Link."""
     found: dict[str, dict] = {}
     if html_body:
         for row in _TR_RE.findall(html_body):
@@ -258,6 +264,9 @@ def extract_naukri(html_body: str, plain_body: str) -> list[dict]:
                 continue
             rec = parse_naukri_link(m.group(0), _row_role_text(row))
             if rec:
+                cells = _row_cells(row)
+                rec["company"]  = cells[1] if len(cells) > 1 else ""
+                rec["location"] = cells[2] if len(cells) > 2 else ""
                 found[rec["job_id"]] = rec
     if not found:
         for body in (html_body, plain_body):
