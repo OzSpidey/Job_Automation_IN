@@ -100,8 +100,10 @@ def main() -> None:
     verdict = {"reached": False, "blocked": False, "cards": 0, "api_hits": 0}
 
     with sync_playwright() as p:
+        # HEADFUL under Xvfb — Naukri's Akamai blocks headless Chrome ("Access
+        # Denied") but lets a real headful browser through. Needs DISPLAY set.
         browser = p.chromium.launch(
-            headless=True,
+            headless=False,
             args=["--no-sandbox", "--disable-blink-features=AutomationControlled"],
             ignore_default_args=["--enable-automation"],
         )
