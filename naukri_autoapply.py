@@ -427,10 +427,10 @@ def main() -> None:
     # --email-test: send a real summary email of already-applied Naukri roles
     # (or a sample from the queue) to verify the notification plumbing. No browser.
     if "--email-test" in sys.argv:
-        applied = _load(APPLIED_FILE)
-        sample = [j for j in applied if j.get("source") == SOURCE]
-        if not sample:
-            sample = [j for j in _load(QUEUE_FILE) if j.get("source") == SOURCE][:3]
+        pool   = _load(APPLIED_FILE) + _load(QUEUE_FILE)
+        naukri = [j for j in pool if j.get("source") == SOURCE]
+        enriched = [j for j in naukri if (j.get("company") or j.get("location"))]
+        sample = (enriched or naukri)[:5]
         print(f"[email-test] sending run-summary email for {len(sample)} naukri role(s)...")
         send_run_summary_email(sample)
         return
