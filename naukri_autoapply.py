@@ -40,6 +40,23 @@ import sys
 from datetime import datetime, timezone
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from zoneinfo import ZoneInfo
+
+_IST = ZoneInfo("Asia/Kolkata")
+
+
+def _fmt_applied(iso: str) -> str:
+    """ISO timestamp -> readable IST, e.g. 'Jul 23, 2026, 11:32 PM IST'."""
+    if not iso:
+        return ""
+    try:
+        dt = datetime.fromisoformat(iso)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        ist = dt.astimezone(_IST)
+        return f"{ist.strftime('%b %d, %Y')}, {ist.strftime('%I:%M %p').lstrip('0')} IST"
+    except ValueError:
+        return iso
 
 SOURCE = "naukri"
 
@@ -122,16 +139,18 @@ def send_run_summary_email(jobs: list[dict]) -> None:
             f'<a href="{url}" style="color:#0a66c2;text-decoration:none;font-weight:600">{title}</a></td>'
             f'<td style="padding:8px;border:1px solid #ddd;">{j.get("company", "") or ""}</td>'
             f'<td style="padding:8px;border:1px solid #ddd;">{j.get("location", "") or ""}</td>'
+            f'<td style="padding:8px;border:1px solid #ddd;white-space:nowrap;">{_fmt_applied(j.get("applied_at", ""))}</td>'
             f'</tr>'
         )
     html = f"""<html><body style="font-family:Arial,sans-serif;color:#333">
       <h2 style="color:#188038">&#10003; Naukri Auto-Apply — {n} role(s) applied</h2>
       <p>Applications submitted this run (role name links to the Naukri posting):</p>
-      <table style="border-collapse:collapse;width:100%;max-width:900px">
+      <table style="border-collapse:collapse;width:100%;max-width:1000px">
         <tr style="background:#4a4a4a;color:#fff">
-          <th style="padding:10px;border:1px solid #555;text-align:left;width:50%">Role</th>
-          <th style="padding:10px;border:1px solid #555;text-align:left;width:25%">Company</th>
-          <th style="padding:10px;border:1px solid #555;text-align:left;width:25%">Location</th>
+          <th style="padding:10px;border:1px solid #555;text-align:left;width:38%">Role</th>
+          <th style="padding:10px;border:1px solid #555;text-align:left;width:22%">Company</th>
+          <th style="padding:10px;border:1px solid #555;text-align:left;width:20%">Location</th>
+          <th style="padding:10px;border:1px solid #555;text-align:left;width:20%">Applied</th>
         </tr>
         {chr(10).join(rows)}
       </table>
@@ -139,7 +158,8 @@ def send_run_summary_email(jobs: list[dict]) -> None:
       {datetime.now(timezone.utc).strftime('%b %d, %Y %H:%M UTC')}</p>
     </body></html>"""
     plain = f"Naukri Auto-Apply — {n} role(s) applied:\n\n" + "\n".join(
-        f"- {j.get('title', '(role)')} @ {j.get('company', '') or '?'} | {j.get('location', '') or '?'}\n  {j.get('url', '')}"
+        f"- {j.get('title', '(role)')} @ {j.get('company', '') or '?'} | {j.get('location', '') or '?'}"
+        f" | {_fmt_applied(j.get('applied_at', '')) or '?'}\n  {j.get('url', '')}"
         for j in jobs
     )
     recipients = [a.strip() for a in recipient.split(",") if a.strip()]
@@ -430,7 +450,9 @@ def main() -> None:
         pool   = _load(APPLIED_FILE) + _load(QUEUE_FILE)
         naukri = [j for j in pool if j.get("source") == SOURCE]
         enriched = [j for j in naukri if (j.get("company") or j.get("location"))]
-        sample = (enriched or naukri)[:5]
+        sample = [dict(j) for j in (enriched or naukri)[:5]]
+        for j in sample:                                   # demo: stamp a time so the column shows
+            j.setdefault("applied_at", datetime.now(timezone.utc).isoformat())
         print(f"[email-test] sending run-summary email for {len(sample)} naukri role(s)...")
         send_run_summary_email(sample)
         return
