@@ -1,0 +1,82 @@
+name: Naukri Auto-Apply
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "recon (screenshot only) | walk (fill+advance, no submit) | apply"
+        type: choice
+        default: recon
+        options: [recon, walk, apply]
+      limit:
+        description: "apply mode: max applications to submit this run (0 = whole naukri queue)"
+        default: "1"
+        type: string
+
+permissions:
+  contents: write            # apply mode commits queue/applied state back
+
+jobs:
+  autoapply:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Playwright + Chromium
+        run: |
+          pip install playwright
+          python -m playwright install chromium
+          python -m playwright install-deps chromium
+
+      - name: Install Xvfb
+        run: sudo apt-get install -y xvfb
+
+      # Naukri blocks HEADLESS Chrome, so run HEADFUL under a virtual display.
+      - name: Run auto-apply (${{ inputs.mode }}) headful under Xvfb
+        env:
+          NAUKRI_SESSION_B64:   ${{ secrets.NAUKRI_SESSION_B64 }}
+          NAUKRI_ANSWERS_JSON:  ${{ secrets.NAUKRI_ANSWERS_JSON }}
+          NAUKRI_ENABLE_SUBMIT: ${{ vars.NAUKRI_ENABLE_SUBMIT }}
+          RECON_LIMIT:          "4"
+          APPLY_LIMIT:          ${{ inputs.limit }}
+          EMAIL_SENDER:         ${{ secrets.EMAIL_SENDER }}
+          GMAIL_APP_PASSWORD:   ${{ secrets.GMAIL_APP_PASSWORD }}
+          APPLY_NOTIFY_EMAIL:   ${{ secrets.APPLY_NOTIFY_EMAIL }}
+          DISPLAY: ":99"
+        run: |
+          Xvfb :99 -screen 0 1280x900x24 &
+          sleep 2
+          python naukri_autoapply.py --${{ inputs.mode }}
+
+      - name: Upload recon/walk/apply artifacts
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: naukri-recon
+          path: |
+            screenshots/
+            recon/
+          if-no-files-found: ignore
+          retention-days: 7
+
+      - name: Persist queue/applied state (apply mode)
+        if: ${{ inputs.mode == 'apply' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add json/autoapply_queue.json json/autoapply_applied.json
+          git diff --staged --quiet || git commit -m "chore: update autoapply state [skip ci]"
+          git checkout -- . 2>/dev/null || true
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $i failed, retrying in $((i * 3))s..."
+            sleep $((i * 3))
+          done
