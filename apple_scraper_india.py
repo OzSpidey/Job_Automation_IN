@@ -55,17 +55,23 @@ API_URL         = "https://jobs.apple.com/api/v1/search"
 SEARCH_PAGE_URL = "https://jobs.apple.com/en-in/search"
 DETAILS_LOCALE  = "en-in"
 PAGE_SIZE       = 20        # Apple returns exactly 20 per page
-MAX_PAGES       = 30        # 30 * 20 = 600 scanned; roomy for the global fallback
-MAX_AGE_DAYS    = 4         # ignore jobs posted more than 4 days ago
+KW_PAGES        = 10        # pages fetched per keyword query (10 * 20 = 200 each)
+MAX_AGE_DAYS    = 14        # ignore jobs posted more than 14 days ago
 REQUEST_DELAY_S = 0.4
 SEEN_JOBS_FILE  = os.path.join(os.path.dirname(__file__), "json", "apple_india_api_seen_jobs.json")
 USER_AGENT      = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 
-# Candidate India location facets, tried in order. Whichever returns India
-# results is used; otherwise we fall back to the global feed (facet=None) and
-# rely on the country post-filter. Add more candidates here if Apple's token
-# turns out to be something else (visible in the run log).
-LOCATION_FACET_CANDIDATES = ["postLocation-IND", "postLocation-India"]
+# India is only ~0.4% of Apple's global postings, so a "newest global" sweep
+# can't surface India software roles. Instead we search by keyword (Apple's
+# search box) and post-filter to India — this targets exactly what we want.
+SOFTWARE_QUERIES = [
+    "software engineer",
+    "software developer",
+    "software development engineer",
+    "sde",
+    "backend engineer",
+    "full stack engineer",
+]
 
 # India = software only (matches the Google India scraper's SWE-only policy).
 TARGET_ROLES = [
@@ -197,13 +203,10 @@ def make_opener() -> urllib.request.OpenerDirector:
     return opener
 
 
-def fetch_page(opener, page: int, location_facet: str | None) -> dict:
-    filters: dict = {}
-    if location_facet:
-        filters["locations"] = [location_facet]
+def fetch_page(opener, page: int, query: str = "") -> dict:
     payload = json.dumps({
-        "query":   "",
-        "filters": filters,
+        "query":   query,
+        "filters": {},
         "page":    page,
         "locale":  "en-in",
         "sort":    "newest",
@@ -225,59 +228,33 @@ def fetch_page(opener, page: int, location_facet: str | None) -> dict:
         return json.loads(r.read())
 
 
-def _pick_location_facet(opener) -> str | None:
-    """Return the first candidate facet whose page-1 results contain India jobs,
-    else None (global feed + country post-filter)."""
-    for facet in LOCATION_FACET_CANDIDATES:
-        try:
-            data = fetch_page(opener, 1, facet)
-        except urllib.error.HTTPError as exc:
-            print(f"  [facet] {facet!r} rejected (HTTP {exc.code}) — trying next.")
-            continue
-        except Exception as exc:
-            print(f"  [facet] {facet!r} error: {exc} — trying next.")
-            continue
-        jobs  = (data.get("res") or {}).get("searchResults") or []
-        india = [j for j in jobs if is_india_job(j)]
-        print(f"  [facet] {facet!r}: page1 {len(jobs)} job(s), {len(india)} India.")
-        if india:
-            return facet
-    print("  [facet] no candidate worked — falling back to global feed + country filter.")
-    return None
-
-
-def fetch_all_jobs() -> list[dict]:
+def fetch_query_jobs() -> list[dict]:
+    """Search each software keyword, page through, keep the India postings.
+    Deduped across keywords by positionId."""
     opener = make_opener()
-    facet  = _pick_location_facet(opener)
-    print(f"  [api] using location facet: {facet!r}")
-
-    results: list[dict] = []
-    total_known: int | None = None
-    for page in range(1, MAX_PAGES + 1):
-        try:
-            data = fetch_page(opener, page, facet)
-        except Exception as exc:
-            print(f"  [api] page={page} error: {exc} — stopping.")
-            break
-        res = data.get("res", {})
-        if total_known is None:
-            total_known = res.get("totalRecords")
-        jobs = res.get("searchResults") or []
-        if not jobs:
-            print(f"  [api] page={page} returned 0 — stopping.")
-            break
-        results.extend(jobs)
-        print(f"  [api] page={page:3d}  fetched={len(jobs):3d}  cumulative={len(results)}"
-              + (f"  total={total_known}" if total_known else ""))
-        if len(jobs) < PAGE_SIZE:
-            print("  [api] partial page — reached end.")
-            break
-        if total_known and len(results) >= total_known:
-            print(f"  [api] fetched all {total_known} records.")
-            break
-        if page < MAX_PAGES:
+    by_pos: dict[str, dict] = {}
+    for kw in SOFTWARE_QUERIES:
+        kept = 0
+        for page in range(1, KW_PAGES + 1):
+            try:
+                data = fetch_page(opener, page, query=kw)
+            except Exception as exc:
+                print(f"  [kw:{kw!r}] page={page} error: {exc} — stopping this query.")
+                break
+            jobs = (data.get("res") or {}).get("searchResults") or []
+            if not jobs:
+                break
+            for j in jobs:
+                if is_india_job(j):
+                    pos = j.get("positionId") or job_url(j)
+                    if pos not in by_pos:
+                        by_pos[pos] = j
+                        kept += 1
+            if len(jobs) < PAGE_SIZE:
+                break
             time.sleep(REQUEST_DELAY_S)
-    return results
+        print(f"  [kw:{kw!r}] India postings kept so far: {len(by_pos)} (+{kept} from this query)")
+    return list(by_pos.values())
 
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -354,30 +331,21 @@ def send_email(jobs: list[dict], previously_seen: set[str]) -> None:
 # ──────────────────────────────────────────────────────────────────────────────
 
 def scan() -> tuple[list[dict], int]:
-    print(f"[1] Fetching up to {MAX_PAGES * PAGE_SIZE} newest Apple India jobs "
-          f"(newest first, last {MAX_AGE_DAYS} days)...")
-    raw = fetch_all_jobs()
-    print(f"  Total raw jobs fetched: {len(raw)}")
+    print(f"[1] Searching Apple by software keyword ({len(SOFTWARE_QUERIES)} queries), "
+          f"India-filtered...")
+    raw = fetch_query_jobs()   # already India-only
+    india_seen = len(raw)
+    print(f"  India software-search postings found: {india_seen}")
 
-    print("[2] Filtering to India + date + target software role...")
+    print(f"[2] Filtering by target role title + recency (<= {MAX_AGE_DAYS} days)...")
     matched: list[dict] = []
     seen_urls: set[str] = set()
-    india_seen = 0
-    too_old = 0
     for j in raw:
-        if not is_india_job(j):
-            continue
-        india_seen += 1
-        gmt = j.get("postDateInGMT") or ""
-        if not is_within_max_age(gmt):
-            too_old += 1
-            if too_old >= 8:   # newest-first: a run of old India jobs => stop
-                print(f"  [filter] 8+ India jobs older than {MAX_AGE_DAYS}d — stopping early.")
-                break
-            continue
-        too_old = 0
         title = j.get("postingTitle") or ""
         if not is_target_role(title):
+            continue
+        gmt = j.get("postDateInGMT") or ""
+        if not is_within_max_age(gmt):
             continue
         url = job_url(j)
         if url in seen_urls:
@@ -411,10 +379,11 @@ def main():
         print(f"  • {j['title']}\n    {j['url']}")
     print("=" * 60)
 
-    # Loud failure: seeing zero India postings at all means the facet OR the
-    # country filter OR Apple's API changed — surface it as a red run.
+    # Loud failure: the software-keyword search returning zero India postings
+    # means the country filter or Apple's API/response shape changed — surface
+    # it as a red run instead of a silent empty email.
     if india_seen == 0:
-        print("[FATAL] Scanned Apple but found 0 India postings — facet/filter/API likely broken.")
+        print("[FATAL] Software search returned 0 India postings — country filter/API likely broken.")
         sys.exit(1)
 
     previously_seen = load_seen_urls()
