@@ -375,7 +375,8 @@ def walk(page, jobs: list[dict], ans: dict) -> None:
         page.wait_for_timeout(3500)
 
 
-def apply(page, jobs: list[dict], ans: dict) -> None:
+def apply(page, jobs: list[dict], ans: dict, others: list[dict] | None = None) -> None:
+    others = others or []   # queue rows from OTHER sources (e.g. apple) — preserve on save
     applied = _load(APPLIED_FILE)
     used = _apps_this_month(applied)
     print(f"This month: {used}/{MONTHLY_CAP} application(s) already used.")
@@ -446,9 +447,10 @@ def apply(page, jobs: list[dict], ans: dict) -> None:
         else:
             remaining.append(job)
 
-    _save(QUEUE_FILE, remaining)
+    _save(QUEUE_FILE, others + remaining)   # keep other-source rows intact
     _save(APPLIED_FILE, applied)
-    print(f"\nApplied: {len(applied)} total | still queued: {len(remaining)}")
+    print(f"\nApplied: {len(applied)} total | still queued: {len(others + remaining)} "
+          f"(google={len(remaining)}, other={len(others)})")
 
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -464,10 +466,12 @@ def main() -> None:
     print(f"Google Auto-Apply — India · mode={mode} · submit={'ON' if ENABLE_SUBMIT else 'off'}")
     print("=" * 60)
 
-    jobs = _load(QUEUE_FILE)
-    print(f"Queue depth: {len(jobs)}")
+    all_jobs = _load(QUEUE_FILE)
+    jobs   = [j for j in all_jobs if j.get("source", "google") == "google"]
+    others = [j for j in all_jobs if j.get("source", "google") != "google"]
+    print(f"Queue depth (google): {len(jobs)}  |  other-source rows kept intact: {len(others)}")
     if not jobs:
-        print("Nothing queued. Run the watcher first.")
+        print("Nothing queued for Google. Run the watcher first.")
         return
 
     session = ensure_session_file()
@@ -486,7 +490,7 @@ def main() -> None:
         try:
             if mode == "recon":  recon(page, jobs)
             elif mode == "walk": walk(page, jobs, ans)
-            else:                apply(page, jobs, ans)
+            else:                apply(page, jobs, ans, others)
         finally:
             context.close()
             browser.close()

@@ -1,0 +1,118 @@
+name: Apple Auto-Apply Pipeline (scrape → watch → apply)
+
+# One trigger runs the whole Apple chain in order. Fire it manually, or from
+# the external cron site via the GitHub workflow-dispatch API (GH_PAT has
+# Actions:write but not Contents, so use workflow_dispatch, not repository_dispatch):
+#   POST /repos/OzSpidey/Job_Automation_IN/actions/workflows/apple_autoapply_pipeline.yml/dispatches
+#   {"ref":"main"}
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [apple-autoapply-pipeline]
+
+permissions:
+  contents: write
+
+jobs:
+  # 1) Scrape Apple India → email new software/SDE roles to the auto-apply inbox
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      - run: pip install python-dotenv
+      - name: Scrape + email
+        env:
+          EMAIL_TO_INDIA:     ${{ secrets.EMAIL_TO_INDIA }}
+          EMAIL_SENDER:       ${{ secrets.EMAIL_SENDER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python apple_scraper_india.py
+      - name: Persist seen-jobs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add json/apple_india_api_seen_jobs.json
+          git diff --staged --quiet || git commit -m "chore: update apple india seen jobs [skip ci]"
+          git checkout -- . 2>/dev/null || true
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            sleep $((i * 3))
+          done
+
+  # 2) Read the inbox → queue new roles (shared watcher handles Google + Apple)
+  watch:
+    needs: scrape
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Read inbox + queue (wait for email delivery first)
+        env:
+          AUTOAPPLY_GMAIL_USER:         oswin.autoapply@gmail.com
+          AUTOAPPLY_GMAIL_APP_PASSWORD: ${{ secrets.AUTOAPPLY_GMAIL_APP_PASSWORD }}
+          EMAIL_SENDER:                 ${{ secrets.EMAIL_SENDER }}
+        run: |
+          sleep 30
+          python gmail_autoapply_watcher.py
+      - name: Persist queue
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add json/autoapply_queue.json
+          git diff --staged --quiet || git commit -m "chore: update autoapply queue [skip ci]"
+          git checkout -- . 2>/dev/null || true
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            sleep $((i * 3))
+          done
+
+  # 3) Apply to Apple roles — submits at most APPLY_LIMIT/run, only if armed
+  apply:
+    needs: watch
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      - name: Install Playwright + Chromium
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Apply
+        env:
+          APPLE_SESSION_B64:   ${{ secrets.APPLE_SESSION_B64 }}
+          APPLE_ANSWERS_JSON:  ${{ secrets.APPLE_ANSWERS_JSON }}
+          APPLE_ENABLE_SUBMIT: ${{ vars.APPLE_ENABLE_SUBMIT }}
+          APPLY_LIMIT:         "1"
+          EMAIL_SENDER:        ${{ secrets.EMAIL_SENDER }}
+          GMAIL_APP_PASSWORD:  ${{ secrets.GMAIL_APP_PASSWORD }}
+          APPLY_NOTIFY_EMAIL:  ${{ secrets.APPLY_NOTIFY_EMAIL }}
+        run: python apple_autoapply.py --apply
+      - name: Upload artifacts
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: apple-pipeline-apply
+          path: |
+            screenshots/
+            recon/
+          if-no-files-found: ignore
+          retention-days: 7
+      - name: Persist queue/applied state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add json/autoapply_queue.json json/autoapply_applied.json
+          git diff --staged --quiet || git commit -m "chore: update autoapply state [skip ci]"
+          git checkout -- . 2>/dev/null || true
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            sleep $((i * 3))
+          done
