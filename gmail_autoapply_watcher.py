@@ -202,11 +202,15 @@ def parse_apple_link(url: str, row_title: str = "") -> dict | None:
 
 
 def _row_role_text(row_html: str) -> str:
-    """First cell's text (the Role column in the Apple scraper email)."""
+    """First cell's text (the Role column). Strips a leading 'NEW' badge whose
+    text sits in the same cell before the title (e.g. 'NEWSoftware Engineer')."""
     cells = _TD_RE.findall(row_html)
     if not cells:
         return ""
-    return html.unescape(_TAG_RE.sub("", cells[0])).strip()
+    text = html.unescape(_TAG_RE.sub("", cells[0])).strip()
+    if text.startswith("NEW") and len(text) > 3 and text[3].isupper():
+        text = text[3:].strip()
+    return text
 
 
 def extract_apple(html_body: str, plain_body: str) -> list[dict]:
