@@ -27,10 +27,11 @@ SCREENSHOT_DIR = os.path.join(HERE, "screenshots")
 RECON_DIR      = os.path.join(HERE, "recon")
 SESSION_FILE   = os.environ.get("NAUKRI_SESSION_FILE", os.path.join(HERE, "naukri_session.json"))
 
-# A couple of standard Naukri search-results URLs (these trigger the jobapi XHR).
+# Proven search-results URLs (this exact ?k=...&experience= form worked in the
+# retired cloud scraper). These render job cards server-side + trigger the XHR.
 SEARCH_URLS = [
-    "https://www.naukri.com/software-engineer-jobs-in-india",
-    "https://www.naukri.com/software-developer-jobs-in-india",
+    "https://www.naukri.com/software-engineer-jobs?k=software+engineer&experience=1",
+    "https://www.naukri.com/python-jobs?k=python&experience=1",
 ]
 
 # Text that betrays an Akamai / bot-block / challenge page.
@@ -107,7 +108,9 @@ def main() -> None:
             user_agent=("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                         "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"),
             locale="en-IN",
-            viewport={"width": 1440, "height": 1000},
+            timezone_id="Asia/Kolkata",                              # match proven scraper
+            extra_http_headers={"Accept-Language": "en-IN,en;q=0.9"},  # missing this = bot tell
+            viewport={"width": 1280, "height": 900},
         )
         context.add_init_script(
             "Object.defineProperty(navigator,'webdriver',{get:()=>undefined});")
@@ -136,7 +139,11 @@ def main() -> None:
             print(f"\n[{i+1}] GET {url}")
             try:
                 page.goto(url, wait_until="domcontentloaded", timeout=60000)
-                page.wait_for_timeout(7000)
+                page.wait_for_timeout(3500)
+                try:
+                    page.wait_for_selector("a.title", timeout=15000)  # like the proven scraper
+                except Exception:
+                    pass
                 verdict["reached"] = True
             except Exception as exc:
                 print(f"  [warn] nav: {exc}")
