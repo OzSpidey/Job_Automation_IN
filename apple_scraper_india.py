@@ -409,7 +409,6 @@ def scan() -> tuple[list[dict], int]:
     print(f"[2] Title (software IC) + recency (<= {MAX_AGE_DAYS}d) + detail-level (early/mid only)...")
     matched: list[dict] = []
     seen_urls: set[str] = set()
-    debugged = False
     for j in raw:
         title = j.get("postingTitle") or ""
         gmt   = j.get("postDateInGMT") or ""
@@ -424,12 +423,6 @@ def scan() -> tuple[list[dict], int]:
         except Exception as exc:
             print(f"  [detail err] {title!r}: {exc} — treating level as unknown.")
             detail = {}
-        if not debugged and detail:
-            print(f"[debug] detail keys: {sorted(k for k in detail.keys() if k != '_html_text')}")
-            exp = detail.get("experienceRequirements")
-            print(f"[debug] experienceRequirements: {str(exp)[:200]}")
-            print(f"[debug] description[:300]: {_TAG_RE.sub(' ', str(detail.get('description') or ''))[:300]}")
-            debugged = True
         level, keep = classify_level(detail)
         print(f"  [{'KEEP' if keep else 'drop'}] {title!r} -> level={level}")
         if not keep:
