@@ -337,6 +337,18 @@ def scan() -> tuple[list[dict], int]:
     india_seen = len(raw)
     print(f"  India software-search postings found: {india_seen}")
 
+    # [debug] What does the API expose per job? Looking for qualifications /
+    # experience text so we can classify level from requirements, not title.
+    if raw:
+        s = raw[0]
+        print(f"[debug] job keys: {sorted(s.keys())}")
+        for k in ("jobSummary", "minimumQualifications", "preferredQualifications",
+                  "description", "keyQualifications", "educationExperience",
+                  "reasonableAccommodation", "postingTitle"):
+            v = s.get(k)
+            if v:
+                print(f"[debug] {k}: {str(v)[:400]}")
+
     print(f"[2] Filtering by target role title + recency (<= {MAX_AGE_DAYS} days)...")
     matched: list[dict] = []
     seen_urls: set[str] = set()
