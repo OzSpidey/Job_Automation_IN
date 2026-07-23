@@ -88,10 +88,14 @@ TITLE_MGMT   = ["manager", "director", "vice president", " vp", "head of", "lead
 TITLE_SENIOR = ["senior", "sr.", "sr ", "staff", "principal", "distinguished"]
 
 # ── Level detection (from the DETAIL page's qualifications) ─────────────────────
-DETAIL_API        = "https://jobs.apple.com/api/v1/details/{pid}?locale=en-in"
+# The JSON API detail endpoint needs auth we don't have (401), so we read the
+# PUBLIC job page's server-rendered JSON-LD JobPosting block (SEO metadata: no
+# auth) which carries experienceRequirements + the full qualifications text.
 SENIOR_MIN_YEARS  = 5      # min required years >= this => senior => drop
 INCLUDE_UNKNOWN_LEVEL = True  # keep roles whose detail states no years (usually entry/mid)
 
+_TAG_RE   = re.compile(r"<[^>]+>")
+_LDJSON_RE = re.compile(r'<script[^>]+application/ld\+json[^>]*>(.*?)</script>', re.S | re.I)
 # "N+ years", "N-M years", "at least N years", "minimum of N years", "N years"
 _YEARS_RE = re.compile(
     r"(\d{1,2})\s*(?:\+|-\s*\d{1,2})?\s*(?:or more\s+)?years?", re.I)
@@ -134,17 +138,33 @@ def _min_years(text: str) -> int | None:
 
 
 def classify_level(detail: dict) -> tuple[str, bool]:
-    """(label, keep) for early/mid-only policy, from the detail qualifications.
+    """(label, keep) for early/mid-only policy, from the JobPosting qualifications.
     keep=False means senior. Unknown-level is kept iff INCLUDE_UNKNOWN_LEVEL."""
-    text = " ".join(str(detail.get(k) or "") for k in
-                    ("minimumQualifications", "keyQualifications",
-                     "preferredQualifications", "jobSummary", "description"))
-    yrs = _min_years(text)
+    yrs = None
+
+    # Best signal: structured experienceRequirements.monthsOfExperience.
+    exp = detail.get("experienceRequirements")
+    if isinstance(exp, dict):
+        months = exp.get("monthsOfExperience")
+        if isinstance(months, (int, float)) and months > 0:
+            yrs = int(months // 12)
+
+    # Otherwise parse years out of the posting text (prefer structured JSON-LD
+    # fields; fall back to the whole page only if those are absent).
+    if yrs is None:
+        parts = [detail.get(k) for k in ("description", "qualifications", "responsibilities")]
+        parts = [_TAG_RE.sub(" ", p) for p in parts if isinstance(p, str) and p]
+        text = " ".join(parts) if parts else (detail.get("_html_text") or "")
+        yrs = _min_years(text)
+        grad = bool(_GRAD_RE.search(text))
+    else:
+        grad = False
+
     if yrs is not None:
         if yrs >= SENIOR_MIN_YEARS:
             return (f"senior ({yrs}+ yrs)", False)
         return (f"early/mid ({yrs}+ yrs)", True)
-    if _GRAD_RE.search(text):
+    if grad:
         return ("early (new-grad)", True)
     return ("unknown", INCLUDE_UNKNOWN_LEVEL)
 
@@ -258,26 +278,21 @@ def fetch_page(opener, page: int, query: str = "") -> dict:
         return json.loads(r.read())
 
 
-def fetch_detail(opener, position_id: str) -> dict:
-    """Fetch a single posting's detail JSON (carries the qualifications text)."""
-    url = DETAIL_API.format(pid=position_id)
-    req = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": USER_AGENT,
-            "Accept":     "application/json",
-            "Referer":    SEARCH_PAGE_URL,
-            "Origin":     "https://jobs.apple.com",
-        },
-    )
+def fetch_detail(opener, url: str) -> dict:
+    """Fetch the public job page and return its JSON-LD JobPosting dict (carries
+    experienceRequirements + qualifications). Falls back to page text."""
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": "text/html"})
     with opener.open(req, timeout=30) as r:
-        data = json.loads(r.read())
-    # Detail may nest the job under a key; normalise to the job dict.
-    if isinstance(data, dict):
-        for key in ("res", "job", "detail", "data"):
-            if isinstance(data.get(key), dict):
-                return data[key]
-    return data if isinstance(data, dict) else {}
+        page = r.read().decode("utf-8", errors="replace")
+    for m in _LDJSON_RE.finditer(page):
+        try:
+            obj = json.loads(m.group(1))
+        except json.JSONDecodeError:
+            continue
+        for cand in (obj if isinstance(obj, list) else [obj]):
+            if isinstance(cand, dict) and cand.get("@type") == "JobPosting":
+                return cand
+    return {"_html_text": _TAG_RE.sub(" ", page)}   # no JSON-LD found
 
 
 def fetch_query_jobs(opener) -> list[dict]:
@@ -403,24 +418,22 @@ def scan() -> tuple[list[dict], int]:
         if not is_within_max_age(gmt):
             print(f"  [skip old] {title!r} | {format_date_ist(gmt) or gmt}")
             continue
-        pos = j.get("positionId") or ""
+        url = job_url(j)
         try:
-            detail = fetch_detail(opener, pos)
+            detail = fetch_detail(opener, url)
         except Exception as exc:
             print(f"  [detail err] {title!r}: {exc} — treating level as unknown.")
             detail = {}
         if not debugged and detail:
-            print(f"[debug] detail keys: {sorted(detail.keys())}")
-            for k in ("minimumQualifications", "keyQualifications",
-                      "preferredQualifications", "jobSummary"):
-                if detail.get(k):
-                    print(f"[debug] {k}: {str(detail.get(k))[:300]}")
+            print(f"[debug] detail keys: {sorted(k for k in detail.keys() if k != '_html_text')}")
+            exp = detail.get("experienceRequirements")
+            print(f"[debug] experienceRequirements: {str(exp)[:200]}")
+            print(f"[debug] description[:300]: {_TAG_RE.sub(' ', str(detail.get('description') or ''))[:300]}")
             debugged = True
         level, keep = classify_level(detail)
         print(f"  [{'KEEP' if keep else 'drop'}] {title!r} -> level={level}")
         if not keep:
             continue
-        url = job_url(j)
         if url in seen_urls:
             continue
         seen_urls.add(url)
