@@ -1,0 +1,29 @@
+name: Weekly Auto-Apply Report
+
+on:
+  workflow_dispatch:          # manual / testing
+  schedule:
+    - cron: "0 13 * * 6"      # Saturday 13:00 UTC (~9am ET)
+
+permissions:
+  contents: read
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main            # read the latest committed applied-state
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Send weekly report
+        env:
+          WEEKLY_REPORT_EMAIL:          ${{ secrets.WEEKLY_REPORT_EMAIL }}
+          EMAIL_SENDER:                 ${{ secrets.EMAIL_SENDER }}
+          GMAIL_APP_PASSWORD:           ${{ secrets.GMAIL_APP_PASSWORD }}
+          EMAIL_TO_INDIA:               ${{ secrets.EMAIL_TO_INDIA }}
+          AUTOAPPLY_GMAIL_USER:         oswin.autoapply@gmail.com
+          AUTOAPPLY_GMAIL_APP_PASSWORD: ${{ secrets.AUTOAPPLY_GMAIL_APP_PASSWORD }}
+        run: python weekly_report.py
