@@ -1,4 +1,4 @@
-name: Auto-Apply Pipeline (scrape → watch → apply)
+name: Google Auto-Apply Pipeline (scrape → watch → apply)
 
 # One trigger runs the whole chain in order. Fire it manually, or from the
 # external cron site via the GitHub API:
