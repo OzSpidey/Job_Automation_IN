@@ -1,0 +1,42 @@
+name: Instahyre Recon (map feed + apply flow)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  recon:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      - name: Install Playwright + Chromium
+        run: |
+          pip install playwright
+          python -m playwright install chromium
+          python -m playwright install-deps chromium
+      - name: Install Xvfb
+        run: sudo apt-get install -y xvfb
+      - name: Run Instahyre recon (headful under Xvfb)
+        env:
+          INSTAHYRE_SESSION_B64: ${{ secrets.INSTAHYRE_SESSION_B64 }}
+          DISPLAY: ":99"
+        run: |
+          Xvfb :99 -screen 0 1280x900x24 &
+          sleep 2
+          python instahyre_recon.py
+      - name: Upload recon artifacts
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: instahyre-recon
+          path: |
+            screenshots/
+            recon/
+          if-no-files-found: ignore
+          retention-days: 7
