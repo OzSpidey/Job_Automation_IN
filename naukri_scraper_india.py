@@ -90,11 +90,23 @@ def is_recent(posted_text: str) -> bool:
     return any(w in t for w in ["just now", "minute", "hour", "few", "today"])
 
 
+def recency_rank(posted_text: str) -> int:
+    """Best-effort newest-first ordering from Naukri's relative 'posted' text
+    (lower = more recent). Naukri gives no exact timestamp on the results page."""
+    t = (posted_text or "").lower()
+    if "just now" in t:               return 0
+    if "minute" in t:                 return 1
+    if "few" in t or "hour" in t:     return 2
+    if "today" in t:                  return 3
+    return 4
+
+
 def send_email(jobs: list[dict], previously_seen: set[str]) -> None:
     new_count = sum(1 for j in jobs if j["url"] not in previously_seen)
     count     = len(jobs)
     subject   = f"Naukri India Jobs Scraper — {count} Matching Role(s) Found ({new_count} NEW)"
 
+    jobs = sorted(jobs, key=lambda j: recency_rank(j.get("posted", "")))  # newest first
     NEW_BADGE = ('<span style="background:#4a90d9;color:#fff;font-size:11px;font-weight:bold;'
                  'padding:2px 6px;border-radius:3px;margin-right:6px;">NEW</span>')
     rows = []

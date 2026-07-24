@@ -16,6 +16,7 @@ Run: python weekly_report.py
 
 import email
 import email.header
+from email.utils import parsedate_to_datetime
 import imaplib
 import json
 import os
@@ -123,10 +124,18 @@ def fetch_responses(cutoff: datetime) -> list[dict]:
             if self_sender and self_sender in frm.lower():
                 continue  # our own scraper/confirmation emails — not a response
             subj = str(email.header.make_header(email.header.decode_header(msg.get("Subject", ""))))
-            out.append({"from": frm, "subject": subj, "date": msg.get("Date", "")})
+            raw_date = msg.get("Date", "")
+            try:
+                rdt = parsedate_to_datetime(raw_date)
+                rdt = rdt.replace(tzinfo=timezone.utc) if rdt and rdt.tzinfo is None else rdt
+            except Exception:
+                rdt = None
+            out.append({"from": frm, "subject": subj, "date": raw_date,
+                        "_dt": rdt or datetime.min.replace(tzinfo=timezone.utc)})
         box.logout()
     except Exception as exc:
         print(f"[responses] inbox scan failed (non-fatal): {exc}")
+    out.sort(key=lambda r: r["_dt"], reverse=True)   # newest first
     return out
 
 

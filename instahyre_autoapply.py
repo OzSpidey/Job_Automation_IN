@@ -219,6 +219,7 @@ def send_run_summary_email(jobs: list[dict]) -> None:
         return
     n = len(jobs)
     subject = f"Instahyre Auto-Apply — {n} role(s) applied"
+    jobs = sorted(jobs, key=lambda j: j.get("applied_at", ""), reverse=True)  # newest first
     rows = []
     for j in jobs:
         rows.append(
