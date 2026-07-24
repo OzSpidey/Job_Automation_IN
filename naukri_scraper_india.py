@@ -56,6 +56,8 @@ TARGET_SEARCHES = [
     ("Java Developer",            "https://www.naukri.com/java-developer-jobs?k=java+developer&experience=1"),
     ("Python Developer",          "https://www.naukri.com/python-developer-jobs?k=python+developer&experience=1"),
     ("C++ Developer",             "https://www.naukri.com/c-plus-plus-jobs?k=c%2B%2B&experience=1"),
+    ("Qt Developer",              "https://www.naukri.com/qt-developer-jobs?k=qt+developer&experience=1"),
+    ("Low Latency Developer",     "https://www.naukri.com/low-latency-developer-jobs?k=low+latency+developer&experience=1"),
 ]
 
 # ──────────────────────────────────────────────────────────────────────────────
