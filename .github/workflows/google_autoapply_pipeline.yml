@@ -1,12 +1,13 @@
 name: Google Auto-Apply Pipeline (scrape → watch → apply)
 
 # One trigger runs the whole chain in order. Fire it manually, or from the
-# external cron site via the GitHub API:
-#   POST /repos/OzSpidey/Job_Automation_IN/dispatches  {"event_type":"autoapply-pipeline"}
+# external cron site via the workflow-dispatch API (GH_PAT has Actions:write
+# but not Contents, so use workflow_dispatch, not repository_dispatch):
+#   POST /repos/OzSpidey/Job_Automation_IN/actions/workflows/google_autoapply_pipeline.yml/dispatches {"ref":"main"}
 on:
   workflow_dispatch:
   repository_dispatch:
-    types: [autoapply-pipeline]
+    types: [google-autoapply-pipeline]
 
 permissions:
   contents: write
