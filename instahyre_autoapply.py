@@ -41,17 +41,6 @@ BASE          = "https://www.instahyre.com"
 FEED_API      = BASE + "/api/v1/candidate_opportunities/candidate_opportunity/?limit=50"
 _IST          = ZoneInfo("Asia/Kolkata")
 
-# --search recon: candidate category pages to probe (recon reveals which are valid
-# + the real search API + whether an apply cap/paywall appears).
-SEARCH_URLS = [
-    BASE + "/software-engineer-jobs/",
-    BASE + "/python-developer-jobs/",
-    BASE + "/backend-developer-jobs/",
-]
-LIMIT_MARKERS = ["go premium", "upgrade to premium", "premium to apply", "applies left",
-                 "application limit", "you have reached", "daily limit", "reached your limit",
-                 "buy premium", "limit reached", "premium members"]
-
 HERE          = os.path.dirname(__file__)
 APPLIED_FILE  = os.path.join(HERE, "json", "instahyre_applied.json")
 SCREENSHOT_DIR = os.path.join(HERE, "screenshots")
@@ -284,37 +273,6 @@ def recon(page) -> None:
         print(f"  [{state}] {o['title']} @ {o['company']} — {o['location']}  {o['url']}")
 
 
-def search(page, captured: list) -> None:
-    """Recon the keyword-search path: probe category pages, list job links, watch
-    for an apply cap/paywall, and surface any search API XHR that was intercepted."""
-    print("Search recon — probing category pages (no applies)")
-    for url in SEARCH_URLS:
-        print(f"\n[search] GET {url}")
-        try:
-            page.goto(url, wait_until="domcontentloaded", timeout=45000)
-            page.wait_for_timeout(5000)
-        except Exception as exc:
-            print(f"  [warn] nav: {exc}")
-        snap(page, "instahyre_search_" + re.sub(r"\W+", "_", url)[-28:])
-        try:
-            links = page.eval_on_selector_all(
-                "a[href*='/job-']", "els => els.map(e => e.getAttribute('href'))")
-        except Exception:
-            links = []
-        links = sorted({l for l in links if l})
-        print(f"  final url : {page.url}")
-        print(f"  job links : {len(links)}  e.g. {links[:3]}")
-        try:
-            body = (page.inner_text("body") or "").lower()
-        except Exception:
-            body = ""
-        hits = [m for m in LIMIT_MARKERS if m in body]
-        print(f"  limit/paywall markers: {hits or 'none'}")
-    print(f"\nIntercepted API XHR ({len(captured)}):")
-    for u in captured[:15]:
-        print(f"  {u}")
-
-
 def walk(page) -> None:
     feed = [o for o in fetch_feed(page) if o["status"] == STATUS_UNDECIDED]
     if not feed:
@@ -385,7 +343,6 @@ def main() -> None:
     mode = "recon"
     if "--walk" in sys.argv:   mode = "walk"
     if "--apply" in sys.argv:  mode = "apply"
-    if "--search" in sys.argv: mode = "search"
     print("=" * 60)
     print(f"Instahyre Auto-Apply — India · mode={mode} · submit={'ON' if ENABLE_SUBMIT else 'off'}")
     print("=" * 60)
@@ -409,16 +366,10 @@ def main() -> None:
         context.add_init_script(
             "Object.defineProperty(navigator,'webdriver',{get:()=>undefined});")
         page = context.new_page()
-        captured: list = []
-        if mode == "search":
-            page.on("response", lambda r: captured.append(f"{r.status} {r.url}")
-                    if ("instahyre.com" in r.url and ("/api/" in r.url or "job" in r.url.lower()
-                        or "search" in r.url.lower())) else None)
         try:
-            if mode == "recon":    recon(page)
-            elif mode == "walk":   walk(page)
-            elif mode == "search": search(page, captured)
-            else:                  apply(page)
+            if mode == "recon":  recon(page)
+            elif mode == "walk": walk(page)
+            else:                apply(page)
         finally:
             context.close(); browser.close()
     print("\nDone.")
