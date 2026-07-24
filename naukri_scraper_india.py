@@ -58,6 +58,13 @@ TARGET_SEARCHES = [
     ("C++ Developer",             "https://www.naukri.com/c-plus-plus-jobs?k=c%2B%2B&experience=1"),
     ("Qt Developer",              "https://www.naukri.com/qt-developer-jobs?k=qt+developer&experience=1"),
     ("Low Latency Developer",     "https://www.naukri.com/low-latency-developer-jobs?k=low+latency+developer&experience=1"),
+    ("Embedded Developer",        "https://www.naukri.com/embedded-developer-jobs?k=embedded+developer&experience=1"),
+    ("Embedded Engineer",         "https://www.naukri.com/embedded-engineer-jobs?k=embedded+engineer&experience=1"),
+    ("Systems Software Engineer", "https://www.naukri.com/systems-software-engineer-jobs?k=systems+software+engineer&experience=1"),
+    ("HFT Developer",             "https://www.naukri.com/hft-developer-jobs?k=hft+developer&experience=1"),
+    ("Quantitative Developer",    "https://www.naukri.com/quantitative-developer-jobs?k=quantitative+developer&experience=1"),
+    ("Firmware Engineer",         "https://www.naukri.com/firmware-engineer-jobs?k=firmware+engineer&experience=1"),
+    ("Performance Engineer",      "https://www.naukri.com/performance-engineer-jobs?k=performance+engineer&experience=1"),
 ]
 
 # ──────────────────────────────────────────────────────────────────────────────
