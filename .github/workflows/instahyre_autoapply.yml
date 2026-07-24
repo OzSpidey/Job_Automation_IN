@@ -4,10 +4,10 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "recon (list feed) | walk (map Apply, no submit) | apply"
+        description: "apply (default; what the cron uses) | recon (list feed) | walk (map Apply, no submit)"
         type: choice
-        default: recon
-        options: [recon, walk, apply]
+        default: apply
+        options: [apply, recon, walk]
       limit:
         description: "apply mode: max applications to submit this run (0 = all Undecided)"
         default: "0"
