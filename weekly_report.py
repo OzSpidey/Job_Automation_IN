@@ -196,7 +196,7 @@ def build_html(grouped: dict, responses: list[dict], start: datetime, end: datet
 
     body = sections and "\n".join(sections) or '<p style="color:#666">No applications submitted this week.</p>'
     html = f"""<html><body style="font-family:Arial,sans-serif;color:#333">
-      <h2 style="color:#202124">Weekly Auto-Apply Report</h2>
+      <h2 style="color:#202124">Oswin Weekly AutoApply Report</h2>
       <p style="color:#555">{rng} &nbsp;·&nbsp; <strong>{total}</strong> application(s) &nbsp;—&nbsp; {counts}</p>
       {body}
       {resp_html}
@@ -217,7 +217,7 @@ def send_email(html: str, plain: str, total: int) -> None:
         print("[error] WEEKLY_REPORT_EMAIL / EMAIL_SENDER / GMAIL_APP_PASSWORD not set."); return
     recipients = [a.strip() for a in REPORT_TO.split(",") if a.strip()]
     msg = MIMEMultipart("alternative")
-    msg["Subject"] = f"Weekly Auto-Apply Report — {total} application(s)"
+    msg["Subject"] = f"Oswin Weekly AutoApply Report — {total} application(s)"
     msg["From"] = SENDER
     msg["To"] = ", ".join(recipients)
     msg.attach(MIMEText(plain, "plain"))

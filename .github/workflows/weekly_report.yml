@@ -1,4 +1,4 @@
-name: Weekly Auto-Apply Report
+name: Oswin Weekly AutoApply Report
 
 on:
   workflow_dispatch:          # manual / testing
