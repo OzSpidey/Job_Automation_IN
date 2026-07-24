@@ -40,5 +40,435 @@
     "queued_at": "2026-07-23T18:20:45.676219+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "240726501920",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-inevitable-electronics-private-limited-bengaluru-0-to-1-years-240726501920",
+    "source": "naukri",
+    "company": "Inevitable Electronics",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726504126",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-adva-bengaluru-0-to-4-years-240726504126",
+    "source": "naukri",
+    "company": "Adva Optical Networking",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726504941",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-everwell-health-solutions-pvt-ltd-bengaluru-0-to-3-years-240726504941",
+    "source": "naukri",
+    "company": "Everwell Health",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726503836",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-barclays-shared-services-pune-0-to-7-years-240726503836",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726506403",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-nomura-capital-india-private-limited-mumbai-0-to-4-years-240726506403",
+    "source": "naukri",
+    "company": "Nomura",
+    "location": "Mumbai",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726927801",
+    "title": "Software Engineer - .NET, C# & React",
+    "url": "https://www.naukri.com/job-listings-software-engineer-net-c-react-optum-global-solutions-india-private-limited-hyderabad-0-to-5-years-240726927801",
+    "source": "naukri",
+    "company": "Optum",
+    "location": "Hyderabad",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726504328",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-ust-bengaluru-0-to-2-years-240726504328",
+    "source": "naukri",
+    "company": "UST",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726500075",
+    "title": "Backend and Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-and-frontend-developer-fresha-mumbai-1-to-3-years-240726500075",
+    "source": "naukri",
+    "company": "Fresha",
+    "location": "Mumbai",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726504960",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-kyvor-genomics-pvt-ltd-chennai-1-to-3-years-240726504960",
+    "source": "naukri",
+    "company": "Kyvor Genomics",
+    "location": "Chennai",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726504414",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-talview-bengaluru-1-to-5-years-240726504414",
+    "source": "naukri",
+    "company": "Talview",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726505054",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-mantra-care-health-new-delhi-1-to-4-years-240726505054",
+    "source": "naukri",
+    "company": "Mantra Care",
+    "location": "New Delhi",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726504763",
+    "title": "Full Stack Laravel Developer (BuzzCart Product Team) WFO | IJP",
+    "url": "https://www.naukri.com/job-listings-full-stack-laravel-developer-buzzcart-product-team-wfo-ijp-brainybuzz-solution-ghaziabad-1-to-5-years-240726504763",
+    "source": "naukri",
+    "company": "Brainybuzz Solution",
+    "location": "Ghaziabad",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726504056",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-taurus-hard-soft-solutions-pvt-ltd-bengaluru-0-to-1-years-240726504056",
+    "source": "naukri",
+    "company": "Taurus Hard Soft Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726503635",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-talview-bengaluru-1-to-5-years-240726503635",
+    "source": "naukri",
+    "company": "Talview",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726503111",
+    "title": "Web Crawling Python Developer",
+    "url": "https://www.naukri.com/job-listings-web-crawling-python-developer-love-in-store-gurugram-1-to-4-years-240726503111",
+    "source": "naukri",
+    "company": "Love In Store",
+    "location": "Gurugram",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726503985",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-softlabs-group-mumbai-1-to-5-years-240726503985",
+    "source": "naukri",
+    "company": "Softlabs Technologies And Development",
+    "location": "Mumbai",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726504382",
+    "title": "Software Engineer / Programmer / Developer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-programmer-developer-itlpro-solutions-private-limited-pune-0-to-6-years-240726504382",
+    "source": "naukri",
+    "company": "ITLPro Solutions",
+    "location": "Pune",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726928442",
+    "title": "Quality Assurance Engineer - Fresher",
+    "url": "https://www.naukri.com/job-listings-quality-assurance-engineer-fresher-m-s-dyansys-india-private-limited-chennai-0-to-1-years-240726928442",
+    "source": "naukri",
+    "company": "M/s Dyansys India Private Limited",
+    "location": "Chennai",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726917403",
+    "title": "Software Developer-Ui",
+    "url": "https://www.naukri.com/job-listings-software-developer-ui-excelra-knowledge-solutions-private-limited-hyderabad-uppal-1-to-6-years-240726917403",
+    "source": "naukri",
+    "company": "Excelra",
+    "location": "Hyderabad, Uppal",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726505747",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-navdurga-formtech-private-limited-pune-0-to-2-years-240726505747",
+    "source": "naukri",
+    "company": "Navdurga Formtech",
+    "location": "Pune",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726504276",
+    "title": "GenAI Engineer",
+    "url": "https://www.naukri.com/job-listings-genai-engineer-cannyfore-technology-solutions-private-limited-remote-0-to-1-years-240726504276",
+    "source": "naukri",
+    "company": "Cannyfore Technology Solutions",
+    "location": "Remote",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726503616",
+    "title": "Fresher Engineer",
+    "url": "https://www.naukri.com/job-listings-fresher-engineer-itlpro-solutions-private-limited-pune-0-to-1-years-240726503616",
+    "source": "naukri",
+    "company": "ITLPro Solutions",
+    "location": "Pune",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726503080",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-happy-forgings-limited-ludhiana-0-to-8-years-240726503080",
+    "source": "naukri",
+    "company": "Happy Forging",
+    "location": "Ludhiana",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726502045",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-ams-new-delhi-1-to-6-years-240726502045",
+    "source": "naukri",
+    "company": "ams OSRAM Group",
+    "location": "New Delhi",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726501078",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-hamilton-housewares-pvt-ltd-dadra-nagar-haveli-nagar-0-to-2-years-240726501078",
+    "source": "naukri",
+    "company": "Hamilton Housewares",
+    "location": "Dadra & Nagar Haveli, Nagar",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726501058",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-hamilton-housewares-pvt-ltd-dadra-nagar-haveli-nagar-1-to-3-years-240726501058",
+    "source": "naukri",
+    "company": "Hamilton Housewares",
+    "location": "Dadra & Nagar Haveli, Nagar",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726022709",
+    "title": "AIML/ GenAI Engineer",
+    "url": "https://www.naukri.com/job-listings-aiml-genai-engineer-vashi-electricals-mumbai-all-areas-1-to-3-years-240726022709",
+    "source": "naukri",
+    "company": "Vashi Electricals",
+    "location": "Mumbai (All Areas)(Bhiwandi)",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726503971",
+    "title": "Quantitative Researcher",
+    "url": "https://www.naukri.com/job-listings-quantitative-researcher-bitqcode-capital-bengaluru-1-to-4-years-240726503971",
+    "source": "naukri",
+    "company": "Bitqcode Capital",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726015571",
+    "title": "Institutional Derivative Dealer",
+    "url": "https://www.naukri.com/job-listings-institutional-derivative-dealer-irage-mumbai-1-to-3-years-240726015571",
+    "source": "naukri",
+    "company": "iRageCapital",
+    "location": "Mumbai",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726929482",
+    "title": "DE - NCLC - Sitefinity - Developer - GDSN02",
+    "url": "https://www.naukri.com/job-listings-de-nclc-sitefinity-developer-gdsn02-ernst-young-llp-bengaluru-1-to-5-years-240726929482",
+    "source": "naukri",
+    "company": "EY",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726927658",
+    "title": "Architect Analyst -Windows OS",
+    "url": "https://www.naukri.com/job-listings-architect-analyst-windows-os-optum-global-solutions-india-private-limited-bengaluru-1-to-6-years-240726927658",
+    "source": "naukri",
+    "company": "Optum",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726507406",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-240726507406",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726506406",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-nomura-capital-india-private-limited-mumbai-0-to-2-years-240726506406",
+    "source": "naukri",
+    "company": "Nomura",
+    "location": "Mumbai",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726503304",
+    "title": "Analyst - O2C",
+    "url": "https://www.naukri.com/job-listings-analyst-o2c-ramboll-india-private-limited-gurugram-greater-noida-1-to-3-years-240726503304",
+    "source": "naukri",
+    "company": "Ramboll",
+    "location": "Gurugram, Greater Noida",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726507015",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-4-years-240726507015",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726501681",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-acuity-knowledge-partners-gurugram-1-to-3-years-240726501681",
+    "source": "naukri",
+    "company": "Moodys Analytics",
+    "location": "Gurugram",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726500161",
+    "title": "Airtable Developer and Administrator",
+    "url": "https://www.naukri.com/job-listings-airtable-developer-and-administrator-cialfo-solutions-new-delhi-1-to-2-years-240726500161",
+    "source": "naukri",
+    "company": "Cialfo",
+    "location": "New Delhi",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726025671",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-240726025671",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726025666",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-bdo-india-gurugram-1-to-3-years-240726025666",
+    "source": "naukri",
+    "company": "BDO India",
+    "location": "Hybrid - Gurugram",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726023373",
+    "title": "Adops - Analyst",
+    "url": "https://www.naukri.com/job-listings-adops-analyst-omnicom-global-solutions-chennai-1-to-3-years-240726023373",
+    "source": "naukri",
+    "company": "Omnicom Global Solutions",
+    "location": "Chennai",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726018600",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-240726018600",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726927258",
+    "title": "Thermal and Limits Management, Power Performance Engineer, Staff",
+    "url": "https://www.naukri.com/job-listings-thermal-and-limits-management-power-performance-engineer-staff-qualcomm-india-pvt-ltd-bengaluru-1-to-4-years-240726927258",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240726032087",
+    "title": "Autocad Draftsman Civil Engineer",
+    "url": "https://www.naukri.com/job-listings-autocad-draftsman-civil-engineer-performance-matrix-margao-1-to-2-years-240726032087",
+    "source": "naukri",
+    "company": "performance matrix",
+    "location": "Margao",
+    "queued_at": "2026-07-24T14:37:29.288122+00:00",
+    "status": "queued"
   }
 ]
