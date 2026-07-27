@@ -9,28 +9,6 @@
     "status": "queued"
   },
   {
-    "job_id": "310326023167",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-310326023167",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-07-27T14:15:28.305386+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "300526011350",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-pune-0-to-2-years-300526011350",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-07-27T14:15:28.305386+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "270726014308",
     "title": "Python Developer",
     "url": "https://www.naukri.com/job-listings-python-developer-bmw-techworks-india-pune-0-to-2-years-270726014308",
@@ -39,6 +17,6 @@
     "location": "Hybrid - Pune",
     "queued_at": "2026-07-27T16:15:25.781942+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
