@@ -73,6 +73,18 @@ APPLY_LIMIT   = int(os.environ.get("APPLY_LIMIT", "0"))  # 0 = whole naukri queu
 MAX_STEPS     = 8
 MAX_ATTEMPTS  = int(os.environ.get("NAUKRI_MAX_ATTEMPTS", "3"))  # drop a stuck job after N tries
 
+# Chatbot (recruiter Q&A) config
+GROQ_API_KEY  = os.environ.get("GROQ_API_KEY", "").strip()
+GROQ_MODEL    = os.environ.get("GROQ_MODEL", "llama-3.3-70b-versatile").strip()
+CHATBOT_MAX_Q = int(os.environ.get("NAUKRI_CHATBOT_MAX_Q", "12"))  # safety bound on Q&A steps
+
+
+class ChatbotAbort(Exception):
+    """A chatbot question we can't answer confidently. Raised BEFORE the final
+    Save, so nothing is submitted (Naukri only submits after the last Save); the
+    job is re-queued instead of blind-submitting a wrong/blank answer."""
+
+
 # On-site apply CTAs (we can complete these). Company-site = external redirect.
 APPLY_BTN_RE   = re.compile(r"^\s*(apply|i am interested|apply now)\s*$", re.I)
 COMPANY_BTN_RE = re.compile(r"apply on company site|company site|apply on", re.I)
@@ -289,15 +301,248 @@ def find_apply(page) -> tuple[str, object] | None:
 
 
 # ──────────────────────────────────────────────────────────────────────────────
-# CHATBOT FILL (STUB — mapped after recon)
+# CHATBOT FILL  (recruiter Q&A drawer — mapped from real captures 2026-07-27)
+#
+# Drawer = ._chatBotContainer. Questions arrive one at a time as <div.botMsg.msg>;
+# answer widgets are: single-select radio (input.ssrc__radio + label.ssrc__label),
+# free-text (div.textArea[contenteditable]), or best-effort chatbot chips. The
+# "Save" button (div.sendMsg, disabled until answered) advances to the next
+# question; the application is submitted only after the FINAL Save.
+# Answers come from a preset map (standard fields) with a Groq LLM fallback for
+# open-ended ones, both grounded in NAUKRI_ANSWERS_JSON.
 # ──────────────────────────────────────────────────────────────────────────────
 
-def fill_chatbot(page, ans: dict) -> None:
-    """Answer Naukri's post-apply chatbot Q&A. NOT implemented until recon shows
-    it; raising guarantees --apply can't blind-submit a half-answered form."""
-    raise NotImplementedError(
-        "Naukri chatbot not mapped yet — run --recon, inspect artifacts, then implement."
+def _is_greeting(q: str) -> bool:
+    ql = q.lower()
+    return "thank you for showing interest" in ql or "kindly answer" in ql
+
+
+def _groq_answer(question: str, kind: str, options: list[str], profile: str) -> str | None:
+    """Answer ONE recruiter question via Groq, grounded in the candidate profile.
+    Returns the answer, or None if Groq is unavailable or not confident."""
+    if not (GROQ_API_KEY and profile):
+        return None
+    import urllib.request
+    if kind in ("radio", "chips") and options:
+        fmt = "Choose EXACTLY ONE of these options, copied verbatim: " + " | ".join(options) + "."
+    else:
+        fmt = "Answer in a few words (a number, short phrase, or one sentence). No preamble."
+    sys_prompt = (
+        "You are filling a job-application screening form for the candidate below. "
+        "Answer the recruiter's question truthfully FROM THE PROFILE ONLY. If the profile "
+        "does not support a confident, truthful answer, set confident=false. Never invent "
+        "experience or credentials the profile doesn't state.\n\nCANDIDATE PROFILE:\n" + profile
     )
+    user_prompt = (
+        f"Question: {question}\nAnswer format: {fmt}\n"
+        'Reply with ONLY compact JSON: {"answer": "<answer>", "confident": true|false}.'
+    )
+    body = json.dumps({
+        "model": GROQ_MODEL,
+        "temperature": 0,
+        "max_tokens": 200,
+        "response_format": {"type": "json_object"},
+        "messages": [{"role": "system", "content": sys_prompt},
+                     {"role": "user", "content": user_prompt}],
+    }).encode()
+    req = urllib.request.Request(
+        "https://api.groq.com/openai/v1/chat/completions", data=body,
+        headers={"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"})
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            data = json.loads(resp.read().decode())
+        parsed = json.loads(data["choices"][0]["message"]["content"])
+    except Exception as exc:
+        print(f"    [groq] error: {exc}")
+        return None
+    if not parsed.get("confident"):
+        print("    [groq] not confident — abstaining.")
+        return None
+    return (str(parsed.get("answer", "")).strip()) or None
+
+
+def _opt_match(value, kind: str, options: list[str]):
+    """Map an answer to one of a choice question's options (exact, then substring).
+    For free-text questions just return the value. Returns None if no option fits."""
+    if kind not in ("radio", "chips") or not options:
+        return value
+    v = (value or "").strip().lower()
+    if not v:
+        return None
+    for o in options:
+        if o.strip().lower() == v:
+            return o
+    for o in options:
+        ol = o.strip().lower()
+        if v in ol or ol in v:
+            return o
+    return None
+
+
+def _preset_answer(qtext: str, kind: str, options: list[str], ans: dict):
+    """Deterministic answers for the standard recruiter fields from NAUKRI_ANSWERS_JSON.
+    Returns an answer string, or None to defer to the LLM."""
+    q = qtext.lower()
+
+    # user-supplied regex overrides win
+    for rule in ans.get("rules", []):
+        pat = rule.get("pattern", "")
+        if pat and re.search(pat, q):
+            return _opt_match(rule.get("answer"), kind, options)
+
+    def has(*subs):
+        return any(s in q for s in subs)
+
+    if has("title") and kind == "radio":
+        return _opt_match(ans.get("title"), kind, options)
+    if has("gender") and kind == "radio":
+        return _opt_match(ans.get("gender"), kind, options)
+    if has("notice period", "notice-period", "when can you join", "how soon can you join",
+           "how soon can you start"):
+        return ans.get("notice_period")
+    if has("expected ctc", "expected salary", "expected compensation", "salary expectation"):
+        return ans.get("expected_ctc")
+    if has("current ctc", "current salary", "present ctc", "current compensation", "present salary"):
+        return ans.get("current_ctc")
+    if has("relocat"):
+        return _opt_match(ans.get("willing_to_relocate"), kind, options)
+    if has("preferred location", "preferred city"):
+        return ans.get("preferred_location") or ans.get("current_location")
+    if has("current location", "present location", "which city", "your location", "based in",
+           "where are you"):
+        return ans.get("current_location")
+    if has("total experience", "overall experience", "total work experience"):
+        return ans.get("total_experience_years")
+    # "years of experience" WITHOUT a specific skill -> total; skill questions -> LLM
+    if has("years of experience", "how many years") and " in " not in q and " with " not in q:
+        return ans.get("total_experience_years")
+    if has("authoriz", "eligible to work", "work permit", "legally allowed"):
+        return ans.get("work_authorization")
+    return None
+
+
+def _answer_question(qtext: str, kind: str, options: list[str], ans: dict) -> str | None:
+    a = _preset_answer(qtext, kind, options, ans)
+    if a:
+        return a
+    a = _groq_answer(qtext, kind, options, ans.get("profile", ""))
+    if a is None:
+        return None
+    if kind in ("radio", "chips") and options:
+        return _opt_match(a, kind, options)   # None if the model's answer isn't a valid option
+    return a
+
+
+def _current_question(page) -> str:
+    try:
+        texts = [re.sub(r"\s+", " ", t).strip()
+                 for t in page.locator(".botMsg").all_inner_texts() if t and t.strip()]
+    except Exception:
+        return ""
+    return texts[-1] if texts else ""
+
+
+def _chatbot_visible(page) -> bool:
+    try:
+        return page.locator("._chatBotContainer .chatbot_Drawer").first.is_visible(timeout=1000)
+    except Exception:
+        return False
+
+
+def _detect_widget(page):
+    """Return (kind, options) for the CURRENT question's answer control."""
+    try:
+        labels = page.locator("label.ssrc__label")
+        if labels.count() > 0 and labels.first.is_visible(timeout=800):
+            opts = [t.strip() for t in labels.all_inner_texts() if t.strip()]
+            return ("radio", opts)
+    except Exception:
+        pass
+    try:
+        chips = page.locator(".chatbot_MessageContainer [class*='chip'][class*='clickable']")
+        if chips.count() > 0 and chips.first.is_visible(timeout=800):
+            opts = [t.strip() for t in chips.all_inner_texts() if t.strip()]
+            return ("chips", opts)
+    except Exception:
+        pass
+    try:
+        ta = page.locator("div.textArea[contenteditable='true']")
+        if ta.count() > 0 and ta.first.is_visible(timeout=800):
+            return ("text", [])
+    except Exception:
+        pass
+    return ("unknown", [])
+
+
+def _apply_answer(page, kind: str, options: list[str], answer: str) -> bool:
+    if kind == "radio":
+        labels = page.locator("label.ssrc__label")
+        for i in range(labels.count()):
+            lab = labels.nth(i)
+            if (lab.inner_text() or "").strip().lower() == answer.strip().lower():
+                lab.click(timeout=4000)
+                return True
+        return False
+    if kind == "chips":
+        wanted = {a.strip().lower() for a in re.split(r"[,/;]| and ", answer) if a.strip()}
+        chips = page.locator(".chatbot_MessageContainer [class*='chip'][class*='clickable']")
+        clicked = False
+        for i in range(chips.count()):
+            c = chips.nth(i)
+            if (c.inner_text() or "").strip().lower() in wanted:
+                c.click(timeout=4000)
+                clicked = True
+        return clicked
+    if kind == "text":
+        ta = page.locator("div.textArea[contenteditable='true']").first
+        ta.click()
+        try:
+            ta.press_sequentially(answer, delay=15)
+        except Exception:
+            page.keyboard.type(answer)
+        return True
+    return False
+
+
+def _click_save(page) -> None:
+    """Click the drawer's Save button once it's enabled (parent .send loses .disabled)."""
+    for _ in range(25):
+        try:
+            if page.locator("div.send.disabled div.sendMsg").count() == 0:
+                break
+        except Exception:
+            break
+        page.wait_for_timeout(200)
+    page.locator("div.sendMsg").last.click(timeout=5000)
+
+
+def fill_chatbot(page, ans: dict) -> bool:
+    """Drive the recruiter Q&A to completion. Returns True if the application was
+    submitted; raises ChatbotAbort (nothing submitted) if a question can't be answered."""
+    last_q = None
+    for step in range(CHATBOT_MAX_Q):
+        page.wait_for_timeout(1200)
+        if apply_succeeded(page) or not _chatbot_visible(page):
+            return True
+        q = _current_question(page)
+        if not q or _is_greeting(q):
+            page.wait_for_timeout(1200)
+            q = _current_question(page)
+        if not q or _is_greeting(q):
+            raise ChatbotAbort("no question text rendered")
+        if q == last_q:
+            raise ChatbotAbort(f"did not advance past: {q[:60]}")
+        last_q = q
+        kind, options = _detect_widget(page)
+        print(f"    Q{step + 1} [{kind}] {q[:80]}" + (f"  opts={options}" if options else ""))
+        answer = _answer_question(q, kind, options, ans)
+        if not answer:
+            raise ChatbotAbort(f"no confident answer for: {q[:60]}")
+        print(f"      -> {answer[:60]}")
+        if not _apply_answer(page, kind, options, answer):
+            raise ChatbotAbort(f"could not set answer '{answer[:30]}' ({kind})")
+        _click_save(page)
+    raise ChatbotAbort("exceeded max chatbot questions")
 
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -403,14 +648,20 @@ def apply(page, jobs: list[dict], ans: dict, others: list[dict]) -> None:
                 submitted = True
                 print("  [submit] Apply succeeded.")
             elif chatbot_open(page):
+                snap(page, f"naukri_chatbot_{jid}")     # capture the Q&A for diagnostics
                 try:
-                    fill_chatbot(page, ans)
-                    page.wait_for_timeout(3000)
-                    submitted = apply_succeeded(page)
+                    submitted = fill_chatbot(page, ans)
+                    page.wait_for_timeout(2500)
+                    submitted = submitted or apply_succeeded(page)
+                    if submitted:
+                        print("  [submit] chatbot completed — application submitted.")
+                except ChatbotAbort as exc:
+                    print(f"  [skip] chatbot not answerable: {exc}")
+                    snap(page, f"naukri_chatbot_abort_{jid}")
                 except NotImplementedError:
                     print("  [skip] recruiter chatbot appeared — not mapped yet.")
                 if not submitted:
-                    requeue_or_drop(job, "chatbot not mapped"); continue
+                    requeue_or_drop(job, "chatbot"); continue
             else:
                 print("  [skip] no success signal after Apply.")
                 requeue_or_drop(job, "no success signal"); continue
