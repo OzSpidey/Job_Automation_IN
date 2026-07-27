@@ -20,13 +20,16 @@ Modes:
   --walk    Take ONE job as far as possible, screenshot each step, stop before
             final submit.
   --apply   Real run: apply — but only actually submit when NAUKRI_ENABLE_SUBMIT=1.
-            fill_chatbot() is a stub until recon reveals the Q&A, so apply can't
-            blind-submit a half-answered form.
+            When Apply opens a recruiter chatbot, fill_chatbot() answers it from
+            NAUKRI_ANSWERS_JSON (preset map + Groq fallback) and submits only on
+            the final Save; it re-queues (never blind-submits) if a question
+            can't be answered confidently.
 
 Env:
   NAUKRI_SESSION_B64 / NAUKRI_SESSION_FILE   captured session
-  NAUKRI_ANSWERS_JSON      chatbot answers (shape TBD after recon)
+  NAUKRI_ANSWERS_JSON      preset answers + candidate profile (see fill_chatbot)
   NAUKRI_ENABLE_SUBMIT     "1" to actually submit (default off)
+  GROQ_API_KEY / GROQ_MODEL  LLM fallback for open-ended chatbot questions
   APPLY_LIMIT              max submissions per run (0 = whole naukri queue)
   RECON_LIMIT             max jobs for --recon (default 4)
 """
@@ -444,7 +447,7 @@ def _current_question(page) -> str:
 
 def _chatbot_visible(page) -> bool:
     try:
-        return page.locator("._chatBotContainer .chatbot_Drawer").first.is_visible(timeout=1000)
+        return page.locator("._chatBotContainer .chatbot_Drawer").first.is_visible()
     except Exception:
         return False
 
@@ -453,21 +456,21 @@ def _detect_widget(page):
     """Return (kind, options) for the CURRENT question's answer control."""
     try:
         labels = page.locator("label.ssrc__label")
-        if labels.count() > 0 and labels.first.is_visible(timeout=800):
+        if labels.count() > 0 and labels.first.is_visible():
             opts = [t.strip() for t in labels.all_inner_texts() if t.strip()]
             return ("radio", opts)
     except Exception:
         pass
     try:
         chips = page.locator(".chatbot_MessageContainer [class*='chip'][class*='clickable']")
-        if chips.count() > 0 and chips.first.is_visible(timeout=800):
+        if chips.count() > 0 and chips.first.is_visible():
             opts = [t.strip() for t in chips.all_inner_texts() if t.strip()]
             return ("chips", opts)
     except Exception:
         pass
     try:
         ta = page.locator("div.textArea[contenteditable='true']")
-        if ta.count() > 0 and ta.first.is_visible(timeout=800):
+        if ta.count() > 0 and ta.first.is_visible():
             return ("text", [])
     except Exception:
         pass
