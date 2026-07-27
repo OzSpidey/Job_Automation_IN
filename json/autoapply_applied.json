@@ -160,5 +160,93 @@
     "queued_at": "2026-07-27T08:15:23.337959+00:00",
     "status": "applied",
     "applied_at": "2026-07-27T08:16:46.784217+00:00"
+  },
+  {
+    "job_id": "270726915813",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-ecolab-global-services-private-limited-bengaluru-1-to-4-years-270726915813",
+    "source": "naukri",
+    "company": "Ecolab Global Services",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-27T10:16:27.185601+00:00"
+  },
+  {
+    "job_id": "270726913981",
+    "title": "Software Developer Optimization Tools",
+    "url": "https://www.naukri.com/job-listings-software-developer-optimization-tools-hitachi-energy-india-limited-chennai-1-to-5-years-270726913981",
+    "source": "naukri",
+    "company": "Hitachi Energy",
+    "location": "Chennai",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-27T10:17:08.254226+00:00"
+  },
+  {
+    "job_id": "270726915039",
+    "title": "MLops Engineer",
+    "url": "https://www.naukri.com/job-listings-mlops-engineer-capgemini-technology-services-india-limited-pune-1-to-6-years-270726915039",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Pune",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-27T10:17:18.152184+00:00"
+  },
+  {
+    "job_id": "270726913725",
+    "title": "Chassis Brakes-Engineer",
+    "url": "https://www.naukri.com/job-listings-chassis-brakes-engineer-tata-technologies-ltd-pune-1-to-3-years-270726913725",
+    "source": "naukri",
+    "company": "Tata Technologies",
+    "location": "Pune",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-27T10:17:27.902831+00:00"
+  },
+  {
+    "job_id": "270726913568",
+    "title": "Offer Engineering Professional",
+    "url": "https://www.naukri.com/job-listings-offer-engineering-professional-hitachi-energy-india-limited-savli-0-to-1-years-270726913568",
+    "source": "naukri",
+    "company": "Hitachi Energy",
+    "location": "Savli",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-27T10:17:51.053630+00:00"
+  },
+  {
+    "job_id": "270726913380",
+    "title": "Secondary Engineer",
+    "url": "https://www.naukri.com/job-listings-secondary-engineer-hitachi-energy-india-limited-savli-0-to-1-years-270726913380",
+    "source": "naukri",
+    "company": "Hitachi Energy",
+    "location": "Savli",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-27T10:18:01.130064+00:00"
+  },
+  {
+    "job_id": "270726915155",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-cushman-wakefield-india-pvt-ltd-gurugram-0-to-5-years-270726915155",
+    "source": "naukri",
+    "company": "Cushman & Wakefield",
+    "location": "Gurugram",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-27T10:18:15.415025+00:00"
+  },
+  {
+    "job_id": "270726015023",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-shree-naman-developers-mumbai-0-to-2-years-270726015023",
+    "source": "naukri",
+    "company": "Shree Naman Developers",
+    "location": "Mumbai(Bandra Kurla Complex)",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-27T10:19:01.382053+00:00"
   }
 ]
