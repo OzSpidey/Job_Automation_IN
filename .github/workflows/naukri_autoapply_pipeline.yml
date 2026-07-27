@@ -92,6 +92,7 @@ jobs:
           NAUKRI_SESSION_B64:   ${{ secrets.NAUKRI_SESSION_B64 }}
           NAUKRI_ANSWERS_JSON:  ${{ secrets.NAUKRI_ANSWERS_JSON }}
           NAUKRI_ENABLE_SUBMIT: ${{ vars.NAUKRI_ENABLE_SUBMIT }}
+          GROQ_API_KEY:         ${{ secrets.GROQ_API_KEY }}
           APPLY_LIMIT:          "10"
           EMAIL_SENDER:         ${{ secrets.EMAIL_SENDER }}
           GMAIL_APP_PASSWORD:   ${{ secrets.GMAIL_APP_PASSWORD }}
