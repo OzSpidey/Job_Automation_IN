@@ -7,5 +7,75 @@
     "level": "Early",
     "queued_at": "2026-07-23T22:01:33.405629+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "270726500111",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-inevitable-electronics-private-limited-bengaluru-0-to-1-years-270726500111",
+    "source": "naukri",
+    "company": "Inevitable Electronics",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T06:15:16.137094+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726500368",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-47-billion-information-technologies-private-limited-bengaluru-0-to-3-years-270726500368",
+    "source": "naukri",
+    "company": "47billion",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T06:15:16.137094+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726905477",
+    "title": "Circuits _ Engineer",
+    "url": "https://www.naukri.com/job-listings-circuits-engineer-tata-technologies-ltd-pimpri-1-to-3-years-270726905477",
+    "source": "naukri",
+    "company": "Tata Technologies",
+    "location": "Pimpri",
+    "queued_at": "2026-07-27T06:15:16.137094+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726500319",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-violet-infosystems-pvt-ltd-malda-1-to-5-years-270726500319",
+    "source": "naukri",
+    "company": "Violet Infosystems",
+    "location": "Malda",
+    "queued_at": "2026-07-27T06:15:16.137094+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726500236",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-ams-new-delhi-1-to-6-years-270726500236",
+    "source": "naukri",
+    "company": "ams OSRAM Group",
+    "location": "New Delhi",
+    "queued_at": "2026-07-27T06:15:16.137094+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726004660",
+    "title": "Biomedical Engineer - Fresher",
+    "url": "https://www.naukri.com/job-listings-biomedical-engineer-fresher-ababil-healthcare-vijayawada-kalburagi-hubballi-0-to-2-years-270726004660",
+    "source": "naukri",
+    "company": "Ababil Healthcare",
+    "location": "Vijayawada, Kalburagi, Hubballi",
+    "queued_at": "2026-07-27T06:15:16.137094+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726901788",
+    "title": "EYP - EMS - Adavnced Analyst",
+    "url": "https://www.naukri.com/job-listings-eyp-ems-adavnced-analyst-ernst-young-llp-bengaluru-0-to-5-years-270726901788",
+    "source": "naukri",
+    "company": "EY",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T06:15:16.137094+00:00",
+    "status": "queued"
   }
 ]
