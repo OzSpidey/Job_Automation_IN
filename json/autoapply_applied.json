@@ -248,5 +248,49 @@
     "queued_at": "2026-07-27T10:15:08.999098+00:00",
     "status": "applied",
     "applied_at": "2026-07-27T10:19:01.382053+00:00"
+  },
+  {
+    "job_id": "270726019531",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-techpulse-it-services-pune-0-to-2-years-270726019531",
+    "source": "naukri",
+    "company": "Techpulse It Services",
+    "location": "Pune",
+    "queued_at": "2026-07-27T12:15:23.822973+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-27T12:16:56.179851+00:00"
+  },
+  {
+    "job_id": "270726918449",
+    "title": "Software developer - Power BI",
+    "url": "https://www.naukri.com/job-listings-software-developer-power-bi-hitachi-energy-india-limited-chennai-1-to-4-years-270726918449",
+    "source": "naukri",
+    "company": "Hitachi Energy",
+    "location": "Chennai",
+    "queued_at": "2026-07-27T12:15:23.822973+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-27T12:17:05.755795+00:00"
+  },
+  {
+    "job_id": "270726918698",
+    "title": "Electrical Engineering Professional",
+    "url": "https://www.naukri.com/job-listings-electrical-engineering-professional-hitachi-energy-india-limited-maneja-0-to-1-years-270726918698",
+    "source": "naukri",
+    "company": "Hitachi Energy",
+    "location": "Maneja",
+    "queued_at": "2026-07-27T12:15:23.822973+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-27T12:17:17.242088+00:00"
+  },
+  {
+    "job_id": "270726918158",
+    "title": "Siemens Polarion Developer- Requirements & Traceability",
+    "url": "https://www.naukri.com/job-listings-siemens-polarion-developer-requirements-traceability-hitachi-energy-india-limited-chennai-1-to-6-years-270726918158",
+    "source": "naukri",
+    "company": "Hitachi Energy",
+    "location": "Chennai",
+    "queued_at": "2026-07-27T12:15:23.822973+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-27T12:19:15.132031+00:00"
   }
 ]
