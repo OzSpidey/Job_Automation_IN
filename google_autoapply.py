@@ -126,10 +126,17 @@ def send_confirmation_email(job: dict) -> None:
 
 
 def _apps_this_month(applied: list[dict]) -> int:
-    """How many applications were submitted in the current (UTC) calendar month."""
+    """How many GOOGLE applications were submitted in the current (UTC) calendar month.
+
+    The applied ledger is shared with other sources (naukri/apple), so the Google
+    monthly cap must count Google rows ONLY — otherwise a busy Naukri month freezes
+    Google auto-apply (Naukri rows push the count past Google's 3/mo cap).
+    """
     now = datetime.now(timezone.utc)
     n = 0
     for j in applied:
+        if str(j.get("source", "google") or "google").lower() != "google":
+            continue
         try:
             d = datetime.fromisoformat(j.get("applied_at", ""))
         except ValueError:
