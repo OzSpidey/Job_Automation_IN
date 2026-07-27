@@ -29,5 +29,505 @@
     "level": "Early",
     "queued_at": "2026-07-23T22:01:33.405629+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "270726502244",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-1-to-3-years-270726502244",
+    "source": "naukri",
+    "company": "Cisco",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726502572",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-adva-bengaluru-0-to-2-years-270726502572",
+    "source": "naukri",
+    "company": "Adva Optical Networking",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726915813",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-ecolab-global-services-private-limited-bengaluru-1-to-4-years-270726915813",
+    "source": "naukri",
+    "company": "Ecolab Global Services",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726504316",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-kaseya-bengaluru-1-to-3-years-270726504316",
+    "source": "naukri",
+    "company": "Kaseya Software",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726502574",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-maastrix-solutions-bhubaneswar-1-to-6-years-270726502574",
+    "source": "naukri",
+    "company": "Maastrix Solutions",
+    "location": "Bhubaneswar",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726501932",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-webgross-new-delhi-1-to-4-years-270726501932",
+    "source": "naukri",
+    "company": "Webgross",
+    "location": "New Delhi",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726501789",
+    "title": "JAVA Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-connectionphase-ahmedabad-1-to-6-years-270726501789",
+    "source": "naukri",
+    "company": "Connectionphase",
+    "location": "Ahmedabad",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726014308",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-bmw-techworks-india-pune-0-to-2-years-270726014308",
+    "source": "naukri",
+    "company": "BMW Techworks India",
+    "location": "Hybrid - Pune",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726503114",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-innefu-labs-new-delhi-1-to-3-years-270726503114",
+    "source": "naukri",
+    "company": "Innefu Labs",
+    "location": "New Delhi",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726913981",
+    "title": "Software Developer Optimization Tools",
+    "url": "https://www.naukri.com/job-listings-software-developer-optimization-tools-hitachi-energy-india-limited-chennai-1-to-5-years-270726913981",
+    "source": "naukri",
+    "company": "Hitachi Energy",
+    "location": "Chennai",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726915039",
+    "title": "MLops Engineer",
+    "url": "https://www.naukri.com/job-listings-mlops-engineer-capgemini-technology-services-india-limited-pune-1-to-6-years-270726915039",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Pune",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726913725",
+    "title": "Chassis Brakes-Engineer",
+    "url": "https://www.naukri.com/job-listings-chassis-brakes-engineer-tata-technologies-ltd-pune-1-to-3-years-270726913725",
+    "source": "naukri",
+    "company": "Tata Technologies",
+    "location": "Pune",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726503525",
+    "title": "IT Engineer I",
+    "url": "https://www.naukri.com/job-listings-it-engineer-i-spartasystems-bengaluru-1-to-5-years-270726503525",
+    "source": "naukri",
+    "company": "Sparta Systems",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726503375",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-thoughtmakes-ai-coimbatore-1-to-6-years-270726503375",
+    "source": "naukri",
+    "company": "Thoughtmakes Ai",
+    "location": "Coimbatore",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726502177",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-iflow-bengaluru-0-to-3-years-270726502177",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726913568",
+    "title": "Offer Engineering Professional",
+    "url": "https://www.naukri.com/job-listings-offer-engineering-professional-hitachi-energy-india-limited-savli-0-to-1-years-270726913568",
+    "source": "naukri",
+    "company": "Hitachi Energy",
+    "location": "Savli",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726913380",
+    "title": "Secondary Engineer",
+    "url": "https://www.naukri.com/job-listings-secondary-engineer-hitachi-energy-india-limited-savli-0-to-1-years-270726913380",
+    "source": "naukri",
+    "company": "Hitachi Energy",
+    "location": "Savli",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726502630",
+    "title": "Software Development Engineer",
+    "url": "https://www.naukri.com/job-listings-software-development-engineer-greenland-investment-management-mumbai-1-to-3-years-270726502630",
+    "source": "naukri",
+    "company": "Greenland Investment Management",
+    "location": "Mumbai",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726915155",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-cushman-wakefield-india-pvt-ltd-gurugram-0-to-5-years-270726915155",
+    "source": "naukri",
+    "company": "Cushman & Wakefield",
+    "location": "Gurugram",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726504039",
+    "title": "Analyst, Cross Reference",
+    "url": "https://www.naukri.com/job-listings-analyst-cross-reference-global-industrial-mumbai-1-to-5-years-270726504039",
+    "source": "naukri",
+    "company": "Global Industrial",
+    "location": "Mumbai",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726502990",
+    "title": "Post-Close Analyst, Granite",
+    "url": "https://www.naukri.com/job-listings-post-close-analyst-granite-altisource-business-solutions-pvt-ltd-bengaluru-1-to-8-years-270726502990",
+    "source": "naukri",
+    "company": "Altisource",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726502937",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-apm-terminal-sport-india-chennai-1-to-3-years-270726502937",
+    "source": "naukri",
+    "company": "APM Terminals",
+    "location": "Chennai",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726501183",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflow-hyderabad-0-to-3-years-270726501183",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Hyderabad",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726502989",
+    "title": "Post-Close Analyst",
+    "url": "https://www.naukri.com/job-listings-post-close-analyst-altisource-business-solutions-pvt-ltd-bengaluru-1-to-8-years-270726502989",
+    "source": "naukri",
+    "company": "Altisource",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726501110",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-barclays-shared-services-pune-1-to-8-years-270726501110",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726015866",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-morningstar-mumbai-mumbai-suburban-navi-mumbai-1-to-5-years-270726015866",
+    "source": "naukri",
+    "company": "Morningstar",
+    "location": "Mumbai, Mumbai Suburban, Navi Mumbai",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726015023",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-shree-naman-developers-mumbai-0-to-2-years-270726015023",
+    "source": "naukri",
+    "company": "Shree Naman Developers",
+    "location": "Mumbai(Bandra Kurla Complex)",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726908114",
+    "title": "XR Software Engineer (All Levels - Multiple Positions)",
+    "url": "https://www.naukri.com/job-listings-xr-software-engineer-all-levels-multiple-positions-qualcomm-india-pvt-ltd-bengaluru-0-to-5-years-270726908114",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726500111",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-inevitable-electronics-private-limited-bengaluru-0-to-1-years-270726500111",
+    "source": "naukri",
+    "company": "Inevitable Electronics",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726908234",
+    "title": "CPU Software Engineer",
+    "url": "https://www.naukri.com/job-listings-cpu-software-engineer-qualcomm-india-pvt-ltd-bengaluru-0-to-5-years-270726908234",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726500368",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-47-billion-information-technologies-private-limited-bengaluru-0-to-3-years-270726500368",
+    "source": "naukri",
+    "company": "47billion",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726907952",
+    "title": "Staff Engineer-C++ , Embedded, AI/ML, GenAI,edge aing",
+    "url": "https://www.naukri.com/job-listings-staff-engineer-c-embedded-ai-ml-genai-edge-aing-qualcomm-india-pvt-ltd-hyderabad-1-to-3-years-270726907952",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Hyderabad",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726907938",
+    "title": "Engineer -Machine Learning-Embedded,C++",
+    "url": "https://www.naukri.com/job-listings-engineer-machine-learning-embedded-c-qualcomm-india-pvt-ltd-hyderabad-0-to-4-years-270726907938",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Hyderabad",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726907885",
+    "title": "Staff Engineer - Audio Systems / Audio Software",
+    "url": "https://www.naukri.com/job-listings-staff-engineer-audio-systems-audio-software-qualcomm-india-pvt-ltd-hyderabad-1-to-5-years-270726907885",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Hyderabad",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726908078",
+    "title": "PE- CPU Software & Hardware Co-Design Engineer (ML Systems)",
+    "url": "https://www.naukri.com/job-listings-pe-cpu-software-hardware-co-design-engineer-ml-systems-qualcomm-india-pvt-ltd-bengaluru-1-to-4-years-270726908078",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726908396",
+    "title": "GPU Compute Gaming Compiler Engineer",
+    "url": "https://www.naukri.com/job-listings-gpu-compute-gaming-compiler-engineer-qualcomm-india-pvt-ltd-bengaluru-0-to-5-years-270726908396",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726908273",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-qualcomm-india-pvt-ltd-hyderabad-0-to-5-years-270726908273",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Hyderabad",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726908134",
+    "title": "Synthesis Engineer",
+    "url": "https://www.naukri.com/job-listings-synthesis-engineer-qualcomm-india-pvt-ltd-noida-0-to-5-years-270726908134",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Noida",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726908128",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-qualcomm-india-pvt-ltd-bengaluru-0-to-5-years-270726908128",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726907995",
+    "title": "Engineer- Modem",
+    "url": "https://www.naukri.com/job-listings-engineer-modem-qualcomm-india-pvt-ltd-hyderabad-0-to-5-years-270726907995",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Hyderabad",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726907933",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-qualcomm-india-pvt-ltd-bengaluru-0-to-5-years-270726907933",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726500770",
+    "title": "Founding AI Engineer Production Systems",
+    "url": "https://www.naukri.com/job-listings-founding-ai-engineer-production-systems-nk-securities-research-gandhinagar-1-to-5-years-270726500770",
+    "source": "naukri",
+    "company": "NK Securities Research",
+    "location": "Gandhinagar",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726500769",
+    "title": "Founding AI Engineer Production Systems",
+    "url": "https://www.naukri.com/job-listings-founding-ai-engineer-production-systems-nk-securities-research-gurugram-1-to-5-years-270726500769",
+    "source": "naukri",
+    "company": "NK Securities Research",
+    "location": "Gurugram",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726908082",
+    "title": "SPT - System Performance Engineer (BSP, Profiling, Networking)",
+    "url": "https://www.naukri.com/job-listings-spt-system-performance-engineer-bsp-profiling-networking-qualcomm-india-pvt-ltd-chennai-1-to-4-years-270726908082",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Chennai",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726908120",
+    "title": "Engineer/Senior Engineer- ML Libraries/ARM",
+    "url": "https://www.naukri.com/job-listings-engineer-senior-engineer-ml-libraries-arm-qualcomm-india-pvt-ltd-bengaluru-0-to-3-years-270726908120",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726907808",
+    "title": "RTL Design Engineer (SOC) - Sr",
+    "url": "https://www.naukri.com/job-listings-rtl-design-engineer-soc-sr-qualcomm-india-pvt-ltd-bengaluru-1-to-6-years-270726907808",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726908151",
+    "title": "RISCV CPU Design Verification Staff Engineer",
+    "url": "https://www.naukri.com/job-listings-riscv-cpu-design-verification-staff-engineer-qualcomm-india-pvt-ltd-bengaluru-1-to-5-years-270726908151",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726908343",
+    "title": "RFIC Digital Verification Engineer",
+    "url": "https://www.naukri.com/job-listings-rfic-digital-verification-engineer-qualcomm-india-pvt-ltd-bengaluru-0-to-5-years-270726908343",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726908225",
+    "title": "Camera IP Design Verification - Staff Engineer",
+    "url": "https://www.naukri.com/job-listings-camera-ip-design-verification-staff-engineer-qualcomm-india-pvt-ltd-bengaluru-1-to-5-years-270726908225",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "270726908135",
+    "title": "IP SMMU Design Verification Staff Engineer",
+    "url": "https://www.naukri.com/job-listings-ip-smmu-design-verification-staff-engineer-qualcomm-india-pvt-ltd-bengaluru-1-to-5-years-270726908135",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-27T10:15:08.999098+00:00",
+    "status": "queued"
   }
 ]
