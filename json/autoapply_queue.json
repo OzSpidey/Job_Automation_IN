@@ -8,7 +8,7 @@
     "location": "Pune",
     "queued_at": "2026-07-28T06:15:12.300384+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "280726013926",
@@ -18,7 +18,8 @@
     "company": "Zonvo Technologies Solutions",
     "location": "Remote",
     "queued_at": "2026-07-28T08:15:36.006337+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "280726001983",
@@ -28,6 +29,7 @@
     "company": "Simpler Gtm",
     "location": "Remote",
     "queued_at": "2026-07-28T08:15:36.006337+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
