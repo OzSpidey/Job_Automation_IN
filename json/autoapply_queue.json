@@ -75,5 +75,185 @@
     "queued_at": "2026-07-28T14:15:28.888371+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "280726929761",
+    "title": "AI Software Developer",
+    "url": "https://www.naukri.com/job-listings-ai-software-developer-bitkraft-technologies-mumbai-csmt-fort-0-to-4-years-280726929761",
+    "source": "naukri",
+    "company": "Bitkraft Technologies",
+    "location": "Mumbai, CSMT Fort",
+    "queued_at": "2026-07-28T16:15:32.832694+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726504344",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-castrol-india-limited-pune-0-to-5-years-280726504344",
+    "source": "naukri",
+    "company": "Castrol",
+    "location": "Pune",
+    "queued_at": "2026-07-28T16:15:32.832694+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726504732",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-dsignz-media-coimbatore-1-to-2-years-280726504732",
+    "source": "naukri",
+    "company": "Dsignz Media",
+    "location": "Coimbatore",
+    "queued_at": "2026-07-28T16:15:32.832694+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726503212",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-veersa-technologies-noida-1-to-4-years-280726503212",
+    "source": "naukri",
+    "company": "Veersa Technologies India",
+    "location": "Noida",
+    "queued_at": "2026-07-28T16:15:32.832694+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726504039",
+    "title": "SFSC - Engineer",
+    "url": "https://www.naukri.com/job-listings-sfsc-engineer-moxie-systems-inc-hyderabad-1-to-3-years-280726504039",
+    "source": "naukri",
+    "company": "Moxie Retail",
+    "location": "Hyderabad",
+    "queued_at": "2026-07-28T16:15:32.832694+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726502257",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-opentext-technologies-india-pvt-ltd-bengaluru-1-to-8-years-280726502257",
+    "source": "naukri",
+    "company": "Opentext",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-28T16:15:32.832694+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726504632",
+    "title": "CXO Value Economics Analyst",
+    "url": "https://www.naukri.com/job-listings-cxo-value-economics-analyst-rubrik-remote-1-to-3-years-280726504632",
+    "source": "naukri",
+    "company": "Rubrik",
+    "location": "Remote",
+    "queued_at": "2026-07-28T16:15:32.832694+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726504179",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-now-branding-and-design-agency-bengaluru-1-to-2-years-280726504179",
+    "source": "naukri",
+    "company": "Now Media",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-28T16:15:32.832694+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726503876",
+    "title": "TCPS Analyst",
+    "url": "https://www.naukri.com/job-listings-tcps-analyst-american-express-india-gurugram-0-to-3-years-280726503876",
+    "source": "naukri",
+    "company": "AMERICAN EXPRESS",
+    "location": "Gurugram",
+    "queued_at": "2026-07-28T16:15:32.832694+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726503875",
+    "title": "TCPS Analyst",
+    "url": "https://www.naukri.com/job-listings-tcps-analyst-american-express-india-gurugram-0-to-3-years-280726503875",
+    "source": "naukri",
+    "company": "AMERICAN EXPRESS",
+    "location": "Gurugram",
+    "queued_at": "2026-07-28T16:15:32.832694+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726503673",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-280726503673",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-07-28T16:15:32.832694+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726916758",
+    "title": "Care Engineer",
+    "url": "https://www.naukri.com/job-listings-care-engineer-nokia-solutions-and-networks-india-p-ltd-chennai-0-to-5-years-280726916758",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Chennai",
+    "queued_at": "2026-07-28T16:15:32.832694+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726916398",
+    "title": "Care Engineer",
+    "url": "https://www.naukri.com/job-listings-care-engineer-nokia-solutions-and-networks-india-p-ltd-bengaluru-0-to-5-years-280726916398",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-28T16:15:32.832694+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726916846",
+    "title": "Customer Documentation Developer",
+    "url": "https://www.naukri.com/job-listings-customer-documentation-developer-nokia-solutions-and-networks-india-p-ltd-bengaluru-0-to-5-years-280726916846",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-28T16:15:32.832694+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726916617",
+    "title": "VAPT & Red Teaming Analyst",
+    "url": "https://www.naukri.com/job-listings-vapt-red-teaming-analyst-nokia-solutions-and-networks-india-p-ltd-gurugram-0-to-5-years-280726916617",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Gurugram",
+    "queued_at": "2026-07-28T16:15:32.832694+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726916537",
+    "title": "Customer Documentation Developer",
+    "url": "https://www.naukri.com/job-listings-customer-documentation-developer-nokia-solutions-and-networks-india-p-ltd-bengaluru-0-to-5-years-280726916537",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-28T16:15:32.832694+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726916496",
+    "title": "Customer Documentation Developer",
+    "url": "https://www.naukri.com/job-listings-customer-documentation-developer-nokia-solutions-and-networks-india-p-ltd-bengaluru-0-to-5-years-280726916496",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-28T16:15:32.832694+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726502026",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mumbai-0-to-4-years-280726502026",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mumbai",
+    "queued_at": "2026-07-28T16:15:32.832694+00:00",
+    "status": "queued"
   }
 ]
