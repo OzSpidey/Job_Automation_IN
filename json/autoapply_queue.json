@@ -7,6 +7,7 @@
     "company": "Simpler Gtm",
     "location": "Remote",
     "queued_at": "2026-07-28T02:15:25.700810+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
