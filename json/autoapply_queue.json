@@ -9,5 +9,15 @@
     "queued_at": "2026-07-28T02:15:25.700810+00:00",
     "status": "queued",
     "attempts": 2
+  },
+  {
+    "job_id": "280726003706",
+    "title": "AutoLISP Developer",
+    "url": "https://www.naukri.com/job-listings-autolisp-developer-monarch-surveyors-engineering-consultants-pune-1-to-5-years-280726003706",
+    "source": "naukri",
+    "company": "Monarch Surveyors & Engineering Consultants",
+    "location": "Pune",
+    "queued_at": "2026-07-28T06:15:12.300384+00:00",
+    "status": "queued"
   }
 ]
