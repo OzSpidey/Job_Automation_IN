@@ -8,7 +8,7 @@
     "location": "Singapore",
     "queued_at": "2026-07-28T18:15:21.072185+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "280726025619",
@@ -19,7 +19,7 @@
     "location": "Vagra",
     "queued_at": "2026-07-28T18:15:21.072185+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "280726003706",
@@ -30,6 +30,6 @@
     "location": "Pune",
     "queued_at": "2026-07-28T18:15:21.072185+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
