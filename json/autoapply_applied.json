@@ -346,5 +346,38 @@
     "queued_at": "2026-07-28T12:15:21.318331+00:00",
     "status": "applied",
     "applied_at": "2026-07-28T12:18:25.390515+00:00"
+  },
+  {
+    "job_id": "280726030717",
+    "title": "Walk-in || Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-india-filings-pvt-ltd-navi-mumbai-0-to-5-years-280726030717",
+    "source": "naukri",
+    "company": "India Filings Pvt Ltd",
+    "location": "",
+    "queued_at": "2026-07-28T14:15:28.888371+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-28T14:17:12.525069+00:00"
+  },
+  {
+    "job_id": "280726034220",
+    "title": "Hiring For All Types of Engineers",
+    "url": "https://www.naukri.com/job-listings-hiring-for-all-types-of-engineers-renoysys-hyderabad-chennai-bengaluru-0-to-5-years-280726034220",
+    "source": "naukri",
+    "company": "Renoysys",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-07-28T14:15:28.888371+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-28T14:17:22.120667+00:00"
+  },
+  {
+    "job_id": "280726927659",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-280726927659",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-28T14:15:28.888371+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-28T14:17:43.822119+00:00"
   }
 ]
