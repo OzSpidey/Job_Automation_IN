@@ -31,5 +31,85 @@
     "queued_at": "2026-07-28T08:15:36.006337+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "280726916758",
+    "title": "Care Engineer",
+    "url": "https://www.naukri.com/job-listings-care-engineer-nokia-solutions-and-networks-india-p-ltd-chennai-0-to-5-years-280726916758",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Chennai",
+    "queued_at": "2026-07-28T10:15:33.745439+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726916398",
+    "title": "Care Engineer",
+    "url": "https://www.naukri.com/job-listings-care-engineer-nokia-solutions-and-networks-india-p-ltd-bengaluru-0-to-5-years-280726916398",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-28T10:15:33.745439+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726916617",
+    "title": "VAPT & Red Teaming Analyst",
+    "url": "https://www.naukri.com/job-listings-vapt-red-teaming-analyst-nokia-solutions-and-networks-india-p-ltd-gurugram-0-to-5-years-280726916617",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Gurugram",
+    "queued_at": "2026-07-28T10:15:33.745439+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726916537",
+    "title": "Customer Documentation Developer",
+    "url": "https://www.naukri.com/job-listings-customer-documentation-developer-nokia-solutions-and-networks-india-p-ltd-bengaluru-0-to-5-years-280726916537",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-28T10:15:33.745439+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726916511",
+    "title": "Customer Documentation Developer",
+    "url": "https://www.naukri.com/job-listings-customer-documentation-developer-nokia-solutions-and-networks-india-p-ltd-bengaluru-0-to-5-years-280726916511",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-28T10:15:33.745439+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726916496",
+    "title": "Customer Documentation Developer",
+    "url": "https://www.naukri.com/job-listings-customer-documentation-developer-nokia-solutions-and-networks-india-p-ltd-bengaluru-0-to-5-years-280726916496",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-28T10:15:33.745439+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726916433",
+    "title": "Customer Documentation Developer",
+    "url": "https://www.naukri.com/job-listings-customer-documentation-developer-nokia-solutions-and-networks-india-p-ltd-bengaluru-0-to-5-years-280726916433",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-28T10:15:33.745439+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280726015252",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-technos-instruments-jaipur-0-to-1-years-280726015252",
+    "source": "naukri",
+    "company": "Technos Instruments",
+    "location": "Jaipur(Sitapura Industrial Area)",
+    "queued_at": "2026-07-28T10:15:33.745439+00:00",
+    "status": "queued"
   }
 ]
