@@ -313,5 +313,38 @@
     "queued_at": "2026-07-28T10:15:33.745439+00:00",
     "status": "applied",
     "applied_at": "2026-07-28T10:17:45.534547+00:00"
+  },
+  {
+    "job_id": "280726924075",
+    "title": "ISC - MPI Engineer",
+    "url": "https://www.naukri.com/job-listings-isc-mpi-engineer-alstom-transport-india-ltd-bengaluru-bengaluru-1-to-6-years-280726924075",
+    "source": "naukri",
+    "company": "Alstom",
+    "location": "Bengaluru, Bengaluru",
+    "queued_at": "2026-07-28T12:15:21.318331+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-28T12:17:18.675236+00:00"
+  },
+  {
+    "job_id": "280726920216",
+    "title": "Software Developer (C#, WPF)",
+    "url": "https://www.naukri.com/job-listings-software-developer-c-wpf-siemens-limited-bengaluru-1-to-6-years-280726920216",
+    "source": "naukri",
+    "company": "Siemens",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-28T12:15:21.318331+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-28T12:18:15.337202+00:00"
+  },
+  {
+    "job_id": "280726920397",
+    "title": "AI-Native Software Developer",
+    "url": "https://www.naukri.com/job-listings-ai-native-software-developer-siemens-limited-bengaluru-1-to-6-years-280726920397",
+    "source": "naukri",
+    "company": "Siemens",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-28T12:15:21.318331+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-28T12:18:25.390515+00:00"
   }
 ]
