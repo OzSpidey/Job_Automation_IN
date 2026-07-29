@@ -325,7 +325,7 @@ def _groq_answer(question: str, kind: str, options: list[str], profile: str) -> 
     Returns the answer, or None if Groq is unavailable or not confident."""
     if not (GROQ_API_KEY and profile):
         return None
-    import urllib.request
+    import urllib.request, urllib.error
     if kind in ("radio", "chips") and options:
         fmt = "Choose EXACTLY ONE of these options, copied verbatim: " + " | ".join(options) + "."
     else:
@@ -350,11 +350,23 @@ def _groq_answer(question: str, kind: str, options: list[str], profile: str) -> 
     }).encode()
     req = urllib.request.Request(
         "https://api.groq.com/openai/v1/chat/completions", data=body,
-        headers={"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"})
+        headers={"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json",
+                 # api.groq.com is fronted by Cloudflare, which 403s (error 1010) the
+                 # default Python-urllib User-Agent — send a normal browser UA.
+                 "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                                "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")})
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
             data = json.loads(resp.read().decode())
         parsed = json.loads(data["choices"][0]["message"]["content"])
+    except urllib.error.HTTPError as exc:
+        detail = ""
+        try:
+            detail = exc.read().decode(errors="replace")[:200].strip()
+        except Exception:
+            pass
+        print(f"    [groq] HTTP {exc.code}: {detail}")
+        return None
     except Exception as exc:
         print(f"    [groq] error: {exc}")
         return None
