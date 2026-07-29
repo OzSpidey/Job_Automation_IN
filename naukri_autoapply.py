@@ -553,7 +553,7 @@ def fill_chatbot(page, ans: dict) -> bool:
         answer = _answer_question(q, kind, options, ans)
         if not answer:
             raise ChatbotAbort(f"no confident answer for: {q[:60]}")
-        print(f"      -> {answer[:60]}")
+        print(f"      -> answered ({kind})")   # value redacted — Actions logs are public
         if not _apply_answer(page, kind, options, answer):
             raise ChatbotAbort(f"could not set answer '{answer[:30]}' ({kind})")
         _click_save(page)
