@@ -1,1 +1,262 @@
-[]
+[
+  {
+    "job_id": "290726921887",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-wells-fargo-international-solutions-private-ltd-bengaluru-0-to-5-years-290726921887",
+    "source": "naukri",
+    "company": "Wells Fargo",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726921897",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-wells-fargo-international-solutions-private-ltd-bengaluru-0-to-5-years-290726921897",
+    "source": "naukri",
+    "company": "Wells Fargo",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726502165",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-payu-india-bengaluru-1-to-5-years-290726502165",
+    "source": "naukri",
+    "company": "PayU",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726501398",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-barclays-shared-services-pune-0-to-7-years-290726501398",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726926510",
+    "title": "Senior Site Reliability Engineer - Support",
+    "url": "https://www.naukri.com/job-listings-senior-site-reliability-engineer-support-fis-global-business-solutions-india-pvt-ltd-bengaluru-1-to-6-years-290726926510",
+    "source": "naukri",
+    "company": "FIS",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726926856",
+    "title": "Staff Site Reliability Engineer - (Infra)",
+    "url": "https://www.naukri.com/job-listings-staff-site-reliability-engineer-infra-okta-identity-india-private-limited-bengaluru-0-to-3-years-290726926856",
+    "source": "naukri",
+    "company": "Okta",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726926857",
+    "title": "Staff Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-staff-site-reliability-engineer-okta-identity-india-private-limited-bengaluru-0-to-3-years-290726926857",
+    "source": "naukri",
+    "company": "Okta",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726503522",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-appic-softwares-jaipur-1-to-4-years-290726503522",
+    "source": "naukri",
+    "company": "Appic Softwares",
+    "location": "Jaipur",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726500518",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-ideas-to-impacts-innovations-pvt-ltd-pune-1-to-2-years-290726500518",
+    "source": "naukri",
+    "company": "Ideas To Impacts Innovation",
+    "location": "Pune",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726500401",
+    "title": "React Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-react-full-stack-developer-plus-max-group-of-companies-madurai-tiruppur-salem-chennai-tiruchirappalli-coimbatore-1-to-6-years-290726500401",
+    "source": "naukri",
+    "company": "Plus Max Group Of Companies",
+    "location": "Madurai, Tiruppur, Salem, Chennai, Tiruchirappalli, Coimbatore",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726027189",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-agilysys-technologies-india-chennai-1-to-3-years-290726027189",
+    "source": "naukri",
+    "company": "Agilysys Technologies India",
+    "location": "Chennai",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726502541",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-appic-softwares-jaipur-0-to-2-years-290726502541",
+    "source": "naukri",
+    "company": "Appic Softwares",
+    "location": "Jaipur",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726504175",
+    "title": "PYTHON DEVELOPER",
+    "url": "https://www.naukri.com/job-listings-python-developer-nj-technologies-finlogic-technologies-india-pvt-ltd-surat-1-to-4-years-290726504175",
+    "source": "naukri",
+    "company": "NJ Technologies",
+    "location": "Surat",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726502993",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-softlabs-group-mumbai-1-to-5-years-290726502993",
+    "source": "naukri",
+    "company": "Softlabs Technologies And Development",
+    "location": "Mumbai",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726921801",
+    "title": "UCC Engineer",
+    "url": "https://www.naukri.com/job-listings-ucc-engineer-millennium-consulting-india-private-limited-bengaluru-0-to-3-years-290726921801",
+    "source": "naukri",
+    "company": "Millennium Consulting",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726502367",
+    "title": "IT Engineer I",
+    "url": "https://www.naukri.com/job-listings-it-engineer-i-spartasystems-bengaluru-0-to-5-years-290726502367",
+    "source": "naukri",
+    "company": "Sparta Systems",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726500378",
+    "title": "Prompt Engineer",
+    "url": "https://www.naukri.com/job-listings-prompt-engineer-tm-systems-pvt-ltd-ahmedabad-1-to-6-years-290726500378",
+    "source": "naukri",
+    "company": "TM Systems",
+    "location": "Ahmedabad",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726503667",
+    "title": "Analyst - O2C",
+    "url": "https://www.naukri.com/job-listings-analyst-o2c-ramboll-india-private-limited-gurugram-greater-noida-1-to-3-years-290726503667",
+    "source": "naukri",
+    "company": "Ramboll",
+    "location": "Gurugram, Greater Noida",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726502549",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-dentsu-inc-pune-1-to-2-years-290726502549",
+    "source": "naukri",
+    "company": "Dentsu Webchutney",
+    "location": "Pune",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726502496",
+    "title": "Power Factory- Developer",
+    "url": "https://www.naukri.com/job-listings-power-factory-developer-zensar-technologies-pune-0-to-4-years-290726502496",
+    "source": "naukri",
+    "company": "Zensar",
+    "location": "Pune",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726502151",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-bank-of-tokyo-mitsubishi-ufj-ltd-bengaluru-1-to-6-years-290726502151",
+    "source": "naukri",
+    "company": "MUFG Bank",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726501441",
+    "title": "Deal Desk Analyst",
+    "url": "https://www.naukri.com/job-listings-deal-desk-analyst-hackerrank-bengaluru-1-to-4-years-290726501441",
+    "source": "naukri",
+    "company": "Hackerrank",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726019648",
+    "title": "Infor LN - Developer",
+    "url": "https://www.naukri.com/job-listings-infor-ln-developer-sieger-spintech-equipments-coimbatore-1-to-6-years-290726019648",
+    "source": "naukri",
+    "company": "Sieger Spintech Equipments",
+    "location": "Coimbatore",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726504337",
+    "title": "Engineer 1 - Test Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-1-test-engineer-microchip-technology-inc-hyderabad-1-to-3-years-290726504337",
+    "source": "naukri",
+    "company": "Microchip Technology",
+    "location": "Hyderabad",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726007090",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-genxhire-services-jamnagar-0-to-3-years-290726007090",
+    "source": "naukri",
+    "company": "Genxhire Services",
+    "location": "Jamnagar",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290726905362",
+    "title": "Analyst, Restructuring India",
+    "url": "https://www.naukri.com/job-listings-analyst-restructuring-india-kroll-llc-mumbai-new-delhi-0-to-5-years-290726905362",
+    "source": "naukri",
+    "company": "Kroll",
+    "location": "Mumbai, New Delhi",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "queued"
+  }
+]
