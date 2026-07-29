@@ -76,6 +76,19 @@ APPLY_LIMIT   = int(os.environ.get("APPLY_LIMIT", "0"))  # 0 = whole naukri queu
 MAX_STEPS     = 8
 MAX_ATTEMPTS  = int(os.environ.get("NAUKRI_MAX_ATTEMPTS", "3"))  # drop a stuck job after N tries
 
+# Titles we never apply to (case-insensitive substring match). Tunable via
+# NAUKRI_TITLE_BLOCKLIST (comma-separated); default drops procurement "Purchase
+# Engineer" roles the broad keyword search pulls in. (Prompt Engineer / Analyst
+# are intentionally NOT blocked.)
+TITLE_BLOCKLIST = [t.strip().lower() for t in
+                   os.environ.get("NAUKRI_TITLE_BLOCKLIST", "purchase engineer").split(",")
+                   if t.strip()]
+
+
+def _is_blocked_title(title: str) -> bool:
+    t = (title or "").lower()
+    return any(b in t for b in TITLE_BLOCKLIST)
+
 # Chatbot (recruiter Q&A) config
 GROQ_API_KEY  = os.environ.get("GROQ_API_KEY", "").strip()
 GROQ_MODEL    = os.environ.get("GROQ_MODEL", "llama-3.3-70b-versatile").strip()
@@ -664,6 +677,10 @@ def apply(page, jobs: list[dict], ans: dict, others: list[dict]) -> None:
             remaining.append(job)
 
     for job in jobs:
+        if _is_blocked_title(job.get("title", "")):
+            print(f"  [filter] blocked title — dropped from queue: {job.get('title','')}")
+            dropped += 1
+            continue
         if submitted_count >= submit_budget:
             remaining.append(job); continue     # per-run submit cap — leave the rest queued
         jid = job["job_id"]
