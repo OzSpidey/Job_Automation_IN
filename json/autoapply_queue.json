@@ -1,27 +1,5 @@
 [
   {
-    "job_id": "290726019648",
-    "title": "Infor LN - Developer",
-    "url": "https://www.naukri.com/job-listings-infor-ln-developer-sieger-spintech-equipments-coimbatore-1-to-6-years-290726019648",
-    "source": "naukri",
-    "company": "Sieger Spintech Equipments",
-    "location": "Coimbatore",
-    "queued_at": "2026-07-29T12:15:22.982276+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "290726007090",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-genxhire-services-jamnagar-0-to-3-years-290726007090",
-    "source": "naukri",
-    "company": "Genxhire Services",
-    "location": "Jamnagar",
-    "queued_at": "2026-07-29T12:15:22.982276+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "290726027189",
     "title": "Java Developer",
     "url": "https://www.naukri.com/job-listings-java-developer-agilysys-technologies-india-chennai-1-to-3-years-290726027189",
@@ -30,6 +8,6 @@
     "location": "Chennai",
     "queued_at": "2026-07-29T14:15:27.328320+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
