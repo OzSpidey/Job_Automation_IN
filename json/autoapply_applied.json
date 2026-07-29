@@ -412,5 +412,60 @@
     "queued_at": "2026-07-29T10:24:59.844005+00:00",
     "status": "applied",
     "applied_at": "2026-07-29T10:26:25.103538+00:00"
+  },
+  {
+    "job_id": "290726022311",
+    "title": "Software Engineer Fresher",
+    "url": "https://www.naukri.com/job-listings-software-engineer-fresher-reactz-consulting-bengaluru-0-to-1-years-290726022311",
+    "source": "naukri",
+    "company": "ReactZ Consulting",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-29T12:15:22.982276+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-29T12:16:21.471118+00:00"
+  },
+  {
+    "job_id": "290726921444",
+    "title": "Staff Site Reliability Engineer - Ecosystem",
+    "url": "https://www.naukri.com/job-listings-staff-site-reliability-engineer-ecosystem-okta-identity-india-private-limited-bengaluru-0-to-5-years-290726921444",
+    "source": "naukri",
+    "company": "Okta",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-29T12:15:22.982276+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-29T12:16:44.589679+00:00"
+  },
+  {
+    "job_id": "290726921508",
+    "title": "Staff Site Reliability Engineer - Network Infrastructure",
+    "url": "https://www.naukri.com/job-listings-staff-site-reliability-engineer-network-infrastructure-okta-identity-india-private-limited-bengaluru-0-to-5-years-290726921508",
+    "source": "naukri",
+    "company": "Okta",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-29T12:15:22.982276+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-29T12:16:54.589536+00:00"
+  },
+  {
+    "job_id": "290726921350",
+    "title": "Staff Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-staff-site-reliability-engineer-okta-identity-india-private-limited-bengaluru-0-to-5-years-290726921350",
+    "source": "naukri",
+    "company": "Okta",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-29T12:15:22.982276+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-29T12:17:04.290389+00:00"
+  },
+  {
+    "job_id": "290726500155",
+    "title": "Purchase Engineer Freshers",
+    "url": "https://www.naukri.com/job-listings-purchase-engineer-freshers-impact-hr-n-km-solutions-nashik-0-to-1-years-290726500155",
+    "source": "naukri",
+    "company": "Impact Hr N Km Solutions",
+    "location": "Nashik",
+    "queued_at": "2026-07-29T12:15:22.982276+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-29T12:18:36.622365+00:00"
   }
 ]
