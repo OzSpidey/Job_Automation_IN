@@ -320,6 +320,19 @@ def _is_greeting(q: str) -> bool:
     return "thank you for showing interest" in ql or "kindly answer" in ql
 
 
+# Terminal message Naukri shows AFTER the last answer is saved (the in-drawer
+# chatbot never redirects to a saveApply URL, so apply_succeeded can't see it).
+_CLOSING_RE = re.compile(
+    r"thank you for your response|thanks for your response|"
+    r"thank you for your time|we have received your (response|application)|"
+    r"your (response|application) (has been|is|was) (recorded|submitted|received)",
+    re.I)
+
+
+def _is_chatbot_closing(q: str) -> bool:
+    return bool(_CLOSING_RE.search(q or ""))
+
+
 def _groq_answer(question: str, kind: str, options: list[str], profile: str) -> str | None:
     """Answer ONE recruiter question via Groq, grounded in the candidate profile.
     Returns the answer, or None if Groq is unavailable or not confident."""
@@ -433,6 +446,19 @@ def _preset_answer(qtext: str, kind: str, options: list[str], ans: dict):
         return ans.get("total_experience_years")
     if has("authoriz", "eligible to work", "work permit", "legally allowed"):
         return ans.get("work_authorization")
+    # work-mode preference (user policy 2026-07-29): hybrid, else office.
+    if (has("work from home", "working from home", "wfh", "work mode",
+            "work location", "remote or office", "office or remote")
+            or ("hybrid" in q and has("office", "remote", "onsite", "home"))):
+        prefs = [ans.get("work_mode") or "hybrid", "hybrid",
+                 "work from office", "office", "onsite"]
+        if kind in ("radio", "chips") and options:
+            for cand in prefs:
+                m = _opt_match(cand, kind, options)
+                if m:
+                    return m
+            return None   # no work-mode option offered -> let the LLM try
+        return ans.get("work_mode") or "hybrid"
     return None
 
 
@@ -535,6 +561,7 @@ def fill_chatbot(page, ans: dict) -> bool:
     """Drive the recruiter Q&A to completion. Returns True if the application was
     submitted; raises ChatbotAbort (nothing submitted) if a question can't be answered."""
     last_q = None
+    answered = 0
     for step in range(CHATBOT_MAX_Q):
         page.wait_for_timeout(1200)
         if apply_succeeded(page) or not _chatbot_visible(page):
@@ -543,6 +570,12 @@ def fill_chatbot(page, ans: dict) -> bool:
         if not q or _is_greeting(q):
             page.wait_for_timeout(1200)
             q = _current_question(page)
+        # A closing 'Thank you for your responses.' AFTER we've answered at least
+        # one question = Q&A complete, application submitted (the final Save that
+        # submits it was already clicked on the previous iteration).
+        if answered and _is_chatbot_closing(q):
+            print(f"    chatbot closing message — application submitted: {q[:50]}")
+            return True
         if not q or _is_greeting(q):
             raise ChatbotAbort("no question text rendered")
         if q == last_q:
@@ -557,6 +590,7 @@ def fill_chatbot(page, ans: dict) -> bool:
         if not _apply_answer(page, kind, options, answer):
             raise ChatbotAbort(f"could not set answer '{answer[:30]}' ({kind})")
         _click_save(page)
+        answered += 1
     raise ChatbotAbort("exceeded max chatbot questions")
 
 
