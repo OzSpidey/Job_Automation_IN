@@ -7,16 +7,7 @@
     "company": "Genxhire Services",
     "location": "Jamnagar",
     "queued_at": "2026-07-29T06:15:21.761857+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290726905362",
-    "title": "Analyst, Restructuring India",
-    "url": "https://www.naukri.com/job-listings-analyst-restructuring-india-kroll-llc-mumbai-new-delhi-0-to-5-years-290726905362",
-    "source": "naukri",
-    "company": "Kroll",
-    "location": "Mumbai, New Delhi",
-    "queued_at": "2026-07-29T06:15:21.761857+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
