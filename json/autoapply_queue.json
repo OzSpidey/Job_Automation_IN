@@ -1,55 +1,5 @@
 [
   {
-    "job_id": "290726921887",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-wells-fargo-international-solutions-private-ltd-bengaluru-0-to-5-years-290726921887",
-    "source": "naukri",
-    "company": "Wells Fargo",
-    "location": "Bengaluru",
-    "queued_at": "2026-07-29T15:25:59.540536+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290726921897",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-wells-fargo-international-solutions-private-ltd-bengaluru-0-to-5-years-290726921897",
-    "source": "naukri",
-    "company": "Wells Fargo",
-    "location": "Bengaluru",
-    "queued_at": "2026-07-29T15:25:59.540536+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290726502165",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-payu-india-bengaluru-1-to-5-years-290726502165",
-    "source": "naukri",
-    "company": "PayU",
-    "location": "Bengaluru",
-    "queued_at": "2026-07-29T15:25:59.540536+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290726501398",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-barclays-shared-services-pune-0-to-7-years-290726501398",
-    "source": "naukri",
-    "company": "Barclays",
-    "location": "Pune",
-    "queued_at": "2026-07-29T15:25:59.540536+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290726926510",
-    "title": "Senior Site Reliability Engineer - Support",
-    "url": "https://www.naukri.com/job-listings-senior-site-reliability-engineer-support-fis-global-business-solutions-india-pvt-ltd-bengaluru-1-to-6-years-290726926510",
-    "source": "naukri",
-    "company": "FIS",
-    "location": "Bengaluru",
-    "queued_at": "2026-07-29T15:25:59.540536+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "290726926856",
     "title": "Staff Site Reliability Engineer - (Infra)",
     "url": "https://www.naukri.com/job-listings-staff-site-reliability-engineer-infra-okta-identity-india-private-limited-bengaluru-0-to-3-years-290726926856",
