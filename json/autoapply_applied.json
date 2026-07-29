@@ -489,5 +489,17 @@
     "queued_at": "2026-07-29T15:25:59.540536+00:00",
     "status": "applied",
     "applied_at": "2026-07-29T15:30:55.011171+00:00"
+  },
+  {
+    "job_id": "290726007090",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-genxhire-services-jamnagar-0-to-3-years-290726007090",
+    "source": "naukri",
+    "company": "Genxhire Services",
+    "location": "Jamnagar",
+    "queued_at": "2026-07-29T15:25:59.540536+00:00",
+    "status": "applied",
+    "attempts": 1,
+    "applied_at": "2026-07-29T16:17:33.298367+00:00"
   }
 ]
