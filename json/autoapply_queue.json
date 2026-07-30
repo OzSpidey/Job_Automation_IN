@@ -8,7 +8,7 @@
     "location": "Chandigarh",
     "queued_at": "2026-07-30T08:15:37.850584+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "300726023129",
@@ -18,17 +18,8 @@
     "company": "Zensar",
     "location": "Pune(Kharadi)",
     "queued_at": "2026-07-30T10:15:28.376927+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "300726025001",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-genxhire-services-jamnagar-0-to-4-years-300726025001",
-    "source": "naukri",
-    "company": "Genxhire Services",
-    "location": "Jamnagar",
-    "queued_at": "2026-07-30T10:15:28.376927+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "300726024249",
@@ -38,17 +29,8 @@
     "company": "Simplify Healthcare",
     "location": "Hybrid - Pune",
     "queued_at": "2026-07-30T10:15:28.376927+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "300726021516",
-    "title": "Assistant Engineer (Based in Singapore)",
-    "url": "https://www.naukri.com/job-listings-assistant-engineer-based-in-singapore-lum-chang-building-contractors-pte-ltd-singapore-0-to-6-years-300726021516",
-    "source": "naukri",
-    "company": "Lum Chang Building Contractors Pte Ltd",
-    "location": "Singapore",
-    "queued_at": "2026-07-30T10:15:28.376927+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "300726022798",
@@ -58,7 +40,8 @@
     "company": "eClerx",
     "location": "Mohali",
     "queued_at": "2026-07-30T10:15:28.376927+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "300726022797",
@@ -68,17 +51,8 @@
     "company": "eClerx",
     "location": "Chandigarh",
     "queued_at": "2026-07-30T10:15:28.376927+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "250526031604",
-    "title": "LLM Ops Engineer (Infrastructure & Performance)",
-    "url": "https://www.naukri.com/job-listings-llm-ops-engineer-infrastructure-performance-krazy-bee-services-bengaluru-1-to-2-years-250526031604",
-    "source": "naukri",
-    "company": "Krazy Bee Services",
-    "location": "Bengaluru",
-    "queued_at": "2026-07-30T10:15:28.376927+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "300726010710",
@@ -88,6 +62,7 @@
     "company": "Softgel Healthcare",
     "location": "Chennai(Pudupakkam)",
     "queued_at": "2026-07-30T10:15:28.376927+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
