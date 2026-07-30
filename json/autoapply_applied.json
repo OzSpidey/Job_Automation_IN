@@ -512,5 +512,16 @@
     "queued_at": "2026-07-29T18:15:40.254736+00:00",
     "status": "applied",
     "applied_at": "2026-07-29T18:17:29.089569+00:00"
+  },
+  {
+    "job_id": "300726006610",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-deloitte-us-india-offices-mumbai-hyderabad-bengaluru-1-to-3-years-300726006610",
+    "source": "naukri",
+    "company": "Deloitte US-India Offices",
+    "location": "Mumbai, Hyderabad, Bengaluru",
+    "queued_at": "2026-07-30T04:15:14.999801+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-30T04:16:47.228423+00:00"
   }
 ]
