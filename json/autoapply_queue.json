@@ -75,5 +75,15 @@
     "queued_at": "2026-07-30T18:15:10.635932+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "300726035093",
+    "title": "Bsp Engineer",
+    "url": "https://www.naukri.com/job-listings-bsp-engineer-sasken-technologies-chennai-1-to-6-years-300726035093",
+    "source": "naukri",
+    "company": "Sasken Technologies",
+    "location": "Chennai",
+    "queued_at": "2026-07-30T20:15:16.945954+00:00",
+    "status": "queued"
   }
 ]
