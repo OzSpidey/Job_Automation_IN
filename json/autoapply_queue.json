@@ -1,26 +1,5 @@
 [
   {
-    "job_id": "300726010710",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-softgel-healthcare-chennai-1-to-5-years-300726010710",
-    "source": "naukri",
-    "company": "Softgel Healthcare",
-    "location": "Chennai(Pudupakkam)",
-    "queued_at": "2026-07-30T04:15:14.999801+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "300726015989",
-    "title": "Articulate Storyline Engineer || Lectora || Rise 360",
-    "url": "https://www.naukri.com/job-listings-articulate-storyline-engineer-lectora-rise-360-niit-learning-systems-gurugram-1-to-4-years-300726015989",
-    "source": "naukri",
-    "company": "Niit Learning Systems",
-    "location": "Gurugram",
-    "queued_at": "2026-07-30T08:15:37.850584+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "300726018952",
     "title": "Analyst",
     "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-300726018952",
@@ -28,6 +7,7 @@
     "company": "eClerx",
     "location": "Chandigarh",
     "queued_at": "2026-07-30T08:15:37.850584+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
