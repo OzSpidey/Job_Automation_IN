@@ -64,5 +64,125 @@
     "queued_at": "2026-07-30T10:15:28.376927+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "300726028480",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-firstcry-com-pune-0-to-1-years-300726028480",
+    "source": "naukri",
+    "company": "firstcry com",
+    "location": "Pune(Pune Station)",
+    "queued_at": "2026-07-30T12:15:17.984235+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300726502258",
+    "title": "Full Stack Quantitative Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-quantitative-developer-e4-softwares-mumbai-bengaluru-1-to-4-years-300726502258",
+    "source": "naukri",
+    "company": "E4 Software Services",
+    "location": "Mumbai, Bengaluru",
+    "queued_at": "2026-07-30T12:15:17.984235+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300726502656",
+    "title": "PYTHON DEVELOPER",
+    "url": "https://www.naukri.com/job-listings-python-developer-nj-technologies-finlogic-technologies-india-pvt-ltd-surat-1-to-4-years-300726502656",
+    "source": "naukri",
+    "company": "NJ Technologies",
+    "location": "Surat",
+    "queued_at": "2026-07-30T12:15:17.984235+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300726500558",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-techfruits-solutions-pvt-ltd-chennai-1-to-3-years-300726500558",
+    "source": "naukri",
+    "company": "Techfruits Solutions",
+    "location": "Chennai",
+    "queued_at": "2026-07-30T12:15:17.984235+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300726503022",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mumbai-0-to-4-years-300726503022",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mumbai",
+    "queued_at": "2026-07-30T12:15:17.984235+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300726502984",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-ernst-young-new-delhi-1-to-2-years-300726502984",
+    "source": "naukri",
+    "company": "EY",
+    "location": "New Delhi",
+    "queued_at": "2026-07-30T12:15:17.984235+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300726502952",
+    "title": "Analyst - Abstractions",
+    "url": "https://www.naukri.com/job-listings-analyst-abstractions-jones-lang-lasalle-gurugram-1-to-3-years-300726502952",
+    "source": "naukri",
+    "company": "Jones Lang LaSalle (JLL)",
+    "location": "Gurugram",
+    "queued_at": "2026-07-30T12:15:17.984235+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300726500046",
+    "title": "Decision Analyst",
+    "url": "https://www.naukri.com/job-listings-decision-analyst-barclays-shared-services-gurugram-0-to-8-years-300726500046",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Gurugram",
+    "queued_at": "2026-07-30T12:15:17.984235+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300726029780",
+    "title": "ETF Market Trader",
+    "url": "https://www.naukri.com/job-listings-etf-market-trader-intellectual-capital-hr-consulting-mumbai-all-areas-0-to-3-years-300726029780",
+    "source": "naukri",
+    "company": "Intellectual Capital HR Consulting",
+    "location": "Mumbai (All Areas)",
+    "queued_at": "2026-07-30T12:15:17.984235+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300726503021",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-4-years-300726503021",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-07-30T12:15:17.984235+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300726503020",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mumbai-0-to-4-years-300726503020",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mumbai",
+    "queued_at": "2026-07-30T12:15:17.984235+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300726500843",
+    "title": "Associate Data and AI Engineer",
+    "url": "https://www.naukri.com/job-listings-associate-data-and-ai-engineer-volvo-bengaluru-1-to-3-years-300726500843",
+    "source": "naukri",
+    "company": "Volvo Group",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-30T12:15:17.984235+00:00",
+    "status": "queued"
   }
 ]
