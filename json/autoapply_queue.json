@@ -42,5 +42,255 @@
     "queued_at": "2026-07-31T12:15:28.258893+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "310726927856",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-310726927856",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726927808",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-wells-fargo-international-solutions-private-ltd-bengaluru-0-to-5-years-310726927808",
+    "source": "naukri",
+    "company": "Wells Fargo",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726927862",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-abb-india-limited-bengaluru-1-to-5-years-310726927862",
+    "source": "naukri",
+    "company": "ABB",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726928082",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-ford-motor-private-limited-chennai-1-to-6-years-310726928082",
+    "source": "naukri",
+    "company": "Ford",
+    "location": "Chennai",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726928254",
+    "title": "Circuits _ Engineer",
+    "url": "https://www.naukri.com/job-listings-circuits-engineer-tata-technologies-ltd-pimpri-chinchwad-1-to-3-years-310726928254",
+    "source": "naukri",
+    "company": "Tata Technologies",
+    "location": "Pimpri-Chinchwad",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726927950",
+    "title": "Chassis Brakes-Engineer",
+    "url": "https://www.naukri.com/job-listings-chassis-brakes-engineer-tata-technologies-ltd-pune-1-to-3-years-310726927950",
+    "source": "naukri",
+    "company": "Tata Technologies",
+    "location": "Pune",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726026790",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-310726026790",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726500268",
+    "title": "Software Engineer- Containers",
+    "url": "https://www.naukri.com/job-listings-software-engineer-containers-barclays-shared-services-pune-chennai-0-to-7-years-310726500268",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune, Chennai",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726500252",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-barclays-shared-services-pune-0-to-7-years-310726500252",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726502917",
+    "title": "SDE Professional",
+    "url": "https://www.naukri.com/job-listings-sde-professional-black-panda-enterprises-pune-1-to-4-years-310726502917",
+    "source": "naukri",
+    "company": "Black Panda Enterprises",
+    "location": "Pune",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726502690",
+    "title": "Staff Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-staff-site-reliability-engineer-trimble-information-technologies-india-pvt-ltd-chennai-1-to-4-years-310726502690",
+    "source": "naukri",
+    "company": "Trimble",
+    "location": "Chennai",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726500068",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-pjsofttech-pvt-ltd-pune-1-to-3-years-310726500068",
+    "source": "naukri",
+    "company": "Pjsofttech",
+    "location": "Pune",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726501206",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-aarete-pune-1-to-3-years-310726501206",
+    "source": "naukri",
+    "company": "AArete",
+    "location": "Pune",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726500078",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-pjsofttech-pvt-ltd-pune-0-to-1-years-310726500078",
+    "source": "naukri",
+    "company": "Pjsofttech",
+    "location": "Pune",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726500265",
+    "title": "CMS - Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-cms-full-stack-developer-barclays-shared-services-pune-1-to-9-years-310726500265",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726501341",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-knowledgesprint-technologies-india-pvt-ltd-hyderabad-0-to-3-years-310726501341",
+    "source": "naukri",
+    "company": "Knowledgesprint Technologies",
+    "location": "Hyderabad",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726501340",
+    "title": "Python Developer - AI Assisted Development",
+    "url": "https://www.naukri.com/job-listings-python-developer-ai-assisted-development-knowledgesprint-technologies-india-pvt-ltd-hyderabad-0-to-3-years-310726501340",
+    "source": "naukri",
+    "company": "Knowledgesprint Technologies",
+    "location": "Hyderabad",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726502712",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-310726502712",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726502013",
+    "title": "Analyst - HFA",
+    "url": "https://www.naukri.com/job-listings-analyst-hfa-apex-fund-services-llp-bengaluru-1-to-7-years-310726502013",
+    "source": "naukri",
+    "company": "Apex Group",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726500260",
+    "title": "Analyst - CMP EBM Rules",
+    "url": "https://www.naukri.com/job-listings-analyst-cmp-ebm-rules-barclays-shared-services-gurugram-0-to-8-years-310726500260",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Gurugram",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726502061",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-310726502061",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726502060",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mohali-0-to-4-years-310726502060",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mohali",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726500256",
+    "title": "Selection and Assessment Analyst",
+    "url": "https://www.naukri.com/job-listings-selection-and-assessment-analyst-barclays-shared-services-chennai-0-to-8-years-310726500256",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Chennai",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726500250",
+    "title": "Decision Analyst",
+    "url": "https://www.naukri.com/job-listings-decision-analyst-barclays-shared-services-gurugram-0-to-8-years-310726500250",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Gurugram",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310726500424",
+    "title": "ExcelHer - Verification Engineer, HIL",
+    "url": "https://www.naukri.com/job-listings-excelher-verification-engineer-hil-volvo-bengaluru-1-to-7-years-310726500424",
+    "source": "naukri",
+    "company": "Volvo Group",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "queued"
   }
 ]
