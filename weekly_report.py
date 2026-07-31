@@ -3,7 +3,7 @@ Weekly Auto-Apply Report — India engine
 =======================================
 Runs every Saturday. Consolidates the past 7 days of auto-applications across
 ALL platforms into one email:
-  - Google / Naukri / Apple  -> json/autoapply_applied.json  (has "source")
+  - Google / Naukri / Apple / Meta -> json/autoapply_applied.json  (has "source")
   - Instahyre                -> json/instahyre_applied.json
 grouped by platform with a table (Role -> linked, Company, Location, Applied).
 Plus a best-effort "Responses this week" section: emails that landed in the
@@ -42,8 +42,11 @@ PASSWORD    = os.environ.get("GMAIL_APP_PASSWORD", "")
 INBOX_USER  = os.environ.get("AUTOAPPLY_GMAIL_USER", "")
 INBOX_PASS  = os.environ.get("AUTOAPPLY_GMAIL_APP_PASSWORD", "")
 
-PLATFORM_LABEL = {"google": "Google", "naukri": "Naukri", "apple": "Apple", "instahyre": "Instahyre"}
-PLATFORM_ORDER = ["google", "naukri", "apple", "instahyre"]
+# A source missing from PLATFORM_ORDER is silently dropped from the report —
+# add every new applier here at the same time as its script.
+PLATFORM_LABEL = {"google": "Google", "naukri": "Naukri", "apple": "Apple",
+                  "meta": "Meta", "instahyre": "Instahyre"}
+PLATFORM_ORDER = ["google", "naukri", "apple", "meta", "instahyre"]
 
 
 # ──────────────────────────────────────────────────────────────────────────────

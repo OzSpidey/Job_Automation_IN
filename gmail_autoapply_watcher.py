@@ -1,27 +1,31 @@
 """
-Gmail Auto-Apply Watcher — India (Google + Apple)
-=================================================
+Gmail Auto-Apply Watcher — India (Google + Apple + Naukri + Meta)
+=================================================================
 Polls the dedicated auto-apply inbox (oswin.autoapply@gmail.com) over IMAP,
 finds new scraper-alert emails, extracts the apply/job links, and appends any
 genuinely-new openings to json/autoapply_queue.json.
 
-Two sources are handled, routed by the email subject:
+Sources are routed by the email subject:
   • "Google …"  → Google Careers apply links (jobId in the query string).
                   EARLY-level roles only (Google caps applications ~3/month).
   • "Apple …"   → Apple jobs.apple.com/details/<positionId>/<slug> links.
                   ALL software/SDE roles (Apple has no monthly cap), no level gate.
+  • "Naukri …"  → naukri.com/job-listings-<slug>-<id> links, no level gate.
+  • "Meta …"    → metacareers.com/jobs/<id>/ links, no level gate (the Meta
+                  India scraper already filters to software + drops senior).
 
 Every queued row carries a "source" so the matching applier
-(google_autoapply.py / apple_autoapply.py) only picks up its own jobs.
+(google_autoapply.py / apple_autoapply.py / naukri_autoapply.py /
+meta_autoapply.py) only picks up its own jobs.
 
 Dedup is layered and source-aware:
   - json/autoapply_queue.json    roles waiting to be applied to
   - json/autoapply_applied.json  roles already applied to (never re-queue)
 Keyed on (source, job_id), so a Google jobId can never collide with an Apple
-positionId. Processed Google/Apple emails are marked \\Seen; a rescan is
-harmless anyway because the (source, job_id) dedup catches it. Any email from
-a different sender, or whose subject is neither Google nor Apple (e.g. Amazon
-alerts, personal mail), is left completely untouched and unread.
+positionId. Processed alert emails are marked \\Seen; a rescan is harmless
+anyway because the (source, job_id) dedup catches it. Any email from a
+different sender, or whose subject matches none of the known sources (e.g.
+Amazon alerts, personal mail), is left completely untouched and unread.
 
 Run: python gmail_autoapply_watcher.py
 """
@@ -81,6 +85,11 @@ APPLE_ID_RE = re.compile(r"/details/(\d+)/([^/?\s\"'<>]*)", re.I)
 # Naukri job links: naukri.com/job-listings-<slug>-<trailing-digits>
 NAUKRI_LINK_RE = re.compile(r"https://www\.naukri\.com/job-listings-[^\s\"'<>]+", re.I)
 NAUKRI_ID_RE   = re.compile(r"-(\d+)(?:\?|#|$)")
+
+# ── Meta ────────────────────────────────────────────────────────────────────────
+# Meta job links: metacareers.com/jobs/<numeric id>/
+META_LINK_RE = re.compile(r"https://www\.metacareers\.com/jobs/\d+/?[^\s\"'<>]*", re.I)
+META_ID_RE   = re.compile(r"/jobs/(\d+)")
 
 # ──────────────────────────────────────────────────────────────────────────────
 # STATE
@@ -278,6 +287,46 @@ def extract_naukri(html_body: str, plain_body: str) -> list[dict]:
 
 
 # ──────────────────────────────────────────────────────────────────────────────
+# META PARSE (all software roles — the scraper filters + drops senior already)
+# ──────────────────────────────────────────────────────────────────────────────
+
+def parse_meta_link(url: str, row_title: str = "") -> dict | None:
+    """Pull the numeric job id + title out of a metacareers.com job URL."""
+    url = html.unescape(url).replace("&amp;", "&")
+    m = META_ID_RE.search(urllib.parse.urlparse(url).path)
+    if not m:
+        return None
+    return {"job_id": m.group(1), "title": (row_title or "").strip(),
+            "url": url, "source": "meta"}
+
+
+def extract_meta(html_body: str, plain_body: str) -> list[dict]:
+    """Every Meta opening in the email. Captures team + location from the row so
+    the apply summary can show them. Row order in the Meta India scraper email:
+    Role, Team, Location, Link."""
+    found: dict[str, dict] = {}
+    if html_body:
+        for row in _TR_RE.findall(html_body):
+            m = META_LINK_RE.search(row)
+            if not m:
+                continue
+            rec = parse_meta_link(m.group(0), _row_role_text(row))
+            if rec:
+                cells = _row_cells(row)
+                rec["company"]  = "Meta"
+                rec["team"]     = cells[1] if len(cells) > 1 else ""
+                rec["location"] = cells[2] if len(cells) > 2 else ""
+                found[rec["job_id"]] = rec
+    if not found:
+        for body in (html_body, plain_body):
+            for m in META_LINK_RE.finditer(body or ""):
+                rec = parse_meta_link(m.group(0))
+                if rec:
+                    found.setdefault(rec["job_id"], rec)
+    return list(found.values())
+
+
+# ──────────────────────────────────────────────────────────────────────────────
 # DISPATCH
 # ──────────────────────────────────────────────────────────────────────────────
 
@@ -289,6 +338,8 @@ def source_from_subject(subject: str) -> str | None:
         return "apple"
     if "naukri" in s:
         return "naukri"
+    if "meta" in s:
+        return "meta"
     return None
 
 
@@ -300,6 +351,8 @@ def extract_from_email(msg: Message, source: str) -> list[dict]:
         return extract_apple(html_body, plain_body)
     if source == "naukri":
         return extract_naukri(html_body, plain_body)
+    if source == "meta":
+        return extract_meta(html_body, plain_body)
     return []
 
 
@@ -358,7 +411,7 @@ def _key(row: dict) -> tuple:
 
 def main() -> None:
     print("=" * 60)
-    print("Gmail Auto-Apply Watcher — Google + Apple (India)")
+    print("Gmail Auto-Apply Watcher — Google + Apple + Naukri + Meta (India)")
     print("=" * 60)
 
     openings = fetch_new_openings()
@@ -385,8 +438,9 @@ def main() -> None:
     n_google = sum(1 for r in queue if r.get("source", "google") == "google")
     n_apple  = sum(1 for r in queue if r.get("source") == "apple")
     n_naukri = sum(1 for r in queue if r.get("source") == "naukri")
+    n_meta   = sum(1 for r in queue if r.get("source") == "meta")
     print(f"\nAdded {added} new opening(s). Queue depth: {len(queue)} "
-          f"(google={n_google}, apple={n_apple}, naukri={n_naukri}).")
+          f"(google={n_google}, apple={n_apple}, naukri={n_naukri}, meta={n_meta}).")
     print("Done.")
 
 

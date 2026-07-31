@@ -1,0 +1,49 @@
+name: Meta India Scraper
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write            # needed to commit meta_india_seen_jobs.json back
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # metacareers.com is a Relay/GraphQL SPA — the job list only exists in a
+      # response the browser triggers, so this scraper needs a real browser.
+      - name: Install Playwright + Chromium
+        run: |
+          pip install playwright python-dotenv
+          python -m playwright install --with-deps chromium
+
+      - name: Run Meta India Scraper
+        env:
+          EMAIL_TO_INDIA:     ${{ secrets.EMAIL_TO_INDIA }}
+          EMAIL_SENDER:       ${{ secrets.EMAIL_SENDER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          META_TARGET_ROLES:  ${{ vars.META_TARGET_ROLES }}
+        run: python meta_scraper_india.py
+
+      - name: Persist seen-jobs list
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add json/meta_india_seen_jobs.json
+          git diff --staged --quiet || git commit -m "chore: update meta india seen jobs [skip ci]"
+          git checkout -- . 2>/dev/null || true
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $i failed, retrying in $((i * 3))s..."
+            sleep $((i * 3))
+          done
