@@ -537,6 +537,11 @@ def scan() -> tuple[list[dict], int]:
 
     india_raw = [j for j in raw if has_india_location(j)]
     print(f"  India postings among them: {len(india_raw)}")
+    # List them regardless of whether they match. Meta's India presence is tiny,
+    # so a 0-match run is the normal case — printing the rejected titles is what
+    # makes that explainable (role filter too narrow?) instead of mysterious.
+    for j in india_raw:
+        print(f"    [india] {j.get('title','')}  ({format_locations(j)})")
 
     print("[2] Filtering: India only, software roles, excluding senior/staff/lead/manager ...")
     matched: list[dict] = []
