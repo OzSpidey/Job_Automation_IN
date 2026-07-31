@@ -56,6 +56,7 @@ import os
 import re
 import smtplib
 import sys
+import time
 from datetime import datetime, timezone
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
@@ -228,6 +229,31 @@ def hit_login_wall(page) -> bool:
     return any(m in body for m in
                ("log in to facebook", "log into facebook", "create new account",
                 "log in to continue", "sign in to continue"))
+
+
+FORM_WAIT_S = 30
+
+
+def wait_for_form(page, timeout_s: int = FORM_WAIT_S) -> bool:
+    """Poll until the application form's fields exist.
+
+    /profile/create_application/<id>/ is client-rendered and hydrates well after
+    domcontentloaded — a fixed sleep caught 14 inputs on one recon and 0 on the
+    next against the same posting. Anything that reads or fills the form has to
+    wait on the fields themselves.
+    """
+    deadline = time.time() + timeout_s
+    while time.time() < deadline:
+        try:
+            if page.locator("input,textarea,select").count() > 0:
+                print(f"  [form] fields rendered after "
+                      f"{timeout_s - int(deadline - time.time())}s")
+                return True
+        except Exception:
+            pass
+        page.wait_for_timeout(1_000)
+    print(f"  [form] no fields after {timeout_s}s")
+    return False
 
 
 def count_file_inputs(page) -> int:
@@ -440,7 +466,7 @@ def recon(page, jobs: list[dict]) -> None:
             print("  [note] no apply CTA found on the posting page")
             continue
 
-        page.wait_for_timeout(4500)
+        wait_for_form(page)
         snap(page, f"meta_form_{jid}")
         dump_controls(page, f"form_{jid}")
         dump_fields(page, f"form_{jid}")
@@ -470,8 +496,10 @@ def walk(page, jobs: list[dict], ans: dict, resume: str | None) -> None:
     page.wait_for_timeout(4000)
     dismiss_cookie_banner(page)
     for n in range(MAX_STEPS):
+        wait_for_form(page)
         snap(page, f"meta_walk{n}")
         dump_controls(page, f"walk{n}")
+        dump_fields(page, f"walk{n}")
         if hit_login_wall(page):
             print("  login wall — stopping walk.")
             break
@@ -511,6 +539,7 @@ def apply(page, jobs: list[dict], ans: dict, resume: str | None, others: list[di
                 remaining.append(job); continue
 
             for n in range(MAX_STEPS):
+                wait_for_form(page)
                 snap(page, f"meta_apply{n}_{jid}")
                 if hit_login_wall(page):
                     print("  [abort] login wall mid-flow — leaving queued.")
