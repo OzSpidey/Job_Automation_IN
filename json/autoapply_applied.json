@@ -732,5 +732,49 @@
     "queued_at": "2026-07-31T12:15:28.258893+00:00",
     "status": "applied",
     "applied_at": "2026-07-31T12:18:20.830230+00:00"
+  },
+  {
+    "job_id": "310726927856",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-310726927856",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-31T14:17:12.330256+00:00"
+  },
+  {
+    "job_id": "310726927862",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-abb-india-limited-bengaluru-1-to-5-years-310726927862",
+    "source": "naukri",
+    "company": "ABB",
+    "location": "Bengaluru",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-31T14:17:26.446848+00:00"
+  },
+  {
+    "job_id": "310726928254",
+    "title": "Circuits _ Engineer",
+    "url": "https://www.naukri.com/job-listings-circuits-engineer-tata-technologies-ltd-pimpri-chinchwad-1-to-3-years-310726928254",
+    "source": "naukri",
+    "company": "Tata Technologies",
+    "location": "Pimpri-Chinchwad",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-31T14:17:40.939407+00:00"
+  },
+  {
+    "job_id": "310726927950",
+    "title": "Chassis Brakes-Engineer",
+    "url": "https://www.naukri.com/job-listings-chassis-brakes-engineer-tata-technologies-ltd-pune-1-to-3-years-310726927950",
+    "source": "naukri",
+    "company": "Tata Technologies",
+    "location": "Pune",
+    "queued_at": "2026-07-31T14:15:18.102246+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-31T14:17:50.615469+00:00"
   }
 ]
