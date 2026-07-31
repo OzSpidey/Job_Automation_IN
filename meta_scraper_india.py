@@ -541,7 +541,7 @@ def scan() -> tuple[list[dict], int]:
     # so a 0-match run is the normal case — printing the rejected titles is what
     # makes that explainable (role filter too narrow?) instead of mysterious.
     for j in india_raw:
-        print(f"    [india] {j.get('title','')}  ({format_locations(j)})")
+        print(f"    [india] {j.get('title','')}  ({format_locations(j)})  {job_url(j)}")
 
     print("[2] Filtering: India only, software roles, excluding senior/staff/lead/manager ...")
     matched: list[dict] = []

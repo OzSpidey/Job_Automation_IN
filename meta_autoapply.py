@@ -42,6 +42,12 @@ Env:
   META_ENABLE_SUBMIT     "1" to actually submit (default off)
   APPLY_LIMIT            max submissions per run (0 = whole meta queue)
   RECON_LIMIT            max jobs for --recon (default 3)
+  RECON_JOB              job id or full URL to recon/walk INSTEAD of the queue.
+                         Meta's India software queue is empty most of the time
+                         (Meta staffs ~16 India roles, rarely any SWE), so the
+                         form can't be mapped by waiting for a queued job —
+                         point this at any live posting to map the DOM. recon
+                         and walk never submit, so this applies to nothing.
 """
 
 import base64
@@ -478,8 +484,19 @@ def main() -> None:
     jobs   = [j for j in all_jobs if j.get("source") == SOURCE]
     others = [j for j in all_jobs if j.get("source") != SOURCE]
     print(f"Queue depth (meta): {len(jobs)}  |  other-source rows kept intact: {len(others)}")
-    if not jobs:
-        print("Nothing queued for Meta. Run the scraper + watcher first.")
+
+    # Mapping override: recon/walk a specific posting instead of the queue, so
+    # the form can be mapped while the India queue is empty. Never for --apply,
+    # which must only ever touch genuinely queued+deduped roles.
+    target = os.environ.get("RECON_JOB", "").strip()
+    if target and mode in ("recon", "walk"):
+        jid = target.rsplit("/jobs/", 1)[-1].strip("/") if "/" in target else target
+        url = target if target.startswith("http") else f"https://www.metacareers.com/jobs/{jid}/"
+        jobs = [{"job_id": jid, "url": url, "title": "(RECON_JOB override)", "source": SOURCE}]
+        print(f"[recon-override] using RECON_JOB → {url}")
+    elif not jobs:
+        print("Nothing queued for Meta. Run the scraper + watcher first, "
+              "or set RECON_JOB=<job id|url> to map the form now.")
         return
 
     session = maybe_session_file()
