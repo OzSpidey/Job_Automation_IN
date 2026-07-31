@@ -275,6 +275,51 @@ def dump_controls(page, tag: str) -> None:
         print(f"  {role}({n}): {names}")
 
 
+# Meta's markup is obfuscated-class soup and its role engine reports nothing
+# (see dump_controls), so field identity has to come from the elements' own
+# attributes. One JS pass beats dozens of locator round-trips.
+_FIELDS_JS = """() => Array.from(document.querySelectorAll(
+    'input,textarea,select,[role=radio],[role=checkbox],[role=combobox],[role=button]'
+)).map((el, i) => ({
+    i,
+    tag:   el.tagName.toLowerCase(),
+    type:  el.getAttribute('type'),
+    role:  el.getAttribute('role'),
+    name:  el.getAttribute('name'),
+    id:    el.id || null,
+    ph:    el.getAttribute('placeholder'),
+    aria:  el.getAttribute('aria-label'),
+    req:   el.required || el.getAttribute('aria-required') || null,
+    label: (el.labels && el.labels[0] && el.labels[0].innerText) || null,
+    text:  (el.innerText || '').trim().slice(0, 40) || null,
+}))"""
+
+
+def dump_fields(page, tag: str) -> None:
+    """Every form control with the attributes that identify it."""
+    try:
+        fields = page.evaluate(_FIELDS_JS)
+    except Exception as exc:
+        print(f"  [fields] extraction failed: {type(exc).__name__}: {exc}")
+        return
+    print(f"  [fields] {len(fields)} control(s) on {tag}:")
+    for f in fields:
+        bits = [f"{k}={v!r}" for k, v in f.items() if k != "i" and v not in (None, "", False)]
+        print(f"    #{f['i']:>2} {' '.join(bits)}")
+
+
+def dump_visible_text(page, tag: str, limit: int = 3500) -> None:
+    """The rendered text — this is what names Meta's questions in order."""
+    try:
+        text = page.inner_text("body")
+    except Exception as exc:
+        print(f"  [text] unavailable: {type(exc).__name__}: {exc}")
+        return
+    lines = [l.strip() for l in text.splitlines() if l.strip()]
+    joined = " | ".join(lines)[:limit]
+    print(f"  [text] {tag}: {joined}")
+
+
 def snap(page, name: str) -> None:
     os.makedirs(SCREENSHOT_DIR, exist_ok=True)
     os.makedirs(RECON_DIR, exist_ok=True)
@@ -398,6 +443,8 @@ def recon(page, jobs: list[dict]) -> None:
         page.wait_for_timeout(4500)
         snap(page, f"meta_form_{jid}")
         dump_controls(page, f"form_{jid}")
+        dump_fields(page, f"form_{jid}")
+        dump_visible_text(page, f"form_{jid}")
         reached_form += 1
         if hit_login_wall(page):
             walled = True
