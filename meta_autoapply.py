@@ -241,13 +241,25 @@ def count_file_inputs(page) -> int:
 def dump_controls(page, tag: str) -> None:
     print(f"\n--- controls [{tag}]  url={page.url}")
     print(f"  file inputs: {count_file_inputs(page)}")
+    # Meta builds its controls as <div role="button"> inside deeply-nested
+    # obfuscated-class markup. Count them by CSS too: it doesn't depend on the
+    # accessibility tree, so a divergence between these two numbers tells us the
+    # role engine (and therefore get_by_role clicking) can't see the page.
+    for css in ('[role="button"]', '[role="link"]', "button", "a", "input", "textarea"):
+        try:
+            print(f"  css {css}: {page.locator(css).count()}")
+        except Exception as exc:
+            print(f"  css {css}: ERROR {type(exc).__name__}: {exc}")
     for role in ("combobox", "radiogroup", "radio", "checkbox", "textbox",
                  "button", "link", "listbox"):
         try:
             loc = page.get_by_role(role)
             n = loc.count()
-        except Exception:
-            n = 0
+        except Exception as exc:
+            # Never swallow this: a silent 0 here is what made the first Meta
+            # recon look like an empty page when the DOM was fully rendered.
+            print(f"  {role}: ERROR {type(exc).__name__}: {exc}")
+            continue
         if not n:
             continue
         names = []
@@ -279,14 +291,30 @@ def snap(page, name: str) -> None:
 
 
 def _click_matching(page, pattern: re.Pattern) -> str | None:
-    """Click the first enabled button (then link) whose label matches."""
+    """Click the first enabled control whose label matches.
+
+    Meta renders its CTAs as <div role="button"> wrapping a <span> of text, not
+    as real <button>/<a> elements, so this deliberately tries CSS attribute
+    selectors alongside the ARIA-role engine rather than trusting either alone.
+    """
+    candidates: list[tuple[str, object]] = []
     for role in ("button", "link"):
         try:
-            loc = page.get_by_role(role)
+            candidates.append((role, page.get_by_role(role)))
+        except Exception:
+            pass
+    for css in ('[role="button"]', '[role="link"]', "button", "a"):
+        try:
+            candidates.append((css, page.locator(css)))
+        except Exception:
+            pass
+
+    for how, loc in candidates:
+        try:
             n = loc.count()
         except Exception:
             continue
-        for i in range(min(n, 30)):
+        for i in range(min(n, 40)):
             el = loc.nth(i)
             try:
                 label = (el.inner_text(timeout=300) or el.get_attribute("aria-label") or "").strip()
@@ -295,11 +323,11 @@ def _click_matching(page, pattern: re.Pattern) -> str | None:
             if not (label and pattern.match(label)):
                 continue
             try:
-                if role == "button" and not el.is_enabled():
-                    continue
-                el.click()
+                el.click(timeout=5_000)
+                print(f"  [click] matched {label!r} via {how}")
                 return label
-            except Exception:
+            except Exception as exc:
+                print(f"  [click] {label!r} via {how} failed: {type(exc).__name__}")
                 continue
     return None
 
