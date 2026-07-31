@@ -7,7 +7,8 @@
     "company": "Thyrocare",
     "location": "Navi Mumbai",
     "queued_at": "2026-07-31T10:15:17.378724+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "310726018318",
@@ -17,6 +18,7 @@
     "company": "eClerx",
     "location": "Mohali",
     "queued_at": "2026-07-31T10:15:17.378724+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
