@@ -721,5 +721,16 @@
     "queued_at": "2026-07-31T08:15:04.964648+00:00",
     "status": "applied",
     "applied_at": "2026-07-31T08:17:04.107670+00:00"
+  },
+  {
+    "job_id": "310726924666",
+    "title": "Palantir Developer",
+    "url": "https://www.naukri.com/job-listings-palantir-developer-techstar-software-development-india-pvt-ltd-hyderabad-0-to-5-years-310726924666",
+    "source": "naukri",
+    "company": "Techstar Group",
+    "location": "Hyderabad",
+    "queued_at": "2026-07-31T12:15:28.258893+00:00",
+    "status": "applied",
+    "applied_at": "2026-07-31T12:18:20.830230+00:00"
   }
 ]
