@@ -9,36 +9,46 @@ Reads ONLY source=="meta" rows from the shared json/autoapply_queue.json and
 preserves the other sources' rows on save, so google/apple/naukri/meta share
 one queue without stepping on each other.
 
-TWO WAYS META DIFFERS FROM THE OTHER APPLIERS
-  1. The session is OPTIONAL. Google, Naukri and Instahyre all require a
-     replayed logged-in session; Meta's application form has historically been
-     open to anonymous applicants (name + email + résumé, no account). So
-     META_SESSION_B64 is used if present and simply skipped if not — recon
-     reports whether a login wall actually appears, and that decides whether a
-     session capture is needed at all.
-  2. A résumé FILE is likely required. The other India appliers all lean on a
-     résumé already saved in the platform profile (Google careers profile,
-     Naukri profile, Instahyre profile) and upload nothing. Meta has no such
-     profile to lean on, and this repo is PUBLIC so no résumé can be committed:
-     supply it as META_RESUME_B64 (base64 of the PDF) and it's written to a
-     runtime temp file. recon prints the file-input count so we know whether
-     it's needed before wiring the secret.
+THE FORM (mapped by CI recon of an India posting, run 30594032167)
+  /jobs/<id>/ → "Apply now" → /profile/create_application/<id>/, which is a
+  SINGLE page ending in one "Submit" — there are no steps to walk. It hydrates
+  client-side well after domcontentloaded (see wait_for_form).
+
+  Its contents depend on whether we're logged in, which is why nothing here is
+  required up front:
+    • logged in (the intended path) — the Meta Career Profile supplies the
+      résumé and contact details, so most fields are absent or pre-populated and
+      only a few questions remain, exactly like the Google applier.
+    • anonymous — Meta asks for everything: résumé upload, name, email, phone,
+      location, self-ID, plus creating a Career Profile account on submit.
+  Recon confirmed the anonymous path has no login wall, so both work; the
+  logged-in one is preferred because it answers far less.
+
+  Meta's ARIA role engine reports ZERO controls on these pages (get_by_role and
+  get_by_label both see nothing) while CSS sees all of them, and its CTAs are
+  <div role="button"> rather than real buttons. Everything here therefore goes
+  through CSS attribute selectors — see the taggers above fill_application.
 
 Modes:
-  --recon   Open each queued job, screenshot + dump the DOM, try to reach the
+  --recon   Open each queued job, screenshot + dump the DOM, reach the
             application form, and report: login wall? résumé upload? which
-            fields? No submissions. RUN THIS FIRST to map the flow.
-  --walk    (mapping) Take ONE job as far through the form as we can, dumping
-            every page, and STOP before submit.
-  --apply   Real run: fill + submit — but fill_application() is deliberately a
-            NotImplementedError stub until recon reveals Meta's real form, and
-            submit additionally requires META_ENABLE_SUBMIT=1. So --apply
-            cannot blind-submit a half-filled form.
+            fields? No submissions.
+  --walk    Fill ONE job's form completely, dump it, and STOP before Submit.
+            This is how a fill is validated before arming.
+  --apply   Fill + submit. Submit only fires when META_ENABLE_SUBMIT=1; a
+            disarmed run fills the form, says so, and leaves the job queued.
+            A fill that can't answer a field the form asks for raises
+            MissingAnswer and requeues rather than submitting partial data.
 
 Env:
-  META_SESSION_B64 / META_SESSION_FILE   optional captured session
-  META_RESUME_B64 / META_RESUME_FILE     résumé PDF for the upload field
-  META_ANSWERS_JSON      screening answers (shape finalised after recon)
+  META_SESSION_B64 / META_SESSION_FILE   captured Career Profile session (see
+                         capture_meta_session.py). Optional but recommended: it
+                         is what keeps the form short.
+  META_RESUME_B64 / META_RESUME_FILE     résumé PDF, only needed when the form
+                         asks for an upload and the profile hasn't attached one
+  META_ANSWERS_JSON      answers for whatever the form still asks, any of:
+                         first_name, last_name, email, phone, phone_code,
+                         website, current_location, account_password
   META_ENABLE_SUBMIT     "1" to actually submit (default off)
   APPLY_LIMIT            max submissions per run (0 = whole meta queue)
   RECON_LIMIT            max jobs for --recon (default 3)
@@ -423,18 +433,252 @@ def dismiss_cookie_banner(page) -> None:
 # STEP FILLING (STUB — mapped after recon)
 # ──────────────────────────────────────────────────────────────────────────────
 
-def fill_application(page, ans: dict, resume: str | None) -> None:
-    """Fill Meta's application form fields for the current step.
+# Mapped from CI recon of create_application/<id>/ (run 30594032167). Meta's
+# form is a SINGLE page — résumé upload, contact fields, two self-ID sections,
+# an account-creation block, and one "Submit" — so there are no steps to walk.
+#
+# Both taggers stamp a data attribute in one JS pass and everything afterwards
+# acts through plain CSS attribute selectors. That's deliberate: Meta's ARIA
+# role engine reports zero controls (get_by_role/get_by_label see nothing) while
+# CSS sees all of them, so label-based Playwright locators cannot be used here.
+_TAG_INPUTS_JS = """() => {
+  const out = [];
+  document.querySelectorAll('input,textarea,select').forEach((el, i) => {
+    const key = 'f' + i;
+    el.setAttribute('data-oz', key);
+    let label = '';
+    if (el.labels && el.labels[0]) {
+      label = (el.labels[0].innerText || '').trim();
+      el.labels[0].setAttribute('data-oz-label', key);
+    }
+    out.push({key, label,
+              type: (el.getAttribute('type') || el.tagName.toLowerCase()),
+              val: (el.value || '')});
+  });
+  return out;
+}"""
 
-    Intentionally NOT implemented until CI recon reveals Meta's real form DOM
-    (field labels / roles / step structure / whether the résumé upload is
-    required). Raising here guarantees --apply can never blind-submit a
-    half-filled Meta form before we've mapped it.
+_TAG_ROLES_JS = """() => {
+  const out = [];
+  document.querySelectorAll('[role=radio],[role=button],[role=combobox]').forEach((el, i) => {
+    const key = 'r' + i;
+    el.setAttribute('data-ozr', key);
+    out.push({key,
+              role: el.getAttribute('role'),
+              text: (el.innerText || '').trim().slice(0, 60),
+              aria: el.getAttribute('aria-label') || ''});
+  });
+  return out;
+}"""
+
+class MissingAnswer(RuntimeError):
+    """A field the form is asking for has no answer — fill aborts rather than
+    submit something incomplete."""
+
+
+def _find_input(fields: list[dict], *patterns: str, type_: str | None = None) -> dict | None:
+    for f in fields:
+        if type_ and f["type"] != type_:
+            continue
+        for p in patterns:
+            if re.search(p, f["label"], re.I):
+                return f
+    return None
+
+
+def _find_role(roles: list[dict], role: str, *patterns: str) -> dict | None:
+    for r in roles:
+        if r["role"] != role:
+            continue
+        blob = f"{r['text']} {r['aria']}"
+        for p in patterns:
+            if re.search(p, blob, re.I):
+                return r
+    return None
+
+
+def _fill_text(page, field: dict | None, value: str, what: str) -> None:
+    if not field or not value:
+        print(f"  [fill] {what}: skipped (field={bool(field)}, value={bool(value)})")
+        return
+    try:
+        page.locator(f'[data-oz="{field["key"]}"]').fill(value, timeout=8_000)
+        print(f"  [fill] {what}: ok")
+    except Exception as exc:
+        print(f"  [fill] {what}: FAILED {type(exc).__name__}: {exc}")
+
+
+def _click_radio(page, page_key: str, what: str, label_key: str | None = None) -> None:
+    """Radios are visually-replaced inputs, so click the styled label when there
+    is one and fall back to a forced click on the input itself."""
+    for sel in ([f'[data-oz-label="{label_key}"]'] if label_key else []) + [f'[data-oz="{page_key}"]']:
+        try:
+            page.locator(sel).click(timeout=5_000)
+            print(f"  [fill] {what}: selected")
+            return
+        except Exception:
+            continue
+    try:
+        page.locator(f'[data-oz="{page_key}"]').click(timeout=5_000, force=True)
+        print(f"  [fill] {what}: selected (forced)")
+    except Exception as exc:
+        print(f"  [fill] {what}: FAILED {type(exc).__name__}")
+
+
+def _pick_combobox(page, roles: list[dict], aria: str, value: str, what: str) -> None:
+    """Open one of Meta's <button role=combobox> pickers and choose a value.
+
+    These are typeaheads whose option list is rendered on open, so the option is
+    matched by its visible text after typing. Best-effort by design: a failure
+    here is logged and left to the walk to refine rather than guessed at.
     """
-    raise NotImplementedError(
-        "Meta form not mapped yet — run --recon, inspect the artifacts, then "
-        "implement fill_application()."
-    )
+    if not value:
+        print(f"  [fill] {what}: no value supplied — leaving Meta's default")
+        return
+    combo = _find_role(roles, "combobox", re.escape(aria))
+    if not combo:
+        print(f"  [fill] {what}: combobox {aria!r} not found")
+        return
+    try:
+        page.locator(f'[data-ozr="{combo["key"]}"]').click(timeout=8_000)
+        page.wait_for_timeout(1_200)
+        # The opened picker exposes a text box; type, then take the first option.
+        typed = False
+        for sel in ('[role=dialog] input', '[role=listbox] input', 'input[type=text]:focus', 'input:focus'):
+            try:
+                box = page.locator(sel).first
+                if box.count():
+                    box.fill(value, timeout=4_000)
+                    typed = True
+                    break
+            except Exception:
+                continue
+        page.wait_for_timeout(1_500)
+        for sel in (f'[role=option]:has-text("{value}")', f'[role=listbox] :text("{value}")',
+                    f'li:has-text("{value}")', f'div[role=button]:has-text("{value}")'):
+            try:
+                opt = page.locator(sel).first
+                if opt.count():
+                    opt.click(timeout=4_000)
+                    print(f"  [fill] {what}: picked {value!r} (typed={typed})")
+                    return
+            except Exception:
+                continue
+        print(f"  [fill] {what}: opened but no option matched {value!r} (typed={typed})")
+    except Exception as exc:
+        print(f"  [fill] {what}: FAILED {type(exc).__name__}: {exc}")
+
+
+def _resume_already_attached(page) -> bool:
+    """Whether the form already shows an attached résumé (from the profile)."""
+    try:
+        body = page.inner_text("body") or ""
+    except Exception:
+        return False
+    return bool(re.search(r"\.pdf\b|\.docx\b|replace resume|remove resume", body, re.I))
+
+
+def fill_application(page, ans: dict, resume: str | None) -> None:
+    """Fill Meta's application form. Never clicks Submit — the caller decides
+    that, so a disarmed run can fill and stop.
+
+    Written to suit BOTH shapes of the form, because they differ a lot:
+      • logged in  — the Career Profile supplies the résumé and contact details,
+        so most fields are absent or already populated and only a few questions
+        remain (same situation as the Google applier).
+      • anonymous  — Meta asks for everything, including creating an account.
+    So nothing is required up front. Each field is handled only if the form
+    actually renders it AND it isn't already filled, and a field that is present,
+    empty and unanswerable aborts the fill instead of submitting a partial form.
+    """
+    fields = page.evaluate(_TAG_INPUTS_JS)
+    roles  = page.evaluate(_TAG_ROLES_JS)
+    print(f"  [fill] tagged {len(fields)} input(s), {len(roles)} role element(s)")
+
+    def needs(field: dict | None) -> bool:
+        """Present on the form and still empty (i.e. the profile didn't fill it)."""
+        return bool(field) and not (field.get("val") or "").strip()
+
+    # 1) Résumé. Setting the file input directly avoids the OS file chooser the
+    #    "Upload resume" button opens. When logged in the profile résumé is
+    #    normally already attached, so an upload field alone isn't a blocker.
+    file_field = _find_input(fields, r".*", type_="file")
+    if file_field and resume:
+        try:
+            page.locator(f'[data-oz="{file_field["key"]}"]').set_input_files(resume, timeout=15_000)
+            print(f"  [fill] résumé: uploaded {os.path.basename(resume)}")
+            page.wait_for_timeout(4_000)   # Meta parses the file and may re-render
+            fields = page.evaluate(_TAG_INPUTS_JS)   # re-tag: parse rebuilds the form
+            roles  = page.evaluate(_TAG_ROLES_JS)
+        except Exception as exc:
+            raise MissingAnswer(f"résumé upload failed: {type(exc).__name__}: {exc}")
+    elif file_field and not _resume_already_attached(page):
+        raise MissingAnswer(
+            "the form asks for a résumé, none is attached from the profile, and "
+            "META_RESUME_B64 isn't set (.pdf/.docx, max 2MB)"
+        )
+    elif file_field:
+        print("  [fill] résumé: already attached from the Career Profile — leaving it")
+
+    # 2) Contact fields — only the ones this form renders empty.
+    for label_re, key, what in (
+        (r"^first name",   "first_name", "first name"),
+        (r"^last name",    "last_name",  "last name"),
+        (r"^email",        "email",      "email"),
+        (r"^phone number", "phone",      "phone"),
+        (r"^website",      "website",    "website"),
+    ):
+        field = _find_input(fields, label_re)
+        if not field:
+            continue
+        if not needs(field):
+            print(f"  [fill] {what}: already filled by the profile — leaving it")
+            continue
+        value = str(ans.get(key, "") or "")
+        if not value:
+            if key == "website":       # genuinely optional on Meta's form
+                print(f"  [fill] {what}: empty and no answer — optional, skipping")
+                continue
+            raise MissingAnswer(
+                f"the form asks for {what} and it is empty, but META_ANSWERS_JSON "
+                f"has no {key!r}"
+            )
+        _fill_text(page, field, value, what)
+
+    # 3) Pickers. Only touched when an answer is supplied explicitly — Meta's
+    #    phone code defaults to +1, but when logged in the profile's own value is
+    #    already right and must not be clobbered.
+    _pick_combobox(page, roles, "Code", str(ans.get("phone_code", "")), "phone code")
+    _pick_combobox(page, roles, "Current location", ans.get("current_location", ""), "current location")
+
+    # 4) Self-ID: decline both, matching the India policy already used for
+    #    Google's voluntary self-ID step. Gender is never inferred.
+    gender_decline = _find_input(fields, r"choose not to disclose", type_="radio")
+    if gender_decline:
+        _click_radio(page, gender_decline["key"], "gender (decline)", gender_decline["key"])
+    disability_decline = _find_input(fields, r"do not want to answer", type_="radio")
+    if disability_decline:
+        _click_radio(page, disability_decline["key"], "disability (decline)", disability_decline["key"])
+
+    # 5) Career Profile account. Meta creates one on submit regardless, so pick
+    #    password mode and set it — one-time-code mode would need inbox access
+    #    mid-submit, which this run can't do.
+    password = ans.get("account_password", "")
+    if password:
+        pw_mode = _find_role(roles, "radio", r"use a password")
+        if pw_mode:
+            try:
+                page.locator(f'[data-ozr="{pw_mode["key"]}"]').click(timeout=5_000)
+                print("  [fill] account mode: use a password")
+                page.wait_for_timeout(1_000)
+                fields = page.evaluate(_TAG_INPUTS_JS)
+            except Exception as exc:
+                print(f"  [fill] account mode: FAILED {type(exc).__name__}")
+        _fill_text(page, _find_input(fields, r"^password", type_="password"), password, "password")
+        _fill_text(page, _find_input(fields, r"^confirm password", type_="password"),
+                   password, "confirm password")
+    else:
+        print("  [fill] account: no account_password supplied — leaving Meta's default mode")
 
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -489,32 +733,78 @@ def recon(page, jobs: list[dict]) -> None:
     print("  next: read the dumped controls above, then implement fill_application().")
 
 
+def open_form(page, job: dict) -> bool:
+    """Posting page → click "Apply now" → the hydrated create_application form."""
+    page.goto(job["url"], wait_until="domcontentloaded", timeout=45_000)
+    page.wait_for_timeout(4_000)
+    dismiss_cookie_banner(page)
+    if "create_application" not in (page.url or ""):
+        clicked = click_apply_or_next(page)
+        if not clicked:
+            print("  [abort] no apply CTA on the posting page")
+            return False
+        page.wait_for_timeout(2_500)
+    if already_applied(page):
+        return False
+    return wait_for_form(page)
+
+
+def already_applied(page) -> bool:
+    try:
+        body = (page.inner_text("body") or "").lower()
+    except Exception:
+        return False
+    if any(m in body for m in ("you have already applied", "already applied to this",
+                               "application already submitted")):
+        print("  [note] Meta says this role was already applied to")
+        return True
+    return False
+
+
+def submit_succeeded(page) -> bool:
+    """Positive confirmation that Meta accepted the application.
+
+    NOT yet verified against a real submission — nothing has been submitted to
+    Meta from here. Both signals are checked and an unconfirmed submit requeues
+    the job rather than being recorded, so the failure mode is a retry (which
+    already_applied() then catches), never a silently-lost application. Confirm
+    and tighten this on the first armed run.
+    """
+    url = (page.url or "").lower()
+    if "create_application" not in url:
+        print(f"  [submit] navigated away to {page.url}")
+        return True
+    try:
+        body = (page.inner_text("body") or "").lower()
+    except Exception:
+        return False
+    for marker in ("thank you for applying", "application submitted",
+                   "we received your application", "application received",
+                   "thanks for applying"):
+        if marker in body:
+            print(f"  [submit] confirmation text: {marker!r}")
+            return True
+    return False
+
+
 def walk(page, jobs: list[dict], ans: dict, resume: str | None) -> None:
+    """Fill the form for ONE job and stop before Submit."""
     job = jobs[0]
     print(f"\n[walk] {job.get('title','')}  {job['job_id']}")
-    page.goto(job["url"], wait_until="domcontentloaded", timeout=45000)
-    page.wait_for_timeout(4000)
-    dismiss_cookie_banner(page)
-    for n in range(MAX_STEPS):
-        wait_for_form(page)
-        snap(page, f"meta_walk{n}")
-        dump_controls(page, f"walk{n}")
-        dump_fields(page, f"walk{n}")
-        if hit_login_wall(page):
-            print("  login wall — stopping walk.")
-            break
-        try:
-            fill_application(page, ans, resume)
-        except NotImplementedError as exc:
-            print(f"  fill_application stub: {exc}")
-            print("  (walk only screenshots/dumps until fill_application is mapped)")
-            break
-        clicked = click_apply_or_next(page)
-        print(f"  advance: clicked {clicked!r}")
-        if not clicked:
-            print("  no advance control — stopping walk.")
-            break
-        page.wait_for_timeout(3500)
+    if not open_form(page, job):
+        print("  form not reached — nothing to fill.")
+        return
+    snap(page, "meta_walk_form")
+    dump_controls(page, "walk_form")
+    dump_fields(page, "walk_form")
+    try:
+        fill_application(page, ans, resume)
+    except MissingAnswer as exc:
+        print(f"  [walk] cannot fill: {exc}")
+        return
+    snap(page, "meta_walk_filled")
+    dump_fields(page, "walk_filled")
+    print("  [walk] form filled — STOPPING before Submit (walk never submits).")
 
 
 def apply(page, jobs: list[dict], ans: dict, resume: str | None, others: list[dict]) -> None:
@@ -531,30 +821,38 @@ def apply(page, jobs: list[dict], ans: dict, resume: str | None, others: list[di
         print(f"\n[apply {attempted}] {job.get('title','')}  {jid}")
         submitted = False
         try:
-            page.goto(job["url"], wait_until="domcontentloaded", timeout=45000)
-            page.wait_for_timeout(4000)
-            dismiss_cookie_banner(page)
+            if not open_form(page, job):
+                print("  [abort] form not reached — leaving queued.")
+                remaining.append(job); continue
             if hit_login_wall(page):
                 print("  [abort] login wall — leaving queued.")
                 remaining.append(job); continue
 
-            for n in range(MAX_STEPS):
-                wait_for_form(page)
-                snap(page, f"meta_apply{n}_{jid}")
-                if hit_login_wall(page):
-                    print("  [abort] login wall mid-flow — leaving queued.")
-                    break
-                try:
-                    fill_application(page, ans, resume)
-                except NotImplementedError as exc:
-                    print(f"  [skip] {exc}")
-                    break  # not mapped yet → never submits
-                if not click_apply_or_next(page):
-                    print("  no advance control — stopping this job.")
-                    break
-                page.wait_for_timeout(3500)
+            snap(page, f"meta_apply_form_{jid}")
+            fill_application(page, ans, resume)
+            snap(page, f"meta_apply_filled_{jid}")
+
+            # The form is one page, so "advance" IS the final submit. Gate it on
+            # the arming flag rather than on the generic advance helper, which
+            # matches "Submit" and would otherwise fire while disarmed.
+            if not ENABLE_SUBMIT:
+                print("  [dry] form filled; META_ENABLE_SUBMIT!=1 so NOT submitting "
+                      "— leaving queued.")
+                remaining.append(job); continue
+
+            clicked = _click_matching(page, SUBMIT_BTN_RE)
+            if not clicked:
+                print("  [abort] no Submit control found — leaving queued.")
+                remaining.append(job); continue
+            page.wait_for_timeout(6_000)
+            snap(page, f"meta_apply_after_submit_{jid}")
+            submitted = submit_succeeded(page)
+            print(f"  [submit] clicked {clicked!r} → "
+                  f"{'confirmed' if submitted else 'NO confirmation — leaving queued'}")
+        except MissingAnswer as exc:
+            print(f"  [skip] {exc}")
         except Exception as exc:
-            print(f"  [error] {exc}")
+            print(f"  [error] {type(exc).__name__}: {exc}")
 
         if submitted and ENABLE_SUBMIT:
             job["applied_at"] = datetime.now(timezone.utc).isoformat()
