@@ -1,27 +1,5 @@
 [
   {
-    "job_id": "310726021651",
-    "title": "Walk-in || Hiring For Java developer - CBD Belapur",
-    "url": "https://www.naukri.com/job-listings-hiring-for-java-developer-cbd-belapur-idbi-intech-thane-navi-mumbai-mumbai-all-areas-1-to-2-years-310726021651",
-    "source": "naukri",
-    "company": "Idbi Intech",
-    "location": "",
-    "queued_at": "2026-07-31T12:15:28.258893+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "310726025676",
-    "title": "Software Developer | Ansible, Shell Scripting | GeakMinds | Chennai",
-    "url": "https://www.naukri.com/job-listings-software-developer-ansible-shell-scripting-geakminds-chennai-geak-minds-chennai-1-to-3-years-310726025676",
-    "source": "naukri",
-    "company": "Geak Minds",
-    "location": "Chennai",
-    "queued_at": "2026-07-31T12:15:28.258893+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "310726026790",
     "title": "Analyst",
     "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-310726026790",
@@ -30,6 +8,6 @@
     "location": "Chandigarh",
     "queued_at": "2026-07-31T14:15:18.102246+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
