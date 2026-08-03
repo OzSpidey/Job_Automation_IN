@@ -31,5 +31,55 @@
     "queued_at": "2026-08-03T10:15:29.134728+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "030826918531",
+    "title": "V&A Analyst",
+    "url": "https://www.naukri.com/job-listings-v-a-analyst-accenture-solutions-pvt-ltd-gurugram-1-to-4-years-030826918531",
+    "source": "naukri",
+    "company": "Accenture",
+    "location": "Gurugram",
+    "queued_at": "2026-08-03T12:15:33.144525+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "030826015579",
+    "title": "Programmatic - Analyst",
+    "url": "https://www.naukri.com/job-listings-programmatic-analyst-omnicom-global-solutions-bengaluru-1-to-3-years-030826015579",
+    "source": "naukri",
+    "company": "Omnicom Global Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-03T12:15:33.144525+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "030826500548",
+    "title": "Software Engineer- Containers",
+    "url": "https://www.naukri.com/job-listings-software-engineer-containers-barclays-shared-services-chennai-0-to-7-years-030826500548",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Chennai",
+    "queued_at": "2026-08-03T12:15:33.144525+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300726502258",
+    "title": "Full Stack Quantitative Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-quantitative-developer-e4-softwares-mumbai-1-to-4-years-300726502258",
+    "source": "naukri",
+    "company": "E4 Software Services",
+    "location": "Mumbai",
+    "queued_at": "2026-08-03T12:15:33.144525+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "030826500339",
+    "title": "Full Stack Quantitative Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-quantitative-developer-e4-softwares-bengaluru-1-to-4-years-030826500339",
+    "source": "naukri",
+    "company": "E4 Software Services",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-03T12:15:33.144525+00:00",
+    "status": "queued"
   }
 ]
