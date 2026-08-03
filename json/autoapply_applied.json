@@ -865,5 +865,27 @@
     "status": "applied",
     "attempts": 1,
     "applied_at": "2026-08-03T12:16:57.381592+00:00"
+  },
+  {
+    "job_id": "030826024060",
+    "title": "Backend Developer at A FinTech Company",
+    "url": "https://www.naukri.com/job-listings-backend-developer-at-a-fintech-company-talentzo-delhi-gurugram-0-to-3-years-030826024060",
+    "source": "naukri",
+    "company": "Talentzo Delhi",
+    "location": "Remote",
+    "queued_at": "2026-08-03T14:16:00.375190+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-03T14:18:11.296248+00:00"
+  },
+  {
+    "job_id": "030826919661",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-cushman-wakefield-india-pvt-ltd-gurugram-0-to-5-years-030826919661",
+    "source": "naukri",
+    "company": "Cushman & Wakefield",
+    "location": "Gurugram",
+    "queued_at": "2026-08-03T14:16:00.375190+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-03T14:20:42.120331+00:00"
   }
 ]
