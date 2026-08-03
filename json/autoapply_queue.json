@@ -1,15 +1,5 @@
 [
   {
-    "job_id": "300726502258",
-    "title": "Full Stack Quantitative Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-quantitative-developer-e4-softwares-mumbai-1-to-4-years-300726502258",
-    "source": "naukri",
-    "company": "E4 Software Services",
-    "location": "Mumbai",
-    "queued_at": "2026-08-03T10:15:29.134728+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "030826013353",
     "title": "Engineer- QCA",
     "url": "https://www.naukri.com/job-listings-engineer-qca-adani-group-ahmedabad-0-to-4-years-030826013353",
@@ -17,7 +7,8 @@
     "company": "Adani Group",
     "location": "Ahmedabad",
     "queued_at": "2026-08-03T10:15:29.134728+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "030826013110",
@@ -27,27 +18,8 @@
     "company": "Times Marketing",
     "location": "",
     "queued_at": "2026-08-03T10:15:29.134728+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "030826500548",
-    "title": "Software Engineer- Containers",
-    "url": "https://www.naukri.com/job-listings-software-engineer-containers-barclays-shared-services-chennai-0-to-7-years-030826500548",
-    "source": "naukri",
-    "company": "Barclays",
-    "location": "Chennai",
-    "queued_at": "2026-08-03T10:15:29.134728+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "030826500339",
-    "title": "Full Stack Quantitative Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-quantitative-developer-e4-softwares-bengaluru-1-to-4-years-030826500339",
-    "source": "naukri",
-    "company": "E4 Software Services",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-03T10:15:29.134728+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "290526022786",
@@ -57,6 +29,7 @@
     "company": "eClerx",
     "location": "Mohali",
     "queued_at": "2026-08-03T10:15:29.134728+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
