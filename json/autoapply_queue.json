@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "job_id": "290526022786",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-mohali-0-to-2-years-290526022786",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mohali",
+    "queued_at": "2026-08-03T04:15:20.832413+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "030826000077",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-opel-systems-and-consultants-navi-mumbai-1-to-3-years-030826000077",
+    "source": "naukri",
+    "company": "Opel Systems And Consultants",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-08-03T04:15:20.832413+00:00",
+    "status": "queued"
+  }
+]
