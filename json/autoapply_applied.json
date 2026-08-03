@@ -887,5 +887,16 @@
     "queued_at": "2026-08-03T14:16:00.375190+00:00",
     "status": "applied",
     "applied_at": "2026-08-03T14:20:42.120331+00:00"
+  },
+  {
+    "job_id": "030826025166",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-dashtek-engineers-visakhapatnam-0-to-4-years-030826025166",
+    "source": "naukri",
+    "company": "Dashtek Engineers",
+    "location": "Visakhapatnam(Madhurawada)",
+    "queued_at": "2026-08-03T16:15:17.790860+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-03T16:16:52.772191+00:00"
   }
 ]
