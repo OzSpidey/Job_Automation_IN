@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "job_id": "040826012508",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-velocity-software-solutions-noida-0-to-1-years-040826012508",
+    "source": "naukri",
+    "company": "Velocity Software Solutions",
+    "location": "Noida",
+    "queued_at": "2026-08-04T06:15:02.918422+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826012418",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-newgen-gurugram-1-to-2-years-040826012418",
+    "source": "naukri",
+    "company": "Newgen",
+    "location": "Gurugram",
+    "queued_at": "2026-08-04T06:15:02.918422+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826012352",
+    "title": "Asp.Net Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-asp-net-full-stack-developer-prudent-corporate-ahmedabad-1-to-4-years-040826012352",
+    "source": "naukri",
+    "company": "Prudent Corporate",
+    "location": "Ahmedabad(Sindhu Bhavan Road)",
+    "queued_at": "2026-08-04T06:15:02.918422+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826909584",
+    "title": "Mechanical Engineering Professional",
+    "url": "https://www.naukri.com/job-listings-mechanical-engineering-professional-infosys-limited-chennai-1-to-3-years-040826909584",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Chennai",
+    "queued_at": "2026-08-04T06:15:02.918422+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826010768",
+    "title": "AIML Developer",
+    "url": "https://www.naukri.com/job-listings-aiml-developer-orcapod-consulting-services-bengaluru-mumbai-all-areas-1-to-6-years-040826010768",
+    "source": "naukri",
+    "company": "Orcapod Consulting Services",
+    "location": "Hybrid - Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-08-04T06:15:02.918422+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826010329",
+    "title": "MBA/MCom Fresher - Analyst - Microsoft Dynamics 365 - Vadodara",
+    "url": "https://www.naukri.com/job-listings-mba-mcom-fresher-analyst-microsoft-dynamics-365-vadodara-bdo-india-vadodara-0-to-1-years-040826010329",
+    "source": "naukri",
+    "company": "BDO India",
+    "location": "Vadodara",
+    "queued_at": "2026-08-04T06:15:02.918422+00:00",
+    "status": "queued"
+  }
+]
