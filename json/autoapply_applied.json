@@ -898,5 +898,38 @@
     "queued_at": "2026-08-03T16:15:17.790860+00:00",
     "status": "applied",
     "applied_at": "2026-08-03T16:16:52.772191+00:00"
+  },
+  {
+    "job_id": "040826012508",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-velocity-software-solutions-noida-0-to-1-years-040826012508",
+    "source": "naukri",
+    "company": "Velocity Software Solutions",
+    "location": "Noida",
+    "queued_at": "2026-08-04T06:15:02.918422+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-04T06:16:28.116970+00:00"
+  },
+  {
+    "job_id": "040826012418",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-newgen-gurugram-1-to-2-years-040826012418",
+    "source": "naukri",
+    "company": "Newgen",
+    "location": "Gurugram",
+    "queued_at": "2026-08-04T06:15:02.918422+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-04T06:16:46.746113+00:00"
+  },
+  {
+    "job_id": "040826010329",
+    "title": "MBA/MCom Fresher - Analyst - Microsoft Dynamics 365 - Vadodara",
+    "url": "https://www.naukri.com/job-listings-mba-mcom-fresher-analyst-microsoft-dynamics-365-vadodara-bdo-india-vadodara-0-to-1-years-040826010329",
+    "source": "naukri",
+    "company": "BDO India",
+    "location": "Vadodara",
+    "queued_at": "2026-08-04T06:15:02.918422+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-04T06:17:43.278771+00:00"
   }
 ]
