@@ -75,5 +75,305 @@
     "queued_at": "2026-08-04T08:15:28.452218+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "040826501455",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-ethos-life-technologies-bengaluru-0-to-2-years-040826501455",
+    "source": "naukri",
+    "company": "Ethos Watch",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826921760",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-abb-india-limited-bengaluru-1-to-6-years-040826921760",
+    "source": "naukri",
+    "company": "ABB",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826921569",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-nokia-solutions-and-networks-india-p-ltd-bengaluru-0-to-5-years-040826921569",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826501343",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-wander-on-experiences-private-limited-kurukshetra-0-to-5-years-040826501343",
+    "source": "naukri",
+    "company": "Wander On Experiences",
+    "location": "Kurukshetra",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826501357",
+    "title": "Developer - Full Stack",
+    "url": "https://www.naukri.com/job-listings-developer-full-stack-aerotec-bengaluru-0-to-3-years-040826501357",
+    "source": "naukri",
+    "company": "Premium Aerotec",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826501147",
+    "title": "Full Stack Developer (Analyst), Legal & Compliance Technology",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-analyst-legal-compliance-technology-ares-india-mumbai-1-to-3-years-040826501147",
+    "source": "naukri",
+    "company": "Ares",
+    "location": "Mumbai",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826022815",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-the-glove-india-1-to-1-years-040826022815",
+    "source": "naukri",
+    "company": "The Glove",
+    "location": "India",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826921298",
+    "title": "Application Developer- C, C++ Developer",
+    "url": "https://www.naukri.com/job-listings-application-developer-c-c-developer-fujitsu-consulting-india-pvt-ltd-noida-pune-bengaluru-0-to-5-years-040826921298",
+    "source": "naukri",
+    "company": "Fujitsu",
+    "location": "Noida, Pune, Bengaluru",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826921670",
+    "title": "Customer Documentation Developer",
+    "url": "https://www.naukri.com/job-listings-customer-documentation-developer-nokia-solutions-and-networks-india-p-ltd-bengaluru-0-to-5-years-040826921670",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826921647",
+    "title": "Customer Documentation Developer",
+    "url": "https://www.naukri.com/job-listings-customer-documentation-developer-nokia-solutions-and-networks-india-p-ltd-bengaluru-0-to-5-years-040826921647",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826921563",
+    "title": "Customer Documentation Developer",
+    "url": "https://www.naukri.com/job-listings-customer-documentation-developer-nokia-solutions-and-networks-india-p-ltd-bengaluru-0-to-5-years-040826921563",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826922492",
+    "title": "LCC Engineer",
+    "url": "https://www.naukri.com/job-listings-lcc-engineer-alstom-transport-india-ltd-saharanpur-1-to-6-years-040826922492",
+    "source": "naukri",
+    "company": "Alstom",
+    "location": "Saharanpur",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826921687",
+    "title": "Care Engineer",
+    "url": "https://www.naukri.com/job-listings-care-engineer-nokia-solutions-and-networks-india-p-ltd-chennai-0-to-5-years-040826921687",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Chennai",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826019232",
+    "title": "Hiring For All Engineers",
+    "url": "https://www.naukri.com/job-listings-hiring-for-all-engineers-oneclick-manpower-navi-mumbai-bengaluru-0-to-5-years-040826019232",
+    "source": "naukri",
+    "company": "Oneclick Manpower Navi Mumbai",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826921572",
+    "title": "Care Engineer",
+    "url": "https://www.naukri.com/job-listings-care-engineer-nokia-solutions-and-networks-india-p-ltd-bengaluru-0-to-5-years-040826921572",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240626025388",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-chargeback-gurus-chennai-1-to-3-years-240626025388",
+    "source": "naukri",
+    "company": "Chargeback Gurus",
+    "location": "Chennai(Guindy)",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826922050",
+    "title": "Manager/ Analyst",
+    "url": "https://www.naukri.com/job-listings-manager-analyst-cushman-wakefield-india-pvt-ltd-bengaluru-0-to-5-years-040826922050",
+    "source": "naukri",
+    "company": "Cushman & Wakefield",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826921681",
+    "title": "Starlims Developer",
+    "url": "https://www.naukri.com/job-listings-starlims-developer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-040826921681",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826921932",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-cushman-wakefield-india-pvt-ltd-hyderabad-0-to-5-years-040826921932",
+    "source": "naukri",
+    "company": "Cushman & Wakefield",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826921658",
+    "title": "VAPT & Red Teaming Analyst",
+    "url": "https://www.naukri.com/job-listings-vapt-red-teaming-analyst-nokia-solutions-and-networks-india-p-ltd-gurugram-0-to-5-years-040826921658",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Gurugram",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826502427",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mumbai-0-to-4-years-040826502427",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mumbai",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826502027",
+    "title": "Conversational Developer",
+    "url": "https://www.naukri.com/job-listings-conversational-developer-dazn-group-hyderabad-1-to-4-years-040826502027",
+    "source": "naukri",
+    "company": "DAZN",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826922010",
+    "title": "Performance QA Engineer (Locust)",
+    "url": "https://www.naukri.com/job-listings-performance-qa-engineer-locust-capgemini-technology-services-india-limited-hyderabad-1-to-6-years-040826922010",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826921534",
+    "title": "Verification Engineer",
+    "url": "https://www.naukri.com/job-listings-verification-engineer-nokia-solutions-and-networks-india-p-ltd-bengaluru-0-to-5-years-040826921534",
+    "source": "naukri",
+    "company": "Nokia",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826500093",
+    "title": "Java developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-barclays-shared-services-pune-0-to-8-years-040826500093",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826500640",
+    "title": "FEM Engineer",
+    "url": "https://www.naukri.com/job-listings-fem-engineer-expleo-group-bengaluru-1-to-5-years-040826500640",
+    "source": "naukri",
+    "company": "Expleo",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826018271",
+    "title": "Low Code Engineer",
+    "url": "https://www.naukri.com/job-listings-low-code-engineer-pwc-kolkata-hyderabad-bengaluru-1-to-3-years-040826018271",
+    "source": "naukri",
+    "company": "PwC",
+    "location": "Kolkata, Hyderabad, Bengaluru",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826500556",
+    "title": "Trader",
+    "url": "https://www.naukri.com/job-listings-trader-louis-dreyfus-company-india-gurugram-1-to-8-years-040826500556",
+    "source": "naukri",
+    "company": "Louis Dreyfus Company",
+    "location": "Gurugram",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826500123",
+    "title": "Decision Analyst",
+    "url": "https://www.naukri.com/job-listings-decision-analyst-barclays-shared-services-gurugram-0-to-8-years-040826500123",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Gurugram",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040826500110",
+    "title": "MI Analyst",
+    "url": "https://www.naukri.com/job-listings-mi-analyst-barclays-shared-services-gurugram-0-to-8-years-040826500110",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Gurugram",
+    "queued_at": "2026-08-04T10:25:30.518304+00:00",
+    "status": "queued"
   }
 ]
