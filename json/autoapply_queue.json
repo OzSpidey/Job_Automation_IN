@@ -1,27 +1,5 @@
 [
   {
-    "job_id": "040826018271",
-    "title": "Low Code Engineer",
-    "url": "https://www.naukri.com/job-listings-low-code-engineer-pwc-kolkata-hyderabad-bengaluru-1-to-3-years-040826018271",
-    "source": "naukri",
-    "company": "PwC",
-    "location": "Kolkata, Hyderabad, Bengaluru",
-    "queued_at": "2026-08-04T16:15:28.377563+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "240626025388",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-chargeback-gurus-chennai-1-to-3-years-240626025388",
-    "source": "naukri",
-    "company": "Chargeback Gurus",
-    "location": "Chennai(Guindy)",
-    "queued_at": "2026-08-04T16:15:28.377563+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "040826012352",
     "title": "Asp.Net Full Stack Developer",
     "url": "https://www.naukri.com/job-listings-asp-net-full-stack-developer-prudent-corporate-ahmedabad-1-to-4-years-040826012352",
@@ -30,7 +8,7 @@
     "location": "Ahmedabad(Sindhu Bhavan Road)",
     "queued_at": "2026-08-04T18:15:18.037143+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "040826909584",
@@ -41,7 +19,7 @@
     "location": "Chennai",
     "queued_at": "2026-08-04T18:15:18.037143+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "190626012409",
@@ -52,6 +30,6 @@
     "location": "Gurugram(Sector 61)",
     "queued_at": "2026-08-04T18:15:18.037143+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
