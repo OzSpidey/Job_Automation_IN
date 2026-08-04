@@ -8,7 +8,7 @@
     "location": "Ahmedabad(Sindhu Bhavan Road)",
     "queued_at": "2026-08-04T06:15:02.918422+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "040826909584",
@@ -19,7 +19,7 @@
     "location": "Chennai",
     "queued_at": "2026-08-04T06:15:02.918422+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "040826010768",
@@ -30,17 +30,7 @@
     "location": "Hybrid - Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-08-04T06:15:02.918422+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "040826014636",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-avekshaa-technologies-mumbai-0-to-1-years-040826014636",
-    "source": "naukri",
-    "company": "Avekshaa Technologies",
-    "location": "Mumbai",
-    "queued_at": "2026-08-04T08:15:28.452218+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "040826017502",
@@ -50,7 +40,8 @@
     "company": "Neridio Systems",
     "location": "Bengaluru",
     "queued_at": "2026-08-04T08:15:28.452218+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "040826014583",
@@ -60,27 +51,8 @@
     "company": "Nxtwave Disruptive Technologies",
     "location": "Hyderabad",
     "queued_at": "2026-08-04T08:15:28.452218+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "040826500093",
-    "title": "Java developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-barclays-shared-services-pune-0-to-8-years-040826500093",
-    "source": "naukri",
-    "company": "Barclays",
-    "location": "Pune",
-    "queued_at": "2026-08-04T08:15:28.452218+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "040826500640",
-    "title": "FEM Engineer",
-    "url": "https://www.naukri.com/job-listings-fem-engineer-expleo-group-bengaluru-1-to-5-years-040826500640",
-    "source": "naukri",
-    "company": "Expleo",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-04T08:15:28.452218+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "040826014373",
@@ -90,47 +62,8 @@
     "company": "Kohler",
     "location": "India",
     "queued_at": "2026-08-04T08:15:28.452218+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "040826500556",
-    "title": "Trader",
-    "url": "https://www.naukri.com/job-listings-trader-louis-dreyfus-company-india-gurugram-1-to-8-years-040826500556",
-    "source": "naukri",
-    "company": "Louis Dreyfus Company",
-    "location": "Gurugram",
-    "queued_at": "2026-08-04T08:15:28.452218+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "040826500123",
-    "title": "Decision Analyst",
-    "url": "https://www.naukri.com/job-listings-decision-analyst-barclays-shared-services-gurugram-0-to-8-years-040826500123",
-    "source": "naukri",
-    "company": "Barclays",
-    "location": "Gurugram",
-    "queued_at": "2026-08-04T08:15:28.452218+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "040826500115",
-    "title": "Decision Analyst",
-    "url": "https://www.naukri.com/job-listings-decision-analyst-barclays-shared-services-gurugram-0-to-8-years-040826500115",
-    "source": "naukri",
-    "company": "Barclays",
-    "location": "Gurugram",
-    "queued_at": "2026-08-04T08:15:28.452218+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "040826500110",
-    "title": "MI Analyst",
-    "url": "https://www.naukri.com/job-listings-mi-analyst-barclays-shared-services-gurugram-0-to-8-years-040826500110",
-    "source": "naukri",
-    "company": "Barclays",
-    "location": "Gurugram",
-    "queued_at": "2026-08-04T08:15:28.452218+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "040826018226",
@@ -140,6 +73,7 @@
     "company": "eClerx",
     "location": "Chandigarh",
     "queued_at": "2026-08-04T08:15:28.452218+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
