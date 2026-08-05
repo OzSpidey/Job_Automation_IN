@@ -1085,5 +1085,27 @@
     "queued_at": "2026-08-05T02:15:17.274201+00:00",
     "status": "applied",
     "applied_at": "2026-08-05T02:16:18.082293+00:00"
+  },
+  {
+    "job_id": "050826909822",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-chennai-0-to-5-years-050826909822",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Chennai",
+    "queued_at": "2026-08-05T06:15:07.184196+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-05T06:16:11.574870+00:00"
+  },
+  {
+    "job_id": "050826007790",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-harjai-computers-pune-1-to-2-years-050826007790",
+    "source": "naukri",
+    "company": "Harjai Computers",
+    "location": "Pune",
+    "queued_at": "2026-08-05T06:15:07.184196+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-05T06:16:44.985506+00:00"
   }
 ]
