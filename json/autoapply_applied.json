@@ -1129,5 +1129,38 @@
     "queued_at": "2026-08-05T10:15:22.922275+00:00",
     "status": "applied",
     "applied_at": "2026-08-05T10:17:00.957954+00:00"
+  },
+  {
+    "job_id": "050826030279",
+    "title": "EPM Software Developer",
+    "url": "https://www.naukri.com/job-listings-epm-software-developer-uvyd-consulting-chennai-0-to-2-years-050826030279",
+    "source": "naukri",
+    "company": "Uvyd Consulting",
+    "location": "Chennai(Kodambakkam)",
+    "queued_at": "2026-08-05T12:15:45.301222+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-05T12:17:38.813411+00:00"
+  },
+  {
+    "job_id": "050826028444",
+    "title": "C++ Deveoper / Qt Deveoper",
+    "url": "https://www.naukri.com/job-listings-c-deveoper-qt-deveoper-inxee-systems-gurugram-1-to-3-years-050826028444",
+    "source": "naukri",
+    "company": "Inxee Systems",
+    "location": "Gurugram(Udyog Vihar Phase 1)",
+    "queued_at": "2026-08-05T12:15:45.301222+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-05T12:17:52.842335+00:00"
+  },
+  {
+    "job_id": "050826027926",
+    "title": "Quantitative Developer",
+    "url": "https://www.naukri.com/job-listings-quantitative-developer-talent-corner-hr-services-mumbai-all-areas-1-to-6-years-050826027926",
+    "source": "naukri",
+    "company": "Trophy Career",
+    "location": "Mumbai (All Areas)",
+    "queued_at": "2026-08-05T12:15:45.301222+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-05T12:18:02.833904+00:00"
   }
 ]
