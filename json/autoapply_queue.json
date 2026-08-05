@@ -1,16 +1,5 @@
 [
   {
-    "job_id": "050826015807",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-innspark-solutions-kollam-0-to-2-years-050826015807",
-    "source": "naukri",
-    "company": "Innspark Solutions",
-    "location": "Kollam",
-    "queued_at": "2026-08-05T14:15:15.727301+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "150626027105",
     "title": "Walk-in drive For Bio medical Engineers (Freshers)",
     "url": "https://www.naukri.com/job-listings-walk-in-drive-for-bio-medical-engineers-freshers-access-healthcare-chennai-0-to-3-years-150626027105",
@@ -19,6 +8,6 @@
     "location": "",
     "queued_at": "2026-08-05T16:15:40.231300+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
