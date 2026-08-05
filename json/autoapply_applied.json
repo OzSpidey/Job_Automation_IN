@@ -1184,5 +1184,60 @@
     "queued_at": "2026-08-05T14:15:15.727301+00:00",
     "status": "applied",
     "applied_at": "2026-08-05T14:19:42.823716+00:00"
+  },
+  {
+    "job_id": "050826934283",
+    "title": "Cloud Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-cloud-site-reliability-engineer-zs-associates-india-pvt-ltd-pune-0-to-5-years-050826934283",
+    "source": "naukri",
+    "company": "ZS",
+    "location": "Pune",
+    "queued_at": "2026-08-05T16:15:40.231300+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-05T16:17:33.651491+00:00"
+  },
+  {
+    "job_id": "050826935205",
+    "title": "LLMOps Engineer",
+    "url": "https://www.naukri.com/job-listings-llmops-engineer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-050826935205",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-05T16:15:40.231300+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-05T16:18:27.943510+00:00"
+  },
+  {
+    "job_id": "050826935261",
+    "title": "FP&A Analyst",
+    "url": "https://www.naukri.com/job-listings-fp-a-analyst-pepsico-global-business-services-india-llp-hyderabad-1-to-2-years-050826935261",
+    "source": "naukri",
+    "company": "Pepsico",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-05T16:15:40.231300+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-05T16:19:00.690456+00:00"
+  },
+  {
+    "job_id": "050826934526",
+    "title": "FP&A Asst Analyst",
+    "url": "https://www.naukri.com/job-listings-fp-a-asst-analyst-pepsico-global-business-services-india-llp-hyderabad-0-to-5-years-050826934526",
+    "source": "naukri",
+    "company": "Pepsico",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-05T16:15:40.231300+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-05T16:19:10.667039+00:00"
+  },
+  {
+    "job_id": "050826934509",
+    "title": "Oilseeds & Meal Trader",
+    "url": "https://www.naukri.com/job-listings-oilseeds-meal-trader-cargill-business-services-india-private-limited-gurugram-1-to-6-years-050826934509",
+    "source": "naukri",
+    "company": "Cargill",
+    "location": "Gurugram",
+    "queued_at": "2026-08-05T16:15:40.231300+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-05T16:19:21.067271+00:00"
   }
 ]
