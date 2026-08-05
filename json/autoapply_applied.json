@@ -1162,5 +1162,27 @@
     "queued_at": "2026-08-05T12:15:45.301222+00:00",
     "status": "applied",
     "applied_at": "2026-08-05T12:18:02.833904+00:00"
+  },
+  {
+    "job_id": "050826036484",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-genxhire-services-jamnagar-0-to-4-years-050826036484",
+    "source": "naukri",
+    "company": "Genxhire Services",
+    "location": "Jamnagar",
+    "queued_at": "2026-08-05T14:15:15.727301+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-05T14:18:39.904220+00:00"
+  },
+  {
+    "job_id": "050826928612",
+    "title": "Openlink Endur Developer",
+    "url": "https://www.naukri.com/job-listings-openlink-endur-developer-bitbybit-solutions-bengaluru-1-to-2-years-050826928612",
+    "source": "naukri",
+    "company": "Bitbybit Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-05T14:15:15.727301+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-05T14:19:42.823716+00:00"
   }
 ]
