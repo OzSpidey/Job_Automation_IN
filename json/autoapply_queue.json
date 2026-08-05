@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "job_id": "050826017362",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-jeswin-antony-jose-kochi-kottayam-0-to-3-years-050826017362",
+    "source": "naukri",
+    "company": "Hola World Study Abroad & Migration",
+    "location": "Kochi, Kottayam",
+    "queued_at": "2026-08-05T08:15:21.437874+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "050826015807",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-innspark-solutions-kollam-0-to-2-years-050826015807",
+    "source": "naukri",
+    "company": "Innspark Solutions",
+    "location": "Kollam",
+    "queued_at": "2026-08-05T08:15:21.437874+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "050826501045",
+    "title": "Python Developer (AI/ML)",
+    "url": "https://www.naukri.com/job-listings-python-developer-ai-ml-aabhyasa-technologies-pvt-ltd-bengaluru-1-to-3-years-050826501045",
+    "source": "naukri",
+    "company": "Aabhyasa Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-05T08:15:21.437874+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "050826909798",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-optum-global-solutions-india-private-limited-noida-0-to-5-years-050826909798",
+    "source": "naukri",
+    "company": "Optum",
+    "location": "Noida",
+    "queued_at": "2026-08-05T08:15:21.437874+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "050826909718",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-optum-global-solutions-india-private-limited-hyderabad-0-to-5-years-050826909718",
+    "source": "naukri",
+    "company": "Optum",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-05T08:15:21.437874+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "050826909393",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-optum-global-solutions-india-private-limited-noida-0-to-5-years-050826909393",
+    "source": "naukri",
+    "company": "Optum",
+    "location": "Noida",
+    "queued_at": "2026-08-05T08:15:21.437874+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "050826500155",
+    "title": "SOFTWARE ENGINEER- ONE TRUST- COOKIE MANAGEMENT",
+    "url": "https://www.naukri.com/job-listings-software-engineer-one-trust-cookie-management-caterpillar-brazil-chennai-bengaluru-0-to-9-years-050826500155",
+    "source": "naukri",
+    "company": "Caterpillar Inc",
+    "location": "Chennai, Bengaluru",
+    "queued_at": "2026-08-05T08:15:21.437874+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "050826500099",
+    "title": "Engineer the Future with Us",
+    "url": "https://www.naukri.com/job-listings-engineer-the-future-with-us-synopsys-india-private-limited-noida-1-to-4-years-050826500099",
+    "source": "naukri",
+    "company": "Synopsys",
+    "location": "Noida",
+    "queued_at": "2026-08-05T08:15:21.437874+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "050826500025",
+    "title": "Analyst - CTC",
+    "url": "https://www.naukri.com/job-listings-analyst-ctc-boston-scientific-gurugram-1-to-9-years-050826500025",
+    "source": "naukri",
+    "company": "Boston Scientific",
+    "location": "Gurugram",
+    "queued_at": "2026-08-05T08:15:21.437874+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "050826909884",
+    "title": "Principal Full Stack Engineer",
+    "url": "https://www.naukri.com/job-listings-principal-full-stack-engineer-optum-global-solutions-india-private-limited-bengaluru-0-to-1-years-050826909884",
+    "source": "naukri",
+    "company": "Optum",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-05T08:15:21.437874+00:00",
+    "status": "queued"
+  }
+]
