@@ -1107,5 +1107,27 @@
     "queued_at": "2026-08-05T06:15:07.184196+00:00",
     "status": "applied",
     "applied_at": "2026-08-05T06:16:44.985506+00:00"
+  },
+  {
+    "job_id": "050826024932",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-infinx-mumbai-0-to-2-years-050826024932",
+    "source": "naukri",
+    "company": "INFINX",
+    "location": "Hybrid - Mumbai",
+    "queued_at": "2026-08-05T10:15:22.922275+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-05T10:16:39.230851+00:00"
+  },
+  {
+    "job_id": "050826024498",
+    "title": "Firmware Engineer",
+    "url": "https://www.naukri.com/job-listings-firmware-engineer-omkaar-energy-solutions-mohali-1-to-3-years-050826024498",
+    "source": "naukri",
+    "company": "Omkaar Energy Solutions",
+    "location": "Mohali",
+    "queued_at": "2026-08-05T10:15:22.922275+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-05T10:17:00.957954+00:00"
   }
 ]
