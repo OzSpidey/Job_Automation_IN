@@ -1239,5 +1239,16 @@
     "queued_at": "2026-08-05T16:15:40.231300+00:00",
     "status": "applied",
     "applied_at": "2026-08-05T16:19:21.067271+00:00"
+  },
+  {
+    "job_id": "050826040287",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-tele-infotech-pimpri-chinchwad-pune-0-to-2-years-050826040287",
+    "source": "naukri",
+    "company": "MNC",
+    "location": "Pimpri-Chinchwad, Pune",
+    "queued_at": "2026-08-05T20:15:23.225984+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-05T20:16:33.657167+00:00"
   }
 ]
