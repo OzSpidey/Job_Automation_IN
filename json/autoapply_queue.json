@@ -9,5 +9,35 @@
     "queued_at": "2026-08-06T06:15:27.897777+00:00",
     "status": "queued",
     "attempts": 2
+  },
+  {
+    "job_id": "150626027105",
+    "title": "Walk-in drive For Bio medical Engineers (Freshers)",
+    "url": "https://www.naukri.com/job-listings-walk-in-drive-for-bio-medical-engineers-freshers-access-healthcare-chennai-0-to-3-years-150626027105",
+    "source": "naukri",
+    "company": "Access Healthcare",
+    "location": "",
+    "queued_at": "2026-08-06T10:25:02.292926+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826020843",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-060826020843",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-08-06T10:25:02.292926+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "050826503381",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-rgb-webtech-chandigarh-0-to-4-years-050826503381",
+    "source": "naukri",
+    "company": "RGB Webtech",
+    "location": "Chandigarh",
+    "queued_at": "2026-08-06T10:25:02.292926+00:00",
+    "status": "queued"
   }
 ]
