@@ -31,5 +31,215 @@
     "queued_at": "2026-08-06T12:15:58.884394+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "060826501820",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-akamai-technologies-new-delhi-bengaluru-1-to-6-years-060826501820",
+    "source": "naukri",
+    "company": "Akamai",
+    "location": "New Delhi, Bengaluru",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826503354",
+    "title": "Software Engineers",
+    "url": "https://www.naukri.com/job-listings-software-engineers-goquo-solutions-private-limited-coimbatore-0-to-5-years-060826503354",
+    "source": "naukri",
+    "company": "Goquo Solutions",
+    "location": "Coimbatore",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826503335",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-the-hostel-crowd-panaji-0-to-5-years-060826503335",
+    "source": "naukri",
+    "company": "the Hostel Crowd",
+    "location": "Panaji",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826503332",
+    "title": "Full Stack Developer (React + Node)",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-react-node-capriconics-infotech-remote-0-to-5-years-060826503332",
+    "source": "naukri",
+    "company": "Capriconics Infotech",
+    "location": "Remote",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826934844",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-cgi-information-systems-and-management-consultants-hyderabad-1-to-6-years-060826934844",
+    "source": "naukri",
+    "company": "CGI",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826502139",
+    "title": "SDE - 1/2 | Python Developer | Impetus",
+    "url": "https://www.naukri.com/job-listings-sde-1-2-python-developer-impetus-fynd-shopsense-retail-technologies-ltd-mumbai-0-to-2-years-060826502139",
+    "source": "naukri",
+    "company": "Fynd",
+    "location": "Mumbai",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826500581",
+    "title": "AI Python Developer (GenAI/LLM)",
+    "url": "https://www.naukri.com/job-listings-ai-python-developer-genai-llm-swits-digital-private-limited-mumbai-1-to-6-years-060826500581",
+    "source": "naukri",
+    "company": "Swits Digital",
+    "location": "Mumbai",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826932628",
+    "title": "AI Software Developer",
+    "url": "https://www.naukri.com/job-listings-ai-software-developer-bitkraft-technologies-mumbai-1-to-4-years-060826932628",
+    "source": "naukri",
+    "company": "Bitkraft Technologies",
+    "location": "Mumbai",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826502107",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-focalworks-mumbai-1-to-5-years-060826502107",
+    "source": "naukri",
+    "company": "Focalworks",
+    "location": "Mumbai",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826501446",
+    "title": "Ontology Engineer / Knwoledge Graph Engineer",
+    "url": "https://www.naukri.com/job-listings-ontology-engineer-knwoledge-graph-engineer-ibu-consulting-bengaluru-0-to-1-years-060826501446",
+    "source": "naukri",
+    "company": "IBU Consulting",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826032330",
+    "title": "Walk-in || TCF Engineer",
+    "url": "https://www.naukri.com/job-listings-tcf-engineer-tata-technologies-sanand-1-to-3-years-060826032330",
+    "source": "naukri",
+    "company": "Tata Technologies",
+    "location": "",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826934721",
+    "title": "Assembler Developer",
+    "url": "https://www.naukri.com/job-listings-assembler-developer-bmc-software-india-private-limited-pune-1-to-3-years-060826934721",
+    "source": "naukri",
+    "company": "BMC Software",
+    "location": "Pune",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826504116",
+    "title": "Analyst - Women's Economic Empowerment",
+    "url": "https://www.naukri.com/job-listings-analyst-women-s-economic-empowerment-ipe-global-pvt-ltd-jaipur-0-to-2-years-060826504116",
+    "source": "naukri",
+    "company": "IPE Global",
+    "location": "Jaipur",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826503282",
+    "title": "Trader",
+    "url": "https://www.naukri.com/job-listings-trader-algoquant-financials-llp-bengaluru-0-to-5-years-060826503282",
+    "source": "naukri",
+    "company": "Algoquant Financials Llp",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826502169",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-360-degree-cloud-technologies-p-ltd-noida-1-to-5-years-060826502169",
+    "source": "naukri",
+    "company": "360 Degree Cloud Technologies",
+    "location": "Noida",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826500666",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-dentsu-inc-pune-1-to-6-years-060826500666",
+    "source": "naukri",
+    "company": "Dentsu Webchutney",
+    "location": "Pune",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826501963",
+    "title": "Embedded Firmware Engineer - Wireless & Sensors",
+    "url": "https://www.naukri.com/job-listings-embedded-firmware-engineer-wireless-sensors-quin-quintessential-design-hyderabad-1-to-4-years-060826501963",
+    "source": "naukri",
+    "company": "Quintessential Design",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826500526",
+    "title": "Engineer--Aircraft Performance",
+    "url": "https://www.naukri.com/job-listings-engineer-aircraft-performance-aerotec-bengaluru-1-to-5-years-060826500526",
+    "source": "naukri",
+    "company": "Premium Aerotec",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826500169",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-barclays-shared-services-pune-0-to-7-years-060826500169",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826929243",
+    "title": "Prompt Engineer",
+    "url": "https://www.naukri.com/job-listings-prompt-engineer-e-software-solutions-gurugram-yamuna-nagar-1-to-3-years-060826929243",
+    "source": "naukri",
+    "company": "e Software Solutions",
+    "location": "Gurugram, Yamuna Nagar",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "050826503381",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-rgb-webtech-chandigarh-0-to-4-years-050826503381",
+    "source": "naukri",
+    "company": "RGB Webtech",
+    "location": "Chandigarh",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "queued"
   }
 ]
