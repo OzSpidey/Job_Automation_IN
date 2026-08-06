@@ -1,16 +1,5 @@
 [
   {
-    "job_id": "060826014367",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-educe-solutions-pune-0-to-1-years-060826014367",
-    "source": "naukri",
-    "company": "Educe Solutions",
-    "location": "Pune(Kothrud)",
-    "queued_at": "2026-08-06T12:15:58.884394+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "060826032330",
     "title": "Walk-in || TCF Engineer",
     "url": "https://www.naukri.com/job-listings-tcf-engineer-tata-technologies-sanand-1-to-3-years-060826032330",
@@ -19,6 +8,6 @@
     "location": "",
     "queued_at": "2026-08-06T14:15:24.681801+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
