@@ -1250,5 +1250,38 @@
     "queued_at": "2026-08-05T20:15:23.225984+00:00",
     "status": "applied",
     "applied_at": "2026-08-05T20:16:33.657167+00:00"
+  },
+  {
+    "job_id": "060826927755",
+    "title": "C++ Developer",
+    "url": "https://www.naukri.com/job-listings-c-developer-emperen-technologies-pune-1-to-4-years-060826927755",
+    "source": "naukri",
+    "company": "Emperen Technologies",
+    "location": "Pune",
+    "queued_at": "2026-08-06T12:15:58.884394+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-06T12:17:23.238524+00:00"
+  },
+  {
+    "job_id": "060826927785",
+    "title": "Engineer InfraEng Observability",
+    "url": "https://www.naukri.com/job-listings-engineer-infraeng-observability-crowdstrike-pune-1-to-5-years-060826927785",
+    "source": "naukri",
+    "company": "Crowdstrike",
+    "location": "Pune",
+    "queued_at": "2026-08-06T12:15:58.884394+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-06T12:17:32.959161+00:00"
+  },
+  {
+    "job_id": "060826927754",
+    "title": "Quantitative Developer",
+    "url": "https://www.naukri.com/job-listings-quantitative-developer-emperen-technologies-pune-1-to-4-years-060826927754",
+    "source": "naukri",
+    "company": "Emperen Technologies",
+    "location": "Pune",
+    "queued_at": "2026-08-06T12:15:58.884394+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-06T12:17:42.977272+00:00"
   }
 ]

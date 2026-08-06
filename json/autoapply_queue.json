@@ -8,7 +8,7 @@
     "location": "",
     "queued_at": "2026-08-06T10:25:02.292926+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "060826020843",
@@ -19,57 +19,7 @@
     "location": "Chandigarh",
     "queued_at": "2026-08-06T10:25:02.292926+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "060826500169",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-barclays-shared-services-pune-0-to-7-years-060826500169",
-    "source": "naukri",
-    "company": "Barclays",
-    "location": "Pune",
-    "queued_at": "2026-08-06T12:15:58.884394+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "060826927755",
-    "title": "C++ Developer",
-    "url": "https://www.naukri.com/job-listings-c-developer-emperen-technologies-pune-1-to-4-years-060826927755",
-    "source": "naukri",
-    "company": "Emperen Technologies",
-    "location": "Pune",
-    "queued_at": "2026-08-06T12:15:58.884394+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "060826927785",
-    "title": "Engineer InfraEng Observability",
-    "url": "https://www.naukri.com/job-listings-engineer-infraeng-observability-crowdstrike-pune-1-to-5-years-060826927785",
-    "source": "naukri",
-    "company": "Crowdstrike",
-    "location": "Pune",
-    "queued_at": "2026-08-06T12:15:58.884394+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "060826927754",
-    "title": "Quantitative Developer",
-    "url": "https://www.naukri.com/job-listings-quantitative-developer-emperen-technologies-pune-1-to-4-years-060826927754",
-    "source": "naukri",
-    "company": "Emperen Technologies",
-    "location": "Pune",
-    "queued_at": "2026-08-06T12:15:58.884394+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "050826503381",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-rgb-webtech-chandigarh-0-to-4-years-050826503381",
-    "source": "naukri",
-    "company": "RGB Webtech",
-    "location": "Chandigarh",
-    "queued_at": "2026-08-06T12:15:58.884394+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "060826014367",
@@ -79,6 +29,7 @@
     "company": "Educe Solutions",
     "location": "Pune(Kothrud)",
     "queued_at": "2026-08-06T12:15:58.884394+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
