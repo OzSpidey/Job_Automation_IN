@@ -1283,5 +1283,49 @@
     "queued_at": "2026-08-06T12:15:58.884394+00:00",
     "status": "applied",
     "applied_at": "2026-08-06T12:17:42.977272+00:00"
+  },
+  {
+    "job_id": "060826934844",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-cgi-information-systems-and-management-consultants-hyderabad-1-to-6-years-060826934844",
+    "source": "naukri",
+    "company": "CGI",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-06T14:17:22.439298+00:00"
+  },
+  {
+    "job_id": "060826932628",
+    "title": "AI Software Developer",
+    "url": "https://www.naukri.com/job-listings-ai-software-developer-bitkraft-technologies-mumbai-1-to-4-years-060826932628",
+    "source": "naukri",
+    "company": "Bitkraft Technologies",
+    "location": "Mumbai",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-06T14:17:40.898772+00:00"
+  },
+  {
+    "job_id": "060826934721",
+    "title": "Assembler Developer",
+    "url": "https://www.naukri.com/job-listings-assembler-developer-bmc-software-india-private-limited-pune-1-to-3-years-060826934721",
+    "source": "naukri",
+    "company": "BMC Software",
+    "location": "Pune",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-06T14:18:11.746676+00:00"
+  },
+  {
+    "job_id": "060826929243",
+    "title": "Prompt Engineer",
+    "url": "https://www.naukri.com/job-listings-prompt-engineer-e-software-solutions-gurugram-yamuna-nagar-1-to-3-years-060826929243",
+    "source": "naukri",
+    "company": "e Software Solutions",
+    "location": "Gurugram, Yamuna Nagar",
+    "queued_at": "2026-08-06T14:15:24.681801+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-06T14:18:51.981985+00:00"
   }
 ]
