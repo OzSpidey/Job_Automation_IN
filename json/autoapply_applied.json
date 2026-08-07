@@ -1415,5 +1415,27 @@
     "queued_at": "2026-08-07T10:15:21.723434+00:00",
     "status": "applied",
     "applied_at": "2026-08-07T10:16:28.653454+00:00"
+  },
+  {
+    "job_id": "070826930209",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-070826930209",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-07T12:15:38.826206+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-07T12:18:17.082646+00:00"
+  },
+  {
+    "job_id": "070826927638",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-amrita-technologies-kollam-vallickavu-0-to-3-years-070826927638",
+    "source": "naukri",
+    "company": "Amrita Technologies",
+    "location": "Kollam, Vallickavu",
+    "queued_at": "2026-08-07T12:15:38.826206+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-07T12:18:40.684930+00:00"
   }
 ]
