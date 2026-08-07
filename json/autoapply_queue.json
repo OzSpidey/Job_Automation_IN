@@ -75,5 +75,295 @@
     "queued_at": "2026-08-07T12:15:38.826206+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "070826038058",
+    "title": "Application Engineer - C, C++",
+    "url": "https://www.naukri.com/job-listings-application-engineer-c-c-worldline-chennai-1-to-4-years-070826038058",
+    "source": "naukri",
+    "company": "Worldline",
+    "location": "Chennai",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826033585",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-dun-bradstreet-delhi-1-to-3-years-070826033585",
+    "source": "naukri",
+    "company": "Dun & Bradstreet",
+    "location": "Delhi",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826504227",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-0-to-12-years-070826504227",
+    "source": "naukri",
+    "company": "Cisco",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826500991",
+    "title": "Software Engineer - Infrastructure",
+    "url": "https://www.naukri.com/job-listings-software-engineer-infrastructure-barclays-shared-services-pune-0-to-3-years-070826500991",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826504226",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-0-to-12-years-070826504226",
+    "source": "naukri",
+    "company": "Cisco",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826504222",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-0-to-12-years-070826504222",
+    "source": "naukri",
+    "company": "Cisco",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826502328",
+    "title": "Software Engineer - APM",
+    "url": "https://www.naukri.com/job-listings-software-engineer-apm-ionidea-enterprise-solutions-pvt-ltd-hyderabad-new-delhi-chennai-bengaluru-0-to-3-years-070826502328",
+    "source": "naukri",
+    "company": "IonIdea",
+    "location": "Hyderabad, New Delhi, Chennai, Bengaluru",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826504224",
+    "title": "Software Engineer - Go Lang",
+    "url": "https://www.naukri.com/job-listings-software-engineer-go-lang-cisco-bengaluru-0-to-12-years-070826504224",
+    "source": "naukri",
+    "company": "Cisco",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826500297",
+    "title": "Software Developers - FRESHERS",
+    "url": "https://www.naukri.com/job-listings-software-developers-freshers-sardonyx-technologies-pvt-ltd-thanjavur-0-to-5-years-070826500297",
+    "source": "naukri",
+    "company": "Sardonyx Technologies",
+    "location": "Thanjavur",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826503161",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-ridhitech-india-private-limited-kochi-0-to-3-years-070826503161",
+    "source": "naukri",
+    "company": "Ridhitech India",
+    "location": "Kochi",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826502293",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-wappzo-infotech-private-limited-navsari-1-to-2-years-070826502293",
+    "source": "naukri",
+    "company": "Wappzo",
+    "location": "Navsari",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826503336",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-drlogy-technologies-llp-rajkot-1-to-2-years-070826503336",
+    "source": "naukri",
+    "company": "Drlogy",
+    "location": "Rajkot",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826503383",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-redox-technologies-pvt-ltd-new-delhi-0-to-2-years-070826503383",
+    "source": "naukri",
+    "company": "Redox Technologies",
+    "location": "New Delhi",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826502659",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-zillion-infotech-surat-1-to-4-years-070826502659",
+    "source": "naukri",
+    "company": "Zillion Infotech",
+    "location": "Surat",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826501565",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-softlabs-group-mumbai-1-to-5-years-070826501565",
+    "source": "naukri",
+    "company": "Softlabs Technologies And Development",
+    "location": "Mumbai",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826502296",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-uddan-promotions-pvt-ltd-jaipur-0-to-3-years-070826502296",
+    "source": "naukri",
+    "company": "Uddan Promotions",
+    "location": "Jaipur",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826502817",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-toxsl-technologies-mohali-1-to-3-years-070826502817",
+    "source": "naukri",
+    "company": "Toxsl Technologies",
+    "location": "Mohali",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826504035",
+    "title": "software developers",
+    "url": "https://www.naukri.com/job-listings-software-developers-hyper-drive-info-tech-bengaluru-1-to-4-years-070826504035",
+    "source": "naukri",
+    "company": "Hyperdrive Infotech",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826503890",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-open-destinations-infotech-pvt-ltd-panaji-1-to-5-years-070826503890",
+    "source": "naukri",
+    "company": "Open Destinations",
+    "location": "Panaji",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826503820",
+    "title": "MLOps Engineer",
+    "url": "https://www.naukri.com/job-listings-mlops-engineer-e4-softwares-bengaluru-0-to-2-years-070826503820",
+    "source": "naukri",
+    "company": "E4 Software Services",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826503291",
+    "title": "GTM Engineer",
+    "url": "https://www.naukri.com/job-listings-gtm-engineer-discover-dollar-technologies-pvt-ltd-bengaluru-1-to-5-years-070826503291",
+    "source": "naukri",
+    "company": "Discover Dollar Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826502896",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-spinks-world-gurugram-1-to-6-years-070826502896",
+    "source": "naukri",
+    "company": "Spinks World",
+    "location": "Gurugram",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826500796",
+    "title": "Engineer - Roll Forming",
+    "url": "https://www.naukri.com/job-listings-engineer-roll-forming-amara-raja-batt-chittoor-0-to-16-years-070826500796",
+    "source": "naukri",
+    "company": "Amara Raja Group",
+    "location": "Chittoor",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826505056",
+    "title": "Akeneo developer",
+    "url": "https://www.naukri.com/job-listings-akeneo-developer-embitel-bengaluru-1-to-6-years-070826505056",
+    "source": "naukri",
+    "company": "Embitel Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826505043",
+    "title": "Analyst, Non",
+    "url": "https://www.naukri.com/job-listings-analyst-non-bristol-myers-squibb-india-pvt-ltd-hyderabad-1-to-4-years-070826505043",
+    "source": "naukri",
+    "company": "Bristol Myers Squibb",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826504654",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-stellosys-technologies-kochi-1-to-4-years-070826504654",
+    "source": "naukri",
+    "company": "Stellosys",
+    "location": "Kochi",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826504399",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-070826504399",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826503655",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-bank-of-tokyo-mitsubishi-ufj-ltd-bengaluru-1-to-10-years-070826503655",
+    "source": "naukri",
+    "company": "MUFG Bank",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150626027105",
+    "title": "Walk-in drive For Bio medical Engineers (Freshers)",
+    "url": "https://www.naukri.com/job-listings-walk-in-drive-for-bio-medical-engineers-freshers-access-healthcare-chennai-0-to-3-years-150626027105",
+    "source": "naukri",
+    "company": "Access Healthcare",
+    "location": "",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "queued"
   }
 ]
