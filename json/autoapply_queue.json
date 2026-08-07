@@ -9,5 +9,75 @@
     "queued_at": "2026-08-07T08:15:11.786331+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "070826924026",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-ai-fjoa-bengaluru-0-to-1-years-070826924026",
+    "source": "naukri",
+    "company": "ai Fjoa",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-07T10:15:21.723434+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060826032330",
+    "title": "Walk-in || TCF Engineer",
+    "url": "https://www.naukri.com/job-listings-tcf-engineer-tata-technologies-sanand-1-to-3-years-060826032330",
+    "source": "naukri",
+    "company": "Tata Technologies",
+    "location": "",
+    "queued_at": "2026-08-07T10:15:21.723434+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826023344",
+    "title": "C# Developer",
+    "url": "https://www.naukri.com/job-listings-c-developer-acclivis-technology-pune-0-to-4-years-070826023344",
+    "source": "naukri",
+    "company": "Acclivis Technology",
+    "location": "Pune",
+    "queued_at": "2026-08-07T10:15:21.723434+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "070826026562",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-pune-0-to-2-years-070826026562",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-08-07T10:15:21.723434+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300426026936",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-pune-0-to-2-years-300426026936",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-08-07T10:15:21.723434+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300426026933",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-300426026933",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-08-07T10:15:21.723434+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300426026928",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-pune-0-to-2-years-300426026928",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-08-07T10:15:21.723434+00:00",
+    "status": "queued"
   }
 ]
