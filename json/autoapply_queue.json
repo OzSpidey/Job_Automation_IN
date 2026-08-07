@@ -1,16 +1,5 @@
 [
   {
-    "job_id": "070826930192",
-    "title": "Python GenAI Developer",
-    "url": "https://www.naukri.com/job-listings-python-genai-developer-infosys-limited-bengaluru-1-to-2-years-070826930192",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-07T12:15:38.826206+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "070826038058",
     "title": "Application Engineer - C, C++",
     "url": "https://www.naukri.com/job-listings-application-engineer-c-c-worldline-chennai-1-to-4-years-070826038058",
@@ -19,7 +8,7 @@
     "location": "Chennai",
     "queued_at": "2026-08-07T14:15:29.397974+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "150626027105",
@@ -30,6 +19,6 @@
     "location": "",
     "queued_at": "2026-08-07T14:15:29.397974+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
