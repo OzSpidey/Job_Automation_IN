@@ -7,7 +7,8 @@
     "company": "eClerx",
     "location": "Pune",
     "queued_at": "2026-08-07T04:15:04.764757+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "300426026933",
@@ -17,7 +18,8 @@
     "company": "eClerx",
     "location": "Chandigarh",
     "queued_at": "2026-08-07T04:15:04.764757+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "300426026928",
@@ -27,6 +29,7 @@
     "company": "eClerx",
     "location": "Pune",
     "queued_at": "2026-08-07T04:15:04.764757+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
