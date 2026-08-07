@@ -1437,5 +1437,28 @@
     "queued_at": "2026-08-07T12:15:38.826206+00:00",
     "status": "applied",
     "applied_at": "2026-08-07T12:18:40.684930+00:00"
+  },
+  {
+    "job_id": "070826023344",
+    "title": "C# Developer",
+    "url": "https://www.naukri.com/job-listings-c-developer-acclivis-technology-pune-0-to-4-years-070826023344",
+    "source": "naukri",
+    "company": "Acclivis Technology",
+    "location": "Pune",
+    "queued_at": "2026-08-07T10:15:21.723434+00:00",
+    "status": "applied",
+    "attempts": 2,
+    "applied_at": "2026-08-07T14:16:51.486199+00:00"
+  },
+  {
+    "job_id": "070826033585",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-dun-bradstreet-delhi-1-to-3-years-070826033585",
+    "source": "naukri",
+    "company": "Dun & Bradstreet",
+    "location": "Delhi",
+    "queued_at": "2026-08-07T14:15:29.397974+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-07T14:18:30.799296+00:00"
   }
 ]
