@@ -1548,5 +1548,38 @@
     "queued_at": "2026-08-10T10:15:20.768822+00:00",
     "status": "applied",
     "applied_at": "2026-08-10T10:17:06.550707+00:00"
+  },
+  {
+    "job_id": "100826016928",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-infrabyx-consultancy-opc-jaipur-1-to-4-years-100826016928",
+    "source": "naukri",
+    "company": "Infrabyx Consultancy (opc)",
+    "location": "Jaipur(C Scheme)",
+    "queued_at": "2026-08-10T12:15:28.714927+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-10T12:16:39.466325+00:00"
+  },
+  {
+    "job_id": "100826014472",
+    "title": "Desktop Support Engineer-Freshers",
+    "url": "https://www.naukri.com/job-listings-desktop-support-engineer-freshers-nsquare-it-solutions-chennai-bengaluru-0-to-1-years-100826014472",
+    "source": "naukri",
+    "company": "Nsquare It Solutions",
+    "location": "Chennai, Bengaluru",
+    "queued_at": "2026-08-10T12:15:28.714927+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-10T12:16:49.218594+00:00"
+  },
+  {
+    "job_id": "100826916975",
+    "title": "MERN Developer",
+    "url": "https://www.naukri.com/job-listings-mern-developer-nasugroup-bengaluru-1-to-4-years-100826916975",
+    "source": "naukri",
+    "company": "Nasu Group",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-10T12:15:28.714927+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-10T12:16:59.188232+00:00"
   }
 ]
