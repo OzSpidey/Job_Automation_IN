@@ -9,5 +9,125 @@
     "queued_at": "2026-08-10T06:15:50.659682+00:00",
     "status": "queued",
     "attempts": 2
+  },
+  {
+    "job_id": "100826501338",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-infizius-surat-0-to-1-years-100826501338",
+    "source": "naukri",
+    "company": "Infizius",
+    "location": "Surat",
+    "queued_at": "2026-08-10T10:15:20.768822+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100826501153",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-torrent-infotech-lucknow-1-to-5-years-100826501153",
+    "source": "naukri",
+    "company": "Torrent Infotech",
+    "location": "Lucknow",
+    "queued_at": "2026-08-10T10:15:20.768822+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100826501365",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-godigi-infotech-pune-0-to-1-years-100826501365",
+    "source": "naukri",
+    "company": "Godigi Infotech",
+    "location": "Pune",
+    "queued_at": "2026-08-10T10:15:20.768822+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100826501202",
+    "title": "JAVA Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-mycityband-ahmedabad-1-to-6-years-100826501202",
+    "source": "naukri",
+    "company": "Mycityband",
+    "location": "Ahmedabad",
+    "queued_at": "2026-08-10T10:15:20.768822+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100826500970",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-digimonk-technologies-gwalior-1-to-6-years-100826500970",
+    "source": "naukri",
+    "company": "Digimonk",
+    "location": "Gwalior",
+    "queued_at": "2026-08-10T10:15:20.768822+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100826501146",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-cointab-malda-1-to-4-years-100826501146",
+    "source": "naukri",
+    "company": "Cointab Software",
+    "location": "Malda",
+    "queued_at": "2026-08-10T10:15:20.768822+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100826013158",
+    "title": "Desktop Support Engineer-Freshers",
+    "url": "https://www.naukri.com/job-listings-desktop-support-engineer-freshers-nsquare-it-solutions-chennai-bengaluru-0-to-1-years-100826013158",
+    "source": "naukri",
+    "company": "Nsquare It Solutions",
+    "location": "Chennai, Bengaluru",
+    "queued_at": "2026-08-10T10:15:20.768822+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100826012977",
+    "title": "Desktop Support Engineer- Freshers",
+    "url": "https://www.naukri.com/job-listings-desktop-support-engineer-freshers-nsquare-it-solutions-bengaluru-0-to-1-years-100826012977",
+    "source": "naukri",
+    "company": "Alpha IT Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-10T10:15:20.768822+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100826501299",
+    "title": "Rust Developer",
+    "url": "https://www.naukri.com/job-listings-rust-developer-rejolut-a-genai-web-30-company-navi-mumbai-1-to-3-years-100826501299",
+    "source": "naukri",
+    "company": "Rejolut",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-08-10T10:15:20.768822+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100826500075",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-care-comp-mumbai-1-to-4-years-100826500075",
+    "source": "naukri",
+    "company": "Care Comp",
+    "location": "Mumbai",
+    "queued_at": "2026-08-10T10:15:20.768822+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100826500613",
+    "title": "Institutional Derivative Dealer",
+    "url": "https://www.naukri.com/job-listings-institutional-derivative-dealer-irage-mumbai-1-to-5-years-100826500613",
+    "source": "naukri",
+    "company": "iRageCapital",
+    "location": "Mumbai",
+    "queued_at": "2026-08-10T10:15:20.768822+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100826500538",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-center-for-study-of-science-technology-and-policy-bengaluru-1-to-3-years-100826500538",
+    "source": "naukri",
+    "company": "Center Study Science Technology Policy",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-10T10:15:20.768822+00:00",
+    "status": "queued"
   }
 ]
