@@ -9,5 +9,75 @@
     "queued_at": "2026-08-10T06:15:50.659682+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "100826500075",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-care-comp-mumbai-1-to-4-years-100826500075",
+    "source": "naukri",
+    "company": "Care Comp",
+    "location": "Mumbai",
+    "queued_at": "2026-08-10T08:15:10.093602+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100826500613",
+    "title": "Institutional Derivative Dealer",
+    "url": "https://www.naukri.com/job-listings-institutional-derivative-dealer-irage-mumbai-1-to-5-years-100826500613",
+    "source": "naukri",
+    "company": "iRageCapital",
+    "location": "Mumbai",
+    "queued_at": "2026-08-10T08:15:10.093602+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100826500538",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-center-for-study-of-science-technology-and-policy-bengaluru-1-to-3-years-100826500538",
+    "source": "naukri",
+    "company": "Center Study Science Technology Policy",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-10T08:15:10.093602+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100826008627",
+    "title": "Xceptor Developer",
+    "url": "https://www.naukri.com/job-listings-xceptor-developer-eclerx-mumbai-suburban-navi-mumbai-mumbai-all-areas-1-to-4-years-100826008627",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mumbai Suburban, Navi Mumbai, Mumbai (All Areas)",
+    "queued_at": "2026-08-10T08:15:10.093602+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100826003908",
+    "title": "Software Engineer, developer / Programmer, 2026 graduate Can apply",
+    "url": "https://www.naukri.com/job-listings-software-engineer-developer-programmer-2026-graduate-can-apply-creative-hands-hr-udaipur-jaipur-jodhpur-0-to-5-years-100826003908",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Udaipur, Jaipur, Jodhpur",
+    "queued_at": "2026-08-10T08:15:10.093602+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100826003731",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-bnp-paribas-mumbai-mumbai-suburban-navi-mumbai-0-to-2-years-100826003731",
+    "source": "naukri",
+    "company": "BNP Paribas",
+    "location": "Mumbai, Mumbai Suburban, Navi Mumbai",
+    "queued_at": "2026-08-10T08:15:10.093602+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100826003387",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-100826003387",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-08-10T08:15:10.093602+00:00",
+    "status": "queued"
   }
 ]
