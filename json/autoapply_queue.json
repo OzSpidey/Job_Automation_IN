@@ -17,7 +17,7 @@
     "location": "Remote",
     "queued_at": "2026-08-10T18:15:15.405165+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "100826004347",
@@ -28,7 +28,7 @@
     "location": "Noida, Gurugram, Bengaluru",
     "queued_at": "2026-08-10T18:15:15.405165+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "100826017296",
@@ -39,6 +39,6 @@
     "location": "Navi Mumbai",
     "queued_at": "2026-08-10T18:15:15.405165+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
