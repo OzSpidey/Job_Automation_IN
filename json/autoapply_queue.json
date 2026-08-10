@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "job_id": "100826003918",
+    "title": "Walk-in Drive For Freshers - Software Engineer| 12th Aug | Navi Mumbai",
+    "url": "https://www.naukri.com/job-listings-walk-in-drive-for-freshers-software-engineer-12th-aug-navi-mumbai-doyen-infosolutions-navi-mumbai-mumbai-all-areas-0-to-1-years-100826003918",
+    "source": "naukri",
+    "company": "Doyen Infosolutions",
+    "location": "",
+    "queued_at": "2026-08-10T06:15:50.659682+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100826003895",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-100826003895",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-08-10T06:15:50.659682+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100826004347",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-anh-engineering-services-anhespl-noida-gurugram-bengaluru-0-to-4-years-100826004347",
+    "source": "naukri",
+    "company": "ANH Engineering Services (ANHESPL)",
+    "location": "Noida, Gurugram, Bengaluru",
+    "queued_at": "2026-08-10T06:15:50.659682+00:00",
+    "status": "queued"
+  }
+]
