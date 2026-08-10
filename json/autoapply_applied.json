@@ -1460,5 +1460,27 @@
     "queued_at": "2026-08-07T14:15:29.397974+00:00",
     "status": "applied",
     "applied_at": "2026-08-07T14:18:30.799296+00:00"
+  },
+  {
+    "job_id": "100826003918",
+    "title": "Walk-in Drive For Freshers - Software Engineer| 12th Aug | Navi Mumbai",
+    "url": "https://www.naukri.com/job-listings-walk-in-drive-for-freshers-software-engineer-12th-aug-navi-mumbai-doyen-infosolutions-navi-mumbai-mumbai-all-areas-0-to-1-years-100826003918",
+    "source": "naukri",
+    "company": "Doyen Infosolutions",
+    "location": "",
+    "queued_at": "2026-08-10T06:15:50.659682+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-10T06:16:57.803993+00:00"
+  },
+  {
+    "job_id": "100826003895",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-100826003895",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-08-10T06:15:50.659682+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-10T06:17:07.675679+00:00"
   }
 ]
