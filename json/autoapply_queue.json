@@ -17,7 +17,7 @@
     "location": "",
     "queued_at": "2026-08-11T18:15:26.182693+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "110826922028",
@@ -28,6 +28,6 @@
     "location": "Bengaluru",
     "queued_at": "2026-08-11T18:15:26.182693+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
