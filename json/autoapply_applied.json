@@ -1724,5 +1724,60 @@
     "queued_at": "2026-08-11T12:15:25.972511+00:00",
     "status": "applied",
     "applied_at": "2026-08-11T12:20:08.310580+00:00"
+  },
+  {
+    "job_id": "110826038867",
+    "title": "Full Stack Developer at A FinTech Company",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-at-a-fintech-company-talentzo-delhi-mumbai-0-to-2-years-110826038867",
+    "source": "naukri",
+    "company": "Talentzo Delhi",
+    "location": "Remote",
+    "queued_at": "2026-08-11T14:15:25.060437+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-11T14:17:29.146638+00:00"
+  },
+  {
+    "job_id": "110826038612",
+    "title": "Systems Software Engineer at A FinTech Company",
+    "url": "https://www.naukri.com/job-listings-systems-software-engineer-at-a-fintech-company-talentzo-delhi-mumbai-0-to-4-years-110826038612",
+    "source": "naukri",
+    "company": "Talentzo Delhi",
+    "location": "Remote",
+    "queued_at": "2026-08-11T14:15:25.060437+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-11T14:17:47.921520+00:00"
+  },
+  {
+    "job_id": "110826927746",
+    "title": "Marketing Intern / Software Developer Intern",
+    "url": "https://www.naukri.com/job-listings-marketing-intern-software-developer-intern-fovea-infotech-mohali-0-to-1-years-110826927746",
+    "source": "naukri",
+    "company": "Fovea Infotech",
+    "location": "Mohali(Sector 70)",
+    "queued_at": "2026-08-11T14:15:25.060437+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-11T14:18:42.991480+00:00"
+  },
+  {
+    "job_id": "110826924923",
+    "title": "NEW.NET Application Developer",
+    "url": "https://www.naukri.com/job-listings-net-application-developer-petals-infotech-private-limited-ghaziabad-0-to-4-years-110826924923",
+    "source": "naukri",
+    "company": "Petals Infotech",
+    "location": "Ghaziabad",
+    "queued_at": "2026-08-11T14:15:25.060437+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-11T14:19:33.266113+00:00"
+  },
+  {
+    "job_id": "110826927917",
+    "title": "Embedded Firmware Engineer",
+    "url": "https://www.naukri.com/job-listings-embedded-firmware-engineer-mind-matrix-intelligent-solutions-gurugram-0-to-4-years-110826927917",
+    "source": "naukri",
+    "company": "Mind Matrix Intelligent Solutions",
+    "location": "Gurugram",
+    "queued_at": "2026-08-11T14:15:25.060437+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-11T14:20:49.918173+00:00"
   }
 ]
