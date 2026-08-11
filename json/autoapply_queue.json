@@ -1,16 +1,5 @@
 [
   {
-    "job_id": "110826013824",
-    "title": "Walk-in || Hardware Engineer Freshers",
-    "url": "https://www.naukri.com/job-listings-hardware-engineer-freshers-karnex-software-solution-pune-0-to-2-years-110826013824",
-    "source": "naukri",
-    "company": "Karnex Software Solution",
-    "location": "",
-    "queued_at": "2026-08-11T08:15:09.488145+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -20,24 +9,15 @@
     "status": "queued"
   },
   {
-    "job_id": "110826018733",
-    "title": "C++ -Linux Engineer",
-    "url": "https://www.naukri.com/job-listings-c-linux-engineer-american-megatrends-chennai-1-to-5-years-110826018733",
+    "job_id": "110826013824",
+    "title": "Walk-in || Hardware Engineer Freshers",
+    "url": "https://www.naukri.com/job-listings-hardware-engineer-freshers-karnex-software-solution-pune-0-to-2-years-110826013824",
     "source": "naukri",
-    "company": "American Megatrends",
-    "location": "Chennai",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826020499",
-    "title": "ETF Market Trader",
-    "url": "https://www.naukri.com/job-listings-etf-market-trader-intellectual-capital-hr-consulting-mumbai-all-areas-1-to-6-years-110826020499",
-    "source": "naukri",
-    "company": "Intellectual capital HR consulting Pvt Ltd",
-    "location": "Mumbai (All Areas)(Goregaon)",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
+    "company": "Karnex Software Solution",
+    "location": "",
+    "queued_at": "2026-08-11T08:15:09.488145+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
     "job_id": "110826019338",
@@ -47,7 +27,8 @@
     "company": "R1 RCM",
     "location": "Indore",
     "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "110826019297",
@@ -57,256 +38,7 @@
     "company": "eClerx",
     "location": "Pune",
     "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826018757",
-    "title": "Walk-in || RTA Analyst",
-    "url": "https://www.naukri.com/job-listings-rta-analyst-eclerx-chandigarh-1-to-2-years-110826018757",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826502005",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-stone-shippers-kota-0-to-3-years-110826502005",
-    "source": "naukri",
-    "company": "Stone Shippers",
-    "location": "Kota",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826500971",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-hola-world-kochi-0-to-1-years-110826500971",
-    "source": "naukri",
-    "company": "Hola World",
-    "location": "Kochi",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826501271",
-    "title": "Software Engineer - APM",
-    "url": "https://www.naukri.com/job-listings-software-engineer-apm-ionidea-enterprise-solutions-pvt-ltd-chennai-0-to-3-years-110826501271",
-    "source": "naukri",
-    "company": "IonIdea",
-    "location": "Chennai",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826501272",
-    "title": "Software Engineer - APM",
-    "url": "https://www.naukri.com/job-listings-software-engineer-apm-ionidea-enterprise-solutions-pvt-ltd-bengaluru-0-to-3-years-110826501272",
-    "source": "naukri",
-    "company": "IonIdea",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826501270",
-    "title": "Software Engineer - APM",
-    "url": "https://www.naukri.com/job-listings-software-engineer-apm-ionidea-enterprise-solutions-pvt-ltd-new-delhi-0-to-3-years-110826501270",
-    "source": "naukri",
-    "company": "IonIdea",
-    "location": "New Delhi",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826502083",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-godigi-infotech-bengaluru-0-to-1-years-110826502083",
-    "source": "naukri",
-    "company": "Godigi Infotech",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826502081",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-godigi-infotech-pune-0-to-1-years-110826502081",
-    "source": "naukri",
-    "company": "Godigi Infotech",
-    "location": "Pune",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826502082",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-godigi-infotech-hyderabad-0-to-1-years-110826502082",
-    "source": "naukri",
-    "company": "Godigi Infotech",
-    "location": "Hyderabad",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826501866",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-prexam-vasai-1-to-2-years-110826501866",
-    "source": "naukri",
-    "company": "Prexam",
-    "location": "Vasai",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826500678",
-    "title": "Zuora Engineer",
-    "url": "https://www.naukri.com/job-listings-zuora-engineer-ust-noida-0-to-9-years-110826500678",
-    "source": "naukri",
-    "company": "UST",
-    "location": "Noida",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826501865",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-prexam-pune-1-to-2-years-110826501865",
-    "source": "naukri",
-    "company": "Prexam",
-    "location": "Pune",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826500677",
-    "title": "Zuora Engineer",
-    "url": "https://www.naukri.com/job-listings-zuora-engineer-ust-bengaluru-0-to-9-years-110826500677",
-    "source": "naukri",
-    "company": "UST",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826500676",
-    "title": "Zuora Engineer",
-    "url": "https://www.naukri.com/job-listings-zuora-engineer-ust-chennai-0-to-9-years-110826500676",
-    "source": "naukri",
-    "company": "UST",
-    "location": "Chennai",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826500675",
-    "title": "Zuora Engineer",
-    "url": "https://www.naukri.com/job-listings-zuora-engineer-ust-thiruvananthapuram-0-to-9-years-110826500675",
-    "source": "naukri",
-    "company": "UST",
-    "location": "Thiruvananthapuram",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826500674",
-    "title": "Zuora Engineer",
-    "url": "https://www.naukri.com/job-listings-zuora-engineer-ust-kochi-0-to-9-years-110826500674",
-    "source": "naukri",
-    "company": "UST",
-    "location": "Kochi",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826501959",
-    "title": "CRM Developer",
-    "url": "https://www.naukri.com/job-listings-crm-developer-aryavart-institute-of-technology-patna-1-to-3-years-110826501959",
-    "source": "naukri",
-    "company": "Aryavart Institute Of Technology",
-    "location": "Patna",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826501907",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-viacom-india-llp-bengaluru-1-to-4-years-110826501907",
-    "source": "naukri",
-    "company": "Viacom India",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826501958",
-    "title": "CRM Developer",
-    "url": "https://www.naukri.com/job-listings-crm-developer-aryavart-institute-of-technology-noida-1-to-3-years-110826501958",
-    "source": "naukri",
-    "company": "Aryavart Institute Of Technology",
-    "location": "Noida",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826501957",
-    "title": "CRM Developer",
-    "url": "https://www.naukri.com/job-listings-crm-developer-aryavart-institute-of-technology-kanpur-1-to-3-years-110826501957",
-    "source": "naukri",
-    "company": "Aryavart Institute Of Technology",
-    "location": "Kanpur",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826501906",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-viacom-india-llp-bokaro-1-to-4-years-110826501906",
-    "source": "naukri",
-    "company": "Viacom India",
-    "location": "Bokaro",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826501905",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-viacom-india-llp-gurugram-1-to-4-years-110826501905",
-    "source": "naukri",
-    "company": "Viacom India",
-    "location": "Gurugram",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826501904",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-viacom-india-llp-surat-1-to-4-years-110826501904",
-    "source": "naukri",
-    "company": "Viacom India",
-    "location": "Surat",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826501903",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-viacom-india-llp-pune-1-to-4-years-110826501903",
-    "source": "naukri",
-    "company": "Viacom India",
-    "location": "Pune",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110826500207",
-    "title": "Senior Specialist - Software Engineering",
-    "url": "https://www.naukri.com/job-listings-senior-specialist-software-engineering-mindtree-limited-pune-0-to-11-years-110826500207",
-    "source": "naukri",
-    "company": "LTM",
-    "location": "Pune",
-    "queued_at": "2026-08-11T10:15:16.006191+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
