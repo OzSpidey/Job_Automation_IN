@@ -1625,5 +1625,27 @@
     "queued_at": "2026-08-11T06:15:19.890804+00:00",
     "status": "applied",
     "applied_at": "2026-08-11T06:16:33.339919+00:00"
+  },
+  {
+    "job_id": "110826014266",
+    "title": "Java Developer - Freshers & Experienced Both",
+    "url": "https://www.naukri.com/job-listings-java-developer-freshers-experienced-both-onesource-recruiter-bengaluru-0-to-4-years-110826014266",
+    "source": "naukri",
+    "company": "Onesource Recruiter",
+    "location": "Remote",
+    "queued_at": "2026-08-11T08:15:09.488145+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-11T08:16:47.774274+00:00"
+  },
+  {
+    "job_id": "110826014704",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-himachal-futuristic-communications-hfcl-new-delhi-1-to-2-years-110826014704",
+    "source": "naukri",
+    "company": "Himachal Futuristic Communications (HFCL)",
+    "location": "New Delhi(Janakpuri)",
+    "queued_at": "2026-08-11T08:15:09.488145+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-11T08:17:03.098889+00:00"
   }
 ]
