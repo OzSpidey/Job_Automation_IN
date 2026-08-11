@@ -1680,5 +1680,49 @@
     "queued_at": "2026-08-11T10:15:16.006191+00:00",
     "status": "applied",
     "applied_at": "2026-08-11T10:17:15.129470+00:00"
+  },
+  {
+    "job_id": "110826922958",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-schopiq-automation-puducherry-0-to-2-years-110826922958",
+    "source": "naukri",
+    "company": "Schopiq Automation",
+    "location": "Puducherry(Reddiarpalayam)",
+    "queued_at": "2026-08-11T12:15:25.972511+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-11T12:17:43.415648+00:00"
+  },
+  {
+    "job_id": "110826029445",
+    "title": "Walk-in || Software Developers Freshers",
+    "url": "https://www.naukri.com/job-listings-software-developers-freshers-ciel-hr-bengaluru-0-to-1-years-110826029445",
+    "source": "naukri",
+    "company": "ciel",
+    "location": "",
+    "queued_at": "2026-08-11T12:15:25.972511+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-11T12:19:05.878856+00:00"
+  },
+  {
+    "job_id": "110826923495",
+    "title": "Nokia Flowone Developer",
+    "url": "https://www.naukri.com/job-listings-nokia-flowone-developer-capgemini-technology-services-india-limited-gurugram-1-to-6-years-110826923495",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Gurugram",
+    "queued_at": "2026-08-11T12:15:25.972511+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-11T12:19:36.436163+00:00"
+  },
+  {
+    "job_id": "110826924119",
+    "title": "Performance and Analytics Engineer",
+    "url": "https://www.naukri.com/job-listings-performance-and-analytics-engineer-capgemini-technology-services-india-limited-coimbatore-1-to-6-years-110826924119",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Coimbatore",
+    "queued_at": "2026-08-11T12:15:25.972511+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-11T12:20:08.310580+00:00"
   }
 ]
