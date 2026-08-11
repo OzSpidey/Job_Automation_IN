@@ -1592,5 +1592,38 @@
     "queued_at": "2026-08-10T18:15:15.405165+00:00",
     "status": "applied",
     "applied_at": "2026-08-10T18:16:15.361367+00:00"
+  },
+  {
+    "job_id": "110826012218",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-careerfit-ai-visakhapatnam-1-to-6-years-110826012218",
+    "source": "naukri",
+    "company": "CareerFit.ai",
+    "location": "Visakhapatnam",
+    "queued_at": "2026-08-11T06:15:19.890804+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-11T06:16:13.607963+00:00"
+  },
+  {
+    "job_id": "230626016459",
+    "title": "Engineer - ATE",
+    "url": "https://www.naukri.com/job-listings-engineer-ate-elmack-engg-services-chennai-1-to-3-years-230626016459",
+    "source": "naukri",
+    "company": "Elmack Engg Services",
+    "location": "Chennai(Anna Nagar)",
+    "queued_at": "2026-08-11T06:15:19.890804+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-11T06:16:23.248179+00:00"
+  },
+  {
+    "job_id": "110826011208",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-zetamp-energy-solutions-bengaluru-0-to-1-years-110826011208",
+    "source": "naukri",
+    "company": "Zetamp Energy Solutions",
+    "location": "Bengaluru(Horamavu Banaswadi)",
+    "queued_at": "2026-08-11T06:15:19.890804+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-11T06:16:33.339919+00:00"
   }
 ]
