@@ -1978,5 +1978,28 @@
     "queued_at": "2026-08-12T12:15:44.217492+00:00",
     "status": "applied",
     "applied_at": "2026-08-12T12:18:22.822476+00:00"
+  },
+  {
+    "job_id": "120826030364",
+    "title": "Analyst-Optimisation",
+    "url": "https://www.naukri.com/job-listings-analyst-optimisation-sakon-pune-1-to-3-years-120826030364",
+    "source": "naukri",
+    "company": "Sakon",
+    "location": "Hybrid - Pune",
+    "queued_at": "2026-08-12T12:15:44.217492+00:00",
+    "status": "applied",
+    "attempts": 1,
+    "applied_at": "2026-08-12T14:16:35.042189+00:00"
+  },
+  {
+    "job_id": "120826935341",
+    "title": "Amazon Connect Developer",
+    "url": "https://www.naukri.com/job-listings-amazon-connect-developer-capgemini-technology-services-india-limited-hyderabad-chennai-bengaluru-1-to-6-years-120826935341",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-08-12T14:15:13.206263+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-12T14:18:34.673631+00:00"
   }
 ]
