@@ -9,28 +9,6 @@
     "status": "queued"
   },
   {
-    "job_id": "120826023368",
-    "title": "Walk-in || Analyst-Fulfilment",
-    "url": "https://www.naukri.com/job-listings-analyst-fulfilment-sakon-pune-1-to-3-years-120826023368",
-    "source": "naukri",
-    "company": "Sakon",
-    "location": "",
-    "queued_at": "2026-08-12T08:15:15.327179+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "120826015293",
-    "title": "Dimensional Engineer",
-    "url": "https://www.naukri.com/job-listings-dimensional-engineer-elika-engineering-pune-1-to-5-years-120826015293",
-    "source": "naukri",
-    "company": "Elika Engineering",
-    "location": "Pune",
-    "queued_at": "2026-08-12T08:15:15.327179+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "120826027351",
     "title": "Analyst, RMBS Mumbai",
     "url": "https://www.naukri.com/job-listings-analyst-rmbs-mumbai-morningstar-mumbai-0-to-2-years-120826027351",
@@ -39,7 +17,7 @@
     "location": "Mumbai",
     "queued_at": "2026-08-12T10:15:27.452587+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "120826026406",
@@ -50,67 +28,7 @@
     "location": "Chandigarh",
     "queued_at": "2026-08-12T10:15:27.452587+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "120826501196",
-    "title": "Software Development Engineer",
-    "url": "https://www.naukri.com/job-listings-software-development-engineer-akara-capital-advisors-private-limited-gurugram-1-to-5-years-120826501196",
-    "source": "naukri",
-    "company": "Akara Capital Advisors",
-    "location": "Gurugram",
-    "queued_at": "2026-08-12T12:15:44.217492+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826030338",
-    "title": "Python Software Developer",
-    "url": "https://www.naukri.com/job-listings-python-software-developer-moolchand-new-delhi-0-to-2-years-120826030338",
-    "source": "naukri",
-    "company": "Moolchand",
-    "location": "New Delhi",
-    "queued_at": "2026-08-12T12:15:44.217492+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826502637",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-techasoft-bengaluru-0-to-2-years-120826502637",
-    "source": "naukri",
-    "company": "Techasoft",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-12T12:15:44.217492+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826502661",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-4-years-120826502661",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-08-12T12:15:44.217492+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826502209",
-    "title": "Analyst - Abstractions",
-    "url": "https://www.naukri.com/job-listings-analyst-abstractions-jones-lang-lasalle-gurugram-1-to-3-years-120826502209",
-    "source": "naukri",
-    "company": "Jones Lang LaSalle (JLL)",
-    "location": "Gurugram",
-    "queued_at": "2026-08-12T12:15:44.217492+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826501589",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-ernst-young-noida-1-to-5-years-120826501589",
-    "source": "naukri",
-    "company": "EY",
-    "location": "Noida",
-    "queued_at": "2026-08-12T12:15:44.217492+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "120826030364",
@@ -120,116 +38,7 @@
     "company": "Sakon",
     "location": "Hybrid - Pune",
     "queued_at": "2026-08-12T12:15:44.217492+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826920630",
-    "title": "Trainee Software Engineers \u2013 Freshers",
-    "url": "https://www.naukri.com/job-listings-trainee-software-engineers-freshers-razorthink-bengaluru-0-to-2-years-120826920630",
-    "source": "naukri",
-    "company": "Razorthink",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-12T12:15:44.217492+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826500949",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-0-to-5-years-120826500949",
-    "source": "naukri",
-    "company": "Cisco",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-12T12:15:44.217492+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826500062",
-    "title": "React Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-react-full-stack-developer-plus-max-group-of-companies-madurai-tiruppur-salem-chennai-tiruchirappalli-coimbatore-1-to-6-years-120826500062",
-    "source": "naukri",
-    "company": "Plus Max Group Of Companies",
-    "location": "Madurai, Tiruppur, Salem, Chennai, Tiruchirappalli, Coimbatore",
-    "queued_at": "2026-08-12T12:15:44.217492+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826501134",
-    "title": "Prompt Engineer",
-    "url": "https://www.naukri.com/job-listings-prompt-engineer-tm-systems-pvt-ltd-remote-1-to-2-years-120826501134",
-    "source": "naukri",
-    "company": "TM Systems",
-    "location": "Remote",
-    "queued_at": "2026-08-12T12:15:44.217492+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826500170",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-synopsys-india-private-limited-bengaluru-1-to-4-years-120826500170",
-    "source": "naukri",
-    "company": "Synopsys",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-12T12:15:44.217492+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826501096",
-    "title": "Databricks Engineer",
-    "url": "https://www.naukri.com/job-listings-databricks-engineer-tm-systems-pvt-ltd-mumbai-pune-ahmedabad-1-to-2-years-120826501096",
-    "source": "naukri",
-    "company": "TM Systems",
-    "location": "Mumbai, Pune, Ahmedabad",
-    "queued_at": "2026-08-12T12:15:44.217492+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826500124",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-synopsys-india-private-limited-bengaluru-1-to-4-years-120826500124",
-    "source": "naukri",
-    "company": "Synopsys",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-12T12:15:44.217492+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826500888",
-    "title": "Impairment Analyst",
-    "url": "https://www.naukri.com/job-listings-impairment-analyst-barclays-shared-services-noida-0-to-5-years-120826500888",
-    "source": "naukri",
-    "company": "Barclays",
-    "location": "Noida",
-    "queued_at": "2026-08-12T12:15:44.217492+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826500791",
-    "title": "SP Developer",
-    "url": "https://www.naukri.com/job-listings-sp-developer-zenith-system-solutions-private-limited-gurugram-1-to-5-years-120826500791",
-    "source": "naukri",
-    "company": "Zenith System Solutions",
-    "location": "Gurugram",
-    "queued_at": "2026-08-12T12:15:44.217492+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826500683",
-    "title": "Analyst - Industrial Sector",
-    "url": "https://www.naukri.com/job-listings-analyst-industrial-sector-spark-capital-advisors-bengaluru-0-to-1-years-120826500683",
-    "source": "naukri",
-    "company": "Spark Capital",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-12T12:15:44.217492+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826500190",
-    "title": "Webflow Developer",
-    "url": "https://www.naukri.com/job-listings-webflow-developer-vibrant-info-ahmedabad-bengaluru-1-to-4-years-120826500190",
-    "source": "naukri",
-    "company": "Vibrant Info",
-    "location": "Ahmedabad, Bengaluru",
-    "queued_at": "2026-08-12T12:15:44.217492+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]

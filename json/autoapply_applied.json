@@ -1956,5 +1956,27 @@
     "queued_at": "2026-08-12T10:15:27.452587+00:00",
     "status": "applied",
     "applied_at": "2026-08-12T10:18:28.532124+00:00"
+  },
+  {
+    "job_id": "120826030338",
+    "title": "Python Software Developer",
+    "url": "https://www.naukri.com/job-listings-python-software-developer-moolchand-new-delhi-0-to-2-years-120826030338",
+    "source": "naukri",
+    "company": "Moolchand",
+    "location": "New Delhi",
+    "queued_at": "2026-08-12T12:15:44.217492+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-12T12:17:41.970121+00:00"
+  },
+  {
+    "job_id": "120826920630",
+    "title": "Trainee Software Engineers \u2013 Freshers",
+    "url": "https://www.naukri.com/job-listings-trainee-software-engineers-freshers-razorthink-bengaluru-0-to-2-years-120826920630",
+    "source": "naukri",
+    "company": "Razorthink",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-12T12:15:44.217492+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-12T12:18:22.822476+00:00"
   }
 ]
