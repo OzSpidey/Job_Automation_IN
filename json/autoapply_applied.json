@@ -1912,5 +1912,49 @@
     "queued_at": "2026-08-12T08:15:15.327179+00:00",
     "status": "applied",
     "applied_at": "2026-08-12T08:16:49.584316+00:00"
+  },
+  {
+    "job_id": "120826919475",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-quantum-phinance-pvt-ltd-mumbai-1-to-2-years-120826919475",
+    "source": "naukri",
+    "company": "Quantum Phinance",
+    "location": "Mumbai",
+    "queued_at": "2026-08-12T10:15:27.452587+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-12T10:17:54.671354+00:00"
+  },
+  {
+    "job_id": "120826919479",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-quantum-phinance-pvt-ltd-mumbai-1-to-3-years-120826919479",
+    "source": "naukri",
+    "company": "Quantum Phinance",
+    "location": "Mumbai",
+    "queued_at": "2026-08-12T10:15:27.452587+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-12T10:18:08.815172+00:00"
+  },
+  {
+    "job_id": "120826919705",
+    "title": "Python Developer - IIT / NIT",
+    "url": "https://www.naukri.com/job-listings-python-developer-iit-nit-oriserve-noida-1-to-5-years-120826919705",
+    "source": "naukri",
+    "company": "Oriserve",
+    "location": "Noida",
+    "queued_at": "2026-08-12T10:15:27.452587+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-12T10:18:18.860398+00:00"
+  },
+  {
+    "job_id": "120826920460",
+    "title": "OpenShift Engineer",
+    "url": "https://www.naukri.com/job-listings-openshift-engineer-qcs-dc-labs-bengaluru-1-to-6-years-120826920460",
+    "source": "naukri",
+    "company": "QCS Dc Labs",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-12T10:15:27.452587+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-12T10:18:28.532124+00:00"
   }
 ]
