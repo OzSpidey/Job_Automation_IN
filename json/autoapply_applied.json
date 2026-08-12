@@ -2001,5 +2001,38 @@
     "queued_at": "2026-08-12T14:15:13.206263+00:00",
     "status": "applied",
     "applied_at": "2026-08-12T14:18:34.673631+00:00"
+  },
+  {
+    "job_id": "120826935274",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-120826935274",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-12T16:15:17.972331+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-12T16:16:35.308876+00:00"
+  },
+  {
+    "job_id": "120826938386",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-bengaluru-0-to-1-years-120826938386",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-12T16:15:17.972331+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-12T16:17:37.990832+00:00"
+  },
+  {
+    "job_id": "120826935170",
+    "title": "FP&A Analyst",
+    "url": "https://www.naukri.com/job-listings-fp-a-analyst-abb-india-limited-bengaluru-1-to-5-years-120826935170",
+    "source": "naukri",
+    "company": "ABB",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-12T16:15:17.972331+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-12T16:18:05.531803+00:00"
   }
 ]
