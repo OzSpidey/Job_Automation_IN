@@ -17,67 +17,7 @@
     "location": "Srinagar",
     "queued_at": "2026-08-12T06:15:24.024806+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "120826500062",
-    "title": "React Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-react-full-stack-developer-plus-max-group-of-companies-madurai-tiruppur-salem-chennai-tiruchirappalli-coimbatore-1-to-6-years-120826500062",
-    "source": "naukri",
-    "company": "Plus Max Group Of Companies",
-    "location": "Madurai, Tiruppur, Salem, Chennai, Tiruchirappalli, Coimbatore",
-    "queued_at": "2026-08-12T08:15:15.327179+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826022913",
-    "title": "Software Developer - ERP Applications",
-    "url": "https://www.naukri.com/job-listings-software-developer-erp-applications-konnect-consultants-kota-kota-0-to-5-years-120826022913",
-    "source": "naukri",
-    "company": "Doctor For Hospitals",
-    "location": "Kota",
-    "queued_at": "2026-08-12T08:15:15.327179+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826500170",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-synopsys-india-private-limited-bengaluru-1-to-4-years-120826500170",
-    "source": "naukri",
-    "company": "Synopsys",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-12T08:15:15.327179+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826021354",
-    "title": "Desktop Engineer (Fresher Male - Field)",
-    "url": "https://www.naukri.com/job-listings-desktop-engineer-fresher-male-field-team-computers-mumbai-all-areas-0-to-1-years-120826021354",
-    "source": "naukri",
-    "company": "Team Computers",
-    "location": "Mumbai (All Areas)",
-    "queued_at": "2026-08-12T08:15:15.327179+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826500124",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-synopsys-india-private-limited-bengaluru-1-to-4-years-120826500124",
-    "source": "naukri",
-    "company": "Synopsys",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-12T08:15:15.327179+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "120826500190",
-    "title": "Webflow Developer",
-    "url": "https://www.naukri.com/job-listings-webflow-developer-vibrant-info-ahmedabad-bengaluru-1-to-4-years-120826500190",
-    "source": "naukri",
-    "company": "Vibrant Info",
-    "location": "Ahmedabad, Bengaluru",
-    "queued_at": "2026-08-12T08:15:15.327179+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "120826023368",
@@ -87,7 +27,8 @@
     "company": "Sakon",
     "location": "",
     "queued_at": "2026-08-12T08:15:15.327179+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "120826015293",
@@ -97,6 +38,7 @@
     "company": "Elika Engineering",
     "location": "Pune",
     "queued_at": "2026-08-12T08:15:15.327179+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]

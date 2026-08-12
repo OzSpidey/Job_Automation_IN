@@ -1890,5 +1890,27 @@
     "queued_at": "2026-08-12T06:15:24.024806+00:00",
     "status": "applied",
     "applied_at": "2026-08-12T06:16:16.501337+00:00"
+  },
+  {
+    "job_id": "120826022913",
+    "title": "Software Developer - ERP Applications",
+    "url": "https://www.naukri.com/job-listings-software-developer-erp-applications-konnect-consultants-kota-kota-0-to-5-years-120826022913",
+    "source": "naukri",
+    "company": "Doctor For Hospitals",
+    "location": "Kota",
+    "queued_at": "2026-08-12T08:15:15.327179+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-12T08:16:35.347674+00:00"
+  },
+  {
+    "job_id": "120826021354",
+    "title": "Desktop Engineer (Fresher Male - Field)",
+    "url": "https://www.naukri.com/job-listings-desktop-engineer-fresher-male-field-team-computers-mumbai-all-areas-0-to-1-years-120826021354",
+    "source": "naukri",
+    "company": "Team Computers",
+    "location": "Mumbai (All Areas)",
+    "queued_at": "2026-08-12T08:15:15.327179+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-12T08:16:49.584316+00:00"
   }
 ]
