@@ -18,5 +18,85 @@
     "level": "Early",
     "queued_at": "2026-08-10T16:01:28.657865+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "130826020679",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-clareit-gurugram-0-to-5-years-130826020679",
+    "source": "naukri",
+    "company": "Clareit",
+    "location": "Gurugram(Sector 11)",
+    "queued_at": "2026-08-13T10:15:12.281622+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "130826500065",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-brandloom-gurugram-0-to-4-years-130826500065",
+    "source": "naukri",
+    "company": "Brandloom",
+    "location": "Gurugram",
+    "queued_at": "2026-08-13T10:15:12.281622+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "130826500064",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-brandloom-navi-mumbai-0-to-4-years-130826500064",
+    "source": "naukri",
+    "company": "Brandloom",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-08-13T10:15:12.281622+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "130826920952",
+    "title": "Staff Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-staff-site-reliability-engineer-okta-identity-india-private-limited-bengaluru-0-to-5-years-130826920952",
+    "source": "naukri",
+    "company": "Okta",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-13T10:15:12.281622+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "130826023479",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-bluepen-co-in-mumbai-0-to-3-years-130826023479",
+    "source": "naukri",
+    "company": "Bluepen Co In",
+    "location": "Mumbai(Bhandup West)",
+    "queued_at": "2026-08-13T10:15:12.281622+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "130826920344",
+    "title": "Java Reactjs Developer",
+    "url": "https://www.naukri.com/job-listings-java-reactjs-developer-infosys-limited-bengaluru-1-to-5-years-130826920344",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-13T10:15:12.281622+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "220925017043",
+    "title": "Java Developer - Java ,Sturts",
+    "url": "https://www.naukri.com/job-listings-java-developer-java-sturts-clover-infotech-navi-mumbai-1-to-2-years-220925017043",
+    "source": "naukri",
+    "company": "Clover Infotech",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-08-13T10:15:12.281622+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "130826500241",
+    "title": "Webflow Developer",
+    "url": "https://www.naukri.com/job-listings-webflow-developer-vibrant-info-bengaluru-1-to-4-years-130826500241",
+    "source": "naukri",
+    "company": "Vibrant Info",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-13T10:15:12.281622+00:00",
+    "status": "queued"
   }
 ]
