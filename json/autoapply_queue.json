@@ -1,16 +1,5 @@
 [
   {
-    "job_id": "130826012892",
-    "title": "Jr. Firmware Engineer",
-    "url": "https://www.naukri.com/job-listings-jr-firmware-engineer-sasken-silicon-technolgies-ahmedabad-0-to-2-years-130826012892",
-    "source": "naukri",
-    "company": "Sasken Silicon Technolgies",
-    "location": "Ahmedabad",
-    "queued_at": "2026-08-13T06:15:21.230526+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -20,6 +9,17 @@
     "status": "queued"
   },
   {
+    "job_id": "130826012892",
+    "title": "Jr. Firmware Engineer",
+    "url": "https://www.naukri.com/job-listings-jr-firmware-engineer-sasken-silicon-technolgies-ahmedabad-0-to-2-years-130826012892",
+    "source": "naukri",
+    "company": "Sasken Silicon Technolgies",
+    "location": "Ahmedabad",
+    "queued_at": "2026-08-13T06:15:21.230526+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
     "job_id": "130826020679",
     "title": "Software Developer",
     "url": "https://www.naukri.com/job-listings-software-developer-clareit-gurugram-0-to-5-years-130826020679",
@@ -27,37 +27,8 @@
     "company": "Clareit",
     "location": "Gurugram(Sector 11)",
     "queued_at": "2026-08-13T10:15:12.281622+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826500065",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-brandloom-gurugram-0-to-4-years-130826500065",
-    "source": "naukri",
-    "company": "Brandloom",
-    "location": "Gurugram",
-    "queued_at": "2026-08-13T10:15:12.281622+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826500064",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-brandloom-navi-mumbai-0-to-4-years-130826500064",
-    "source": "naukri",
-    "company": "Brandloom",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-08-13T10:15:12.281622+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826920952",
-    "title": "Staff Site Reliability Engineer",
-    "url": "https://www.naukri.com/job-listings-staff-site-reliability-engineer-okta-identity-india-private-limited-bengaluru-0-to-5-years-130826920952",
-    "source": "naukri",
-    "company": "Okta",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-13T10:15:12.281622+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "130826023479",
@@ -67,7 +38,8 @@
     "company": "Bluepen Co In",
     "location": "Mumbai(Bhandup West)",
     "queued_at": "2026-08-13T10:15:12.281622+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "130826920344",
@@ -77,26 +49,7 @@
     "company": "Infosys",
     "location": "Bengaluru",
     "queued_at": "2026-08-13T10:15:12.281622+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "220925017043",
-    "title": "Java Developer - Java ,Sturts",
-    "url": "https://www.naukri.com/job-listings-java-developer-java-sturts-clover-infotech-navi-mumbai-1-to-2-years-220925017043",
-    "source": "naukri",
-    "company": "Clover Infotech",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-08-13T10:15:12.281622+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826500241",
-    "title": "Webflow Developer",
-    "url": "https://www.naukri.com/job-listings-webflow-developer-vibrant-info-bengaluru-1-to-4-years-130826500241",
-    "source": "naukri",
-    "company": "Vibrant Info",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-13T10:15:12.281622+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]

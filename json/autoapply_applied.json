@@ -2199,5 +2199,27 @@
     "queued_at": "2026-08-13T08:15:06.193295+00:00",
     "status": "applied",
     "applied_at": "2026-08-13T08:17:06.476274+00:00"
+  },
+  {
+    "job_id": "130826920952",
+    "title": "Staff Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-staff-site-reliability-engineer-okta-identity-india-private-limited-bengaluru-0-to-5-years-130826920952",
+    "source": "naukri",
+    "company": "Okta",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-13T10:15:12.281622+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-13T10:16:40.042033+00:00"
+  },
+  {
+    "job_id": "220925017043",
+    "title": "Java Developer - Java ,Sturts",
+    "url": "https://www.naukri.com/job-listings-java-developer-java-sturts-clover-infotech-navi-mumbai-1-to-2-years-220925017043",
+    "source": "naukri",
+    "company": "Clover Infotech",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-08-13T10:15:12.281622+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-13T10:17:20.199804+00:00"
   }
 ]
