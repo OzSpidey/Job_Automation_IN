@@ -9,26 +9,6 @@
     "status": "queued"
   },
   {
-    "job_id": "130826911043",
-    "title": "Engineer Trainee Detailer (SDS2 / Tekla)",
-    "url": "https://www.naukri.com/job-listings-engineer-trainee-detailer-sds2-tekla-struzon-technologies-coimbatore-coimbatore-0-to-1-years-130826911043",
-    "source": "naukri",
-    "company": "Struzon Technologies",
-    "location": "Coimbatore, Coimbatore",
-    "queued_at": "2026-08-13T06:15:21.230526+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826910626",
-    "title": "Firmware Engineer",
-    "url": "https://www.naukri.com/job-listings-firmware-engineer-sns-technosys-pune-pimple-nilkah-1-to-2-years-130826910626",
-    "source": "naukri",
-    "company": "SNS Technosys",
-    "location": "Pune, Pimple Nilkah",
-    "queued_at": "2026-08-13T06:15:21.230526+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "130826012892",
     "title": "Jr. Firmware Engineer",
     "url": "https://www.naukri.com/job-listings-jr-firmware-engineer-sasken-silicon-technolgies-ahmedabad-0-to-2-years-130826012892",
@@ -36,26 +16,7 @@
     "company": "Sasken Silicon Technolgies",
     "location": "Ahmedabad",
     "queued_at": "2026-08-13T06:15:21.230526+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826916109",
-    "title": "Software Developer-Infovista",
-    "url": "https://www.naukri.com/job-listings-software-developer-infovista-capgemini-technology-services-india-limited-pune-0-to-5-years-130826916109",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Pune",
-    "queued_at": "2026-08-13T08:15:06.193295+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826015234",
-    "title": "Tririga Analyst / Consultant / Manager",
-    "url": "https://www.naukri.com/job-listings-tririga-analyst-consultant-manager-deloitte-us-india-offices-hyderabad-pune-bengaluru-1-to-12-years-130826015234",
-    "source": "naukri",
-    "company": "Deloitte US-India Offices",
-    "location": "Hyderabad, Pune, Bengaluru",
-    "queued_at": "2026-08-13T08:15:06.193295+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
