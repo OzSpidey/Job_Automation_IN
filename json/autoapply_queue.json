@@ -9,17 +9,6 @@
     "status": "queued"
   },
   {
-    "job_id": "130826012892",
-    "title": "Jr. Firmware Engineer",
-    "url": "https://www.naukri.com/job-listings-jr-firmware-engineer-sasken-silicon-technolgies-ahmedabad-0-to-2-years-130826012892",
-    "source": "naukri",
-    "company": "Sasken Silicon Technolgies",
-    "location": "Ahmedabad",
-    "queued_at": "2026-08-13T06:15:21.230526+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "130826020679",
     "title": "Software Developer",
     "url": "https://www.naukri.com/job-listings-software-developer-clareit-gurugram-0-to-5-years-130826020679",
@@ -28,7 +17,7 @@
     "location": "Gurugram(Sector 11)",
     "queued_at": "2026-08-13T10:15:12.281622+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "130826023479",
@@ -39,7 +28,7 @@
     "location": "Mumbai(Bhandup West)",
     "queued_at": "2026-08-13T10:15:12.281622+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "130826920344",
@@ -50,77 +39,7 @@
     "location": "Bengaluru",
     "queued_at": "2026-08-13T10:15:12.281622+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "130826500855",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-0-to-12-years-130826500855",
-    "source": "naukri",
-    "company": "Cisco",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826501340",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-rockwell-automation-bengaluru-1-to-6-years-130826501340",
-    "source": "naukri",
-    "company": "Rockwell Automation",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826500854",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-0-to-12-years-130826500854",
-    "source": "naukri",
-    "company": "Cisco",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826501324",
-    "title": "Software Engineer (Go Lang)",
-    "url": "https://www.naukri.com/job-listings-software-engineer-go-lang-mavenir-bengaluru-0-to-6-years-130826501324",
-    "source": "naukri",
-    "company": "Mavenir",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826501406",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-newfold-digital-mumbai-1-to-12-years-130826501406",
-    "source": "naukri",
-    "company": "Register.com",
-    "location": "Mumbai",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826501602",
-    "title": "C++ Developer",
-    "url": "https://www.naukri.com/job-listings-c-developer-blue-planet-solutions-inc-pune-gurugram-bengaluru-1-to-5-years-130826501602",
-    "source": "naukri",
-    "company": "Blue Planet Solutions",
-    "location": "Pune, Gurugram, Bengaluru",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826502520",
-    "title": "Software Engineer / Programmer / Developer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-programmer-developer-itlpro-solutions-private-limited-pune-1-to-4-years-130826502520",
-    "source": "naukri",
-    "company": "ITLPro Solutions",
-    "location": "Pune",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "150626027105",
@@ -130,166 +49,7 @@
     "company": "Access Healthcare",
     "location": "",
     "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826502560",
-    "title": "Engineering and Professional Talent",
-    "url": "https://www.naukri.com/job-listings-engineering-and-professional-talent-cautoni-swastik-instruments-i-pvt-ltd-ahmedabad-1-to-7-years-130826502560",
-    "source": "naukri",
-    "company": "Cautoni Swastik Instruments",
-    "location": "Ahmedabad",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826502439",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-elcom-international-kolhapur-1-to-4-years-130826502439",
-    "source": "naukri",
-    "company": "Elcom International",
-    "location": "Kolhapur",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826502271",
-    "title": "Founding Engineer",
-    "url": "https://www.naukri.com/job-listings-founding-engineer-coderound-ai-bengaluru-1-to-5-years-130826502271",
-    "source": "naukri",
-    "company": "Coderound Ai",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826502252",
-    "title": "Observability Engineer - Grafana & Prometheus",
-    "url": "https://www.naukri.com/job-listings-observability-engineer-grafana-prometheus-zensar-technologies-bengaluru-0-to-13-years-130826502252",
-    "source": "naukri",
-    "company": "Zensar",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826501910",
-    "title": "Robotics Engineer Fresher",
-    "url": "https://www.naukri.com/job-listings-robotics-engineer-fresher-playto-labs-bengaluru-0-to-5-years-130826501910",
-    "source": "naukri",
-    "company": "Playto Labs",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826501817",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-abchlor-investment-advisors-p-ltd-mumbai-1-to-4-years-130826501817",
-    "source": "naukri",
-    "company": "Abchlor",
-    "location": "Mumbai",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826501670",
-    "title": "Engineer- Feedershop",
-    "url": "https://www.naukri.com/job-listings-engineer-feedershop-mahindra-conveyor-systems-private-limited-pune-0-to-11-years-130826501670",
-    "source": "naukri",
-    "company": "Mahindra Tsubaki Conveyor Systems",
-    "location": "Pune",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826501455",
-    "title": "Engineer NPQ",
-    "url": "https://www.naukri.com/job-listings-engineer-npq-nippon-electronics-india-limited-hosur-1-to-10-years-130826501455",
-    "source": "naukri",
-    "company": "Nippon Electronics",
-    "location": "Hosur",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826500615",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-opentext-technologies-india-pvt-ltd-bengaluru-1-to-8-years-130826500615",
-    "source": "naukri",
-    "company": "Opentext",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826501962",
-    "title": "Medallia Developer",
-    "url": "https://www.naukri.com/job-listings-medallia-developer-siemens-healthcare-bengaluru-1-to-12-years-130826501962",
-    "source": "naukri",
-    "company": "Siemens Healthcare",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826500926",
-    "title": "Ignition Developer",
-    "url": "https://www.naukri.com/job-listings-ignition-developer-birlasoft-india-limited-pune-0-to-4-years-130826500926",
-    "source": "naukri",
-    "company": "Birlasoft",
-    "location": "Pune",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826500660",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-130826500660",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826500659",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-4-years-130826500659",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826500623",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-schneider-electric-india-pvt-ltd-bengaluru-1-to-5-years-130826500623",
-    "source": "naukri",
-    "company": "Schneider Electric",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826501083",
-    "title": "CPU Post Si Validation Engineer(Power and Performance)",
-    "url": "https://www.naukri.com/job-listings-cpu-post-si-validation-engineer-power-and-performance-advanced-micro-devices-inc-bengaluru-0-to-7-years-130826501083",
-    "source": "naukri",
-    "company": "Advanced Micro Devices (AMD)",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "130826500241",
-    "title": "Webflow Developer",
-    "url": "https://www.naukri.com/job-listings-webflow-developer-vibrant-info-bengaluru-1-to-4-years-130826500241",
-    "source": "naukri",
-    "company": "Vibrant Info",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-13T12:15:14.005321+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
