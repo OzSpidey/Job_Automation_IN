@@ -37,5 +37,25 @@
     "location": "Ahmedabad",
     "queued_at": "2026-08-13T06:15:21.230526+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "130826916109",
+    "title": "Software Developer-Infovista",
+    "url": "https://www.naukri.com/job-listings-software-developer-infovista-capgemini-technology-services-india-limited-pune-0-to-5-years-130826916109",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Pune",
+    "queued_at": "2026-08-13T08:15:06.193295+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "130826015234",
+    "title": "Tririga Analyst / Consultant / Manager",
+    "url": "https://www.naukri.com/job-listings-tririga-analyst-consultant-manager-deloitte-us-india-offices-hyderabad-pune-bengaluru-1-to-12-years-130826015234",
+    "source": "naukri",
+    "company": "Deloitte US-India Offices",
+    "location": "Hyderabad, Pune, Bengaluru",
+    "queued_at": "2026-08-13T08:15:06.193295+00:00",
+    "status": "queued"
   }
 ]
