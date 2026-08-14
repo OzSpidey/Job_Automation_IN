@@ -2243,5 +2243,38 @@
     "queued_at": "2026-08-14T08:15:09.217775+00:00",
     "status": "applied",
     "applied_at": "2026-08-14T08:16:08.404748+00:00"
+  },
+  {
+    "job_id": "140826028112",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-indian-register-of-shipping-mumbai-0-to-2-years-140826028112",
+    "source": "naukri",
+    "company": "Indian Register of Shipping",
+    "location": "Mumbai(Powai)",
+    "queued_at": "2026-08-14T12:15:26.981460+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-14T12:17:30.774231+00:00"
+  },
+  {
+    "job_id": "140826023342",
+    "title": "Engineer - Transformer",
+    "url": "https://www.naukri.com/job-listings-engineer-transformer-regen-powertech-tada-0-to-1-years-140826023342",
+    "source": "naukri",
+    "company": "Regen Powertech",
+    "location": "Tada",
+    "queued_at": "2026-08-14T12:15:26.981460+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-14T12:18:11.142599+00:00"
+  },
+  {
+    "job_id": "140826023069",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-regen-powertech-tada-0-to-1-years-140826023069",
+    "source": "naukri",
+    "company": "Regen Powertech",
+    "location": "Tada",
+    "queued_at": "2026-08-14T12:15:26.981460+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-14T12:18:21.026750+00:00"
   }
 ]
