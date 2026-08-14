@@ -51,5 +51,85 @@
     "level": "Early",
     "queued_at": "2026-08-10T16:01:28.657865+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "140826500430",
+    "title": "NetDevOps Engineer",
+    "url": "https://www.naukri.com/job-listings-netdevops-engineer-caci-international-inc-pune-1-to-4-years-140826500430",
+    "source": "naukri",
+    "company": "Caci International",
+    "location": "Pune",
+    "queued_at": "2026-08-14T10:15:21.711632+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "140826501150",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-ernst-young-noida-1-to-2-years-140826501150",
+    "source": "naukri",
+    "company": "EY",
+    "location": "Noida",
+    "queued_at": "2026-08-14T10:15:21.711632+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "140826500611",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mumbai-0-to-4-years-140826500611",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mumbai",
+    "queued_at": "2026-08-14T10:15:21.711632+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "140826500609",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-4-years-140826500609",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-08-14T10:15:21.711632+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "140826500606",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mohali-0-to-4-years-140826500606",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mohali",
+    "queued_at": "2026-08-14T10:15:21.711632+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "140826500602",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-140826500602",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-08-14T10:15:21.711632+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "140826017986",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-dynpro-hyderabad-1-to-4-years-140826017986",
+    "source": "naukri",
+    "company": "Dynpro",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-14T10:15:21.711632+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "140826914871",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-opentext-technologies-india-pvt-ltd-bengaluru-1-to-6-years-140826914871",
+    "source": "naukri",
+    "company": "Opentext",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-14T10:15:21.711632+00:00",
+    "status": "queued"
   }
 ]
