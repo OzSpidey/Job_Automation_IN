@@ -7,5 +7,65 @@
     "level": "Early",
     "queued_at": "2026-08-10T16:01:28.657865+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "140826914871",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-opentext-technologies-india-pvt-ltd-bengaluru-1-to-6-years-140826914871",
+    "source": "naukri",
+    "company": "Opentext",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-14T08:15:09.217775+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "140826017116",
+    "title": "Fresher Engineer",
+    "url": "https://www.naukri.com/job-listings-fresher-engineer-supremesofttech-solutions-bengaluru-0-to-1-years-140826017116",
+    "source": "naukri",
+    "company": "Supremesofttech Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-14T08:15:09.217775+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "140826016937",
+    "title": "Analyst GD - VMG",
+    "url": "https://www.naukri.com/job-listings-analyst-gd-vmg-eclerx-coimbatore-0-to-2-years-140826016937",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Coimbatore",
+    "queued_at": "2026-08-14T08:15:09.217775+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "140826015567",
+    "title": "Tech & Digital-Sr Database Engineer",
+    "url": "https://www.naukri.com/job-listings-tech-digital-sr-database-engineer-hdfc-bank-bengaluru-0-to-1-years-140826015567",
+    "source": "naukri",
+    "company": "Hdfc Bank",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-14T08:15:09.217775+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "140826010062",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-hughes-systique-delhi-ncr-1-to-3-years-140826010062",
+    "source": "naukri",
+    "company": "Hughes Systique",
+    "location": "Delhi / NCR",
+    "queued_at": "2026-08-14T08:15:09.217775+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "140826000030",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-mohali-0-to-2-years-140826000030",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mohali",
+    "queued_at": "2026-08-14T08:15:09.217775+00:00",
+    "status": "queued"
   }
 ]
