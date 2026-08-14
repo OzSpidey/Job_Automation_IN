@@ -7,16 +7,5 @@
     "level": "Early",
     "queued_at": "2026-08-10T16:01:28.657865+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "140826000030",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-mohali-0-to-2-years-140826000030",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Mohali",
-    "queued_at": "2026-08-13T20:15:28.633000+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
