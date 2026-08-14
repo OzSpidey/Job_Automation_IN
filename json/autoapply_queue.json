@@ -1,5 +1,14 @@
 [
   {
+    "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
+    "title": "Software Engineer II",
+    "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
+    "source": "google",
+    "level": "Early",
+    "queued_at": "2026-08-10T16:01:28.657865+00:00",
+    "status": "queued"
+  },
+  {
     "job_id": "140826016937",
     "title": "Analyst GD - VMG",
     "url": "https://www.naukri.com/job-listings-analyst-gd-vmg-eclerx-coimbatore-0-to-2-years-140826016937",
@@ -8,7 +17,7 @@
     "location": "Coimbatore",
     "queued_at": "2026-08-14T08:15:09.217775+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "140826015567",
@@ -19,7 +28,7 @@
     "location": "Bengaluru",
     "queued_at": "2026-08-14T08:15:09.217775+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "140826010062",
@@ -30,7 +39,7 @@
     "location": "Delhi / NCR",
     "queued_at": "2026-08-14T08:15:09.217775+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "140826000030",
@@ -41,76 +50,7 @@
     "location": "Mohali",
     "queued_at": "2026-08-14T08:15:09.217775+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
-    "title": "Software Engineer II",
-    "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
-    "source": "google",
-    "level": "Early",
-    "queued_at": "2026-08-10T16:01:28.657865+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "140826500430",
-    "title": "NetDevOps Engineer",
-    "url": "https://www.naukri.com/job-listings-netdevops-engineer-caci-international-inc-pune-1-to-4-years-140826500430",
-    "source": "naukri",
-    "company": "Caci International",
-    "location": "Pune",
-    "queued_at": "2026-08-14T10:15:21.711632+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "140826501150",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-ernst-young-noida-1-to-2-years-140826501150",
-    "source": "naukri",
-    "company": "EY",
-    "location": "Noida",
-    "queued_at": "2026-08-14T10:15:21.711632+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "140826500611",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mumbai-0-to-4-years-140826500611",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Mumbai",
-    "queued_at": "2026-08-14T10:15:21.711632+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "140826500609",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-4-years-140826500609",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-08-14T10:15:21.711632+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "140826500606",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mohali-0-to-4-years-140826500606",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Mohali",
-    "queued_at": "2026-08-14T10:15:21.711632+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "140826500602",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-140826500602",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-08-14T10:15:21.711632+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "140826017986",
@@ -120,16 +60,7 @@
     "company": "Dynpro",
     "location": "Hyderabad",
     "queued_at": "2026-08-14T10:15:21.711632+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "140826914871",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-opentext-technologies-india-pvt-ltd-bengaluru-1-to-6-years-140826914871",
-    "source": "naukri",
-    "company": "Opentext",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-14T10:15:21.711632+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
