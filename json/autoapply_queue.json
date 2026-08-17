@@ -29,5 +29,75 @@
     "level": "Early",
     "queued_at": "2026-08-10T16:01:28.657865+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "170826500260",
+    "title": "Next.js Engineer",
+    "url": "https://www.naukri.com/job-listings-next-js-engineer-branditify-remote-1-to-4-years-170826500260",
+    "source": "naukri",
+    "company": "Branditify",
+    "location": "Remote",
+    "queued_at": "2026-08-17T10:15:13.198304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170826012775",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-genxhire-services-jamnagar-0-to-4-years-170826012775",
+    "source": "naukri",
+    "company": "Genxhire Services",
+    "location": "Jamnagar",
+    "queued_at": "2026-08-17T10:15:13.198304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170826500301",
+    "title": "Frond end Developer",
+    "url": "https://www.naukri.com/job-listings-frond-end-developer-concoct-human-resource-practioners-india-pvt-ltd-hyderabad-1-to-5-years-170826500301",
+    "source": "naukri",
+    "company": "Concoct Human Resource Practitioners",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-17T10:15:13.198304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170826500287",
+    "title": "Webflow / Framer Developer",
+    "url": "https://www.naukri.com/job-listings-webflow-framer-developer-branditify-remote-1-to-4-years-170826500287",
+    "source": "naukri",
+    "company": "Branditify",
+    "location": "Remote",
+    "queued_at": "2026-08-17T10:15:13.198304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170826011558",
+    "title": "T&D engineer",
+    "url": "https://www.naukri.com/job-listings-t-d-engineer-lead-hr-services-hosur-krishnagiri-bengaluru-1-to-6-years-170826011558",
+    "source": "naukri",
+    "company": "LEAD HR Services Pvt. Ltd.,",
+    "location": "Hosur, Krishnagiri, Bengaluru",
+    "queued_at": "2026-08-17T10:15:13.198304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170826007642",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-abt-ahmedabad-0-to-1-years-170826007642",
+    "source": "naukri",
+    "company": "ABT",
+    "location": "Ahmedabad",
+    "queued_at": "2026-08-17T10:15:13.198304+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170826910900",
+    "title": "S&C GN - SC&O - S&P - RSVC - Analyst",
+    "url": "https://www.naukri.com/job-listings-s-c-gn-sc-o-s-p-rsvc-analyst-accenture-solutions-pvt-ltd-gurugram-1-to-3-years-170826910900",
+    "source": "naukri",
+    "company": "Accenture",
+    "location": "Gurugram",
+    "queued_at": "2026-08-17T10:15:13.198304+00:00",
+    "status": "queued"
   }
 ]
