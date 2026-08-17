@@ -7,5 +7,35 @@
     "level": "Early",
     "queued_at": "2026-08-10T16:01:28.657865+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "170826002402",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-170826002402",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-08-17T06:15:09.324101+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "071125003776",
+    "title": "B.Tech/BE Engineer(ME, B.E., EE, ECE)-Core Engineering Job",
+    "url": "https://www.naukri.com/job-listings-b-tech-be-engineer-me-b-e-ee-ece-core-engineering-neometrix-defence-limited-kochi-0-to-5-years-071125003776",
+    "source": "naukri",
+    "company": "Neometrix Defence",
+    "location": "Kochi",
+    "queued_at": "2026-08-17T06:15:09.324101+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170826002619",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-170826002619",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-08-17T06:15:09.324101+00:00",
+    "status": "queued"
   }
 ]
