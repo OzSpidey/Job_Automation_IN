@@ -1,5 +1,14 @@
 [
   {
+    "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
+    "title": "Software Engineer II",
+    "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
+    "source": "google",
+    "level": "Early",
+    "queued_at": "2026-08-10T16:01:28.657865+00:00",
+    "status": "queued"
+  },
+  {
     "job_id": "150626027105",
     "title": "Walk-in drive For Bio medical Engineers (Freshers)",
     "url": "https://www.naukri.com/job-listings-walk-in-drive-for-bio-medical-engineers-freshers-access-healthcare-chennai-0-to-3-years-150626027105",
@@ -8,7 +17,7 @@
     "location": "",
     "queued_at": "2026-08-17T08:15:09.028310+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "170826006021",
@@ -19,26 +28,7 @@
     "location": "Mumbai (All Areas)(Malad West)",
     "queued_at": "2026-08-17T08:15:09.028310+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
-    "title": "Software Engineer II",
-    "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
-    "source": "google",
-    "level": "Early",
-    "queued_at": "2026-08-10T16:01:28.657865+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "170826500260",
-    "title": "Next.js Engineer",
-    "url": "https://www.naukri.com/job-listings-next-js-engineer-branditify-remote-1-to-4-years-170826500260",
-    "source": "naukri",
-    "company": "Branditify",
-    "location": "Remote",
-    "queued_at": "2026-08-17T10:15:13.198304+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "170826012775",
@@ -48,27 +38,8 @@
     "company": "Genxhire Services",
     "location": "Jamnagar",
     "queued_at": "2026-08-17T10:15:13.198304+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "170826500301",
-    "title": "Frond end Developer",
-    "url": "https://www.naukri.com/job-listings-frond-end-developer-concoct-human-resource-practioners-india-pvt-ltd-hyderabad-1-to-5-years-170826500301",
-    "source": "naukri",
-    "company": "Concoct Human Resource Practitioners",
-    "location": "Hyderabad",
-    "queued_at": "2026-08-17T10:15:13.198304+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "170826500287",
-    "title": "Webflow / Framer Developer",
-    "url": "https://www.naukri.com/job-listings-webflow-framer-developer-branditify-remote-1-to-4-years-170826500287",
-    "source": "naukri",
-    "company": "Branditify",
-    "location": "Remote",
-    "queued_at": "2026-08-17T10:15:13.198304+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826011558",
@@ -78,7 +49,8 @@
     "company": "LEAD HR Services Pvt. Ltd.,",
     "location": "Hosur, Krishnagiri, Bengaluru",
     "queued_at": "2026-08-17T10:15:13.198304+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826007642",
@@ -88,16 +60,7 @@
     "company": "ABT",
     "location": "Ahmedabad",
     "queued_at": "2026-08-17T10:15:13.198304+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "170826910900",
-    "title": "S&C GN - SC&O - S&P - RSVC - Analyst",
-    "url": "https://www.naukri.com/job-listings-s-c-gn-sc-o-s-p-rsvc-analyst-accenture-solutions-pvt-ltd-gurugram-1-to-3-years-170826910900",
-    "source": "naukri",
-    "company": "Accenture",
-    "location": "Gurugram",
-    "queued_at": "2026-08-17T10:15:13.198304+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
