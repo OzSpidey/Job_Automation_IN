@@ -16,27 +16,8 @@
     "company": "Access Healthcare",
     "location": "",
     "queued_at": "2026-08-17T08:15:09.028310+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "170826009061",
-    "title": "Hplc Analysts",
-    "url": "https://www.naukri.com/job-listings-hplc-analysts-catalysts-bio-technologies-kolkata-0-to-3-years-170826009061",
-    "source": "naukri",
-    "company": "Catalysts Bio Technologies",
-    "location": "Kolkata",
-    "queued_at": "2026-08-17T08:15:09.028310+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "170826006344",
-    "title": "XHQ Developer",
-    "url": "https://www.naukri.com/job-listings-xhq-developer-prolim-bengaluru-0-to-1-years-170826006344",
-    "source": "naukri",
-    "company": "Prolim",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-17T08:15:09.028310+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826006021",
@@ -46,6 +27,7 @@
     "company": "Cyber Managers Software Services",
     "location": "Mumbai (All Areas)(Malad West)",
     "queued_at": "2026-08-17T08:15:09.028310+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
