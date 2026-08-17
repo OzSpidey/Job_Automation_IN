@@ -2408,5 +2408,49 @@
     "queued_at": "2026-08-17T14:15:06.806123+00:00",
     "status": "applied",
     "applied_at": "2026-08-17T14:17:53.438572+00:00"
+  },
+  {
+    "job_id": "170826034086",
+    "title": "Production Engineer(Fresher)",
+    "url": "https://www.naukri.com/job-listings-production-engineer-fresher-sunbrilo-technology-pune-0-to-3-years-170826034086",
+    "source": "naukri",
+    "company": "Sunbrilo Technology",
+    "location": "Pune",
+    "queued_at": "2026-08-17T16:15:03.943692+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-17T16:16:37.200123+00:00"
+  },
+  {
+    "job_id": "170826925790",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-arshil-hyderabad-1-to-5-years-170826925790",
+    "source": "naukri",
+    "company": "Arshil Llc",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-17T16:15:03.943692+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-17T16:17:26.644577+00:00"
+  },
+  {
+    "job_id": "170826925427",
+    "title": "Structural Engineer Freshers",
+    "url": "https://www.naukri.com/job-listings-structural-engineer-freshers-brownsofts-llc-kaliyakkavilai-0-to-1-years-170826925427",
+    "source": "naukri",
+    "company": "Brownsofts",
+    "location": "Kaliyakkavilai",
+    "queued_at": "2026-08-17T16:15:03.943692+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-17T16:17:45.379092+00:00"
+  },
+  {
+    "job_id": "170826924675",
+    "title": "Venture Analyst",
+    "url": "https://www.naukri.com/job-listings-venture-analyst-bolstart-pune-1-to-2-years-170826924675",
+    "source": "naukri",
+    "company": "Bolstart",
+    "location": "Pune",
+    "queued_at": "2026-08-17T16:15:03.943692+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-17T16:18:08.177348+00:00"
   }
 ]
