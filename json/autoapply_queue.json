@@ -7,5 +7,15 @@
     "level": "Early",
     "queued_at": "2026-08-10T16:01:28.657865+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "170826000114",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-ignitefortune-tech-pune-0-to-1-years-170826000114",
+    "source": "naukri",
+    "company": "Ignitefortune Tech",
+    "location": "Remote",
+    "queued_at": "2026-08-17T04:15:05.585568+00:00",
+    "status": "queued"
   }
 ]
