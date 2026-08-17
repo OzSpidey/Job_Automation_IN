@@ -9,39 +9,6 @@
     "status": "queued"
   },
   {
-    "job_id": "170826029739",
-    "title": "C & C++ Developer",
-    "url": "https://www.naukri.com/job-listings-c-c-developer-smart-analytica-mumbai-1-to-4-years-170826029739",
-    "source": "naukri",
-    "company": "Smart Analytica",
-    "location": "Mumbai",
-    "queued_at": "2026-08-17T14:15:06.806123+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "300726032136",
-    "title": "BSP Engineer",
-    "url": "https://www.naukri.com/job-listings-bsp-engineer-sunrise-biztech-systems-chennai-1-to-6-years-300726032136",
-    "source": "naukri",
-    "company": "Sunrise Biztech Systems",
-    "location": "Chennai",
-    "queued_at": "2026-08-17T14:15:06.806123+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "150626027105",
-    "title": "Walk-in drive For Bio medical Engineers (Freshers)",
-    "url": "https://www.naukri.com/job-listings-walk-in-drive-for-bio-medical-engineers-freshers-access-healthcare-chennai-0-to-3-years-150626027105",
-    "source": "naukri",
-    "company": "Access Healthcare",
-    "location": "",
-    "queued_at": "2026-08-17T14:15:06.806123+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "170826012775",
     "title": "Engineer",
     "url": "https://www.naukri.com/job-listings-engineer-genxhire-services-jamnagar-0-to-4-years-170826012775",
@@ -50,7 +17,7 @@
     "location": "Jamnagar",
     "queued_at": "2026-08-17T16:15:03.943692+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "170826011558",
@@ -61,7 +28,7 @@
     "location": "Hosur, Krishnagiri, Bengaluru",
     "queued_at": "2026-08-17T16:15:03.943692+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "170826928170",
@@ -71,7 +38,8 @@
     "company": "Accenture",
     "location": "Bengaluru",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826926289",
@@ -81,7 +49,8 @@
     "company": "Accenture",
     "location": "Bengaluru",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826501804",
@@ -91,7 +60,8 @@
     "company": "Barclays",
     "location": "Pune",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826501800",
@@ -101,7 +71,8 @@
     "company": "Barclays",
     "location": "Pune",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826500814",
@@ -111,7 +82,8 @@
     "company": "Humd",
     "location": "Kanpur",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826502093",
@@ -121,7 +93,8 @@
     "company": "Texas Instruments",
     "location": "Hyderabad, Bengaluru",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826501493",
@@ -131,7 +104,8 @@
     "company": "Cognitio Infotech",
     "location": "Bhopal",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826501409",
@@ -141,7 +115,8 @@
     "company": "JB Arrowstar Solutions",
     "location": "Bengaluru",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826501494",
@@ -151,7 +126,8 @@
     "company": "Cognitio Infotech",
     "location": "Bhopal",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826503493",
@@ -161,7 +137,8 @@
     "company": "Techvalens",
     "location": "Indore",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826500694",
@@ -171,7 +148,8 @@
     "company": "ValuePoint",
     "location": "Kolkata",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826501367",
@@ -181,7 +159,8 @@
     "company": "Iflow",
     "location": "Mumbai",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826500260",
@@ -191,7 +170,8 @@
     "company": "Branditify",
     "location": "Remote",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826503700",
@@ -201,7 +181,8 @@
     "company": "Bitqcode Capital",
     "location": "Bengaluru",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826503699",
@@ -211,7 +192,8 @@
     "company": "Bitqcode Capital",
     "location": "Mumbai",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826910900",
@@ -221,7 +203,8 @@
     "company": "Accenture",
     "location": "Gurugram",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826504087",
@@ -231,7 +214,8 @@
     "company": "eClerx",
     "location": "Pune",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826503933",
@@ -241,7 +225,8 @@
     "company": "Nomura",
     "location": "Mumbai",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826503091",
@@ -251,7 +236,8 @@
     "company": "EY",
     "location": "Mumbai",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826502117",
@@ -261,7 +247,8 @@
     "company": "eClerx",
     "location": "Pune",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826502116",
@@ -271,7 +258,8 @@
     "company": "eClerx",
     "location": "Coimbatore",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "170826502022",
@@ -281,6 +269,7 @@
     "company": "Zensar",
     "location": "Pune",
     "queued_at": "2026-08-17T18:14:59.636102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
