@@ -2474,5 +2474,27 @@
     "queued_at": "2026-08-18T06:15:25.609521+00:00",
     "status": "applied",
     "applied_at": "2026-08-18T06:26:52.426446+00:00"
+  },
+  {
+    "job_id": "070126026286",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-medpace-clinical-research-india-navi-mumbai-0-to-1-years-070126026286",
+    "source": "naukri",
+    "company": "Medpace Clinical Research India",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-08-18T08:15:17.756850+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-18T08:16:50.580417+00:00"
+  },
+  {
+    "job_id": "180826016830",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-aaron-software-solutions-pvt-ltd-hyderabad-0-to-1-years-180826016830",
+    "source": "naukri",
+    "company": "Aaron software Solutions Pvt Ltd",
+    "location": "Hyderabad(RTC X Road)",
+    "queued_at": "2026-08-18T08:15:17.756850+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-18T08:17:00.469679+00:00"
   }
 ]
