@@ -2452,5 +2452,27 @@
     "queued_at": "2026-08-17T16:15:03.943692+00:00",
     "status": "applied",
     "applied_at": "2026-08-17T16:18:08.177348+00:00"
+  },
+  {
+    "job_id": "180826013288",
+    "title": "OPenBMC Engineer",
+    "url": "https://www.naukri.com/job-listings-openbmc-engineer-american-megatrends-chennai-1-to-6-years-180826013288",
+    "source": "naukri",
+    "company": "American Megatrends",
+    "location": "Chennai",
+    "queued_at": "2026-08-18T06:15:25.609521+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-18T06:26:42.699342+00:00"
+  },
+  {
+    "job_id": "180826012627",
+    "title": "UEFI Bios- Developer",
+    "url": "https://www.naukri.com/job-listings-uefi-bios-developer-american-megatrends-chennai-1-to-6-years-180826012627",
+    "source": "naukri",
+    "company": "American Megatrends",
+    "location": "Chennai",
+    "queued_at": "2026-08-18T06:15:25.609521+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-18T06:26:52.426446+00:00"
   }
 ]
