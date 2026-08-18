@@ -1,71 +1,5 @@
 [
   {
-    "job_id": "180826012817",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-pramanique-fintech-private-limited-vijayawada-1-to-3-years-180826012817",
-    "source": "naukri",
-    "company": "Pramanique Fintech",
-    "location": "Vijayawada",
-    "queued_at": "2026-08-18T06:15:25.609521+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "180826013909",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-180826013909",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-08-18T06:15:25.609521+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "180826017299",
-    "title": "Fullstack Software Developer",
-    "url": "https://www.naukri.com/job-listings-fullstack-software-developer-fareportal-pune-0-to-3-years-180826017299",
-    "source": "naukri",
-    "company": "Fareportal",
-    "location": "Hybrid - Pune",
-    "queued_at": "2026-08-18T08:15:17.756850+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "180826019173",
-    "title": "T&D engineer",
-    "url": "https://www.naukri.com/job-listings-t-d-engineer-lead-hr-services-hosur-krishnagiri-bengaluru-1-to-6-years-180826019173",
-    "source": "naukri",
-    "company": "Lead Hr Services",
-    "location": "Hosur, Krishnagiri, Bengaluru",
-    "queued_at": "2026-08-18T08:15:17.756850+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "180826014453",
-    "title": "Walk-in || Analyst-Fulfilment",
-    "url": "https://www.naukri.com/job-listings-analyst-fulfilment-sakon-pune-1-to-3-years-180826014453",
-    "source": "naukri",
-    "company": "Sakon",
-    "location": "",
-    "queued_at": "2026-08-18T08:15:17.756850+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "180826913415",
-    "title": "ERPNext Python Developer",
-    "url": "https://www.naukri.com/job-listings-erpnext-python-developer-klaimify-private-limited-raipur-1-to-3-years-180826913415",
-    "source": "naukri",
-    "company": "Klaimify",
-    "location": "Raipur",
-    "queued_at": "2026-08-18T08:15:17.756850+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -84,6 +18,50 @@
     "status": "queued"
   },
   {
+    "job_id": "180826017299",
+    "title": "Fullstack Software Developer",
+    "url": "https://www.naukri.com/job-listings-fullstack-software-developer-fareportal-pune-0-to-3-years-180826017299",
+    "source": "naukri",
+    "company": "Fareportal",
+    "location": "Hybrid - Pune",
+    "queued_at": "2026-08-18T08:15:17.756850+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "180826019173",
+    "title": "T&D engineer",
+    "url": "https://www.naukri.com/job-listings-t-d-engineer-lead-hr-services-hosur-krishnagiri-bengaluru-1-to-6-years-180826019173",
+    "source": "naukri",
+    "company": "Lead Hr Services",
+    "location": "Hosur, Krishnagiri, Bengaluru",
+    "queued_at": "2026-08-18T08:15:17.756850+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "180826014453",
+    "title": "Walk-in || Analyst-Fulfilment",
+    "url": "https://www.naukri.com/job-listings-analyst-fulfilment-sakon-pune-1-to-3-years-180826014453",
+    "source": "naukri",
+    "company": "Sakon",
+    "location": "",
+    "queued_at": "2026-08-18T08:15:17.756850+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "180826913415",
+    "title": "ERPNext Python Developer",
+    "url": "https://www.naukri.com/job-listings-erpnext-python-developer-klaimify-private-limited-raipur-1-to-3-years-180826913415",
+    "source": "naukri",
+    "company": "Klaimify",
+    "location": "Raipur",
+    "queued_at": "2026-08-18T08:15:17.756850+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
     "job_id": "180826027617",
     "title": "Backend Developer/Tester",
     "url": "https://www.naukri.com/job-listings-backend-developer-tester-elevatecareer-ai-learning-solutions-hyderabad-0-to-2-years-180826027617",
@@ -91,17 +69,8 @@
     "company": "ElevateCareer.AI Learning Solutions",
     "location": "Hybrid - Hyderabad(Financial District)",
     "queued_at": "2026-08-18T10:15:19.956389+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "180826026164",
-    "title": "C++ -Linux Developer",
-    "url": "https://www.naukri.com/job-listings-c-linux-developer-american-megatrends-chennai-1-to-6-years-180826026164",
-    "source": "naukri",
-    "company": "American Megatrends",
-    "location": "Chennai",
-    "queued_at": "2026-08-18T10:15:19.956389+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "180826031100",
@@ -111,7 +80,8 @@
     "company": "m2nxt Solutions Pvt Ltd",
     "location": "Bengaluru",
     "queued_at": "2026-08-18T10:15:19.956389+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "180826025778",
@@ -121,97 +91,8 @@
     "company": "American Megatrends",
     "location": "Chennai",
     "queued_at": "2026-08-18T10:15:19.956389+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "180826919469",
-    "title": "GPS Service Engineer Technician - Freshers",
-    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-nagpur-0-to-1-years-180826919469",
-    "source": "naukri",
-    "company": "Leading Client",
-    "location": "Nagpur",
-    "queued_at": "2026-08-18T10:15:19.956389+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "180826919468",
-    "title": "GPS Service Engineer Technician - Freshers",
-    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-bhubaneswar-0-to-1-years-180826919468",
-    "source": "naukri",
-    "company": "Leading Client",
-    "location": "Bhubaneswar",
-    "queued_at": "2026-08-18T10:15:19.956389+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "180826919466",
-    "title": "GPS Service Engineer Technician - Freshers",
-    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-lucknow-0-to-1-years-180826919466",
-    "source": "naukri",
-    "company": "Leading Client",
-    "location": "Lucknow",
-    "queued_at": "2026-08-18T10:15:19.956389+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "180826919465",
-    "title": "GPS Service Engineer Technician - Freshers",
-    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-kochi-0-to-1-years-180826919465",
-    "source": "naukri",
-    "company": "Leading Client",
-    "location": "Kochi",
-    "queued_at": "2026-08-18T10:15:19.956389+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "180826919463",
-    "title": "GPS Service Engineer Technician - Freshers",
-    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-coimbatore-0-to-1-years-180826919463",
-    "source": "naukri",
-    "company": "Leading Client",
-    "location": "Coimbatore",
-    "queued_at": "2026-08-18T10:15:19.956389+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "180826919460",
-    "title": "GPS Service Engineer Technician - Freshers",
-    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-surat-0-to-1-years-180826919460",
-    "source": "naukri",
-    "company": "Leading Client",
-    "location": "Surat",
-    "queued_at": "2026-08-18T10:15:19.956389+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "180826919458",
-    "title": "GPS Service Engineer Technician - Freshers",
-    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-jaipur-0-to-1-years-180826919458",
-    "source": "naukri",
-    "company": "Leading Client",
-    "location": "Jaipur",
-    "queued_at": "2026-08-18T10:15:19.956389+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "180826919456",
-    "title": "GPS Service Engineer Technician - Freshers",
-    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-chandigarh-0-to-1-years-180826919456",
-    "source": "naukri",
-    "company": "Leading Client",
-    "location": "Chandigarh",
-    "queued_at": "2026-08-18T10:15:19.956389+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "180826919455",
-    "title": "GPS Service Engineer Technician - Freshers",
-    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-indore-0-to-1-years-180826919455",
-    "source": "naukri",
-    "company": "Leading Client",
-    "location": "Indore",
-    "queued_at": "2026-08-18T10:15:19.956389+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "180826919451",
