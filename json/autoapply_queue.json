@@ -82,5 +82,155 @@
     "level": "Early",
     "queued_at": "2026-08-17T22:01:14.196656+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "180826027617",
+    "title": "Backend Developer/Tester",
+    "url": "https://www.naukri.com/job-listings-backend-developer-tester-elevatecareer-ai-learning-solutions-hyderabad-0-to-2-years-180826027617",
+    "source": "naukri",
+    "company": "ElevateCareer.AI Learning Solutions",
+    "location": "Hybrid - Hyderabad(Financial District)",
+    "queued_at": "2026-08-18T10:15:19.956389+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826026164",
+    "title": "C++ -Linux Developer",
+    "url": "https://www.naukri.com/job-listings-c-linux-developer-american-megatrends-chennai-1-to-6-years-180826026164",
+    "source": "naukri",
+    "company": "American Megatrends",
+    "location": "Chennai",
+    "queued_at": "2026-08-18T10:15:19.956389+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826031100",
+    "title": "Mechatronics Developer",
+    "url": "https://www.naukri.com/job-listings-mechatronics-developer-m2nxt-solutions-pvt-ltd-bengaluru-1-to-3-years-180826031100",
+    "source": "naukri",
+    "company": "m2nxt Solutions Pvt Ltd",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-18T10:15:19.956389+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826025778",
+    "title": "Openbmc Developer",
+    "url": "https://www.naukri.com/job-listings-openbmc-developer-american-megatrends-chennai-1-to-10-years-180826025778",
+    "source": "naukri",
+    "company": "American Megatrends",
+    "location": "Chennai",
+    "queued_at": "2026-08-18T10:15:19.956389+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826919469",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-nagpur-0-to-1-years-180826919469",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Nagpur",
+    "queued_at": "2026-08-18T10:15:19.956389+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826919468",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-bhubaneswar-0-to-1-years-180826919468",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Bhubaneswar",
+    "queued_at": "2026-08-18T10:15:19.956389+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826919466",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-lucknow-0-to-1-years-180826919466",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Lucknow",
+    "queued_at": "2026-08-18T10:15:19.956389+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826919465",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-kochi-0-to-1-years-180826919465",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Kochi",
+    "queued_at": "2026-08-18T10:15:19.956389+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826919463",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-coimbatore-0-to-1-years-180826919463",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Coimbatore",
+    "queued_at": "2026-08-18T10:15:19.956389+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826919460",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-surat-0-to-1-years-180826919460",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Surat",
+    "queued_at": "2026-08-18T10:15:19.956389+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826919458",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-jaipur-0-to-1-years-180826919458",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Jaipur",
+    "queued_at": "2026-08-18T10:15:19.956389+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826919456",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-chandigarh-0-to-1-years-180826919456",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Chandigarh",
+    "queued_at": "2026-08-18T10:15:19.956389+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826919455",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-indore-0-to-1-years-180826919455",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Indore",
+    "queued_at": "2026-08-18T10:15:19.956389+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826919451",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-ahmedabad-0-to-1-years-180826919451",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Ahmedabad",
+    "queued_at": "2026-08-18T10:15:19.956389+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826919450",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-kolkata-0-to-1-years-180826919450",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Kolkata",
+    "queued_at": "2026-08-18T10:15:19.956389+00:00",
+    "status": "queued"
   }
 ]
