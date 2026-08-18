@@ -18,28 +18,6 @@
     "status": "queued"
   },
   {
-    "job_id": "130826920344",
-    "title": "Java Reactjs Developer",
-    "url": "https://www.naukri.com/job-listings-java-reactjs-developer-infosys-limited-bengaluru-1-to-5-years-130826920344",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-18T12:15:11.111492+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "180826012817",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-pramanique-fintech-private-limited-vijayawada-1-to-3-years-180826012817",
-    "source": "naukri",
-    "company": "Pramanique Fintech",
-    "location": "Vijayawada",
-    "queued_at": "2026-08-18T12:15:11.111492+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "180826044115",
     "title": "Hiring- Full stack developer",
     "url": "https://www.naukri.com/job-listings-hiring-full-stack-developer-xperlo-noida-0-to-1-years-180826044115",
@@ -48,7 +26,7 @@
     "location": "Noida(Sector 16)",
     "queued_at": "2026-08-18T14:15:13.862344+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "180826913415",
@@ -59,7 +37,7 @@
     "location": "Raipur",
     "queued_at": "2026-08-18T14:15:13.862344+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "180826017299",
@@ -70,6 +48,6 @@
     "location": "Hybrid - Pune",
     "queued_at": "2026-08-18T14:15:13.862344+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
