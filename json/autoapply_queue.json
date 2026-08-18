@@ -38,5 +38,65 @@
     "queued_at": "2026-08-18T06:15:25.609521+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "070126026286",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-medpace-clinical-research-india-navi-mumbai-0-to-1-years-070126026286",
+    "source": "naukri",
+    "company": "Medpace Clinical Research India",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-08-18T08:15:17.756850+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826016830",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-aaron-software-solutions-pvt-ltd-hyderabad-0-to-1-years-180826016830",
+    "source": "naukri",
+    "company": "Aaron software Solutions Pvt Ltd",
+    "location": "Hyderabad(RTC X Road)",
+    "queued_at": "2026-08-18T08:15:17.756850+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826017299",
+    "title": "Fullstack Software Developer",
+    "url": "https://www.naukri.com/job-listings-fullstack-software-developer-fareportal-pune-0-to-3-years-180826017299",
+    "source": "naukri",
+    "company": "Fareportal",
+    "location": "Hybrid - Pune",
+    "queued_at": "2026-08-18T08:15:17.756850+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826019173",
+    "title": "T&D engineer",
+    "url": "https://www.naukri.com/job-listings-t-d-engineer-lead-hr-services-hosur-krishnagiri-bengaluru-1-to-6-years-180826019173",
+    "source": "naukri",
+    "company": "Lead Hr Services",
+    "location": "Hosur, Krishnagiri, Bengaluru",
+    "queued_at": "2026-08-18T08:15:17.756850+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826014453",
+    "title": "Walk-in || Analyst-Fulfilment",
+    "url": "https://www.naukri.com/job-listings-analyst-fulfilment-sakon-pune-1-to-3-years-180826014453",
+    "source": "naukri",
+    "company": "Sakon",
+    "location": "",
+    "queued_at": "2026-08-18T08:15:17.756850+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826913415",
+    "title": "ERPNext Python Developer",
+    "url": "https://www.naukri.com/job-listings-erpnext-python-developer-klaimify-private-limited-raipur-1-to-3-years-180826913415",
+    "source": "naukri",
+    "company": "Klaimify",
+    "location": "Raipur",
+    "queued_at": "2026-08-18T08:15:17.756850+00:00",
+    "status": "queued"
   }
 ]
