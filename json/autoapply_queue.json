@@ -71,5 +71,305 @@
     "queued_at": "2026-08-18T12:15:11.111492+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "180826044115",
+    "title": "Hiring- Full stack developer",
+    "url": "https://www.naukri.com/job-listings-hiring-full-stack-developer-xperlo-noida-0-to-1-years-180826044115",
+    "source": "naukri",
+    "company": "Xperlo",
+    "location": "Noida(Sector 16)",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826501465",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-0-to-5-years-180826501465",
+    "source": "naukri",
+    "company": "Cisco",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826501461",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-0-to-5-years-180826501461",
+    "source": "naukri",
+    "company": "Cisco",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826503003",
+    "title": "C++ Software Engineer",
+    "url": "https://www.naukri.com/job-listings-c-software-engineer-citadel-securities-gurugram-0-to-5-years-180826503003",
+    "source": "naukri",
+    "company": "Citadel Securities",
+    "location": "Gurugram",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826503193",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-nosegay-public-school-kota-jaipur-bikaner-jodhpur-0-to-5-years-180826503193",
+    "source": "naukri",
+    "company": "Nosegay Public School",
+    "location": "Kota, Jaipur, Bikaner, Jodhpur",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826501637",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-dhl-indore-0-to-4-years-180826501637",
+    "source": "naukri",
+    "company": "DHL Supply Chain",
+    "location": "Indore",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826503421",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-barclays-shared-services-pune-0-to-7-years-180826503421",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826504586",
+    "title": "Software Development Engineer",
+    "url": "https://www.naukri.com/job-listings-software-development-engineer-texas-instruments-india-ltd-bengaluru-0-to-2-years-180826504586",
+    "source": "naukri",
+    "company": "Texas Instruments",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826503674",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-cied-technologies-pvt-ltd-kochi-1-to-6-years-180826503674",
+    "source": "naukri",
+    "company": "Cied Technologies",
+    "location": "Kochi",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826503247",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-ideas-to-impacts-innovations-pvt-ltd-pune-0-to-5-years-180826503247",
+    "source": "naukri",
+    "company": "Ideas To Impacts Innovation",
+    "location": "Pune",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826503847",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-gebbs-healthcare-solutions-pvt-ltd-thane-1-to-6-years-180826503847",
+    "source": "naukri",
+    "company": "Gebbs Healthcare Solutions",
+    "location": "Thane",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826501385",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-bharat-rohan-airborne-innovations-private-limited-gurugram-0-to-1-years-180826501385",
+    "source": "naukri",
+    "company": "Bharatrohan",
+    "location": "Gurugram",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826503144",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-techno-softwares-jaipur-0-to-2-years-180826503144",
+    "source": "naukri",
+    "company": "Techno Softwares",
+    "location": "Jaipur",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826503233",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-hca-healthcare-hyderabad-0-to-5-years-180826503233",
+    "source": "naukri",
+    "company": "HCA Healthcare Uk",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826504452",
+    "title": "C, C++ developer",
+    "url": "https://www.naukri.com/job-listings-c-c-developer-transunion-bengaluru-0-to-2-years-180826504452",
+    "source": "naukri",
+    "company": "Transunion",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826501124",
+    "title": "Senior Developer, Application Software Developer",
+    "url": "https://www.naukri.com/job-listings-senior-developer-application-software-developer-western-digital-bengaluru-0-to-2-years-180826501124",
+    "source": "naukri",
+    "company": "Western Digital",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826503287",
+    "title": "Associate Software Developer - MWP Applications",
+    "url": "https://www.naukri.com/job-listings-associate-software-developer-mwp-applications-value-point-systems-kolkata-0-to-1-years-180826503287",
+    "source": "naukri",
+    "company": "ValuePoint",
+    "location": "Kolkata",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826502984",
+    "title": "Associate Software Developer - MWP Applications",
+    "url": "https://www.naukri.com/job-listings-associate-software-developer-mwp-applications-value-point-systems-kolkata-0-to-1-years-180826502984",
+    "source": "naukri",
+    "company": "ValuePoint",
+    "location": "Kolkata",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826503598",
+    "title": "Sound Engineering & Editing Professional",
+    "url": "https://www.naukri.com/job-listings-sound-engineering-editing-professional-sai-institutes-chennai-1-to-4-years-180826503598",
+    "source": "naukri",
+    "company": "Sai Institutions",
+    "location": "Chennai",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826503537",
+    "title": "Analyst, Growth",
+    "url": "https://www.naukri.com/job-listings-analyst-growth-toddle-bengaluru-1-to-3-years-180826503537",
+    "source": "naukri",
+    "company": "Toddle",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826503312",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eih-limited-gurugram-1-to-3-years-180826503312",
+    "source": "naukri",
+    "company": "East India Hotels (EIH)",
+    "location": "Gurugram",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826503811",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-4-years-180826503811",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826503810",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-180826503810",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826503002",
+    "title": "Systematic Trader",
+    "url": "https://www.naukri.com/job-listings-systematic-trader-citadel-securities-gurugram-0-to-5-years-180826503002",
+    "source": "naukri",
+    "company": "Citadel Securities",
+    "location": "Gurugram",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826501657",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-jones-lang-lasalle-bengaluru-0-to-5-years-180826501657",
+    "source": "naukri",
+    "company": "Jones Lang LaSalle (JLL)",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826501105",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-barclays-shared-services-pune-1-to-10-years-180826501105",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826500429",
+    "title": "Conversational Developer",
+    "url": "https://www.naukri.com/job-listings-conversational-developer-dazn-group-hyderabad-1-to-4-years-180826500429",
+    "source": "naukri",
+    "company": "DAZN",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826500380",
+    "title": "GenAI Developer",
+    "url": "https://www.naukri.com/job-listings-genai-developer-zensar-technologies-pune-0-to-4-years-180826500380",
+    "source": "naukri",
+    "company": "Zensar",
+    "location": "Pune",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826913415",
+    "title": "ERPNext Python Developer",
+    "url": "https://www.naukri.com/job-listings-erpnext-python-developer-klaimify-private-limited-raipur-1-to-3-years-180826913415",
+    "source": "naukri",
+    "company": "Klaimify",
+    "location": "Raipur",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826017299",
+    "title": "Fullstack Software Developer",
+    "url": "https://www.naukri.com/job-listings-fullstack-software-developer-fareportal-pune-0-to-3-years-180826017299",
+    "source": "naukri",
+    "company": "Fareportal",
+    "location": "Hybrid - Pune",
+    "queued_at": "2026-08-18T14:15:13.862344+00:00",
+    "status": "queued"
   }
 ]
