@@ -25,7 +25,8 @@
     "company": "Thyrocare",
     "location": "Bengaluru",
     "queued_at": "2026-08-19T10:20:13.852925+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "190826020286",
@@ -35,17 +36,8 @@
     "company": "Hummingbrains Technologies",
     "location": "Bengaluru",
     "queued_at": "2026-08-19T10:20:13.852925+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826023838",
-    "title": "Quant Developer",
-    "url": "https://www.naukri.com/job-listings-quant-developer-value-research-noida-0-to-3-years-190826023838",
-    "source": "naukri",
-    "company": "Value Research",
-    "location": "Noida",
-    "queued_at": "2026-08-19T10:20:13.852925+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "190826023430",
@@ -55,17 +47,8 @@
     "company": "Omnicom Global Solutions",
     "location": "Bengaluru",
     "queued_at": "2026-08-19T10:20:13.852925+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826019083",
-    "title": "Engineer (Freshers)",
-    "url": "https://www.naukri.com/job-listings-engineer-freshers-ciel-hr-bengaluru-0-to-2-years-190826019083",
-    "source": "naukri",
-    "company": "CIEL HR",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-19T10:20:13.852925+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "190826017616",
@@ -75,16 +58,7 @@
     "company": "Orbit Technologies",
     "location": "",
     "queued_at": "2026-08-19T10:20:13.852925+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826014068",
-    "title": "Urgent requirements For Software Developer (fresher) - Chennai",
-    "url": "https://www.naukri.com/job-listings-urgent-requirements-for-software-developer-fresher-chennai-z-tech-solutions-chennai-0-to-1-years-190826014068",
-    "source": "naukri",
-    "company": "Z Tech Solutions",
-    "location": "Chennai",
-    "queued_at": "2026-08-19T10:20:13.852925+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
