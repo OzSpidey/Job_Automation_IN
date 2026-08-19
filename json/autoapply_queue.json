@@ -71,5 +71,15 @@
     "queued_at": "2026-08-19T18:15:21.853412+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "200826000310",
+    "title": "Adops - Analyst",
+    "url": "https://www.naukri.com/job-listings-adops-analyst-omnicom-global-solutions-bengaluru-1-to-3-years-200826000310",
+    "source": "naukri",
+    "company": "Omnicom Global Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-19T22:16:46.974777+00:00",
+    "status": "queued"
   }
 ]
