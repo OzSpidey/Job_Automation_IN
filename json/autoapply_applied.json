@@ -2738,5 +2738,71 @@
     "queued_at": "2026-08-19T12:17:15.622958+00:00",
     "status": "applied",
     "applied_at": "2026-08-19T12:20:53.940021+00:00"
+  },
+  {
+    "job_id": "190826036962",
+    "title": "Software Engineer at A FinTech Company",
+    "url": "https://www.naukri.com/job-listings-software-engineer-at-a-fintech-company-talentzo-delhi-bengaluru-0-to-3-years-190826036962",
+    "source": "naukri",
+    "company": "Talentzo Delhi",
+    "location": "Remote",
+    "queued_at": "2026-08-19T18:15:21.853412+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-19T18:17:42.940988+00:00"
+  },
+  {
+    "job_id": "190826931630",
+    "title": "MANAGER- LabVIEW SOFTWARE ENGINEER",
+    "url": "https://www.naukri.com/job-listings-manager-labview-software-engineer-te-connectivity-india-private-limited-bengaluru-0-to-5-years-190826931630",
+    "source": "naukri",
+    "company": "TE Connectivity",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-19T18:15:21.853412+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-19T18:18:46.293463+00:00"
+  },
+  {
+    "job_id": "190826931524",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-capgemini-technology-services-india-limited-mumbai-hyderabad-bengaluru-0-to-5-years-190826931524",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Mumbai, Hyderabad, Bengaluru",
+    "queued_at": "2026-08-19T18:15:21.853412+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-19T18:19:14.035028+00:00"
+  },
+  {
+    "job_id": "190826931753",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-grid-dynamics-private-limited-hyderabad-chennai-bengaluru-1-to-6-years-190826931753",
+    "source": "naukri",
+    "company": "Grid Dynamics",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-08-19T18:15:21.853412+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-19T18:19:23.861944+00:00"
+  },
+  {
+    "job_id": "190826931525",
+    "title": "C++ Developer",
+    "url": "https://www.naukri.com/job-listings-c-developer-capgemini-technology-services-india-limited-hyderabad-1-to-5-years-190826931525",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-19T18:15:21.853412+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-19T18:19:33.711666+00:00"
+  },
+  {
+    "job_id": "190826931547",
+    "title": "Azure.net Developer",
+    "url": "https://www.naukri.com/job-listings-azure-net-developer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-190826931547",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-19T18:15:21.853412+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-19T18:20:24.324506+00:00"
   }
 ]

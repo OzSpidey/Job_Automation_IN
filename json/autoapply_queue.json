@@ -1,49 +1,5 @@
 [
   {
-    "job_id": "190826027107",
-    "title": "QGIS Python Developer",
-    "url": "https://www.naukri.com/job-listings-qgis-python-developer-cyient-hyderabad-1-to-4-years-190826027107",
-    "source": "naukri",
-    "company": "Cyient",
-    "location": "Hyderabad",
-    "queued_at": "2026-08-19T12:17:15.622958+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "190826030378",
-    "title": "Embedded Firmware Engineer",
-    "url": "https://www.naukri.com/job-listings-embedded-firmware-engineer-aditya-sharad-ayachit-pune-1-to-3-years-190826030378",
-    "source": "naukri",
-    "company": "Aditya Sharad Ayachit",
-    "location": "Pune(Hinjawadi Village)",
-    "queued_at": "2026-08-19T12:17:15.622958+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "190826035738",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-axat-technologies-mumbai-all-areas-0-to-1-years-190826035738",
-    "source": "naukri",
-    "company": "Axat Technologies",
-    "location": "Remote",
-    "queued_at": "2026-08-19T14:15:13.786627+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "190826035094",
-    "title": "Project Field Engineer - Freshers",
-    "url": "https://www.naukri.com/job-listings-project-field-engineer-freshers-microlink-solution-bhopal-ahmedabad-bengaluru-0-to-2-years-190826035094",
-    "source": "naukri",
-    "company": "Microlink Solution",
-    "location": "Hybrid - Bhopal, Ahmedabad, Bengaluru",
-    "queued_at": "2026-08-19T14:15:13.786627+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -62,224 +18,26 @@
     "status": "queued"
   },
   {
-    "job_id": "190826036962",
-    "title": "Software Engineer at A FinTech Company",
-    "url": "https://www.naukri.com/job-listings-software-engineer-at-a-fintech-company-talentzo-delhi-bengaluru-0-to-3-years-190826036962",
+    "job_id": "190826035738",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-axat-technologies-mumbai-all-areas-0-to-1-years-190826035738",
     "source": "naukri",
-    "company": "Talentzo Delhi",
+    "company": "Axat Technologies",
     "location": "Remote",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
+    "queued_at": "2026-08-19T14:15:13.786627+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
-    "job_id": "190826504731",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-0-to-5-years-190826504731",
+    "job_id": "190826035094",
+    "title": "Project Field Engineer - Freshers",
+    "url": "https://www.naukri.com/job-listings-project-field-engineer-freshers-microlink-solution-bhopal-ahmedabad-bengaluru-0-to-2-years-190826035094",
     "source": "naukri",
-    "company": "Cisco",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826504715",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-comviva-technologies-limited-gurugram-0-to-3-years-190826504715",
-    "source": "naukri",
-    "company": "Comviva Technology",
-    "location": "Gurugram",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826503875",
-    "title": "Asp.Net Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-asp-net-full-stack-developer-prudent-corporate-advisory-services-ltd-ahmedabad-0-to-3-years-190826503875",
-    "source": "naukri",
-    "company": "Prudent Corporate",
-    "location": "Ahmedabad",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826504198",
-    "title": "BOQ Engineer (Entry Level)",
-    "url": "https://www.naukri.com/job-listings-boq-engineer-entry-level-perceptive-ideas-new-delhi-0-to-1-years-190826504198",
-    "source": "naukri",
-    "company": "Perceptive Ideas Org",
-    "location": "New Delhi",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826504750",
-    "title": "TCPS Analyst",
-    "url": "https://www.naukri.com/job-listings-tcps-analyst-american-express-india-gurugram-0-to-3-years-190826504750",
-    "source": "naukri",
-    "company": "AMERICAN EXPRESS",
-    "location": "Gurugram",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826504712",
-    "title": "OM Developer",
-    "url": "https://www.naukri.com/job-listings-om-developer-comviva-technologies-limited-bengaluru-0-to-3-years-190826504712",
-    "source": "naukri",
-    "company": "Comviva Technology",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826504710",
-    "title": "OM Developer",
-    "url": "https://www.naukri.com/job-listings-om-developer-comviva-technologies-limited-pune-0-to-3-years-190826504710",
-    "source": "naukri",
-    "company": "Comviva Technology",
-    "location": "Pune",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826504628",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mumbai-0-to-4-years-190826504628",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Mumbai",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826502521",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-barclays-shared-services-pune-0-to-7-years-190826502521",
-    "source": "naukri",
-    "company": "Barclays",
-    "location": "Pune",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826502918",
-    "title": "Software engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-mastercard-pune-0-to-7-years-190826502918",
-    "source": "naukri",
-    "company": "Mastercard",
-    "location": "Pune",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826503156",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-caterpillar-brazil-chennai-0-to-9-years-190826503156",
-    "source": "naukri",
-    "company": "Caterpillar Inc",
-    "location": "Chennai",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826503247",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-nomura-capital-india-private-limited-mumbai-0-to-4-years-190826503247",
-    "source": "naukri",
-    "company": "Nomura",
-    "location": "Mumbai",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826931630",
-    "title": "MANAGER- LabVIEW SOFTWARE ENGINEER",
-    "url": "https://www.naukri.com/job-listings-manager-labview-software-engineer-te-connectivity-india-private-limited-bengaluru-0-to-5-years-190826931630",
-    "source": "naukri",
-    "company": "TE Connectivity",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826503741",
-    "title": "SDE",
-    "url": "https://www.naukri.com/job-listings-sde-black-panda-enterprises-pune-1-to-4-years-190826503741",
-    "source": "naukri",
-    "company": "Black Panda Enterprises",
-    "location": "Pune",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826502949",
-    "title": "Site Reliability Engineer I",
-    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-i-mastercard-pune-1-to-9-years-190826502949",
-    "source": "naukri",
-    "company": "Mastercard",
-    "location": "Pune",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826502214",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-msys-tech-india-pvt-ltd-bengaluru-1-to-3-years-190826502214",
-    "source": "naukri",
-    "company": "Aziro",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826502520",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-barclays-shared-services-pune-chennai-1-to-10-years-190826502520",
-    "source": "naukri",
-    "company": "Barclays",
-    "location": "Pune, Chennai",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826931524",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-capgemini-technology-services-india-limited-mumbai-hyderabad-bengaluru-0-to-5-years-190826931524",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Mumbai, Hyderabad, Bengaluru",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826931753",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-grid-dynamics-private-limited-hyderabad-chennai-bengaluru-1-to-6-years-190826931753",
-    "source": "naukri",
-    "company": "Grid Dynamics",
-    "location": "Hyderabad, Chennai, Bengaluru",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826931525",
-    "title": "C++ Developer",
-    "url": "https://www.naukri.com/job-listings-c-developer-capgemini-technology-services-india-limited-hyderabad-1-to-5-years-190826931525",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Hyderabad",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826503229",
-    "title": "C++ Developer",
-    "url": "https://www.naukri.com/job-listings-c-developer-webtech-developers-pvt-ltd-pune-0-to-2-years-190826503229",
-    "source": "naukri",
-    "company": "Webtech Developers",
-    "location": "Pune",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
+    "company": "Microlink Solution",
+    "location": "Hybrid - Bhopal, Ahmedabad, Bengaluru",
+    "queued_at": "2026-08-19T14:15:13.786627+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
     "job_id": "190826020286",
@@ -289,37 +47,8 @@
     "company": "Hummingbrains Technologies",
     "location": "Bengaluru",
     "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826503128",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-renault-nissan-technology-business-centre-india-chennai-1-to-8-years-190826503128",
-    "source": "naukri",
-    "company": "Renault Nissan Technology and Business Centre India",
-    "location": "Chennai",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826501376",
-    "title": "CloudSec Engineer - 080626-74",
-    "url": "https://www.naukri.com/job-listings-cloudsec-engineer-080626-74-sage-it-hyderabad-1-to-3-years-190826501376",
-    "source": "naukri",
-    "company": "Sage It",
-    "location": "Hyderabad",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826501313",
-    "title": "Electrical Engineer Professional",
-    "url": "https://www.naukri.com/job-listings-electrical-engineer-professional-voltamp-transformers-ltd-vadodara-1-to-3-years-190826501313",
-    "source": "naukri",
-    "company": "Multi Organics",
-    "location": "Vadodara",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "190826017616",
@@ -329,67 +58,8 @@
     "company": "Orbit Technologies",
     "location": "",
     "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826931547",
-    "title": "Azure.net Developer",
-    "url": "https://www.naukri.com/job-listings-azure-net-developer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-190826931547",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826502886",
-    "title": "Analyst - TA",
-    "url": "https://www.naukri.com/job-listings-analyst-ta-apex-fund-services-llp-pune-1-to-7-years-190826502886",
-    "source": "naukri",
-    "company": "Apex Group",
-    "location": "Pune",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826502718",
-    "title": "IDPMS Analyst",
-    "url": "https://www.naukri.com/job-listings-idpms-analyst-smbc-group-new-delhi-1-to-4-years-190826502718",
-    "source": "naukri",
-    "company": "Sumitomo Mitsui Banking Corporation (SMBC)",
-    "location": "New Delhi",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826502314",
-    "title": "Designer / Developer",
-    "url": "https://www.naukri.com/job-listings-designer-developer-ampleprotechnologies-chennai-1-to-4-years-190826502314",
-    "source": "naukri",
-    "company": "Amplepro Technologies",
-    "location": "Chennai",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826502199",
-    "title": "Analyst- Abstractions",
-    "url": "https://www.naukri.com/job-listings-analyst-abstractions-jones-lang-lasalle-gurugram-1-to-3-years-190826502199",
-    "source": "naukri",
-    "company": "Jones Lang LaSalle (JLL)",
-    "location": "Gurugram",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "190826501986",
-    "title": "Analyst - O2C",
-    "url": "https://www.naukri.com/job-listings-analyst-o2c-ramboll-india-private-limited-gurugram-greater-noida-1-to-3-years-190826501986",
-    "source": "naukri",
-    "company": "Ramboll",
-    "location": "Gurugram, Greater Noida",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "190826023430",
@@ -399,6 +69,7 @@
     "company": "Omnicom Global Solutions",
     "location": "Bengaluru",
     "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
