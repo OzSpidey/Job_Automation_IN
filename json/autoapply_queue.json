@@ -16,5 +16,75 @@
     "level": "Early",
     "queued_at": "2026-08-17T22:01:14.196656+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "190826020380",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-thyrocare-bengaluru-1-to-4-years-190826020380",
+    "source": "naukri",
+    "company": "Thyrocare",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-19T10:20:13.852925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "190826020286",
+    "title": "C++ Developer",
+    "url": "https://www.naukri.com/job-listings-c-developer-hummingbrains-technologies-bengaluru-1-to-3-years-190826020286",
+    "source": "naukri",
+    "company": "Hummingbrains Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-19T10:20:13.852925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "190826023838",
+    "title": "Quant Developer",
+    "url": "https://www.naukri.com/job-listings-quant-developer-value-research-noida-0-to-3-years-190826023838",
+    "source": "naukri",
+    "company": "Value Research",
+    "location": "Noida",
+    "queued_at": "2026-08-19T10:20:13.852925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "190826023430",
+    "title": "Programmatic - Analyst",
+    "url": "https://www.naukri.com/job-listings-programmatic-analyst-omnicom-global-solutions-bengaluru-1-to-3-years-190826023430",
+    "source": "naukri",
+    "company": "Omnicom Global Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-19T10:20:13.852925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "190826019083",
+    "title": "Engineer (Freshers)",
+    "url": "https://www.naukri.com/job-listings-engineer-freshers-ciel-hr-bengaluru-0-to-2-years-190826019083",
+    "source": "naukri",
+    "company": "CIEL HR",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-19T10:20:13.852925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "190826017616",
+    "title": "Walk-in || Field Sales Engineer (Fresher)",
+    "url": "https://www.naukri.com/job-listings-field-sales-engineer-fresher-orbit-technologies-pvt-ltd-hyderabad-0-to-3-years-190826017616",
+    "source": "naukri",
+    "company": "Orbit Technologies",
+    "location": "",
+    "queued_at": "2026-08-19T10:20:13.852925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "190826014068",
+    "title": "Urgent requirements For Software Developer (fresher) - Chennai",
+    "url": "https://www.naukri.com/job-listings-urgent-requirements-for-software-developer-fresher-chennai-z-tech-solutions-chennai-0-to-1-years-190826014068",
+    "source": "naukri",
+    "company": "Z Tech Solutions",
+    "location": "Chennai",
+    "queued_at": "2026-08-19T10:20:13.852925+00:00",
+    "status": "queued"
   }
 ]
