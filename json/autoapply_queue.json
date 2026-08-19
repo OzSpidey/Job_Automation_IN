@@ -16,38 +16,5 @@
     "level": "Early",
     "queued_at": "2026-08-17T22:01:14.196656+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "180826012817",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-pramanique-fintech-private-limited-vijayawada-1-to-3-years-180826012817",
-    "source": "naukri",
-    "company": "Pramanique Fintech",
-    "location": "Vijayawada",
-    "queued_at": "2026-08-18T18:17:12.873721+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "130826920344",
-    "title": "Java Reactjs Developer",
-    "url": "https://www.naukri.com/job-listings-java-reactjs-developer-infosys-limited-bengaluru-1-to-5-years-130826920344",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-18T18:17:12.873721+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "180826031100",
-    "title": "Mechatronics Developer",
-    "url": "https://www.naukri.com/job-listings-mechatronics-developer-m2nxt-solutions-pvt-ltd-bengaluru-1-to-3-years-180826031100",
-    "source": "naukri",
-    "company": "m2nxt Solutions Pvt Ltd",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-18T18:17:12.873721+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
