@@ -18,50 +18,6 @@
     "status": "queued"
   },
   {
-    "job_id": "190826020286",
-    "title": "C++ Developer",
-    "url": "https://www.naukri.com/job-listings-c-developer-hummingbrains-technologies-bengaluru-1-to-3-years-190826020286",
-    "source": "naukri",
-    "company": "Hummingbrains Technologies",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "190826017616",
-    "title": "Walk-in || Field Sales Engineer (Fresher)",
-    "url": "https://www.naukri.com/job-listings-field-sales-engineer-fresher-orbit-technologies-pvt-ltd-hyderabad-0-to-3-years-190826017616",
-    "source": "naukri",
-    "company": "Orbit Technologies",
-    "location": "",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "190826023430",
-    "title": "Programmatic - Analyst",
-    "url": "https://www.naukri.com/job-listings-programmatic-analyst-omnicom-global-solutions-bengaluru-1-to-3-years-190826023430",
-    "source": "naukri",
-    "company": "Omnicom Global Solutions",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-19T18:15:21.853412+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "200826000310",
-    "title": "Adops - Analyst",
-    "url": "https://www.naukri.com/job-listings-adops-analyst-omnicom-global-solutions-bengaluru-1-to-3-years-200826000310",
-    "source": "naukri",
-    "company": "Omnicom Global Solutions",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-19T22:16:46.974777+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckVbreKIJ1IQuzAG8HiKw8Iz6pXvCEBatu2aiBxUXeTLOEjsA1Ny_i5AVRO2FltFGO4NysYNks3y7LnJJDQ3i78QJUVcZbiT9a-2YGr8RLdsiMtKqdkTk4SNNle-Olg==_V2",
     "title": "Software Engineer",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVbreKIJ1IQuzAG8HiKw8Iz6pXvCEBatu2aiBxUXeTLOEjsA1Ny_i5AVRO2FltFGO4NysYNks3y7LnJJDQ3i78QJUVcZbiT9a-2YGr8RLdsiMtKqdkTk4SNNle-Olg%3D%3D_V2&loc=IN&title=Software+Engineer",
@@ -78,5 +34,16 @@
     "level": "Early",
     "queued_at": "2026-08-19T22:23:21.078464+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "200826000310",
+    "title": "Adops - Analyst",
+    "url": "https://www.naukri.com/job-listings-adops-analyst-omnicom-global-solutions-bengaluru-1-to-3-years-200826000310",
+    "source": "naukri",
+    "company": "Omnicom Global Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-19T22:16:46.974777+00:00",
+    "status": "queued",
+    "attempts": 2
   }
 ]
