@@ -109,5 +109,45 @@
     "level": "Early",
     "queued_at": "2026-08-20T04:02:11.786794+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "200826922573",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-shashwath-solution-bengaluru-0-to-1-years-200826922573",
+    "source": "naukri",
+    "company": "Shashwath Solution",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-20T10:15:15.393391+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "200826923157",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-shashwath-solution-bengaluru-1-to-3-years-200826923157",
+    "source": "naukri",
+    "company": "Shashwath Solution",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-20T10:15:15.393391+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "200826021297",
+    "title": "Software Developer _AI Native Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-ai-native-developer-ampity-infotech-pune-1-to-4-years-200826021297",
+    "source": "naukri",
+    "company": "Ampity Infotech",
+    "location": "Remote",
+    "queued_at": "2026-08-20T10:15:15.393391+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "190826035094",
+    "title": "Project Field Engineer - Freshers",
+    "url": "https://www.naukri.com/job-listings-project-field-engineer-freshers-microlink-solution-bhopal-ahmedabad-bengaluru-0-to-2-years-190826035094",
+    "source": "naukri",
+    "company": "Microlink Solution",
+    "location": "Hybrid - Bhopal, Ahmedabad, Bengaluru",
+    "queued_at": "2026-08-20T10:15:15.393391+00:00",
+    "status": "queued"
   }
 ]
