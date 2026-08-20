@@ -52,7 +52,8 @@
     "company": "Infosys",
     "location": "Bengaluru",
     "queued_at": "2026-08-20T06:15:27.881476+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "180826942537",
@@ -62,7 +63,8 @@
     "company": "Infosys",
     "location": "Bengaluru",
     "queued_at": "2026-08-20T06:15:27.881476+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "200826000310",
@@ -72,6 +74,7 @@
     "company": "Omnicom Global Solutions",
     "location": "Bengaluru",
     "queued_at": "2026-08-20T06:15:27.881476+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
