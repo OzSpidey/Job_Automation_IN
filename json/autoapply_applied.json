@@ -2892,5 +2892,16 @@
     "queued_at": "2026-08-20T12:15:09.885835+00:00",
     "status": "applied",
     "applied_at": "2026-08-20T12:19:51.565688+00:00"
+  },
+  {
+    "job_id": "200826929913",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-200826929913",
+    "source": "naukri",
+    "company": "Shashwath Solution",
+    "location": "Pune",
+    "queued_at": "2026-08-20T14:15:30.242694+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-20T14:18:57.242353+00:00"
   }
 ]

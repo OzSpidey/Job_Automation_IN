@@ -45,28 +45,6 @@
     "status": "queued"
   },
   {
-    "job_id": "200826021297",
-    "title": "Software Developer _AI Native Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-ai-native-developer-ampity-infotech-pune-1-to-4-years-200826021297",
-    "source": "naukri",
-    "company": "Ampity Infotech",
-    "location": "Remote",
-    "queued_at": "2026-08-20T10:15:15.393391+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "190826035094",
-    "title": "Project Field Engineer - Freshers",
-    "url": "https://www.naukri.com/job-listings-project-field-engineer-freshers-microlink-solution-bhopal-ahmedabad-bengaluru-0-to-2-years-190826035094",
-    "source": "naukri",
-    "company": "Microlink Solution",
-    "location": "Hybrid - Bhopal, Ahmedabad, Bengaluru",
-    "queued_at": "2026-08-20T10:15:15.393391+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "130826920344",
     "title": "Java Reactjs Developer",
     "url": "https://www.naukri.com/job-listings-java-reactjs-developer-infosys-limited-bengaluru-1-to-5-years-130826920344",
@@ -75,7 +53,7 @@
     "location": "Bengaluru",
     "queued_at": "2026-08-20T12:15:09.885835+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "200826035378",
@@ -85,7 +63,8 @@
     "company": "Talent Corner HR Services",
     "location": "Navi Mumbai",
     "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "200826034874",
@@ -95,307 +74,8 @@
     "company": "Cybersmithsecure",
     "location": "Mumbai",
     "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826500745",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-keleno-com-kochi-0-to-3-years-200826500745",
-    "source": "naukri",
-    "company": "Keleno",
-    "location": "Kochi",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826503478",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-anz-banking-group-bengaluru-0-to-7-years-200826503478",
-    "source": "naukri",
-    "company": "ANZ",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826501638",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-sigmait-software-designers-lucknow-0-to-4-years-200826501638",
-    "source": "naukri",
-    "company": "SIGMAIT SOFTWARE",
-    "location": "Lucknow",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826503565",
-    "title": "Reg Publishing Submission Specialist, SDE - Publishing",
-    "url": "https://www.naukri.com/job-listings-reg-publishing-submission-specialist-sde-publishing-glaxosmithkline-pharmaceuticals-limited-bengaluru-1-to-6-years-200826503565",
-    "source": "naukri",
-    "company": "GSK India",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826502208",
-    "title": "Associate Site Reliability Engineer",
-    "url": "https://www.naukri.com/job-listings-associate-site-reliability-engineer-total-system-pune-1-to-3-years-200826502208",
-    "source": "naukri",
-    "company": "Tsys Global Solutions",
-    "location": "Pune",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826501596",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-stylemycatalog-in-new-delhi-1-to-2-years-200826501596",
-    "source": "naukri",
-    "company": "Stylemycatalog Network Solutions",
-    "location": "New Delhi",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826500645",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-zensar-technologies-bengaluru-0-to-8-years-200826500645",
-    "source": "naukri",
-    "company": "Zensar",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826501364",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-hoffmann-la-roche-hyderabad-1-to-5-years-200826501364",
-    "source": "naukri",
-    "company": "Hoffmann La Roche",
-    "location": "Hyderabad",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826500205",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-barclays-shared-services-pune-1-to-10-years-200826500205",
-    "source": "naukri",
-    "company": "Barclays",
-    "location": "Pune",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826500707",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-hoffmann-la-roche-hyderabad-1-to-3-years-200826500707",
-    "source": "naukri",
-    "company": "Hoffmann La Roche",
-    "location": "Hyderabad",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826500650",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-pinus-software-chennai-1-to-3-years-200826500650",
-    "source": "naukri",
-    "company": "Pinus Software",
-    "location": "Chennai",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826929913",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-200826929913",
-    "source": "naukri",
-    "company": "Shashwath Solution",
-    "location": "Pune",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826503662",
-    "title": "React Native Engineer",
-    "url": "https://www.naukri.com/job-listings-react-native-engineer-mynextdeveloper-remote-1-to-4-years-200826503662",
-    "source": "naukri",
-    "company": "My Next Developer",
-    "location": "Remote",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826502578",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-target-bengaluru-1-to-6-years-200826502578",
-    "source": "naukri",
-    "company": "Target",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826502152",
-    "title": "XSOAR Engineer - Consultant (Mumbai/Hyderabad)",
-    "url": "https://www.naukri.com/job-listings-xsoar-engineer-consultant-mumbai-hyderabad-embark-thane-1-to-4-years-200826502152",
-    "source": "naukri",
-    "company": "Embarkgcc Services",
-    "location": "Thane",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826500743",
-    "title": "End User Engineer",
-    "url": "https://www.naukri.com/job-listings-end-user-engineer-team-computers-pvt-ltd-jaipur-0-to-6-years-200826500743",
-    "source": "naukri",
-    "company": "Team Computers",
-    "location": "Jaipur",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826500612",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-iflow-gurugram-0-to-3-years-200826500612",
-    "source": "naukri",
-    "company": "Iflow",
-    "location": "Gurugram",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826503873",
-    "title": "Javaacript Developer",
-    "url": "https://www.naukri.com/job-listings-javaacript-developer-mobileprogramming-dehradun-1-to-4-years-200826503873",
-    "source": "naukri",
-    "company": "Mobile Programming",
-    "location": "Dehradun",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826501694",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-firstsource-solutions-ltd-bengaluru-0-to-6-years-200826501694",
-    "source": "naukri",
-    "company": "Firstsource",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826500786",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-ernst-young-new-delhi-0-to-1-years-200826500786",
-    "source": "naukri",
-    "company": "EY",
-    "location": "New Delhi",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826503872",
-    "title": "Javaacript Developer",
-    "url": "https://www.naukri.com/job-listings-javaacript-developer-mobileprogramming-gurugram-1-to-4-years-200826503872",
-    "source": "naukri",
-    "company": "Mobile Programming",
-    "location": "Gurugram",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826503871",
-    "title": "Javaacript Developer",
-    "url": "https://www.naukri.com/job-listings-javaacript-developer-mobileprogramming-hyderabad-1-to-4-years-200826503871",
-    "source": "naukri",
-    "company": "Mobile Programming",
-    "location": "Hyderabad",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826503870",
-    "title": "Javaacript Developer",
-    "url": "https://www.naukri.com/job-listings-javaacript-developer-mobileprogramming-mohali-1-to-4-years-200826503870",
-    "source": "naukri",
-    "company": "Mobile Programming",
-    "location": "Mohali",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826503869",
-    "title": "Javaacript Developer",
-    "url": "https://www.naukri.com/job-listings-javaacript-developer-mobileprogramming-panchkula-1-to-4-years-200826503869",
-    "source": "naukri",
-    "company": "Mobile Programming",
-    "location": "Panchkula",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826503868",
-    "title": "Javaacript Developer",
-    "url": "https://www.naukri.com/job-listings-javaacript-developer-mobileprogramming-bengaluru-1-to-4-years-200826503868",
-    "source": "naukri",
-    "company": "Mobile Programming",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826503867",
-    "title": "Javaacript Developer",
-    "url": "https://www.naukri.com/job-listings-javaacript-developer-mobileprogramming-chennai-1-to-4-years-200826503867",
-    "source": "naukri",
-    "company": "Mobile Programming",
-    "location": "Chennai",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826501693",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-firstsource-solutions-ltd-bengaluru-0-to-6-years-200826501693",
-    "source": "naukri",
-    "company": "Firstsource",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826500391",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-barclays-shared-services-pune-1-to-10-years-200826500391",
-    "source": "naukri",
-    "company": "Barclays",
-    "location": "Pune",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826500652",
-    "title": "Firmware Engineer",
-    "url": "https://www.naukri.com/job-listings-firmware-engineer-proxelera-hyderabad-0-to-3-years-200826500652",
-    "source": "naukri",
-    "company": "Proxelera",
-    "location": "Hyderabad",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826500654",
-    "title": "Firmware Engineer",
-    "url": "https://www.naukri.com/job-listings-firmware-engineer-proxelera-hyderabad-0-to-2-years-200826500654",
-    "source": "naukri",
-    "company": "Proxelera",
-    "location": "Hyderabad",
-    "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "200826016916",
@@ -405,7 +85,8 @@
     "company": "Avenues Ai Limited",
     "location": "Bengaluru",
     "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "200826019831",
@@ -415,6 +96,7 @@
     "company": "Aakriti Constructions & Developers",
     "location": "Hyderabad",
     "queued_at": "2026-08-20T14:15:30.242694+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
