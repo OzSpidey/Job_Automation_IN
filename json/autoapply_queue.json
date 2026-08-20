@@ -53,7 +53,7 @@
     "location": "Bengaluru",
     "queued_at": "2026-08-20T06:15:27.881476+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "180826942537",
@@ -64,7 +64,7 @@
     "location": "Bengaluru",
     "queued_at": "2026-08-20T06:15:27.881476+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "200826000310",
@@ -75,17 +75,7 @@
     "location": "Bengaluru",
     "queued_at": "2026-08-20T06:15:27.881476+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "200826915713",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-200826915713",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-20T08:15:23.342187+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "200826016916",
@@ -95,7 +85,8 @@
     "company": "Avenues Ai Limited",
     "location": "Bengaluru",
     "queued_at": "2026-08-20T08:15:23.342187+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "200826019831",
@@ -105,17 +96,8 @@
     "company": "Aakriti Constructions & Developers",
     "location": "Hyderabad",
     "queued_at": "2026-08-20T08:15:23.342187+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "200826016542",
-    "title": "Biomedical Engineer Freshers",
-    "url": "https://www.naukri.com/job-listings-biomedical-engineer-freshers-ababil-healthcare-vijayawada-hyderabad-0-to-1-years-200826016542",
-    "source": "naukri",
-    "company": "Ababil Healthcare",
-    "location": "Vijayawada, Hyderabad",
-    "queued_at": "2026-08-20T08:15:23.342187+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "200826020123",
@@ -125,6 +107,7 @@
     "company": "eClerx",
     "location": "Chandigarh",
     "queued_at": "2026-08-20T08:15:23.342187+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
