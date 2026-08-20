@@ -2903,5 +2903,49 @@
     "queued_at": "2026-08-20T14:15:30.242694+00:00",
     "status": "applied",
     "applied_at": "2026-08-20T14:18:57.242353+00:00"
+  },
+  {
+    "job_id": "200826931044",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-shashwath-solution-pune-0-to-1-years-200826931044",
+    "source": "naukri",
+    "company": "Shashwath Solution",
+    "location": "Pune",
+    "queued_at": "2026-08-20T16:15:06.811599+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-20T16:17:19.738459+00:00"
+  },
+  {
+    "job_id": "200826932184",
+    "title": "Full stack developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-shashwath-solution-pune-1-to-2-years-200826932184",
+    "source": "naukri",
+    "company": "Shashwath Solution",
+    "location": "Pune",
+    "queued_at": "2026-08-20T16:15:06.811599+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-20T16:17:51.460115+00:00"
+  },
+  {
+    "job_id": "200826930348",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-shashwath-solution-pune-1-to-3-years-200826930348",
+    "source": "naukri",
+    "company": "Shashwath Solution",
+    "location": "Pune",
+    "queued_at": "2026-08-20T16:15:06.811599+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-20T16:18:14.712121+00:00"
+  },
+  {
+    "job_id": "200826931418",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-shashwath-solution-mysuru-1-to-3-years-200826931418",
+    "source": "naukri",
+    "company": "Shashwath Solution",
+    "location": "Remote",
+    "queued_at": "2026-08-20T16:15:06.811599+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-20T16:18:28.762462+00:00"
   }
 ]
