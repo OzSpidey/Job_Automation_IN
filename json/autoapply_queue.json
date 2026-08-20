@@ -1,71 +1,5 @@
 [
   {
-    "job_id": "130826920344",
-    "title": "Java Reactjs Developer",
-    "url": "https://www.naukri.com/job-listings-java-reactjs-developer-infosys-limited-bengaluru-1-to-5-years-130826920344",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-20T06:15:27.881476+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "180826942537",
-    "title": "Amazon connect Engineer",
-    "url": "https://www.naukri.com/job-listings-amazon-connect-engineer-infosys-limited-bengaluru-0-to-5-years-180826942537",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-20T06:15:27.881476+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "200826000310",
-    "title": "Adops - Analyst",
-    "url": "https://www.naukri.com/job-listings-adops-analyst-omnicom-global-solutions-bengaluru-1-to-3-years-200826000310",
-    "source": "naukri",
-    "company": "Omnicom Global Solutions",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-20T06:15:27.881476+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "200826016916",
-    "title": "Software Development Engineer",
-    "url": "https://www.naukri.com/job-listings-software-development-engineer-avenues-ai-limited-bengaluru-0-to-3-years-200826016916",
-    "source": "naukri",
-    "company": "Avenues Ai Limited",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-20T08:15:23.342187+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "200826019831",
-    "title": "Software Engineer Internal Systems",
-    "url": "https://www.naukri.com/job-listings-software-engineer-internal-systems-aakriti-constructions-developers-hyderabad-1-to-3-years-200826019831",
-    "source": "naukri",
-    "company": "Aakriti Constructions & Developers",
-    "location": "Hyderabad",
-    "queued_at": "2026-08-20T08:15:23.342187+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "200826020123",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-200826020123",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-08-20T08:15:23.342187+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -111,24 +45,37 @@
     "status": "queued"
   },
   {
-    "job_id": "200826922573",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-shashwath-solution-bengaluru-0-to-1-years-200826922573",
+    "job_id": "200826016916",
+    "title": "Software Development Engineer",
+    "url": "https://www.naukri.com/job-listings-software-development-engineer-avenues-ai-limited-bengaluru-0-to-3-years-200826016916",
     "source": "naukri",
-    "company": "Shashwath Solution",
+    "company": "Avenues Ai Limited",
     "location": "Bengaluru",
-    "queued_at": "2026-08-20T10:15:15.393391+00:00",
-    "status": "queued"
+    "queued_at": "2026-08-20T08:15:23.342187+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
-    "job_id": "200826923157",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-shashwath-solution-bengaluru-1-to-3-years-200826923157",
+    "job_id": "200826019831",
+    "title": "Software Engineer Internal Systems",
+    "url": "https://www.naukri.com/job-listings-software-engineer-internal-systems-aakriti-constructions-developers-hyderabad-1-to-3-years-200826019831",
     "source": "naukri",
-    "company": "Shashwath Solution",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-20T10:15:15.393391+00:00",
-    "status": "queued"
+    "company": "Aakriti Constructions & Developers",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-20T08:15:23.342187+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "200826020123",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-200826020123",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-08-20T08:15:23.342187+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
     "job_id": "200826021297",
@@ -138,7 +85,8 @@
     "company": "Ampity Infotech",
     "location": "Remote",
     "queued_at": "2026-08-20T10:15:15.393391+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "190826035094",
@@ -148,6 +96,7 @@
     "company": "Microlink Solution",
     "location": "Hybrid - Bhopal, Ahmedabad, Bengaluru",
     "queued_at": "2026-08-20T10:15:15.393391+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
