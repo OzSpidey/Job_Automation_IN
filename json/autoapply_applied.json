@@ -2848,5 +2848,49 @@
     "queued_at": "2026-08-20T10:15:15.393391+00:00",
     "status": "applied",
     "applied_at": "2026-08-20T10:17:31.448943+00:00"
+  },
+  {
+    "job_id": "200826924485",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-shashwath-solution-noida-0-to-1-years-200826924485",
+    "source": "naukri",
+    "company": "Shashwath Solution",
+    "location": "Noida",
+    "queued_at": "2026-08-20T12:15:09.885835+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-20T12:19:22.449921+00:00"
+  },
+  {
+    "job_id": "200826923378",
+    "title": "Full stack developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-shashwath-solution-noida-1-to-2-years-200826923378",
+    "source": "naukri",
+    "company": "Shashwath Solution",
+    "location": "Noida",
+    "queued_at": "2026-08-20T12:15:09.885835+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-20T12:19:32.046862+00:00"
+  },
+  {
+    "job_id": "200826925918",
+    "title": "Full stack developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-shashwath-solution-noida-1-to-2-years-200826925918",
+    "source": "naukri",
+    "company": "Shashwath Solution",
+    "location": "Noida",
+    "queued_at": "2026-08-20T12:15:09.885835+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-20T12:19:41.973071+00:00"
+  },
+  {
+    "job_id": "200826924999",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-shashwath-solution-mysuru-1-to-3-years-200826924999",
+    "source": "naukri",
+    "company": "Shashwath Solution",
+    "location": "Remote",
+    "queued_at": "2026-08-20T12:15:09.885835+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-20T12:19:51.565688+00:00"
   }
 ]
