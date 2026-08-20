@@ -76,5 +76,55 @@
     "queued_at": "2026-08-20T06:15:27.881476+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "200826915713",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-200826915713",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-20T08:15:23.342187+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "200826016916",
+    "title": "Software Development Engineer",
+    "url": "https://www.naukri.com/job-listings-software-development-engineer-avenues-ai-limited-bengaluru-0-to-3-years-200826016916",
+    "source": "naukri",
+    "company": "Avenues Ai Limited",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-20T08:15:23.342187+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "200826019831",
+    "title": "Software Engineer Internal Systems",
+    "url": "https://www.naukri.com/job-listings-software-engineer-internal-systems-aakriti-constructions-developers-hyderabad-1-to-3-years-200826019831",
+    "source": "naukri",
+    "company": "Aakriti Constructions & Developers",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-20T08:15:23.342187+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "200826016542",
+    "title": "Biomedical Engineer Freshers",
+    "url": "https://www.naukri.com/job-listings-biomedical-engineer-freshers-ababil-healthcare-vijayawada-hyderabad-0-to-1-years-200826016542",
+    "source": "naukri",
+    "company": "Ababil Healthcare",
+    "location": "Vijayawada, Hyderabad",
+    "queued_at": "2026-08-20T08:15:23.342187+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "200826020123",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-200826020123",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-08-20T08:15:23.342187+00:00",
+    "status": "queued"
   }
 ]
