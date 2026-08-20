@@ -45,17 +45,6 @@
     "status": "queued"
   },
   {
-    "job_id": "200826021297",
-    "title": "Software Developer _AI Native Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-ai-native-developer-ampity-infotech-pune-1-to-4-years-200826021297",
-    "source": "naukri",
-    "company": "Ampity Infotech",
-    "location": "Remote",
-    "queued_at": "2026-08-20T16:15:06.811599+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "130826920344",
     "title": "Java Reactjs Developer",
     "url": "https://www.naukri.com/job-listings-java-reactjs-developer-infosys-limited-bengaluru-1-to-5-years-130826920344",
@@ -64,6 +53,6 @@
     "location": "Bengaluru",
     "queued_at": "2026-08-20T18:15:23.902452+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
