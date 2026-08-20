@@ -43,5 +43,35 @@
     "level": "Early",
     "queued_at": "2026-08-20T04:02:11.786794+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "130826920344",
+    "title": "Java Reactjs Developer",
+    "url": "https://www.naukri.com/job-listings-java-reactjs-developer-infosys-limited-bengaluru-1-to-5-years-130826920344",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-20T06:15:27.881476+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180826942537",
+    "title": "Amazon connect Engineer",
+    "url": "https://www.naukri.com/job-listings-amazon-connect-engineer-infosys-limited-bengaluru-0-to-5-years-180826942537",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-20T06:15:27.881476+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "200826000310",
+    "title": "Adops - Analyst",
+    "url": "https://www.naukri.com/job-listings-adops-analyst-omnicom-global-solutions-bengaluru-1-to-3-years-200826000310",
+    "source": "naukri",
+    "company": "Omnicom Global Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-20T06:15:27.881476+00:00",
+    "status": "queued"
   }
 ]
