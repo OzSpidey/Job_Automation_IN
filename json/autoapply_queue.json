@@ -43,5 +43,25 @@
     "level": "Early",
     "queued_at": "2026-08-20T04:02:11.786794+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "210826907278",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-opentext-technologies-india-pvt-ltd-bengaluru-1-to-6-years-210826907278",
+    "source": "naukri",
+    "company": "Opentext",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T06:15:12.131027+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "200826019831",
+    "title": "Software Engineer Internal Systems",
+    "url": "https://www.naukri.com/job-listings-software-engineer-internal-systems-aakriti-constructions-developers-hyderabad-1-to-3-years-200826019831",
+    "source": "naukri",
+    "company": "Aakriti Constructions & Developers",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-21T06:15:12.131027+00:00",
+    "status": "queued"
   }
 ]
