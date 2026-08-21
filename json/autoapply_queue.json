@@ -53,27 +53,7 @@
     "location": "Pune",
     "queued_at": "2026-08-21T16:15:47.882882+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "210826503518",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-ternary-tech-labs-bengaluru-0-to-1-years-210826503518",
-    "source": "naukri",
-    "company": "Ternary Tech Labs",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-21T18:15:24.961304+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "210826503554",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-kartoffel-technologies-chennai-0-to-1-years-210826503554",
-    "source": "naukri",
-    "company": "Kartoffel Technologies",
-    "location": "Chennai",
-    "queued_at": "2026-08-21T18:15:24.961304+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "200826019831",
@@ -83,6 +63,7 @@
     "company": "Aakriti Constructions & Developers",
     "location": "Hyderabad",
     "queued_at": "2026-08-21T18:15:24.961304+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
