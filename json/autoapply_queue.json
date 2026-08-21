@@ -65,5 +65,205 @@
     "queued_at": "2026-08-21T12:15:19.454468+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "210826032764",
+    "title": "Full-stack developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-filuet-delhi-ncr-1-to-3-years-210826032764",
+    "source": "naukri",
+    "company": "Filuet",
+    "location": "Remote",
+    "queued_at": "2026-08-21T14:15:17.116962+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826930355",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-210826930355",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Noida",
+    "queued_at": "2026-08-21T14:15:17.116962+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826037924",
+    "title": "Walk-in || Analyst-Fulfilment",
+    "url": "https://www.naukri.com/job-listings-analyst-fulfilment-sakon-pune-1-to-3-years-210826037924",
+    "source": "naukri",
+    "company": "Sakon",
+    "location": "",
+    "queued_at": "2026-08-21T14:15:17.116962+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826502050",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-1-to-3-years-210826502050",
+    "source": "naukri",
+    "company": "Cisco",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T14:15:17.116962+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826503518",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-ternary-tech-labs-bengaluru-0-to-1-years-210826503518",
+    "source": "naukri",
+    "company": "Ternary Tech Labs",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T14:15:17.116962+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826503052",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-nomura-capital-india-private-limited-mumbai-0-to-4-years-210826503052",
+    "source": "naukri",
+    "company": "Nomura",
+    "location": "Mumbai",
+    "queued_at": "2026-08-21T14:15:17.116962+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826501354",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-lambdatest-noida-1-to-3-years-210826501354",
+    "source": "naukri",
+    "company": "Lambdatest",
+    "location": "Noida",
+    "queued_at": "2026-08-21T14:15:17.116962+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826502085",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-digital-flavers-noida-1-to-3-years-210826502085",
+    "source": "naukri",
+    "company": "Digital Flavers",
+    "location": "Noida",
+    "queued_at": "2026-08-21T14:15:17.116962+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826502092",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-kuku-fm-bengaluru-1-to-2-years-210826502092",
+    "source": "naukri",
+    "company": "Kuku Fm",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T14:15:17.116962+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826503554",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-kartoffel-technologies-chennai-0-to-1-years-210826503554",
+    "source": "naukri",
+    "company": "Kartoffel Technologies",
+    "location": "Chennai",
+    "queued_at": "2026-08-21T14:15:17.116962+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826502920",
+    "title": "Imaging Engineer - MR Physics",
+    "url": "https://www.naukri.com/job-listings-imaging-engineer-mr-physics-voxelgrids-bengaluru-0-to-2-years-210826502920",
+    "source": "naukri",
+    "company": "Voxelgrids",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T14:15:17.116962+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826502549",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-target-bengaluru-1-to-6-years-210826502549",
+    "source": "naukri",
+    "company": "Target",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T14:15:17.116962+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826502893",
+    "title": "Imaging Engineer - Reconstruction",
+    "url": "https://www.naukri.com/job-listings-imaging-engineer-reconstruction-voxelgrids-bengaluru-0-to-2-years-210826502893",
+    "source": "naukri",
+    "company": "Voxelgrids",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T14:15:17.116962+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826502547",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-target-bengaluru-1-to-6-years-210826502547",
+    "source": "naukri",
+    "company": "Target",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T14:15:17.116962+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826925495",
+    "title": "Z2_Python Developer",
+    "url": "https://www.naukri.com/job-listings-z2-python-developer-ntt-data-services-india-private-limited-bengaluru-1-to-6-years-210826925495",
+    "source": "naukri",
+    "company": "NTT DATA BUSINESS SOLUTIONS",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T14:15:17.116962+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826502559",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-210826502559",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-08-21T14:15:17.116962+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826925220",
+    "title": "FP&A Analyst",
+    "url": "https://www.naukri.com/job-listings-fp-a-analyst-ntt-data-services-india-private-limited-bengaluru-1-to-6-years-210826925220",
+    "source": "naukri",
+    "company": "NTT DATA BUSINESS SOLUTIONS",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T14:15:17.116962+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826501440",
+    "title": "Amazon Connect Developer",
+    "url": "https://www.naukri.com/job-listings-amazon-connect-developer-the-hartford-hyderabad-0-to-4-years-210826501440",
+    "source": "naukri",
+    "company": "The Hartford",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-21T14:15:17.116962+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826907278",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-opentext-technologies-india-pvt-ltd-bengaluru-1-to-6-years-210826907278",
+    "source": "naukri",
+    "company": "Opentext",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T14:15:17.116962+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826009655",
+    "title": "Embedded Firmware Engineer",
+    "url": "https://www.naukri.com/job-listings-embedded-firmware-engineer-zeus-numerix-pimpri-chinchwad-pune-1-to-3-years-210826009655",
+    "source": "naukri",
+    "company": "Zeus Numerix",
+    "location": "Pimpri-Chinchwad, Pune",
+    "queued_at": "2026-08-21T14:15:17.116962+00:00",
+    "status": "queued"
   }
 ]
