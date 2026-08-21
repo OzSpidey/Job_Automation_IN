@@ -76,5 +76,295 @@
     "level": "Early",
     "queued_at": "2026-08-20T04:02:11.786794+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "210826932402",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-210826932402",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826932431",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-wells-fargo-international-solutions-private-ltd-bengaluru-0-to-5-years-210826932431",
+    "source": "naukri",
+    "company": "Wells Fargo",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826503518",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-ternary-tech-labs-bengaluru-0-to-1-years-210826503518",
+    "source": "naukri",
+    "company": "Ternary Tech Labs",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826930271",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-forward-eye-technologies-noida-0-to-2-years-210826930271",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Noida",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826930274",
+    "title": "SFCC Backend Developer",
+    "url": "https://www.naukri.com/job-listings-sfcc-backend-developer-forward-eye-technologies-noida-1-to-3-years-210826930274",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Noida",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826503554",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-kartoffel-technologies-chennai-0-to-1-years-210826503554",
+    "source": "naukri",
+    "company": "Kartoffel Technologies",
+    "location": "Chennai",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826931570",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-forward-eye-technologies-noida-1-to-3-years-210826931570",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Noida",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826931322",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-forward-eye-technologies-noida-1-to-3-years-210826931322",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Noida",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826931569",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-forward-eye-technologies-noida-1-to-3-years-210826931569",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Noida",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826930317",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-forward-eye-technologies-noida-1-to-3-years-210826930317",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Noida",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826930335",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-forward-eye-technologies-noida-1-to-3-years-210826930335",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Noida",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826930299",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-forward-eye-technologies-noida-1-to-3-years-210826930299",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Noida",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826932207",
+    "title": "C++ Developer",
+    "url": "https://www.naukri.com/job-listings-c-developer-capgemini-technology-services-india-limited-bengaluru-1-to-5-years-210826932207",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826932398",
+    "title": "Launch Engineer",
+    "url": "https://www.naukri.com/job-listings-launch-engineer-tata-technologies-ltd-jamshedpur-1-to-3-years-210826932398",
+    "source": "naukri",
+    "company": "Tata Technologies",
+    "location": "Jamshedpur",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826931844",
+    "title": "Dell One Identity Developer",
+    "url": "https://www.naukri.com/job-listings-dell-one-identity-developer-forward-eye-technologies-noida-1-to-3-years-210826931844",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Noida",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826930424",
+    "title": "OMI Developer",
+    "url": "https://www.naukri.com/job-listings-omi-developer-forward-eye-technologies-noida-1-to-4-years-210826930424",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Noida",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826502050",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-1-to-3-years-210826502050",
+    "source": "naukri",
+    "company": "Cisco",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826503052",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-nomura-capital-india-private-limited-mumbai-0-to-4-years-210826503052",
+    "source": "naukri",
+    "company": "Nomura",
+    "location": "Mumbai",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826501354",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-lambdatest-noida-1-to-3-years-210826501354",
+    "source": "naukri",
+    "company": "Lambdatest",
+    "location": "Noida",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826502085",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-digital-flavers-noida-1-to-3-years-210826502085",
+    "source": "naukri",
+    "company": "Digital Flavers",
+    "location": "Noida",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826502092",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-kuku-fm-bengaluru-1-to-2-years-210826502092",
+    "source": "naukri",
+    "company": "Kuku Fm",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826907278",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-opentext-technologies-india-pvt-ltd-bengaluru-1-to-6-years-210826907278",
+    "source": "naukri",
+    "company": "Opentext",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826502920",
+    "title": "Imaging Engineer - MR Physics",
+    "url": "https://www.naukri.com/job-listings-imaging-engineer-mr-physics-voxelgrids-bengaluru-0-to-2-years-210826502920",
+    "source": "naukri",
+    "company": "Voxelgrids",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826502893",
+    "title": "Imaging Engineer - Reconstruction",
+    "url": "https://www.naukri.com/job-listings-imaging-engineer-reconstruction-voxelgrids-bengaluru-0-to-2-years-210826502893",
+    "source": "naukri",
+    "company": "Voxelgrids",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826502549",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-target-bengaluru-1-to-6-years-210826502549",
+    "source": "naukri",
+    "company": "Target",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826502547",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-target-bengaluru-1-to-6-years-210826502547",
+    "source": "naukri",
+    "company": "Target",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826502559",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-210826502559",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826501440",
+    "title": "Amazon Connect Developer",
+    "url": "https://www.naukri.com/job-listings-amazon-connect-developer-the-hartford-hyderabad-0-to-4-years-210826501440",
+    "source": "naukri",
+    "company": "The Hartford",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "210826015941",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-pune-0-to-2-years-210826015941",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "queued"
   }
 ]
