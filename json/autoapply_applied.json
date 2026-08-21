@@ -2958,5 +2958,27 @@
     "queued_at": "2026-08-20T18:15:23.902452+00:00",
     "status": "applied",
     "applied_at": "2026-08-20T18:17:49.930756+00:00"
+  },
+  {
+    "job_id": "210826912011",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-tekskills-india-private-limited-hyderabad-1-to-6-years-210826912011",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-21T08:15:09.480069+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-21T08:16:19.227477+00:00"
+  },
+  {
+    "job_id": "210826009210",
+    "title": "Software Engineer, developer / Programmer, 2026 graduate Can apply",
+    "url": "https://www.naukri.com/job-listings-software-engineer-developer-programmer-2026-graduate-can-apply-creative-hands-hr-udaipur-jaipur-jodhpur-0-to-5-years-210826009210",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Udaipur, Jaipur, Jodhpur",
+    "queued_at": "2026-08-21T08:15:09.480069+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-21T08:16:28.765795+00:00"
   }
 ]
