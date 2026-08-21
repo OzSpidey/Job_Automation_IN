@@ -3189,5 +3189,115 @@
     "queued_at": "2026-08-21T16:15:47.882882+00:00",
     "status": "applied",
     "applied_at": "2026-08-21T16:19:23.008805+00:00"
+  },
+  {
+    "job_id": "210826932398",
+    "title": "Launch Engineer",
+    "url": "https://www.naukri.com/job-listings-launch-engineer-tata-technologies-ltd-jamshedpur-1-to-3-years-210826932398",
+    "source": "naukri",
+    "company": "Tata Technologies",
+    "location": "Jamshedpur",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-21T18:16:47.861556+00:00"
+  },
+  {
+    "job_id": "210826931844",
+    "title": "Dell One Identity Developer",
+    "url": "https://www.naukri.com/job-listings-dell-one-identity-developer-forward-eye-technologies-noida-1-to-3-years-210826931844",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Noida",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-21T18:16:57.508735+00:00"
+  },
+  {
+    "job_id": "210826930424",
+    "title": "OMI Developer",
+    "url": "https://www.naukri.com/job-listings-omi-developer-forward-eye-technologies-noida-1-to-4-years-210826930424",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Noida",
+    "queued_at": "2026-08-21T16:15:47.882882+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-21T18:17:07.305113+00:00"
+  },
+  {
+    "job_id": "210826935348",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-forward-eye-technologies-pune-0-to-2-years-210826935348",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Pune",
+    "queued_at": "2026-08-21T18:15:24.961304+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-21T18:18:28.419443+00:00"
+  },
+  {
+    "job_id": "210826935350",
+    "title": "SFCC Backend Developer",
+    "url": "https://www.naukri.com/job-listings-sfcc-backend-developer-forward-eye-technologies-pune-1-to-3-years-210826935350",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Pune",
+    "queued_at": "2026-08-21T18:15:24.961304+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-21T18:18:38.249685+00:00"
+  },
+  {
+    "job_id": "210826936273",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-forward-eye-technologies-pune-1-to-3-years-210826936273",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Pune",
+    "queued_at": "2026-08-21T18:15:24.961304+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-21T18:18:47.852767+00:00"
+  },
+  {
+    "job_id": "210826935393",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-forward-eye-technologies-pune-1-to-3-years-210826935393",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Pune",
+    "queued_at": "2026-08-21T18:15:24.961304+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-21T18:18:57.680341+00:00"
+  },
+  {
+    "job_id": "210826935410",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-forward-eye-technologies-pune-1-to-3-years-210826935410",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Pune",
+    "queued_at": "2026-08-21T18:15:24.961304+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-21T18:19:07.319530+00:00"
+  },
+  {
+    "job_id": "210826935382",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-forward-eye-technologies-pune-1-to-3-years-210826935382",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Pune",
+    "queued_at": "2026-08-21T18:15:24.961304+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-21T18:19:17.182619+00:00"
+  },
+  {
+    "job_id": "210826935487",
+    "title": "OMI Developer",
+    "url": "https://www.naukri.com/job-listings-omi-developer-forward-eye-technologies-pune-1-to-4-years-210826935487",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Pune",
+    "queued_at": "2026-08-21T18:15:24.961304+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-21T18:19:26.935708+00:00"
   }
 ]
