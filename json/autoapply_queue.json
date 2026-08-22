@@ -43,16 +43,5 @@
     "level": "Early",
     "queued_at": "2026-08-20T04:02:11.786794+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "200826019831",
-    "title": "Software Engineer Internal Systems",
-    "url": "https://www.naukri.com/job-listings-software-engineer-internal-systems-aakriti-constructions-developers-hyderabad-1-to-3-years-200826019831",
-    "source": "naukri",
-    "company": "Aakriti Constructions & Developers",
-    "location": "Hyderabad",
-    "queued_at": "2026-08-21T18:15:24.961304+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
