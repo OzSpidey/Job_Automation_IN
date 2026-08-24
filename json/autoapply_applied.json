@@ -3299,5 +3299,38 @@
     "queued_at": "2026-08-21T18:15:24.961304+00:00",
     "status": "applied",
     "applied_at": "2026-08-21T18:19:26.935708+00:00"
+  },
+  {
+    "job_id": "240826004372",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-240826004372",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-08-24T06:15:46.866224+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-24T06:17:25.291621+00:00"
+  },
+  {
+    "job_id": "240826002338",
+    "title": "Hiring For All Engineers",
+    "url": "https://www.naukri.com/job-listings-hiring-for-all-engineers-oneclick-manpower-navi-mumbai-bengaluru-0-to-5-years-240826002338",
+    "source": "naukri",
+    "company": "Oneclick Manpower Navi Mumbai",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-24T06:15:46.866224+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-24T06:17:34.909773+00:00"
+  },
+  {
+    "job_id": "240826003099",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-240826003099",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-08-24T06:15:46.866224+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-24T06:17:44.961523+00:00"
   }
 ]
