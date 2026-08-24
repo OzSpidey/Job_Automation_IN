@@ -52,7 +52,8 @@
     "company": "First Mile Consulting",
     "location": "Mumbai",
     "queued_at": "2026-08-24T04:15:21.281893+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "220726011879",
@@ -62,7 +63,8 @@
     "company": "eClerx",
     "location": "Coimbatore",
     "queued_at": "2026-08-24T04:15:21.281893+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "200126041832",
@@ -72,6 +74,7 @@
     "company": "eClerx",
     "location": "Chandigarh",
     "queued_at": "2026-08-24T04:15:21.281893+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
