@@ -1,16 +1,5 @@
 [
   {
-    "job_id": "240826010315",
-    "title": "Quant Crypto Trader",
-    "url": "https://www.naukri.com/job-listings-quant-crypto-trader-biz-technologies-mumbai-1-to-2-years-240826010315",
-    "source": "naukri",
-    "company": "Biz Technologies",
-    "location": "Remote",
-    "queued_at": "2026-08-24T08:15:23.216955+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -56,6 +45,17 @@
     "status": "queued"
   },
   {
+    "job_id": "240826010315",
+    "title": "Quant Crypto Trader",
+    "url": "https://www.naukri.com/job-listings-quant-crypto-trader-biz-technologies-mumbai-1-to-2-years-240826010315",
+    "source": "naukri",
+    "company": "Biz Technologies",
+    "location": "Remote",
+    "queued_at": "2026-08-24T08:15:23.216955+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
     "job_id": "130726018537",
     "title": "Software Developer I - IN",
     "url": "https://www.naukri.com/job-listings-software-developer-i-in-rackspace-technology-gurugram-0-to-2-years-130726018537",
@@ -63,27 +63,8 @@
     "company": "Rackspace Technology",
     "location": "Remote",
     "queued_at": "2026-08-24T10:15:14.845958+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "240826500957",
-    "title": "System developer u2013 C/C++, C# developer",
-    "url": "https://www.naukri.com/job-listings-system-developer-u2013-c-c-c-developer-wisedv-electronics-india-pvt-ltd-vadodara-1-to-5-years-240826500957",
-    "source": "naukri",
-    "company": "Wisedv Electronics India",
-    "location": "Vadodara",
-    "queued_at": "2026-08-24T10:15:14.845958+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "240826015273",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-allengers-medical-systems-panchkula-zirakpur-dera-bassi-0-to-5-years-240826015273",
-    "source": "naukri",
-    "company": "Allengers Medical Systems",
-    "location": "Panchkula, Zirakpur, Dera Bassi",
-    "queued_at": "2026-08-24T10:15:14.845958+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "240826001579",
@@ -93,7 +74,8 @@
     "company": "First Mile Consulting",
     "location": "Mumbai",
     "queued_at": "2026-08-24T10:15:14.845958+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "220726011879",
@@ -103,7 +85,8 @@
     "company": "eClerx",
     "location": "Coimbatore",
     "queued_at": "2026-08-24T10:15:14.845958+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "200126041832",
@@ -113,6 +96,7 @@
     "company": "eClerx",
     "location": "Chandigarh",
     "queued_at": "2026-08-24T10:15:14.845958+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
