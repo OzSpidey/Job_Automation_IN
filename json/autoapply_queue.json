@@ -1,5 +1,49 @@
 [
   {
+    "job_id": "240826015993",
+    "title": "Growth Engineer",
+    "url": "https://www.naukri.com/job-listings-growth-engineer-emp-monitor-bengaluru-1-to-3-years-240826015993",
+    "source": "naukri",
+    "company": "EMP Monitor",
+    "location": "Bengaluru(Koramangala)",
+    "queued_at": "2026-08-24T12:15:24.019825+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "240826026067",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-lazorcode-india-0-to-2-years-240826026067",
+    "source": "naukri",
+    "company": "LazorCode",
+    "location": "India",
+    "queued_at": "2026-08-24T14:15:35.603859+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "240826024912",
+    "title": "Python Software Developer",
+    "url": "https://www.naukri.com/job-listings-python-software-developer-sisl-infotech-pune-1-to-4-years-240826024912",
+    "source": "naukri",
+    "company": "Sisl Infotech",
+    "location": "Pune",
+    "queued_at": "2026-08-24T14:15:35.603859+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "240826010315",
+    "title": "Quant Crypto Trader",
+    "url": "https://www.naukri.com/job-listings-quant-crypto-trader-biz-technologies-mumbai-1-to-2-years-240826010315",
+    "source": "naukri",
+    "company": "Biz Technologies",
+    "location": "Remote",
+    "queued_at": "2026-08-24T14:15:35.603859+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -43,49 +87,5 @@
     "level": "Early",
     "queued_at": "2026-08-20T04:02:11.786794+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "240826015993",
-    "title": "Growth Engineer",
-    "url": "https://www.naukri.com/job-listings-growth-engineer-emp-monitor-bengaluru-1-to-3-years-240826015993",
-    "source": "naukri",
-    "company": "EMP Monitor",
-    "location": "Bengaluru(Koramangala)",
-    "queued_at": "2026-08-24T12:15:24.019825+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "240826026067",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-lazorcode-india-0-to-2-years-240826026067",
-    "source": "naukri",
-    "company": "LazorCode",
-    "location": "India",
-    "queued_at": "2026-08-24T14:15:35.603859+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "240826024912",
-    "title": "Python Software Developer",
-    "url": "https://www.naukri.com/job-listings-python-software-developer-sisl-infotech-pune-1-to-4-years-240826024912",
-    "source": "naukri",
-    "company": "Sisl Infotech",
-    "location": "Pune",
-    "queued_at": "2026-08-24T14:15:35.603859+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "240826010315",
-    "title": "Quant Crypto Trader",
-    "url": "https://www.naukri.com/job-listings-quant-crypto-trader-biz-technologies-mumbai-1-to-2-years-240826010315",
-    "source": "naukri",
-    "company": "Biz Technologies",
-    "location": "Remote",
-    "queued_at": "2026-08-24T14:15:35.603859+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
