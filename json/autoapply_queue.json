@@ -54,5 +54,65 @@
     "level": "Early",
     "queued_at": "2026-08-20T04:02:11.786794+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "130726018537",
+    "title": "Software Developer I - IN",
+    "url": "https://www.naukri.com/job-listings-software-developer-i-in-rackspace-technology-gurugram-0-to-2-years-130726018537",
+    "source": "naukri",
+    "company": "Rackspace Technology",
+    "location": "Remote",
+    "queued_at": "2026-08-24T10:15:14.845958+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240826500957",
+    "title": "System developer u2013 C/C++, C# developer",
+    "url": "https://www.naukri.com/job-listings-system-developer-u2013-c-c-c-developer-wisedv-electronics-india-pvt-ltd-vadodara-1-to-5-years-240826500957",
+    "source": "naukri",
+    "company": "Wisedv Electronics India",
+    "location": "Vadodara",
+    "queued_at": "2026-08-24T10:15:14.845958+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240826015273",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-allengers-medical-systems-panchkula-zirakpur-dera-bassi-0-to-5-years-240826015273",
+    "source": "naukri",
+    "company": "Allengers Medical Systems",
+    "location": "Panchkula, Zirakpur, Dera Bassi",
+    "queued_at": "2026-08-24T10:15:14.845958+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240826001579",
+    "title": "backend developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-first-mile-consulting-mumbai-1-to-3-years-240826001579",
+    "source": "naukri",
+    "company": "First Mile Consulting",
+    "location": "Mumbai",
+    "queued_at": "2026-08-24T10:15:14.845958+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "220726011879",
+    "title": "Analyst GD Apprenticeship Val",
+    "url": "https://www.naukri.com/job-listings-analyst-gd-apprenticeship-val-eclerx-coimbatore-0-to-2-years-220726011879",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Coimbatore",
+    "queued_at": "2026-08-24T10:15:14.845958+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "200126041832",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-200126041832",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-08-24T10:15:14.845958+00:00",
+    "status": "queued"
   }
 ]
