@@ -45,61 +45,6 @@
     "status": "queued"
   },
   {
-    "job_id": "240826032335",
-    "title": "MERN Developer (HINDI Speaking)",
-    "url": "https://www.naukri.com/job-listings-mern-developer-hindi-speaking-getyourfirstjob-delhi-ncr-0-to-1-years-240826032335",
-    "source": "naukri",
-    "company": "Getyourfirstjob",
-    "location": "Delhi / NCR",
-    "queued_at": "2026-08-24T16:15:30.734544+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "240826001579",
-    "title": "backend developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-first-mile-consulting-mumbai-1-to-3-years-240826001579",
-    "source": "naukri",
-    "company": "First Mile Consulting",
-    "location": "Mumbai",
-    "queued_at": "2026-08-24T16:15:30.734544+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "130726018537",
-    "title": "Software Developer I - IN",
-    "url": "https://www.naukri.com/job-listings-software-developer-i-in-rackspace-technology-gurugram-0-to-2-years-130726018537",
-    "source": "naukri",
-    "company": "Rackspace Technology",
-    "location": "Remote",
-    "queued_at": "2026-08-24T16:15:30.734544+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "220726011879",
-    "title": "Analyst GD Apprenticeship Val",
-    "url": "https://www.naukri.com/job-listings-analyst-gd-apprenticeship-val-eclerx-coimbatore-0-to-2-years-220726011879",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Coimbatore",
-    "queued_at": "2026-08-24T16:15:30.734544+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "200126041832",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-200126041832",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-08-24T16:15:30.734544+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "240826032634",
     "title": "Social - Analyst",
     "url": "https://www.naukri.com/job-listings-social-analyst-omnicom-global-solutions-hyderabad-1-to-3-years-240826032634",
@@ -108,6 +53,6 @@
     "location": "Hyderabad",
     "queued_at": "2026-08-24T18:15:15.155765+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
