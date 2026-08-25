@@ -52,6 +52,7 @@
     "company": "Hedaoo Ecoautogrid",
     "location": "Wardha(Nalwadi)",
     "queued_at": "2026-08-25T22:15:35.145226+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
