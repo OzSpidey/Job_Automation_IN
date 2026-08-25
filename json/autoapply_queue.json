@@ -43,5 +43,25 @@
     "level": "Early",
     "queued_at": "2026-08-20T04:02:11.786794+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "230726035061",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-pune-0-to-2-years-230726035061",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-08-25T02:15:29.154336+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230726018689",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-230726018689",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-08-25T02:15:29.154336+00:00",
+    "status": "queued"
   }
 ]
