@@ -43,26 +43,5 @@
     "level": "Early",
     "queued_at": "2026-08-20T04:02:11.786794+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "250826031059",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-250826031059",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-08-25T16:15:09.772698+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "250826032210",
-    "title": "Walk-in || Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-3-years-250826032210",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "",
-    "queued_at": "2026-08-25T20:15:42.805772+00:00",
-    "status": "queued"
   }
 ]
