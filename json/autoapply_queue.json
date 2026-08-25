@@ -52,7 +52,8 @@
     "company": "eClerx",
     "location": "Pune",
     "queued_at": "2026-08-25T02:15:29.154336+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "230726018689",
@@ -62,6 +63,7 @@
     "company": "eClerx",
     "location": "Chandigarh",
     "queued_at": "2026-08-25T02:15:29.154336+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
