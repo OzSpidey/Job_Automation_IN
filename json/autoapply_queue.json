@@ -45,61 +45,6 @@
     "status": "queued"
   },
   {
-    "job_id": "250826030002",
-    "title": "Software engineer F3 flow",
-    "url": "https://www.naukri.com/job-listings-software-engineer-f3-flow-randstad-mumbai-0-to-1-years-250826030002",
-    "source": "naukri",
-    "company": "Randstad",
-    "location": "Mumbai",
-    "queued_at": "2026-08-25T14:15:44.199873+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "250826008421",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-tekskills-chennai-1-to-4-years-250826008421",
-    "source": "naukri",
-    "company": "Tekskills",
-    "location": "Chennai",
-    "queued_at": "2026-08-25T14:15:44.199873+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "250826013780",
-    "title": "Python Software Developer",
-    "url": "https://www.naukri.com/job-listings-python-software-developer-skillfort-technologies-chennai-1-to-3-years-250826013780",
-    "source": "naukri",
-    "company": "Skillfort Technologies",
-    "location": "Chennai(Sholinganallur)",
-    "queued_at": "2026-08-25T14:15:44.199873+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "250826017789",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-250826017789",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-08-25T14:15:44.199873+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "250826017299",
-    "title": "Firmware Engineer",
-    "url": "https://www.naukri.com/job-listings-firmware-engineer-omkaar-energy-solutions-mohali-1-to-4-years-250826017299",
-    "source": "naukri",
-    "company": "Omkaar Energy Solutions",
-    "location": "Mohali",
-    "queued_at": "2026-08-25T14:15:44.199873+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "250826031059",
     "title": "Analyst",
     "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-250826031059",
@@ -108,6 +53,6 @@
     "location": "Navi Mumbai",
     "queued_at": "2026-08-25T16:15:09.772698+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
