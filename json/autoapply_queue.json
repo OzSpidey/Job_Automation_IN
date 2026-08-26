@@ -54,5 +54,25 @@
     "level": "Early",
     "queued_at": "2026-08-20T04:02:11.786794+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "260826008619",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-avom-consultants-pune-bengaluru-delhi-ncr-0-to-5-years-260826008619",
+    "source": "naukri",
+    "company": "Avom Consultants",
+    "location": "Hybrid - Pune, Bengaluru, Delhi / NCR",
+    "queued_at": "2026-08-26T04:15:16.954650+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826000534",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-hedaoo-ecoautogrid-private-limited-wardha-0-to-1-years-260826000534",
+    "source": "naukri",
+    "company": "Hedaoo Ecoautogrid",
+    "location": "Wardha(Nalwadi)",
+    "queued_at": "2026-08-26T04:15:16.954650+00:00",
+    "status": "queued"
   }
 ]
