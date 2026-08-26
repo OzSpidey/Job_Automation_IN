@@ -45,17 +45,6 @@
     "status": "queued"
   },
   {
-    "job_id": "260826000534",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-hedaoo-ecoautogrid-private-limited-wardha-0-to-1-years-260826000534",
-    "source": "naukri",
-    "company": "Hedaoo Ecoautogrid",
-    "location": "Wardha(Nalwadi)",
-    "queued_at": "2026-08-25T22:15:35.145226+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "260826000708",
     "title": "Software Developer",
     "url": "https://www.naukri.com/job-listings-software-developer-tefy-visakhapatnam-0-to-2-years-260826000708",
@@ -64,6 +53,6 @@
     "location": "Visakhapatnam",
     "queued_at": "2026-08-26T00:15:05.722378+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
