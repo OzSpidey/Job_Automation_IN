@@ -54,5 +54,215 @@
     "level": "Early",
     "queued_at": "2026-08-20T04:02:11.786794+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "260826502530",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-merck-group-bengaluru-0-to-2-years-260826502530",
+    "source": "naukri",
+    "company": "Merck",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826020079",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-najuk-salar-shahabadi-hyderabad-pune-bengaluru-0-to-2-years-260826020079",
+    "source": "naukri",
+    "company": "Golden Management Services",
+    "location": "Hybrid - Hyderabad, Pune, Bengaluru",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826501082",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-authorselvi-vellore-0-to-2-years-260826501082",
+    "source": "naukri",
+    "company": "Authorselvi",
+    "location": "Vellore",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826502269",
+    "title": "R&D Engineer (C++)",
+    "url": "https://www.naukri.com/job-listings-r-d-engineer-c-ubisoft-india-pune-0-to-3-years-260826502269",
+    "source": "naukri",
+    "company": "Ubisoft",
+    "location": "Pune",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826500263",
+    "title": "C++ Developer",
+    "url": "https://www.naukri.com/job-listings-c-developer-hitachi-services-mumbai-1-to-2-years-260826500263",
+    "source": "naukri",
+    "company": "Hitachi Payment Services",
+    "location": "Mumbai",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826503416",
+    "title": "Software Systems Engineer-Devops",
+    "url": "https://www.naukri.com/job-listings-software-systems-engineer-devops-hewlett-packard-enterprise-bengaluru-0-to-2-years-260826503416",
+    "source": "naukri",
+    "company": "Hewlett Packard Enterprise",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826921846",
+    "title": "Principal Engineer - Agentic Engineering",
+    "url": "https://www.naukri.com/job-listings-principal-engineer-agentic-engineering-fil-india-business-and-research-services-private-limited-bengaluru-1-to-6-years-260826921846",
+    "source": "naukri",
+    "company": "Fidelity International",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826501713",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-iflow-hyderabad-0-to-3-years-260826501713",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826501519",
+    "title": "Foundational Engineer - Connectivity",
+    "url": "https://www.naukri.com/job-listings-foundational-engineer-connectivity-harman-india-bengaluru-1-to-6-years-260826501519",
+    "source": "naukri",
+    "company": "Harman International",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826501143",
+    "title": "End User Engineer",
+    "url": "https://www.naukri.com/job-listings-end-user-engineer-team-computers-pvt-ltd-mumbai-navi-mumbai-0-to-6-years-260826501143",
+    "source": "naukri",
+    "company": "Team Computers",
+    "location": "Mumbai, Navi Mumbai",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826022364",
+    "title": "Junior Engineer - Third Party Payroll",
+    "url": "https://www.naukri.com/job-listings-junior-engineer-third-party-payroll-intertek-delhi-ncr-0-to-1-years-260826022364",
+    "source": "naukri",
+    "company": "Intertek",
+    "location": "Delhi / NCR(Mohan Co operative)",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826018981",
+    "title": "DV Engineer",
+    "url": "https://www.naukri.com/job-listings-dv-engineer-si14-semiconductor-bengaluru-1-to-3-years-260826018981",
+    "source": "naukri",
+    "company": "Si14 Semiconductor",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826018796",
+    "title": "Quantitative Developer & Equity Analyst",
+    "url": "https://www.naukri.com/job-listings-quantitative-developer-equity-analyst-levitas-trade-llp-kolkata-0-to-3-years-260826018796",
+    "source": "naukri",
+    "company": "Levitas Trade Llp",
+    "location": "Kolkata(EP Block Sector 5 Salt Lake)",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826501832",
+    "title": "MERN Developer",
+    "url": "https://www.naukri.com/job-listings-mern-developer-technocrats-horizons-ludhiana-1-to-2-years-260826501832",
+    "source": "naukri",
+    "company": "Technocrats Horizons",
+    "location": "Ludhiana",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826501706",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mumbai-1-to-6-years-260826501706",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mumbai",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826501514",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-260826501514",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826501259",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflow-hyderabad-0-to-3-years-260826501259",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826500936",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflow-bengaluru-0-to-3-years-260826500936",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826500882",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflow-pune-0-to-3-years-260826500882",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Pune",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826500348",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-260826500348",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260826500094",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-4-years-260826500094",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "queued"
   }
 ]
