@@ -43,27 +43,5 @@
     "level": "Early",
     "queued_at": "2026-08-20T04:02:11.786794+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "260826030332",
-    "title": "Software Application Developer",
-    "url": "https://www.naukri.com/job-listings-software-application-developer-cleaffo-innovation-labs-pune-0-to-2-years-260826030332",
-    "source": "naukri",
-    "company": "Cleaffo Innovation Labs",
-    "location": "Pune(Hinjewadi)",
-    "queued_at": "2026-08-26T14:15:22.090888+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "260826013662",
-    "title": "C++ / Qt Desktop Application Engineer",
-    "url": "https://www.naukri.com/job-listings-c-qt-desktop-application-engineer-amx-innovations-bengaluru-1-to-2-years-260826013662",
-    "source": "naukri",
-    "company": "AMX Innovations",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-26T14:15:22.090888+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
