@@ -45,17 +45,6 @@
     "status": "queued"
   },
   {
-    "job_id": "260826000534",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-hedaoo-ecoautogrid-private-limited-wardha-0-to-1-years-260826000534",
-    "source": "naukri",
-    "company": "Hedaoo Ecoautogrid",
-    "location": "Wardha(Nalwadi)",
-    "queued_at": "2026-08-26T04:15:16.954650+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "260826013662",
     "title": "C++ / Qt Desktop Application Engineer",
     "url": "https://www.naukri.com/job-listings-c-qt-desktop-application-engineer-amx-innovations-bengaluru-1-to-2-years-260826013662",
@@ -63,6 +52,7 @@
     "company": "AMX Innovations",
     "location": "Bengaluru",
     "queued_at": "2026-08-26T08:15:21.126592+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
