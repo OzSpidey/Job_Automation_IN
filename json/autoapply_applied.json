@@ -3497,5 +3497,27 @@
     "queued_at": "2026-08-26T04:15:16.954650+00:00",
     "status": "applied",
     "applied_at": "2026-08-26T04:16:27.628540+00:00"
+  },
+  {
+    "job_id": "260826020079",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-najuk-salar-shahabadi-hyderabad-pune-bengaluru-0-to-2-years-260826020079",
+    "source": "naukri",
+    "company": "Golden Management Services",
+    "location": "Hybrid - Hyderabad, Pune, Bengaluru",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-26T10:16:33.594263+00:00"
+  },
+  {
+    "job_id": "260826022364",
+    "title": "Junior Engineer - Third Party Payroll",
+    "url": "https://www.naukri.com/job-listings-junior-engineer-third-party-payroll-intertek-delhi-ncr-0-to-1-years-260826022364",
+    "source": "naukri",
+    "company": "Intertek",
+    "location": "Delhi / NCR(Mohan Co operative)",
+    "queued_at": "2026-08-26T10:15:19.097195+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-26T10:17:24.079316+00:00"
   }
 ]
