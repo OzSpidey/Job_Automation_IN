@@ -54,5 +54,15 @@
     "queued_at": "2026-08-25T22:15:35.145226+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "260826000708",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-tefy-visakhapatnam-0-to-2-years-260826000708",
+    "source": "naukri",
+    "company": "Tefy",
+    "location": "Visakhapatnam",
+    "queued_at": "2026-08-26T00:15:05.722378+00:00",
+    "status": "queued"
   }
 ]
