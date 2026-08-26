@@ -1,16 +1,5 @@
 [
   {
-    "job_id": "260826000708",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-tefy-visakhapatnam-0-to-2-years-260826000708",
-    "source": "naukri",
-    "company": "Tefy",
-    "location": "Visakhapatnam",
-    "queued_at": "2026-08-26T00:15:05.722378+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -56,16 +45,6 @@
     "status": "queued"
   },
   {
-    "job_id": "260826008619",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-avom-consultants-pune-bengaluru-delhi-ncr-0-to-5-years-260826008619",
-    "source": "naukri",
-    "company": "Avom Consultants",
-    "location": "Hybrid - Pune, Bengaluru, Delhi / NCR",
-    "queued_at": "2026-08-26T04:15:16.954650+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "260826000534",
     "title": "Software Developer",
     "url": "https://www.naukri.com/job-listings-software-developer-hedaoo-ecoautogrid-private-limited-wardha-0-to-1-years-260826000534",
@@ -73,6 +52,7 @@
     "company": "Hedaoo Ecoautogrid",
     "location": "Wardha(Nalwadi)",
     "queued_at": "2026-08-26T04:15:16.954650+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
