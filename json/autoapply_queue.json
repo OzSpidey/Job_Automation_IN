@@ -71,7 +71,7 @@
     "location": "Gurugram",
     "queued_at": "2026-08-27T16:15:30.123875+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "220626025930",
@@ -82,6 +82,6 @@
     "location": "Noida(Sector 6)",
     "queued_at": "2026-08-27T16:15:30.123875+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
