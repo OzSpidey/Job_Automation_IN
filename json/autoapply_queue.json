@@ -63,16 +63,6 @@
     "status": "queued"
   },
   {
-    "job_id": "270826502745",
-    "title": "Systems/Software Engineer I",
-    "url": "https://www.naukri.com/job-listings-systems-software-engineer-i-hewlett-packard-enterprise-bengaluru-1-to-3-years-270826502745",
-    "source": "naukri",
-    "company": "Hewlett Packard Enterprise",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-27T10:15:14.196074+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "220626025930",
     "title": "System Software Engineer",
     "url": "https://www.naukri.com/job-listings-system-software-engineer-nexus-engiconsults-noida-0-to-1-years-220626025930",
@@ -80,116 +70,7 @@
     "company": "Nexus Engiconsults",
     "location": "Noida(Sector 6)",
     "queued_at": "2026-08-27T10:15:14.196074+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "270826919796",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-opentext-technologies-india-pvt-ltd-hyderabad-1-to-6-years-270826919796",
-    "source": "naukri",
-    "company": "Opentext",
-    "location": "Hyderabad",
-    "queued_at": "2026-08-27T10:15:14.196074+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "270826503310",
-    "title": "Infosec Engineer",
-    "url": "https://www.naukri.com/job-listings-infosec-engineer-sophos-ltd-bengaluru-1-to-2-years-270826503310",
-    "source": "naukri",
-    "company": "Sophos",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-27T10:15:14.196074+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "270826503309",
-    "title": "Infosec Engineer",
-    "url": "https://www.naukri.com/job-listings-infosec-engineer-sophos-ltd-new-delhi-1-to-2-years-270826503309",
-    "source": "naukri",
-    "company": "Sophos",
-    "location": "New Delhi",
-    "queued_at": "2026-08-27T10:15:14.196074+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "270826503271",
-    "title": "End User Engineer",
-    "url": "https://www.naukri.com/job-listings-end-user-engineer-team-computers-pvt-ltd-navi-mumbai-0-to-6-years-270826503271",
-    "source": "naukri",
-    "company": "Team Computers",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-08-27T10:15:14.196074+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "270826502526",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-iflow-chennai-0-to-3-years-270826502526",
-    "source": "naukri",
-    "company": "Iflow",
-    "location": "Chennai",
-    "queued_at": "2026-08-27T10:15:14.196074+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "270826919918",
-    "title": "QE Analyst",
-    "url": "https://www.naukri.com/job-listings-qe-analyst-cgi-information-systems-and-management-consultants-bengaluru-1-to-6-years-270826919918",
-    "source": "naukri",
-    "company": "CGI",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-27T10:15:14.196074+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "270826502543",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mohali-0-to-4-years-270826502543",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Mohali",
-    "queued_at": "2026-08-27T10:15:14.196074+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "270826502500",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-iflow-bengaluru-0-to-3-years-270826502500",
-    "source": "naukri",
-    "company": "Iflow",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-27T10:15:14.196074+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "270826502456",
-    "title": "Analyst FTH",
-    "url": "https://www.naukri.com/job-listings-analyst-fth-unitedlex-corporation-bengaluru-1-to-6-years-270826502456",
-    "source": "naukri",
-    "company": "Unitedlex",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-27T10:15:14.196074+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "270826501026",
-    "title": "Java Developer- Telecom Domain",
-    "url": "https://www.naukri.com/job-listings-java-developer-telecom-domain-blue-planet-solutions-inc-bengaluru-1-to-6-years-270826501026",
-    "source": "naukri",
-    "company": "Blue Planet Solutions",
-    "location": "Bengaluru",
-    "queued_at": "2026-08-27T10:15:14.196074+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "270826501910",
-    "title": "SmartComm Developer",
-    "url": "https://www.naukri.com/job-listings-smartcomm-developer-zensar-technologies-pune-0-to-4-years-270826501910",
-    "source": "naukri",
-    "company": "Zensar",
-    "location": "Pune",
-    "queued_at": "2026-08-27T10:15:14.196074+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
