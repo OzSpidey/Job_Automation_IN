@@ -61,27 +61,5 @@
     "level": "Early",
     "queued_at": "2026-08-27T04:01:14.138038+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "270826030421",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-finthrive-gurugram-1-to-2-years-270826030421",
-    "source": "naukri",
-    "company": "Finthrive",
-    "location": "Gurugram",
-    "queued_at": "2026-08-27T16:15:30.123875+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "220626025930",
-    "title": "System Software Engineer",
-    "url": "https://www.naukri.com/job-listings-system-software-engineer-nexus-engiconsults-noida-0-to-1-years-220626025930",
-    "source": "naukri",
-    "company": "Nexus Engiconsults",
-    "location": "Noida(Sector 6)",
-    "queued_at": "2026-08-27T16:15:30.123875+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
