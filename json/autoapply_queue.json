@@ -71,7 +71,7 @@
     "location": "Chandigarh",
     "queued_at": "2026-08-28T12:15:12.130615+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "280826009508",
@@ -82,7 +82,7 @@
     "location": "Mohali",
     "queued_at": "2026-08-28T12:15:12.130615+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "280826009507",
@@ -93,7 +93,7 @@
     "location": "Chandigarh",
     "queued_at": "2026-08-28T12:15:12.130615+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "270826022824",
@@ -104,7 +104,7 @@
     "location": "Chengalpattu, Chennai",
     "queued_at": "2026-08-28T12:15:12.130615+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "280826003172",
@@ -115,7 +115,7 @@
     "location": "Indore, Chennai",
     "queued_at": "2026-08-28T12:15:12.130615+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "280826002336",
@@ -126,17 +126,7 @@
     "location": "Hyderabad(Kondapur)",
     "queued_at": "2026-08-28T12:15:12.130615+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "280826011227",
-    "title": "SOAR Engineer",
-    "url": "https://www.naukri.com/job-listings-soar-engineer-embarkgcc-services-mumbai-1-to-6-years-280826011227",
-    "source": "naukri",
-    "company": "Embarkgcc Services",
-    "location": "Hybrid - Mumbai",
-    "queued_at": "2026-08-28T14:15:13.150914+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "280826011097",
@@ -146,6 +136,7 @@
     "company": "eClerx",
     "location": "Mumbai",
     "queued_at": "2026-08-28T14:15:13.150914+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
