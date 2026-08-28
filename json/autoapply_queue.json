@@ -79,16 +79,5 @@
     "level": "Early",
     "queued_at": "2026-08-28T16:01:29.141178+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "280826011097",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-mumbai-0-to-2-years-280826011097",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Mumbai",
-    "queued_at": "2026-08-28T14:15:13.150914+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
