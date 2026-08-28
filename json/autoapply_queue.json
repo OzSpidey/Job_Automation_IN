@@ -71,7 +71,7 @@
     "location": "Indore, Chennai",
     "queued_at": "2026-08-28T06:15:07.957283+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "280826002336",
@@ -82,6 +82,6 @@
     "location": "Hyderabad(Kondapur)",
     "queued_at": "2026-08-28T06:15:07.957283+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
