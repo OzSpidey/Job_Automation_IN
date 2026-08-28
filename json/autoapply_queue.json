@@ -63,16 +63,6 @@
     "status": "queued"
   },
   {
-    "job_id": "280826002773",
-    "title": "Walk-in || Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-anusha-bazaar-technologies-hyderabad-0-to-2-years-280826002773",
-    "source": "naukri",
-    "company": "Anusha Bazaar Technologies",
-    "location": "",
-    "queued_at": "2026-08-28T06:15:07.957283+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "280826003172",
     "title": "AI Engineer / GenAI Backend Developer",
     "url": "https://www.naukri.com/job-listings-ai-engineer-genai-backend-developer-bitcot-technologies-indore-chennai-1-to-2-years-280826003172",
@@ -80,7 +70,8 @@
     "company": "Bitcot Technologies",
     "location": "Indore, Chennai",
     "queued_at": "2026-08-28T06:15:07.957283+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "280826002336",
@@ -90,6 +81,7 @@
     "company": "Lohiya Group",
     "location": "Hyderabad(Kondapur)",
     "queued_at": "2026-08-28T06:15:07.957283+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
