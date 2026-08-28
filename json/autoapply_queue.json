@@ -63,83 +63,6 @@
     "status": "queued"
   },
   {
-    "job_id": "280826009509",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-280826009509",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-08-28T12:15:12.130615+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "280826009508",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-mohali-0-to-2-years-280826009508",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Mohali",
-    "queued_at": "2026-08-28T12:15:12.130615+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "280826009507",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-280826009507",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-08-28T12:15:12.130615+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "270826022824",
-    "title": "SimManager Developer",
-    "url": "https://www.naukri.com/job-listings-simmanager-developer-shubh-labh-enterprises-chengalpattu-chennai-1-to-2-years-270826022824",
-    "source": "naukri",
-    "company": "Mahindra & Mahindra (M&M)",
-    "location": "Chengalpattu, Chennai",
-    "queued_at": "2026-08-28T12:15:12.130615+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "280826003172",
-    "title": "AI Engineer / GenAI Backend Developer",
-    "url": "https://www.naukri.com/job-listings-ai-engineer-genai-backend-developer-bitcot-technologies-indore-chennai-1-to-2-years-280826003172",
-    "source": "naukri",
-    "company": "Bitcot Technologies",
-    "location": "Indore, Chennai",
-    "queued_at": "2026-08-28T12:15:12.130615+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "280826002336",
-    "title": "Performance Test Engineer",
-    "url": "https://www.naukri.com/job-listings-performance-test-engineer-lohiya-group-hyderabad-1-to-4-years-280826002336",
-    "source": "naukri",
-    "company": "Lohiya Group",
-    "location": "Hyderabad(Kondapur)",
-    "queued_at": "2026-08-28T12:15:12.130615+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "280826011097",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-mumbai-0-to-2-years-280826011097",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Mumbai",
-    "queued_at": "2026-08-28T14:15:13.150914+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcIcV_0fPk4Rtw6lfB8Y9L1H8O2vHxu44n0hfqtSweDAEjsA1Ny_i26R2BFGvzL0O82U-13u15PKLPomM-GhOUufcOYziYL_OT49YTevxv2I3YhmLN1ThcHyUfYOPQ==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcIcV_0fPk4Rtw6lfB8Y9L1H8O2vHxu44n0hfqtSweDAEjsA1Ny_i26R2BFGvzL0O82U-13u15PKLPomM-GhOUufcOYziYL_OT49YTevxv2I3YhmLN1ThcHyUfYOPQ%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -156,5 +79,16 @@
     "level": "Early",
     "queued_at": "2026-08-28T16:01:29.141178+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "280826011097",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-mumbai-0-to-2-years-280826011097",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mumbai",
+    "queued_at": "2026-08-28T14:15:13.150914+00:00",
+    "status": "queued",
+    "attempts": 2
   }
 ]
