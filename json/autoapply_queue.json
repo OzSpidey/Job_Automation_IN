@@ -127,5 +127,25 @@
     "queued_at": "2026-08-28T12:15:12.130615+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "280826011227",
+    "title": "SOAR Engineer",
+    "url": "https://www.naukri.com/job-listings-soar-engineer-embarkgcc-services-mumbai-1-to-6-years-280826011227",
+    "source": "naukri",
+    "company": "Embarkgcc Services",
+    "location": "Hybrid - Mumbai",
+    "queued_at": "2026-08-28T14:15:13.150914+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280826011097",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-mumbai-0-to-2-years-280826011097",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mumbai",
+    "queued_at": "2026-08-28T14:15:13.150914+00:00",
+    "status": "queued"
   }
 ]
