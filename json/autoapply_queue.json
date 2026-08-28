@@ -70,7 +70,8 @@
     "company": "eClerx",
     "location": "Chandigarh",
     "queued_at": "2026-08-28T12:15:12.130615+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "280826009508",
@@ -80,7 +81,8 @@
     "company": "eClerx",
     "location": "Mohali",
     "queued_at": "2026-08-28T12:15:12.130615+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "280826009507",
@@ -90,7 +92,8 @@
     "company": "eClerx",
     "location": "Chandigarh",
     "queued_at": "2026-08-28T12:15:12.130615+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "270826022824",
@@ -100,7 +103,8 @@
     "company": "Mahindra & Mahindra (M&M)",
     "location": "Chengalpattu, Chennai",
     "queued_at": "2026-08-28T12:15:12.130615+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "280826003172",
@@ -110,7 +114,8 @@
     "company": "Bitcot Technologies",
     "location": "Indore, Chennai",
     "queued_at": "2026-08-28T12:15:12.130615+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "280826002336",
@@ -120,6 +125,7 @@
     "company": "Lohiya Group",
     "location": "Hyderabad(Kondapur)",
     "queued_at": "2026-08-28T12:15:12.130615+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
