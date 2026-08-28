@@ -1,27 +1,5 @@
 [
   {
-    "job_id": "280826003172",
-    "title": "AI Engineer / GenAI Backend Developer",
-    "url": "https://www.naukri.com/job-listings-ai-engineer-genai-backend-developer-bitcot-technologies-indore-chennai-1-to-2-years-280826003172",
-    "source": "naukri",
-    "company": "Bitcot Technologies",
-    "location": "Indore, Chennai",
-    "queued_at": "2026-08-28T06:15:07.957283+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "280826002336",
-    "title": "Performance Test Engineer",
-    "url": "https://www.naukri.com/job-listings-performance-test-engineer-lohiya-group-hyderabad-1-to-4-years-280826002336",
-    "source": "naukri",
-    "company": "Lohiya Group",
-    "location": "Hyderabad(Kondapur)",
-    "queued_at": "2026-08-28T06:15:07.957283+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -82,16 +60,6 @@
     "source": "google",
     "level": "Early",
     "queued_at": "2026-08-27T04:01:14.138038+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "220725030124",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-techathalon-software-mumbai-0-to-1-years-220725030124",
-    "source": "naukri",
-    "company": "Techathalon Software",
-    "location": "Mumbai",
-    "queued_at": "2026-08-28T10:15:12.816915+00:00",
     "status": "queued"
   }
 ]
