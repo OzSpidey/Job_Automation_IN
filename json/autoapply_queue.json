@@ -88,7 +88,8 @@
     "company": "Maintics Automation & Robotics Llp",
     "location": "Gurugram",
     "queued_at": "2026-08-28T20:15:18.254259+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "290826000051",
@@ -98,6 +99,7 @@
     "company": "Learnfly",
     "location": "Remote",
     "queued_at": "2026-08-28T20:15:18.254259+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
