@@ -79,27 +79,5 @@
     "level": "Early",
     "queued_at": "2026-08-28T16:01:29.141178+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "290826000181",
-    "title": "Software Developer Django, React, PostgreSQL",
-    "url": "https://www.naukri.com/job-listings-software-developer-django-react-postgresql-maintics-automation-robotics-llp-gurugram-1-to-2-years-290826000181",
-    "source": "naukri",
-    "company": "Maintics Automation & Robotics Llp",
-    "location": "Gurugram",
-    "queued_at": "2026-08-28T20:15:18.254259+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "290826000051",
-    "title": "Capture Analyst",
-    "url": "https://www.naukri.com/job-listings-capture-analyst-learnfly-gurugram-1-to-5-years-290826000051",
-    "source": "naukri",
-    "company": "Learnfly",
-    "location": "Remote",
-    "queued_at": "2026-08-28T20:15:18.254259+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
