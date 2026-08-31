@@ -79,16 +79,5 @@
     "level": "Early",
     "queued_at": "2026-08-28T16:01:29.141178+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "310826026886",
-    "title": "Software Engineer -C# / .Net",
-    "url": "https://www.naukri.com/job-listings-software-engineer-c-net-amtech-bengaluru-1-to-6-years-310826026886",
-    "source": "naukri",
-    "company": "Amtech",
-    "location": "Hybrid - Bengaluru(Manayata Tech Park)",
-    "queued_at": "2026-08-31T16:15:10.702108+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
