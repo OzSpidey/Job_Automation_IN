@@ -79,5 +79,45 @@
     "level": "Early",
     "queued_at": "2026-08-28T16:01:29.141178+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "310826002819",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-310826002819",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-08-31T06:15:11.799574+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310826004272",
+    "title": "Software Engineer, developer / Programmer, 2026 graduate Can apply",
+    "url": "https://www.naukri.com/job-listings-software-engineer-developer-programmer-2026-graduate-can-apply-creative-hands-hr-udaipur-jaipur-jodhpur-0-to-5-years-310826004272",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Udaipur, Jaipur, Jodhpur",
+    "queued_at": "2026-08-31T06:15:11.799574+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310826002352",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-ap-management-consultants-puducherry-0-to-5-years-310826002352",
+    "source": "naukri",
+    "company": "AP Management Consultants",
+    "location": "Puducherry",
+    "queued_at": "2026-08-31T06:15:11.799574+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310826003011",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-310826003011",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-08-31T06:15:11.799574+00:00",
+    "status": "queued"
   }
 ]
