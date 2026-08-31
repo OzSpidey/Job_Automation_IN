@@ -1,27 +1,5 @@
 [
   {
-    "job_id": "310826002352",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-ap-management-consultants-puducherry-0-to-5-years-310826002352",
-    "source": "naukri",
-    "company": "AP Management Consultants",
-    "location": "Puducherry",
-    "queued_at": "2026-08-31T06:15:11.799574+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "310826005712",
-    "title": "Analyst/Developer - Generic 2667",
-    "url": "https://www.naukri.com/job-listings-analyst-developer-generic-2667-sunrise-biztech-systems-hyderabad-1-to-4-years-310826005712",
-    "source": "naukri",
-    "company": "Sunrise Biztech Systems",
-    "location": "Hyderabad",
-    "queued_at": "2026-08-31T08:15:20.074482+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -103,6 +81,17 @@
     "status": "queued"
   },
   {
+    "job_id": "310826005712",
+    "title": "Analyst/Developer - Generic 2667",
+    "url": "https://www.naukri.com/job-listings-analyst-developer-generic-2667-sunrise-biztech-systems-hyderabad-1-to-4-years-310826005712",
+    "source": "naukri",
+    "company": "Sunrise Biztech Systems",
+    "location": "Hyderabad",
+    "queued_at": "2026-08-31T08:15:20.074482+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
     "job_id": "310826009667",
     "title": "SRE Engineer",
     "url": "https://www.naukri.com/job-listings-sre-engineer-xebia-it-architects-pune-gurugram-bengaluru-1-to-4-years-310826009667",
@@ -110,16 +99,7 @@
     "company": "Xebia It Architects",
     "location": "Hybrid - Pune, Gurugram, Bengaluru",
     "queued_at": "2026-08-31T10:15:06.110081+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "310826011697",
-    "title": "Anaylst - Policy Issuance",
-    "url": "https://www.naukri.com/job-listings-anaylst-policy-issuance-xceedance-gurugram-0-to-1-years-310826011697",
-    "source": "naukri",
-    "company": "Xceedance",
-    "location": "Gurugram",
-    "queued_at": "2026-08-31T10:15:06.110081+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
