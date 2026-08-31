@@ -3783,5 +3783,16 @@
     "queued_at": "2026-08-31T06:15:11.799574+00:00",
     "status": "applied",
     "applied_at": "2026-08-31T06:16:49.121002+00:00"
+  },
+  {
+    "job_id": "310826008499",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-cl-educate-delhi-ncr-1-to-3-years-310826008499",
+    "source": "naukri",
+    "company": "CL Educate",
+    "location": "Delhi / NCR(Mohan Co operative)",
+    "queued_at": "2026-08-31T08:15:20.074482+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-31T08:16:34.318180+00:00"
   }
 ]

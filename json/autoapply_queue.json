@@ -89,17 +89,7 @@
     "location": "Puducherry",
     "queued_at": "2026-08-31T06:15:11.799574+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "310826008499",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-cl-educate-delhi-ncr-1-to-3-years-310826008499",
-    "source": "naukri",
-    "company": "CL Educate",
-    "location": "Delhi / NCR(Mohan Co operative)",
-    "queued_at": "2026-08-31T08:15:20.074482+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "310826005712",
@@ -109,6 +99,7 @@
     "company": "Sunrise Biztech Systems",
     "location": "Hyderabad",
     "queued_at": "2026-08-31T08:15:20.074482+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
