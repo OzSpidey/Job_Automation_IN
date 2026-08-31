@@ -3827,5 +3827,38 @@
     "queued_at": "2026-08-31T12:15:12.735192+00:00",
     "status": "applied",
     "applied_at": "2026-08-31T12:19:24.713513+00:00"
+  },
+  {
+    "job_id": "310826916909",
+    "title": "Launch Engineer",
+    "url": "https://www.naukri.com/job-listings-launch-engineer-tata-technologies-ltd-jamshedpur-1-to-3-years-310826916909",
+    "source": "naukri",
+    "company": "Tata Technologies",
+    "location": "Jamshedpur",
+    "queued_at": "2026-08-31T14:15:30.984889+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-31T14:17:48.450153+00:00"
+  },
+  {
+    "job_id": "310826918626",
+    "title": "Manager/ Analyst",
+    "url": "https://www.naukri.com/job-listings-manager-analyst-cushman-wakefield-india-pvt-ltd-bengaluru-0-to-5-years-310826918626",
+    "source": "naukri",
+    "company": "Cushman & Wakefield",
+    "location": "Bengaluru",
+    "queued_at": "2026-08-31T14:15:30.984889+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-31T14:18:43.398856+00:00"
+  },
+  {
+    "job_id": "310826916831",
+    "title": "Skill Builder/Developer (SB)",
+    "url": "https://www.naukri.com/job-listings-skill-builder-developer-sb-avantor-performance-materials-india-private-limited-pune-coimbatore-1-to-4-years-310826916831",
+    "source": "naukri",
+    "company": "Avantor",
+    "location": "Pune, Coimbatore",
+    "queued_at": "2026-08-31T14:15:30.984889+00:00",
+    "status": "applied",
+    "applied_at": "2026-08-31T14:18:53.413535+00:00"
   }
 ]
