@@ -81,17 +81,6 @@
     "status": "queued"
   },
   {
-    "job_id": "310826005712",
-    "title": "Analyst/Developer - Generic 2667",
-    "url": "https://www.naukri.com/job-listings-analyst-developer-generic-2667-sunrise-biztech-systems-hyderabad-1-to-4-years-310826005712",
-    "source": "naukri",
-    "company": "Sunrise Biztech Systems",
-    "location": "Hyderabad",
-    "queued_at": "2026-08-31T14:15:30.984889+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "310826026886",
     "title": "Software Engineer -C# / .Net",
     "url": "https://www.naukri.com/job-listings-software-engineer-c-net-amtech-bengaluru-1-to-6-years-310826026886",
@@ -100,6 +89,6 @@
     "location": "Hybrid - Bengaluru(Manayata Tech Park)",
     "queued_at": "2026-08-31T16:15:10.702108+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
