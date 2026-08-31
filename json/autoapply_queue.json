@@ -101,5 +101,25 @@
     "level": "Early",
     "queued_at": "2026-08-28T16:01:29.141178+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "310826009667",
+    "title": "SRE Engineer",
+    "url": "https://www.naukri.com/job-listings-sre-engineer-xebia-it-architects-pune-gurugram-bengaluru-1-to-4-years-310826009667",
+    "source": "naukri",
+    "company": "Xebia It Architects",
+    "location": "Hybrid - Pune, Gurugram, Bengaluru",
+    "queued_at": "2026-08-31T10:15:06.110081+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310826011697",
+    "title": "Anaylst - Policy Issuance",
+    "url": "https://www.naukri.com/job-listings-anaylst-policy-issuance-xceedance-gurugram-0-to-1-years-310826011697",
+    "source": "naukri",
+    "company": "Xceedance",
+    "location": "Gurugram",
+    "queued_at": "2026-08-31T10:15:06.110081+00:00",
+    "status": "queued"
   }
 ]
