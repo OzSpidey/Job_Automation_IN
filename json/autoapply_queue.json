@@ -1,16 +1,5 @@
 [
   {
-    "job_id": "010926915007",
-    "title": "Performance Testing Engineer",
-    "url": "https://www.naukri.com/job-listings-performance-testing-engineer-infosys-limited-bengaluru-1-to-3-years-010926915007",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-01T08:15:26.791091+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -119,23 +108,14 @@
     "status": "queued"
   },
   {
-    "job_id": "010926500440",
-    "title": "Software Engineer - Freshers",
-    "url": "https://www.naukri.com/job-listings-software-engineer-freshers-skywalk-global-services-hyderabad-0-to-8-years-010926500440",
+    "job_id": "010926915007",
+    "title": "Performance Testing Engineer",
+    "url": "https://www.naukri.com/job-listings-performance-testing-engineer-infosys-limited-bengaluru-1-to-3-years-010926915007",
     "source": "naukri",
-    "company": "Skywalk Global",
-    "location": "Hyderabad",
-    "queued_at": "2026-09-01T10:15:18.275096+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "010926500397",
-    "title": "PC - SDE - North",
-    "url": "https://www.naukri.com/job-listings-pc-sde-north-cavinkare-pvt-ltd-kanpur-0-to-5-years-010926500397",
-    "source": "naukri",
-    "company": "CavinKare",
-    "location": "Kanpur",
-    "queued_at": "2026-09-01T10:15:18.275096+00:00",
-    "status": "queued"
+    "company": "Infosys",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-01T08:15:26.791091+00:00",
+    "status": "queued",
+    "attempts": 2
   }
 ]
