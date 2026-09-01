@@ -117,5 +117,25 @@
     "level": "Early",
     "queued_at": "2026-08-31T22:01:18.601953+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "010926500440",
+    "title": "Software Engineer - Freshers",
+    "url": "https://www.naukri.com/job-listings-software-engineer-freshers-skywalk-global-services-hyderabad-0-to-8-years-010926500440",
+    "source": "naukri",
+    "company": "Skywalk Global",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-01T10:15:18.275096+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "010926500397",
+    "title": "PC - SDE - North",
+    "url": "https://www.naukri.com/job-listings-pc-sde-north-cavinkare-pvt-ltd-kanpur-0-to-5-years-010926500397",
+    "source": "naukri",
+    "company": "CavinKare",
+    "location": "Kanpur",
+    "queued_at": "2026-09-01T10:15:18.275096+00:00",
+    "status": "queued"
   }
 ]
