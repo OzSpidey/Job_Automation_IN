@@ -106,5 +106,35 @@
     "level": "Early",
     "queued_at": "2026-08-31T22:01:18.601953+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "010926914965",
+    "title": "Senior Software Engineer",
+    "url": "https://www.naukri.com/job-listings-senior-software-engineer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-010926914965",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-01T08:15:26.791091+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "010926914885",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-010926914885",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-01T08:15:26.791091+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "010926915007",
+    "title": "Performance Testing Engineer",
+    "url": "https://www.naukri.com/job-listings-performance-testing-engineer-infosys-limited-bengaluru-1-to-3-years-010926915007",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-01T08:15:26.791091+00:00",
+    "status": "queued"
   }
 ]
