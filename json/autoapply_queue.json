@@ -106,27 +106,5 @@
     "level": "Early",
     "queued_at": "2026-08-31T22:01:18.601953+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "010926036175",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-tp-bengaluru-1-to-6-years-010926036175",
-    "source": "naukri",
-    "company": "TP",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-01T14:15:18.086012+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "010926915007",
-    "title": "Performance Testing Engineer",
-    "url": "https://www.naukri.com/job-listings-performance-testing-engineer-infosys-limited-bengaluru-1-to-3-years-010926915007",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-01T14:15:18.086012+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
