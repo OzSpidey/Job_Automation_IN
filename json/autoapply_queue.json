@@ -106,5 +106,125 @@
     "level": "Early",
     "queued_at": "2026-08-31T22:01:18.601953+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "010926035298",
+    "title": "Software Engineer at A FinTech Company",
+    "url": "https://www.naukri.com/job-listings-software-engineer-at-a-fintech-company-talentzo-delhi-gurugram-0-to-3-years-010926035298",
+    "source": "naukri",
+    "company": "Talentzo Delhi",
+    "location": "Remote",
+    "queued_at": "2026-09-01T14:15:18.086012+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "010926036175",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-tp-bengaluru-1-to-6-years-010926036175",
+    "source": "naukri",
+    "company": "TP",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-01T14:15:18.086012+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "010926500440",
+    "title": "Software Engineer - Freshers",
+    "url": "https://www.naukri.com/job-listings-software-engineer-freshers-skywalk-global-services-hyderabad-0-to-8-years-010926500440",
+    "source": "naukri",
+    "company": "Skywalk Global",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-01T14:15:18.086012+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "010926500397",
+    "title": "PC - SDE - North",
+    "url": "https://www.naukri.com/job-listings-pc-sde-north-cavinkare-pvt-ltd-kanpur-0-to-5-years-010926500397",
+    "source": "naukri",
+    "company": "CavinKare",
+    "location": "Kanpur",
+    "queued_at": "2026-09-01T14:15:18.086012+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "010926505603",
+    "title": "Site Reliability Engineer ( SRE )",
+    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-sre-innocode-ventures-gurugram-1-to-2-years-010926505603",
+    "source": "naukri",
+    "company": "Innocode Ventures",
+    "location": "Gurugram",
+    "queued_at": "2026-09-01T14:15:18.086012+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "010926505637",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-innocode-ventures-gurugram-1-to-2-years-010926505637",
+    "source": "naukri",
+    "company": "Innocode Ventures",
+    "location": "Gurugram",
+    "queued_at": "2026-09-01T14:15:18.086012+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "010926506049",
+    "title": "Full - Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-innocode-ventures-jaipur-1-to-2-years-010926506049",
+    "source": "naukri",
+    "company": "Innocode Ventures",
+    "location": "Jaipur",
+    "queued_at": "2026-09-01T14:15:18.086012+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "010926504230",
+    "title": "R&D Engineer (C++)",
+    "url": "https://www.naukri.com/job-listings-r-d-engineer-c-ubisoft-india-pune-0-to-3-years-010926504230",
+    "source": "naukri",
+    "company": "Ubisoft",
+    "location": "Pune",
+    "queued_at": "2026-09-01T14:15:18.086012+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310826500910",
+    "title": "Mail Engineer",
+    "url": "https://www.naukri.com/job-listings-mail-engineer-e4-softwares-coimbatore-0-to-3-years-310826500910",
+    "source": "naukri",
+    "company": "E4 Software Services",
+    "location": "Coimbatore",
+    "queued_at": "2026-09-01T14:15:18.086012+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "010926504499",
+    "title": "Quant Data Engineer",
+    "url": "https://www.naukri.com/job-listings-quant-data-engineer-bestex-research-bengaluru-1-to-4-years-010926504499",
+    "source": "naukri",
+    "company": "Bestex Research",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-01T14:15:18.086012+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "010926505584",
+    "title": "Performance Test Engineer",
+    "url": "https://www.naukri.com/job-listings-performance-test-engineer-innocode-ventures-gurugram-1-to-2-years-010926505584",
+    "source": "naukri",
+    "company": "Innocode Ventures",
+    "location": "Gurugram",
+    "queued_at": "2026-09-01T14:15:18.086012+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "010926915007",
+    "title": "Performance Testing Engineer",
+    "url": "https://www.naukri.com/job-listings-performance-testing-engineer-infosys-limited-bengaluru-1-to-3-years-010926915007",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-01T14:15:18.086012+00:00",
+    "status": "queued"
   }
 ]
