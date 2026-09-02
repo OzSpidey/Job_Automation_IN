@@ -117,5 +117,35 @@
     "queued_at": "2026-09-02T04:15:48.113317+00:00",
     "status": "queued",
     "attempts": 2
+  },
+  {
+    "job_id": "020926915406",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-appscrip-bengaluru-0-to-1-years-020926915406",
+    "source": "naukri",
+    "company": "Appscrip",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-02T08:15:35.500163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "020926915409",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-appscrip-bengaluru-1-to-6-years-020926915409",
+    "source": "naukri",
+    "company": "Appscrip",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-02T08:15:35.500163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310826005712",
+    "title": "Analyst/Developer - Generic 2667",
+    "url": "https://www.naukri.com/job-listings-analyst-developer-generic-2667-sunrise-biztech-systems-hyderabad-1-to-4-years-310826005712",
+    "source": "naukri",
+    "company": "Sunrise Biztech Systems",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-02T08:15:35.500163+00:00",
+    "status": "queued"
   }
 ]
