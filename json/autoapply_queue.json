@@ -106,49 +106,5 @@
     "level": "Early",
     "queued_at": "2026-08-31T22:01:18.601953+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "020926022336",
-    "title": "Full stack developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-savyora-tech-south-andaman-1-to-2-years-020926022336",
-    "source": "naukri",
-    "company": "Avenir Innovative Solutions",
-    "location": "South Andaman",
-    "queued_at": "2026-09-02T16:15:23.709264+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "290826009251",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-2-years-290826009251",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
-    "queued_at": "2026-09-02T16:15:23.709264+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "020926008540",
-    "title": "Embedded C++ Testing Engineer",
-    "url": "https://www.naukri.com/job-listings-embedded-c-testing-engineer-sunovaa-tech-madurai-1-to-5-years-020926008540",
-    "source": "naukri",
-    "company": "Sunovaa Tech",
-    "location": "Madurai",
-    "queued_at": "2026-09-02T16:15:23.709264+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "020926022963",
-    "title": "Embedded Firmware Engineer(Japan Residing)",
-    "url": "https://www.naukri.com/job-listings-embedded-firmware-engineer-japan-residing-nihon-edutech-japan-0-to-2-years-020926022963",
-    "source": "naukri",
-    "company": "Nihon Edutech",
-    "location": "Japan",
-    "queued_at": "2026-09-02T16:15:23.709264+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
