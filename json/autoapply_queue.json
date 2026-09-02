@@ -108,28 +108,6 @@
     "status": "queued"
   },
   {
-    "job_id": "020926032915",
-    "title": "Client Onboarding Specialist",
-    "url": "https://www.naukri.com/job-listings-client-onboarding-specialist-iragecapital-mumbai-1-to-4-years-020926032915",
-    "source": "naukri",
-    "company": "iRageCapital",
-    "location": "Mumbai",
-    "queued_at": "2026-09-02T14:15:35.865486+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "310826005712",
-    "title": "Analyst/Developer - Generic 2667",
-    "url": "https://www.naukri.com/job-listings-analyst-developer-generic-2667-sunrise-biztech-systems-hyderabad-1-to-4-years-310826005712",
-    "source": "naukri",
-    "company": "Sunrise Biztech Systems",
-    "location": "Hyderabad",
-    "queued_at": "2026-09-02T14:15:35.865486+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "020926022336",
     "title": "Full stack developer",
     "url": "https://www.naukri.com/job-listings-full-stack-developer-savyora-tech-south-andaman-1-to-2-years-020926022336",
@@ -138,7 +116,7 @@
     "location": "South Andaman",
     "queued_at": "2026-09-02T16:15:23.709264+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "290826009251",
@@ -149,7 +127,7 @@
     "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-09-02T16:15:23.709264+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "020926008540",
@@ -160,7 +138,7 @@
     "location": "Madurai",
     "queued_at": "2026-09-02T16:15:23.709264+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "020926022963",
@@ -171,6 +149,6 @@
     "location": "Japan",
     "queued_at": "2026-09-02T16:15:23.709264+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
