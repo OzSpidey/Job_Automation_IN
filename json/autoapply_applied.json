@@ -3926,5 +3926,60 @@
     "queued_at": "2026-09-02T10:15:48.562390+00:00",
     "status": "applied",
     "applied_at": "2026-09-02T10:18:09.224255+00:00"
+  },
+  {
+    "job_id": "020926927669",
+    "title": "Staff Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-staff-site-reliability-engineer-okta-identity-india-private-limited-bengaluru-0-to-5-years-020926927669",
+    "source": "naukri",
+    "company": "Okta",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-02T12:15:38.463474+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-02T12:18:01.621323+00:00"
+  },
+  {
+    "job_id": "020926927739",
+    "title": "Staff Site Reliability Engineer - Ecosystem",
+    "url": "https://www.naukri.com/job-listings-staff-site-reliability-engineer-ecosystem-okta-identity-india-private-limited-bengaluru-0-to-5-years-020926927739",
+    "source": "naukri",
+    "company": "Okta",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-02T12:15:38.463474+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-02T12:18:11.269435+00:00"
+  },
+  {
+    "job_id": "020926927723",
+    "title": "Staff Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-staff-site-reliability-engineer-okta-identity-india-private-limited-bengaluru-0-to-3-years-020926927723",
+    "source": "naukri",
+    "company": "Okta",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-02T12:15:38.463474+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-02T12:18:21.215410+00:00"
+  },
+  {
+    "job_id": "020926927307",
+    "title": "Dotnet Backend Developer",
+    "url": "https://www.naukri.com/job-listings-dotnet-backend-developer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-020926927307",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-02T12:15:38.463474+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-02T12:18:35.370060+00:00"
+  },
+  {
+    "job_id": "020926030537",
+    "title": "Java Developer - Fresher",
+    "url": "https://www.naukri.com/job-listings-java-developer-fresher-sequretek-it-solutions-bengaluru-0-to-1-years-020926030537",
+    "source": "naukri",
+    "company": "Sequretek It Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-02T12:15:38.463474+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-02T12:18:49.612467+00:00"
   }
 ]
