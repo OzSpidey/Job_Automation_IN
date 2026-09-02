@@ -108,50 +108,6 @@
     "status": "queued"
   },
   {
-    "job_id": "020926022336",
-    "title": "Full stack developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-savyora-tech-south-andaman-1-to-2-years-020926022336",
-    "source": "naukri",
-    "company": "Avenir Innovative Solutions",
-    "location": "South Andaman",
-    "queued_at": "2026-09-02T10:15:48.562390+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "020926022963",
-    "title": "Embedded Firmware Engineer(Japan Residing)",
-    "url": "https://www.naukri.com/job-listings-embedded-firmware-engineer-japan-residing-nihon-edutech-japan-0-to-2-years-020926022963",
-    "source": "naukri",
-    "company": "Nihon Edutech",
-    "location": "Japan",
-    "queued_at": "2026-09-02T10:15:48.562390+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "290826009251",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-2-years-290826009251",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
-    "queued_at": "2026-09-02T10:15:48.562390+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "020926008540",
-    "title": "Embedded C++ Testing Engineer",
-    "url": "https://www.naukri.com/job-listings-embedded-c-testing-engineer-sunovaa-tech-madurai-1-to-5-years-020926008540",
-    "source": "naukri",
-    "company": "Sunovaa Tech",
-    "location": "Madurai",
-    "queued_at": "2026-09-02T10:15:48.562390+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "020926032915",
     "title": "Client Onboarding Specialist",
     "url": "https://www.naukri.com/job-listings-client-onboarding-specialist-iragecapital-mumbai-1-to-4-years-020926032915",
@@ -159,87 +115,8 @@
     "company": "iRageCapital",
     "location": "Mumbai",
     "queued_at": "2026-09-02T14:15:35.865486+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "020926501414",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-broadridge-financial-solutions-india-pvt-ltd-hyderabad-bengaluru-0-to-4-years-020926501414",
-    "source": "naukri",
-    "company": "Broadridge",
-    "location": "Hyderabad, Bengaluru",
-    "queued_at": "2026-09-02T14:15:35.865486+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "020926504136",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-replicon-software-india-pvt-ltd-bengaluru-1-to-4-years-020926504136",
-    "source": "naukri",
-    "company": "Replicon",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-02T14:15:35.865486+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "020926501428",
-    "title": "Software Engineer (Core)",
-    "url": "https://www.naukri.com/job-listings-software-engineer-core-barclays-shared-services-pune-0-to-7-years-020926501428",
-    "source": "naukri",
-    "company": "Barclays",
-    "location": "Pune",
-    "queued_at": "2026-09-02T14:15:35.865486+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "020926503621",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-ekon-solutions-india-pvt-ltd-noida-0-to-5-years-020926503621",
-    "source": "naukri",
-    "company": "Ekon Solutions",
-    "location": "Noida",
-    "queued_at": "2026-09-02T14:15:35.865486+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "020926502739",
-    "title": "Software Developer - Virendra Swarup College",
-    "url": "https://www.naukri.com/job-listings-software-developer-virendra-swarup-college-trigya-innovations-india-pvt-ltd-kanpur-0-to-1-years-020926502739",
-    "source": "naukri",
-    "company": "Trigya Innovations India",
-    "location": "Kanpur",
-    "queued_at": "2026-09-02T14:15:35.865486+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "020926501077",
-    "title": "BACKEND DEVELOPER",
-    "url": "https://www.naukri.com/job-listings-backend-developer-dotphi-infosolutions-pvt-ltd-nashik-1-to-3-years-020926501077",
-    "source": "naukri",
-    "company": "Dotphi Infosolutions",
-    "location": "Nashik",
-    "queued_at": "2026-09-02T14:15:35.865486+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "020926501051",
-    "title": "Full Stack Developer (Backend and Flutter)",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-backend-and-flutter-geesetech-enterprises-pune-1-to-4-years-020926501051",
-    "source": "naukri",
-    "company": "Geesetech Enterprices",
-    "location": "Pune",
-    "queued_at": "2026-09-02T14:15:35.865486+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "020926501770",
-    "title": "Design Verification Engineer",
-    "url": "https://www.naukri.com/job-listings-design-verification-engineer-texas-instruments-india-ltd-hyderabad-bengaluru-1-to-6-years-020926501770",
-    "source": "naukri",
-    "company": "Texas Instruments",
-    "location": "Hyderabad, Bengaluru",
-    "queued_at": "2026-09-02T14:15:35.865486+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "310826005712",
@@ -249,6 +126,7 @@
     "company": "Sunrise Biztech Systems",
     "location": "Hyderabad",
     "queued_at": "2026-09-02T14:15:35.865486+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
