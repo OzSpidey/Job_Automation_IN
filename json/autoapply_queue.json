@@ -150,5 +150,105 @@
     "queued_at": "2026-09-02T10:15:48.562390+00:00",
     "status": "queued",
     "attempts": 2
+  },
+  {
+    "job_id": "020926032915",
+    "title": "Client Onboarding Specialist",
+    "url": "https://www.naukri.com/job-listings-client-onboarding-specialist-iragecapital-mumbai-1-to-4-years-020926032915",
+    "source": "naukri",
+    "company": "iRageCapital",
+    "location": "Mumbai",
+    "queued_at": "2026-09-02T14:15:35.865486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "020926501414",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-broadridge-financial-solutions-india-pvt-ltd-hyderabad-bengaluru-0-to-4-years-020926501414",
+    "source": "naukri",
+    "company": "Broadridge",
+    "location": "Hyderabad, Bengaluru",
+    "queued_at": "2026-09-02T14:15:35.865486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "020926504136",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-replicon-software-india-pvt-ltd-bengaluru-1-to-4-years-020926504136",
+    "source": "naukri",
+    "company": "Replicon",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-02T14:15:35.865486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "020926501428",
+    "title": "Software Engineer (Core)",
+    "url": "https://www.naukri.com/job-listings-software-engineer-core-barclays-shared-services-pune-0-to-7-years-020926501428",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune",
+    "queued_at": "2026-09-02T14:15:35.865486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "020926503621",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-ekon-solutions-india-pvt-ltd-noida-0-to-5-years-020926503621",
+    "source": "naukri",
+    "company": "Ekon Solutions",
+    "location": "Noida",
+    "queued_at": "2026-09-02T14:15:35.865486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "020926502739",
+    "title": "Software Developer - Virendra Swarup College",
+    "url": "https://www.naukri.com/job-listings-software-developer-virendra-swarup-college-trigya-innovations-india-pvt-ltd-kanpur-0-to-1-years-020926502739",
+    "source": "naukri",
+    "company": "Trigya Innovations India",
+    "location": "Kanpur",
+    "queued_at": "2026-09-02T14:15:35.865486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "020926501077",
+    "title": "BACKEND DEVELOPER",
+    "url": "https://www.naukri.com/job-listings-backend-developer-dotphi-infosolutions-pvt-ltd-nashik-1-to-3-years-020926501077",
+    "source": "naukri",
+    "company": "Dotphi Infosolutions",
+    "location": "Nashik",
+    "queued_at": "2026-09-02T14:15:35.865486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "020926501051",
+    "title": "Full Stack Developer (Backend and Flutter)",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-backend-and-flutter-geesetech-enterprises-pune-1-to-4-years-020926501051",
+    "source": "naukri",
+    "company": "Geesetech Enterprices",
+    "location": "Pune",
+    "queued_at": "2026-09-02T14:15:35.865486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "020926501770",
+    "title": "Design Verification Engineer",
+    "url": "https://www.naukri.com/job-listings-design-verification-engineer-texas-instruments-india-ltd-hyderabad-bengaluru-1-to-6-years-020926501770",
+    "source": "naukri",
+    "company": "Texas Instruments",
+    "location": "Hyderabad, Bengaluru",
+    "queued_at": "2026-09-02T14:15:35.865486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310826005712",
+    "title": "Analyst/Developer - Generic 2667",
+    "url": "https://www.naukri.com/job-listings-analyst-developer-generic-2667-sunrise-biztech-systems-hyderabad-1-to-4-years-310826005712",
+    "source": "naukri",
+    "company": "Sunrise Biztech Systems",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-02T14:15:35.865486+00:00",
+    "status": "queued"
   }
 ]
