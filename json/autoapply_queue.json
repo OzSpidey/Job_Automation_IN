@@ -139,5 +139,35 @@
     "queued_at": "2026-09-03T06:15:19.439846+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "030926017777",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-mittal-sales-chandigarh-0-to-4-years-030926017777",
+    "source": "naukri",
+    "company": "Mittal Sales",
+    "location": "Chandigarh(Sector 15)",
+    "queued_at": "2026-09-03T08:15:24.708745+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "030926017602",
+    "title": "Software Development Engineer",
+    "url": "https://www.naukri.com/job-listings-software-development-engineer-digiclarity-global-solutions-chennai-1-to-2-years-030926017602",
+    "source": "naukri",
+    "company": "Digiclarity Global Solutions",
+    "location": "Chennai",
+    "queued_at": "2026-09-03T08:15:24.708745+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "030926014862",
+    "title": "Ghostdraft Developer",
+    "url": "https://www.naukri.com/job-listings-ghostdraft-developer-ey-chennai-bengaluru-india-1-to-12-years-030926014862",
+    "source": "naukri",
+    "company": "EY",
+    "location": "Chennai, India, Bengaluru",
+    "queued_at": "2026-09-03T08:15:24.708745+00:00",
+    "status": "queued"
   }
 ]
