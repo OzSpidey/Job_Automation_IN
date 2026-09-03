@@ -161,5 +161,25 @@
     "level": "Early",
     "queued_at": "2026-08-31T22:01:18.601953+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "030926019249",
+    "title": "Multiple Openings on SAP, Full Stack Developer & QA Automation",
+    "url": "https://www.naukri.com/job-listings-multiple-openings-on-sap-full-stack-developer-qa-automation-stigentech-it-services-hyderabad-1-to-3-years-030926019249",
+    "source": "naukri",
+    "company": "Stigentech IT Services",
+    "location": "Hybrid - Hyderabad(HITEC City +1)",
+    "queued_at": "2026-09-03T10:15:14.656131+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "030926021080",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-bct-consulting-hyderabad-0-to-1-years-030926021080",
+    "source": "naukri",
+    "company": "Bct Consulting",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-03T10:15:14.656131+00:00",
+    "status": "queued"
   }
 ]
