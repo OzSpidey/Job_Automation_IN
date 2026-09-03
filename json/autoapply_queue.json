@@ -116,7 +116,7 @@
     "location": "Bengaluru",
     "queued_at": "2026-09-03T16:15:16.783859+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "030926021080",
@@ -127,6 +127,6 @@
     "location": "Hyderabad",
     "queued_at": "2026-09-03T16:15:16.783859+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
