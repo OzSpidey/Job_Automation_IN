@@ -115,7 +115,8 @@
     "company": "Wissen Technology",
     "location": "Mumbai",
     "queued_at": "2026-09-03T06:15:19.439846+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "250826010920",
@@ -125,7 +126,8 @@
     "company": "Techwave Consulting",
     "location": "Hyderabad",
     "queued_at": "2026-09-03T06:15:19.439846+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "130826012892",
@@ -135,6 +137,7 @@
     "company": "Sasken Silicon Technolgies",
     "location": "Ahmedabad",
     "queued_at": "2026-09-03T06:15:19.439846+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
