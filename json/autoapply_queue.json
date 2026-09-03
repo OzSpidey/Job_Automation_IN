@@ -106,27 +106,5 @@
     "level": "Early",
     "queued_at": "2026-08-31T22:01:18.601953+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "130826920344",
-    "title": "Java Reactjs Developer",
-    "url": "https://www.naukri.com/job-listings-java-reactjs-developer-infosys-limited-bengaluru-1-to-5-years-130826920344",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-03T16:15:16.783859+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "030926021080",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-bct-consulting-hyderabad-0-to-1-years-030926021080",
-    "source": "naukri",
-    "company": "Bct Consulting",
-    "location": "Hyderabad",
-    "queued_at": "2026-09-03T16:15:16.783859+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
