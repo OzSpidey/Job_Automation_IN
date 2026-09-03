@@ -4080,5 +4080,27 @@
     "queued_at": "2026-09-03T14:15:00.499046+00:00",
     "status": "applied",
     "applied_at": "2026-09-03T14:17:52.310897+00:00"
+  },
+  {
+    "job_id": "030926033783",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-raj-groups-bengaluru-0-to-1-years-030926033783",
+    "source": "naukri",
+    "company": "Raj Groups",
+    "location": "Remote",
+    "queued_at": "2026-09-03T16:15:16.783859+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-03T16:17:39.188791+00:00"
+  },
+  {
+    "job_id": "030926033115",
+    "title": "PLC Engineers - Freshers",
+    "url": "https://www.naukri.com/job-listings-plc-engineers-freshers-cema-automations-chennai-0-to-1-years-030926033115",
+    "source": "naukri",
+    "company": "Cema Automations",
+    "location": "Chennai(Perungudi)",
+    "queued_at": "2026-09-03T16:15:16.783859+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-03T16:18:00.998786+00:00"
   }
 ]
