@@ -108,16 +108,6 @@
     "status": "queued"
   },
   {
-    "job_id": "040926015536",
-    "title": "Python Software Developer",
-    "url": "https://www.naukri.com/job-listings-python-software-developer-app-innovation-technologies-coimbatore-1-to-3-years-040926015536",
-    "source": "naukri",
-    "company": "APP Innovation Technologies",
-    "location": "Coimbatore(GN Mills)",
-    "queued_at": "2026-09-04T08:15:25.674467+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "060825017534",
     "title": "Engineer",
     "url": "https://www.naukri.com/job-listings-engineer-t-m-ahmedabad-0-to-2-years-060825017534",
@@ -125,37 +115,8 @@
     "company": "T&M Services Consulting pvt.ltd.",
     "location": "Ahmedabad",
     "queued_at": "2026-09-04T08:15:25.674467+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "040926500383",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-catking-mumbai-thane-0-to-3-years-040926500383",
-    "source": "naukri",
-    "company": "Catking",
-    "location": "Mumbai, Thane",
-    "queued_at": "2026-09-04T08:15:25.674467+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "040926500086",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-iflow-warangal-hyderabad-nizamabad-0-to-3-years-040926500086",
-    "source": "naukri",
-    "company": "Iflow",
-    "location": "Warangal, Hyderabad, Nizamabad",
-    "queued_at": "2026-09-04T08:15:25.674467+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "040926500042",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-iflow-mumbai-nagpur-thane-nashik-pune-chhatrapati-sambhajinagar-0-to-3-years-040926500042",
-    "source": "naukri",
-    "company": "Iflow",
-    "location": "Mumbai, Nagpur, Thane, Nashik, Pune, Chhatrapati Sambhajinagar",
-    "queued_at": "2026-09-04T08:15:25.674467+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "040926015595",
@@ -165,7 +126,8 @@
     "company": "eClerx",
     "location": "Pune",
     "queued_at": "2026-09-04T08:15:25.674467+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "241225026197",
@@ -175,6 +137,7 @@
     "company": "eClerx",
     "location": "Navi Mumbai",
     "queued_at": "2026-09-04T08:15:25.674467+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
