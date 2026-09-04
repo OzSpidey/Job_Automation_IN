@@ -139,5 +139,195 @@
     "level": "Early",
     "queued_at": "2026-08-31T22:01:18.601953+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "040926502026",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-mastercard-pune-0-to-7-years-040926502026",
+    "source": "naukri",
+    "company": "Mastercard",
+    "location": "Pune",
+    "queued_at": "2026-09-04T10:15:18.548440+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926501620",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-barclays-shared-services-pune-1-to-10-years-040926501620",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune",
+    "queued_at": "2026-09-04T10:15:18.548440+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926500479",
+    "title": "Full-Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-brandstory-solutions-private-limited-bengaluru-1-to-3-years-040926500479",
+    "source": "naukri",
+    "company": "Brandstory Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-04T10:15:18.548440+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926501606",
+    "title": "Flowable Java Developer",
+    "url": "https://www.naukri.com/job-listings-flowable-java-developer-apex-2000-inc-pune-1-to-6-years-040926501606",
+    "source": "naukri",
+    "company": "Apex 2000",
+    "location": "Pune",
+    "queued_at": "2026-09-04T10:15:18.548440+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926501920",
+    "title": "Jr C++ Developer",
+    "url": "https://www.naukri.com/job-listings-jr-c-developer-greenland-investment-management-mumbai-0-to-4-years-040926501920",
+    "source": "naukri",
+    "company": "Greenland Investment Management",
+    "location": "Mumbai",
+    "queued_at": "2026-09-04T10:15:18.548440+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926917448",
+    "title": "Distinguished Engineer",
+    "url": "https://www.naukri.com/job-listings-distinguished-engineer-fil-india-business-and-research-services-private-limited-bengaluru-1-to-6-years-040926917448",
+    "source": "naukri",
+    "company": "Fidelity International",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-04T10:15:18.548440+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926502018",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-ul-bengaluru-0-to-3-years-040926502018",
+    "source": "naukri",
+    "company": "UL Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-04T10:15:18.548440+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926501942",
+    "title": "Communication Software Developer",
+    "url": "https://www.naukri.com/job-listings-communication-software-developer-rarr-technologies-bengaluru-1-to-3-years-040926501942",
+    "source": "naukri",
+    "company": "Rarr Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-04T10:15:18.548440+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926501880",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-iflow-pune-0-to-3-years-040926501880",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Pune",
+    "queued_at": "2026-09-04T10:15:18.548440+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926501543",
+    "title": "Engineer Professional",
+    "url": "https://www.naukri.com/job-listings-engineer-professional-siec-education-pvt-ltd-new-delhi-1-to-3-years-040926501543",
+    "source": "naukri",
+    "company": "Siec Education",
+    "location": "New Delhi",
+    "queued_at": "2026-09-04T10:15:18.548440+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926501978",
+    "title": "Analyst - TA",
+    "url": "https://www.naukri.com/job-listings-analyst-ta-apex-fund-services-llp-mumbai-0-to-7-years-040926501978",
+    "source": "naukri",
+    "company": "Apex Group",
+    "location": "Mumbai",
+    "queued_at": "2026-09-04T10:15:18.548440+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300626020704",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-mohali-0-to-2-years-300626020704",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mohali",
+    "queued_at": "2026-09-04T10:15:18.548440+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926501941",
+    "title": "Bootloader and BSW developer",
+    "url": "https://www.naukri.com/job-listings-bootloader-and-bsw-developer-rarr-technologies-bengaluru-1-to-3-years-040926501941",
+    "source": "naukri",
+    "company": "Rarr Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-04T10:15:18.548440+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926501881",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflow-bengaluru-0-to-3-years-040926501881",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-04T10:15:18.548440+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926501879",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflow-hyderabad-0-to-3-years-040926501879",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-04T10:15:18.548440+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926501208",
+    "title": "Analyst - Abstractions",
+    "url": "https://www.naukri.com/job-listings-analyst-abstractions-jones-lang-lasalle-gurugram-1-to-3-years-040926501208",
+    "source": "naukri",
+    "company": "Jones Lang LaSalle (JLL)",
+    "location": "Gurugram",
+    "queued_at": "2026-09-04T10:15:18.548440+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926500661",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflow-pune-0-to-3-years-040926500661",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Pune",
+    "queued_at": "2026-09-04T10:15:18.548440+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926500660",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflow-hyderabad-0-to-3-years-040926500660",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-04T10:15:18.548440+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926500655",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflow-hyderabad-0-to-3-years-040926500655",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-04T10:15:18.548440+00:00",
+    "status": "queued"
   }
 ]
