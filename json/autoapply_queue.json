@@ -117,5 +117,285 @@
     "queued_at": "2026-09-04T10:15:18.548440+00:00",
     "status": "queued",
     "attempts": 2
+  },
+  {
+    "job_id": "040926503730",
+    "title": "Software Engineer - Can UDS",
+    "url": "https://www.naukri.com/job-listings-software-engineer-can-uds-harman-india-bengaluru-0-to-6-years-040926503730",
+    "source": "naukri",
+    "company": "Harman International",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926504040",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-ge-vernova-consulting-hyderabad-1-to-6-years-040926504040",
+    "source": "naukri",
+    "company": "GE Vernova Consulting",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926502026",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-mastercard-pune-0-to-7-years-040926502026",
+    "source": "naukri",
+    "company": "Mastercard",
+    "location": "Pune",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926501620",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-barclays-shared-services-pune-1-to-10-years-040926501620",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926500479",
+    "title": "Full-Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-brandstory-solutions-private-limited-bengaluru-1-to-3-years-040926500479",
+    "source": "naukri",
+    "company": "Brandstory Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926504281",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-span-technology-services-private-limited-chennai-1-to-3-years-040926504281",
+    "source": "naukri",
+    "company": "Span Technology Services",
+    "location": "Chennai",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926501606",
+    "title": "Flowable Java Developer",
+    "url": "https://www.naukri.com/job-listings-flowable-java-developer-apex-2000-inc-pune-1-to-6-years-040926501606",
+    "source": "naukri",
+    "company": "Apex 2000",
+    "location": "Pune",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926503695",
+    "title": "Python AI/ML Developer",
+    "url": "https://www.naukri.com/job-listings-python-ai-ml-developer-inapp-information-technologies-thiruvananthapuram-0-to-2-years-040926503695",
+    "source": "naukri",
+    "company": "InApp",
+    "location": "Thiruvananthapuram",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926502528",
+    "title": "Engineer I - C++ developer",
+    "url": "https://www.naukri.com/job-listings-engineer-i-c-developer-aristocrat-technologies-india-pvt-ltd-noida-1-to-2-years-040926502528",
+    "source": "naukri",
+    "company": "Aristocrat",
+    "location": "Noida",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926501920",
+    "title": "Jr C++ Developer",
+    "url": "https://www.naukri.com/job-listings-jr-c-developer-greenland-investment-management-mumbai-0-to-4-years-040926501920",
+    "source": "naukri",
+    "company": "Greenland Investment Management",
+    "location": "Mumbai",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926917448",
+    "title": "Distinguished Engineer",
+    "url": "https://www.naukri.com/job-listings-distinguished-engineer-fil-india-business-and-research-services-private-limited-bengaluru-1-to-6-years-040926917448",
+    "source": "naukri",
+    "company": "Fidelity International",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926504653",
+    "title": "AI Engineer (Fresher)",
+    "url": "https://www.naukri.com/job-listings-ai-engineer-fresher-atidan-technologies-pvt-ltd-mumbai-pune-0-to-1-years-040926504653",
+    "source": "naukri",
+    "company": "Atidan Technologies",
+    "location": "Mumbai, Pune",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926504541",
+    "title": "ENGINEER - Sailpoint",
+    "url": "https://www.naukri.com/job-listings-engineer-sailpoint-happiest-minds-technologies-pvt-ltd-bengaluru-1-to-3-years-040926504541",
+    "source": "naukri",
+    "company": "Happiest Minds Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926504339",
+    "title": "Data Engineer Professional",
+    "url": "https://www.naukri.com/job-listings-data-engineer-professional-span-technology-services-private-limited-erode-1-to-3-years-040926504339",
+    "source": "naukri",
+    "company": "Span Technology Services",
+    "location": "Erode",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926503092",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-deutsche-bank-pune-0-to-10-years-040926503092",
+    "source": "naukri",
+    "company": "Deutsche Bank",
+    "location": "Pune",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926503066",
+    "title": "Engineer - Data Management Professional",
+    "url": "https://www.naukri.com/job-listings-engineer-data-management-professional-eaton-technologies-pvt-ltd-puducherry-1-to-3-years-040926503066",
+    "source": "naukri",
+    "company": "Eaton Technologies",
+    "location": "Puducherry",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926502018",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-ul-bengaluru-0-to-3-years-040926502018",
+    "source": "naukri",
+    "company": "UL Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926501942",
+    "title": "Communication Software Developer",
+    "url": "https://www.naukri.com/job-listings-communication-software-developer-rarr-technologies-bengaluru-1-to-3-years-040926501942",
+    "source": "naukri",
+    "company": "Rarr Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926926440",
+    "title": "NEWcontingent labour analyst",
+    "url": "https://www.naukri.com/job-listings-contingent-labour-analyst-cloudxtreme-hyderabad-1-to-3-years-040926926440",
+    "source": "naukri",
+    "company": "Cloudxtreme",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926504668",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-merck-group-bengaluru-0-to-4-years-040926504668",
+    "source": "naukri",
+    "company": "Merck",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926503327",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mumbai-0-to-2-years-040926503327",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mumbai",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926502790",
+    "title": "ComDia Developer",
+    "url": "https://www.naukri.com/job-listings-comdia-developer-rarr-technologies-bengaluru-1-to-3-years-040926502790",
+    "source": "naukri",
+    "company": "Rarr Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926501978",
+    "title": "Analyst - TA",
+    "url": "https://www.naukri.com/job-listings-analyst-ta-apex-fund-services-llp-mumbai-0-to-7-years-040926501978",
+    "source": "naukri",
+    "company": "Apex Group",
+    "location": "Mumbai",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926501941",
+    "title": "Bootloader and BSW developer",
+    "url": "https://www.naukri.com/job-listings-bootloader-and-bsw-developer-rarr-technologies-bengaluru-1-to-3-years-040926501941",
+    "source": "naukri",
+    "company": "Rarr Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926501881",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflow-bengaluru-0-to-3-years-040926501881",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "040926501879",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflow-hyderabad-0-to-3-years-040926501879",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "060825017534",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-t-m-ahmedabad-0-to-2-years-060825017534",
+    "source": "naukri",
+    "company": "T&M Services Consulting pvt.ltd.",
+    "location": "Ahmedabad",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "241225026197",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-241225026197",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-04T14:15:29.474024+00:00",
+    "status": "queued"
   }
 ]
