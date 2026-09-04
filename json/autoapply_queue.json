@@ -106,16 +106,5 @@
     "level": "Early",
     "queued_at": "2026-08-31T22:01:18.601953+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "210826037924",
-    "title": "Walk-in || Analyst-Fulfilment",
-    "url": "https://www.naukri.com/job-listings-analyst-fulfilment-sakon-pune-1-to-3-years-210826037924",
-    "source": "naukri",
-    "company": "Sakon",
-    "location": "",
-    "queued_at": "2026-09-04T16:15:35.424861+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
