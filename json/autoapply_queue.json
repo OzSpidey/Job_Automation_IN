@@ -117,16 +117,6 @@
     "status": "queued"
   },
   {
-    "job_id": "050926004745",
-    "title": "FULL STACK Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-jovia-technologies-india-1-to-6-years-050926004745",
-    "source": "naukri",
-    "company": "Jovia Technologies",
-    "location": "India",
-    "queued_at": "2026-09-05T02:15:22.287868+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "241225026188",
     "title": "Analyst",
     "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-241225026188",
@@ -134,6 +124,7 @@
     "company": "eClerx",
     "location": "Navi Mumbai",
     "queued_at": "2026-09-05T02:15:22.287868+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
