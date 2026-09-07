@@ -1,16 +1,5 @@
 [
   {
-    "job_id": "241225026188",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-241225026188",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-09-05T02:15:22.287868+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -128,6 +117,17 @@
     "status": "queued"
   },
   {
+    "job_id": "241225026188",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-241225026188",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-05T02:15:22.287868+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
     "job_id": "030726031733",
     "title": "Analyst",
     "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-030726031733",
@@ -135,6 +135,7 @@
     "company": "eClerx",
     "location": "Chandigarh",
     "queued_at": "2026-09-07T04:15:02.410117+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
