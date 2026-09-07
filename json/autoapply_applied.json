@@ -4256,5 +4256,49 @@
     "queued_at": "2026-09-07T10:15:57.307019+00:00",
     "status": "applied",
     "applied_at": "2026-09-07T10:17:48.530959+00:00"
+  },
+  {
+    "job_id": "070926916827",
+    "title": "LLMOps Engineer",
+    "url": "https://www.naukri.com/job-listings-llmops-engineer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-070926916827",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-07T12:15:06.255747+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-07T12:16:35.058158+00:00"
+  },
+  {
+    "job_id": "070926915662",
+    "title": "Launch Engineer",
+    "url": "https://www.naukri.com/job-listings-launch-engineer-tata-technologies-ltd-jamshedpur-1-to-3-years-070926915662",
+    "source": "naukri",
+    "company": "Tata Technologies",
+    "location": "Jamshedpur",
+    "queued_at": "2026-09-07T12:15:06.255747+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-07T12:16:44.828632+00:00"
+  },
+  {
+    "job_id": "070926916897",
+    "title": "Manager/ Analyst",
+    "url": "https://www.naukri.com/job-listings-manager-analyst-cushman-wakefield-india-pvt-ltd-bengaluru-0-to-5-years-070926916897",
+    "source": "naukri",
+    "company": "Cushman & Wakefield",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-07T12:15:06.255747+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-07T12:16:59.517864+00:00"
+  },
+  {
+    "job_id": "070926916795",
+    "title": "Performance QA Engineer (Locust)",
+    "url": "https://www.naukri.com/job-listings-performance-qa-engineer-locust-capgemini-technology-services-india-limited-hyderabad-1-to-6-years-070926916795",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-07T12:15:06.255747+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-07T12:17:22.852659+00:00"
   }
 ]
