@@ -1,5 +1,16 @@
 [
   {
+    "job_id": "070926004638",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-ciel-hr-bengaluru-1-to-3-years-070926004638",
+    "source": "naukri",
+    "company": "CIEL HR",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-07T06:15:10.286329+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -115,16 +126,5 @@
     "level": "Early",
     "queued_at": "2026-09-04T22:01:15.925983+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "070926004638",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-ciel-hr-bengaluru-1-to-3-years-070926004638",
-    "source": "naukri",
-    "company": "CIEL HR",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-07T06:15:10.286329+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
