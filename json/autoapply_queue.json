@@ -125,7 +125,7 @@
     "location": "Mumbai (All Areas)",
     "queued_at": "2026-09-07T16:15:16.528201+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "070926004142",
@@ -136,6 +136,6 @@
     "location": "Bawal, Palwal, Manesar",
     "queued_at": "2026-09-07T16:15:16.528201+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
