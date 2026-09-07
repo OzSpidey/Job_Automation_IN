@@ -4201,5 +4201,27 @@
     "queued_at": "2026-09-05T02:15:22.287868+00:00",
     "status": "applied",
     "applied_at": "2026-09-05T02:16:13.353525+00:00"
+  },
+  {
+    "job_id": "070926003317",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-070926003317",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-09-07T06:15:10.286329+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-07T06:16:33.092763+00:00"
+  },
+  {
+    "job_id": "070926003153",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-070926003153",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-09-07T06:15:10.286329+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-07T06:16:54.456647+00:00"
   }
 ]

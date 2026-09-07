@@ -117,17 +117,6 @@
     "status": "queued"
   },
   {
-    "job_id": "241225026188",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-241225026188",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-09-05T02:15:22.287868+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "030726031733",
     "title": "Analyst",
     "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-030726031733",
@@ -136,17 +125,7 @@
     "location": "Chandigarh",
     "queued_at": "2026-09-07T04:15:02.410117+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "070926003317",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-070926003317",
-    "source": "naukri",
-    "company": "Creative Hands HR",
-    "location": "Hyderabad, Chennai, Bengaluru",
-    "queued_at": "2026-09-07T06:15:10.286329+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "070926004638",
@@ -156,16 +135,7 @@
     "company": "CIEL HR",
     "location": "Bengaluru",
     "queued_at": "2026-09-07T06:15:10.286329+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "070926003153",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-070926003153",
-    "source": "naukri",
-    "company": "Creative Hands HR",
-    "location": "Hyderabad, Chennai, Bengaluru",
-    "queued_at": "2026-09-07T06:15:10.286329+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
