@@ -199,5 +199,345 @@
     "queued_at": "2026-09-08T14:15:18.830384+00:00",
     "status": "queued",
     "attempts": 2
+  },
+  {
+    "job_id": "080926034709",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-placement-pandits-udaipur-0-to-1-years-080926034709",
+    "source": "naukri",
+    "company": "Software Company",
+    "location": "Udaipur",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926034714",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-080926034714",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926034152",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-080926034152",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926026894",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-nomisma-healthcare-vadodara-0-to-3-years-080926026894",
+    "source": "naukri",
+    "company": "Nomisma Healthcare",
+    "location": "Vadodara(Gorwa)",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926505784",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-flexiele-consulting-services-pvt-ltd-noida-1-to-3-years-080926505784",
+    "source": "naukri",
+    "company": "Flexiele",
+    "location": "Noida",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926505725",
+    "title": "Prompt Engineer",
+    "url": "https://www.naukri.com/job-listings-prompt-engineer-creuto-cloud-private-limited-bhubaneswar-1-to-3-years-080926505725",
+    "source": "naukri",
+    "company": "Creuto Cloud",
+    "location": "Bhubaneswar",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926505700",
+    "title": "Prompt Engineer",
+    "url": "https://www.naukri.com/job-listings-prompt-engineer-mindnotix-remote-1-to-6-years-080926505700",
+    "source": "naukri",
+    "company": "Mindnotix",
+    "location": "Remote",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926505406",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-kula-bengaluru-1-to-6-years-080926505406",
+    "source": "naukri",
+    "company": "Kula",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926025495",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-cryogas-equipment-dungarpur-vadodara-0-to-3-years-080926025495",
+    "source": "naukri",
+    "company": "Cryogas Equipment",
+    "location": "Dungarpur, Vadodara(Waghodia +1)",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926501563",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-1-to-3-years-080926501563",
+    "source": "naukri",
+    "company": "Cisco",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926500184",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-barclays-shared-services-bengaluru-0-to-7-years-080926500184",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926502102",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-videosdk-surat-0-to-1-years-080926502102",
+    "source": "naukri",
+    "company": "Video Sdk",
+    "location": "Surat",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926502100",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-videosdk-live-surat-0-to-1-years-080926502100",
+    "source": "naukri",
+    "company": "Video Sdk",
+    "location": "Surat",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926502551",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-sepal-technologies-private-limited-new-delhi-0-to-4-years-080926502551",
+    "source": "naukri",
+    "company": "Sepal Institute Of Mobile Technology",
+    "location": "New Delhi",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926502222",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-ft-nexavvy-next-gen-digital-savvy-results-ahmedabad-0-to-4-years-080926502222",
+    "source": "naukri",
+    "company": "FT Nexavvy Next-gen Digital. Savvy Results.",
+    "location": "Ahmedabad",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926500046",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-amigoways-technologies-madurai-1-to-3-years-080926500046",
+    "source": "naukri",
+    "company": "Amigoways Technologies",
+    "location": "Madurai",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926502090",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-training-basket-noida-1-to-7-years-080926502090",
+    "source": "naukri",
+    "company": "Training Basket",
+    "location": "Noida",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926502219",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-ft-nexavvy-next-gen-digital-savvy-results-ahmedabad-1-to-5-years-080926502219",
+    "source": "naukri",
+    "company": "FT Nexavvy Next-gen Digital. Savvy Results.",
+    "location": "Ahmedabad",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926501298",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-tridots-tech-private-limited-chennai-0-to-2-years-080926501298",
+    "source": "naukri",
+    "company": "Tridots Tech",
+    "location": "Chennai",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926502682",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-66degrees-bengaluru-1-to-4-years-080926502682",
+    "source": "naukri",
+    "company": "66degrees",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926502159",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-iflow-hyderabad-0-to-3-years-080926502159",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926502028",
+    "title": "Engineer, NGAS",
+    "url": "https://www.naukri.com/job-listings-engineer-ngas-renault-nissan-technology-business-centre-india-chennai-1-to-8-years-080926502028",
+    "source": "naukri",
+    "company": "Renault Nissan Technology and Business Centre India",
+    "location": "Chennai",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926023844",
+    "title": "Walk-in || Filed engineers",
+    "url": "https://www.naukri.com/job-listings-filed-engineers-mobile-seva-bengaluru-0-to-1-years-080926023844",
+    "source": "naukri",
+    "company": "Mobile Seva",
+    "location": "",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926020108",
+    "title": "Quantitative Developer",
+    "url": "https://www.naukri.com/job-listings-quantitative-developer-adlertech-noida-greater-noida-delhi-ncr-0-to-1-years-080926020108",
+    "source": "naukri",
+    "company": "DHX Adlertech pvt ltd",
+    "location": "Noida, Greater Noida, Delhi / NCR",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926502427",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-unitedlex-corporation-gurugram-0-to-6-years-080926502427",
+    "source": "naukri",
+    "company": "Unitedlex",
+    "location": "Gurugram",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926502190",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mumbai-0-to-4-years-080926502190",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mumbai",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926502158",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflow-hyderabad-0-to-3-years-080926502158",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926502157",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflow-hyderabad-0-to-3-years-080926502157",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926502156",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflow-chennai-0-to-3-years-080926502156",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Chennai",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926502155",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflow-hyderabad-0-to-3-years-080926502155",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926502154",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflow-noida-0-to-3-years-080926502154",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Noida",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926502153",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflow-chennai-0-to-3-years-080926502153",
+    "source": "naukri",
+    "company": "Iflow",
+    "location": "Chennai",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926501800",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-iqvia-biotech-bengaluru-0-to-3-years-080926501800",
+    "source": "naukri",
+    "company": "Iqvia Biotech",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926915431",
+    "title": "AI Software Engineer",
+    "url": "https://www.naukri.com/job-listings-ai-software-engineer-arivon-technologie-bengaluru-1-to-3-years-080926915431",
+    "source": "naukri",
+    "company": "Arivon Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "queued"
   }
 ]
