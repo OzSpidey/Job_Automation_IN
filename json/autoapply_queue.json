@@ -1,5 +1,93 @@
 [
   {
+    "job_id": "080926026894",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-nomisma-healthcare-vadodara-0-to-3-years-080926026894",
+    "source": "naukri",
+    "company": "Nomisma Healthcare",
+    "location": "Vadodara(Gorwa)",
+    "queued_at": "2026-09-08T12:15:17.052147+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "080926025495",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-cryogas-equipment-dungarpur-vadodara-0-to-3-years-080926025495",
+    "source": "naukri",
+    "company": "Cryogas Equipment",
+    "location": "Dungarpur, Vadodara(Waghodia +1)",
+    "queued_at": "2026-09-08T12:15:17.052147+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "080926031448",
+    "title": "Java Developer - F2F",
+    "url": "https://www.naukri.com/job-listings-java-developer-f2f-tekskills-chennai-1-to-5-years-080926031448",
+    "source": "naukri",
+    "company": "Tekskills",
+    "location": "Chennai",
+    "queued_at": "2026-09-08T14:15:18.830384+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "080926033468",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-3i-infotech-mumbai-1-to-2-years-080926033468",
+    "source": "naukri",
+    "company": "3i Infotech",
+    "location": "Mumbai",
+    "queued_at": "2026-09-08T14:15:18.830384+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "080926030873",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-pune-0-to-2-years-080926030873",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-09-08T14:15:18.830384+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "080926013282",
+    "title": "FrontEnd Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-itsw-business-auxiliary-pvt-ltd-new-delhi-0-to-3-years-080926013282",
+    "source": "naukri",
+    "company": "ITSW Business Auxiliary Pvt. Ltd.",
+    "location": "New Delhi(Rajendra Place)",
+    "queued_at": "2026-09-08T14:15:18.830384+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "290826009251",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-2-years-290826009251",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-09-08T14:15:18.830384+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "080926013678",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-smartstream-bengaluru-1-to-3-years-080926013678",
+    "source": "naukri",
+    "company": "SmartStream",
+    "location": "Hybrid - Bengaluru",
+    "queued_at": "2026-09-08T14:15:18.830384+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -133,93 +221,5 @@
     "level": "Early",
     "queued_at": "2026-09-08T10:01:19.187095+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "080926026894",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-nomisma-healthcare-vadodara-0-to-3-years-080926026894",
-    "source": "naukri",
-    "company": "Nomisma Healthcare",
-    "location": "Vadodara(Gorwa)",
-    "queued_at": "2026-09-08T12:15:17.052147+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "080926025495",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-cryogas-equipment-dungarpur-vadodara-0-to-3-years-080926025495",
-    "source": "naukri",
-    "company": "Cryogas Equipment",
-    "location": "Dungarpur, Vadodara(Waghodia +1)",
-    "queued_at": "2026-09-08T12:15:17.052147+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "080926031448",
-    "title": "Java Developer - F2F",
-    "url": "https://www.naukri.com/job-listings-java-developer-f2f-tekskills-chennai-1-to-5-years-080926031448",
-    "source": "naukri",
-    "company": "Tekskills",
-    "location": "Chennai",
-    "queued_at": "2026-09-08T14:15:18.830384+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "080926033468",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-3i-infotech-mumbai-1-to-2-years-080926033468",
-    "source": "naukri",
-    "company": "3i Infotech",
-    "location": "Mumbai",
-    "queued_at": "2026-09-08T14:15:18.830384+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "080926030873",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-pune-0-to-2-years-080926030873",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-09-08T14:15:18.830384+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "080926013282",
-    "title": "FrontEnd Developer",
-    "url": "https://www.naukri.com/job-listings-frontend-developer-itsw-business-auxiliary-pvt-ltd-new-delhi-0-to-3-years-080926013282",
-    "source": "naukri",
-    "company": "ITSW Business Auxiliary Pvt. Ltd.",
-    "location": "New Delhi(Rajendra Place)",
-    "queued_at": "2026-09-08T14:15:18.830384+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "290826009251",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-2-years-290826009251",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
-    "queued_at": "2026-09-08T14:15:18.830384+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "080926013678",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-smartstream-bengaluru-1-to-3-years-080926013678",
-    "source": "naukri",
-    "company": "SmartStream",
-    "location": "Hybrid - Bengaluru",
-    "queued_at": "2026-09-08T14:15:18.830384+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
