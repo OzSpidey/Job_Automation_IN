@@ -4454,5 +4454,27 @@
     "queued_at": "2026-09-08T14:15:18.830384+00:00",
     "status": "applied",
     "applied_at": "2026-09-08T14:20:12.575945+00:00"
+  },
+  {
+    "job_id": "080926034709",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-placement-pandits-udaipur-0-to-1-years-080926034709",
+    "source": "naukri",
+    "company": "Software Company",
+    "location": "Udaipur",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-08T18:17:41.402619+00:00"
+  },
+  {
+    "job_id": "080926915431",
+    "title": "AI Software Engineer",
+    "url": "https://www.naukri.com/job-listings-ai-software-engineer-arivon-technologie-bengaluru-1-to-3-years-080926915431",
+    "source": "naukri",
+    "company": "Arivon Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-08T18:15:20.460823+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-08T18:21:00.541522+00:00"
   }
 ]
