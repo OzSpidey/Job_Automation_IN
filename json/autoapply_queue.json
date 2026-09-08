@@ -117,27 +117,6 @@
     "status": "queued"
   },
   {
-    "job_id": "080926006505",
-    "title": "GenAI Prompt Engineer",
-    "url": "https://www.naukri.com/job-listings-genai-prompt-engineer-tata-projects-mumbai-0-to-7-years-080926006505",
-    "source": "naukri",
-    "company": "Tata Projects",
-    "location": "Mumbai(Powai)",
-    "queued_at": "2026-09-08T04:15:12.000300+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "080926016734",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-velocity-software-solutions-noida-0-to-1-years-080926016734",
-    "source": "naukri",
-    "company": "Velocity Software Solutions",
-    "location": "Noida(Sector 63)",
-    "queued_at": "2026-09-08T08:15:54.909497+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "080926013282",
     "title": "FrontEnd Developer",
     "url": "https://www.naukri.com/job-listings-frontend-developer-itsw-business-auxiliary-pvt-ltd-new-delhi-0-to-3-years-080926013282",
@@ -145,7 +124,8 @@
     "company": "ITSW Business Auxiliary Pvt. Ltd.",
     "location": "New Delhi(Rajendra Place)",
     "queued_at": "2026-09-08T08:15:54.909497+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "080926013678",
@@ -155,7 +135,8 @@
     "company": "SmartStream",
     "location": "Hybrid - Bengaluru",
     "queued_at": "2026-09-08T08:15:54.909497+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "290826009251",
@@ -165,6 +146,7 @@
     "company": "Infosys",
     "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-09-08T08:15:54.909497+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
