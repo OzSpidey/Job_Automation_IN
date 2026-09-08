@@ -143,7 +143,7 @@
     "location": "Chandigarh",
     "queued_at": "2026-09-08T18:15:20.460823+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "080926034152",
@@ -154,7 +154,7 @@
     "location": "Navi Mumbai",
     "queued_at": "2026-09-08T18:15:20.460823+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "080926026894",
@@ -165,7 +165,7 @@
     "location": "Vadodara(Gorwa)",
     "queued_at": "2026-09-08T18:15:20.460823+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "080926025495",
@@ -176,7 +176,7 @@
     "location": "Dungarpur, Vadodara(Waghodia +1)",
     "queued_at": "2026-09-08T18:15:20.460823+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "080926023844",
@@ -187,7 +187,7 @@
     "location": "",
     "queued_at": "2026-09-08T18:15:20.460823+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "080926020108",
@@ -198,6 +198,6 @@
     "location": "Noida, Greater Noida, Delhi / NCR",
     "queued_at": "2026-09-08T18:15:20.460823+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
