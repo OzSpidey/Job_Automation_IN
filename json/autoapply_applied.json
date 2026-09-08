@@ -4377,5 +4377,82 @@
     "queued_at": "2026-09-08T12:15:17.052147+00:00",
     "status": "applied",
     "applied_at": "2026-09-08T12:19:18.207987+00:00"
+  },
+  {
+    "job_id": "080926033413",
+    "title": "Software Development Engineer at A FinTech Company",
+    "url": "https://www.naukri.com/job-listings-software-development-engineer-at-a-fintech-company-talentzo-delhi-pune-0-to-5-years-080926033413",
+    "source": "naukri",
+    "company": "Talentzo Delhi",
+    "location": "Remote",
+    "queued_at": "2026-09-08T14:15:18.830384+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-08T14:17:22.179269+00:00"
+  },
+  {
+    "job_id": "080926031038",
+    "title": "Software Development Engineer",
+    "url": "https://www.naukri.com/job-listings-software-development-engineer-virtuvien-ventures-lucknow-0-to-5-years-080926031038",
+    "source": "naukri",
+    "company": "Virtuvien Ventures",
+    "location": "Lucknow",
+    "queued_at": "2026-09-08T14:15:18.830384+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-08T14:17:31.875830+00:00"
+  },
+  {
+    "job_id": "080926924494",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-080926924494",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-08T14:15:18.830384+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-08T14:18:22.470765+00:00"
+  },
+  {
+    "job_id": "080926924460",
+    "title": "Senior Software Engineer",
+    "url": "https://www.naukri.com/job-listings-senior-software-engineer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-080926924460",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-08T14:15:18.830384+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-08T14:18:49.798283+00:00"
+  },
+  {
+    "job_id": "080926924250",
+    "title": "C++ / Qt Desktop Application Engineer",
+    "url": "https://www.naukri.com/job-listings-c-qt-desktop-application-engineer-amx-innovations-bengaluru-1-to-2-years-080926924250",
+    "source": "naukri",
+    "company": "AMX Innovations",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-08T14:15:18.830384+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-08T14:19:26.191327+00:00"
+  },
+  {
+    "job_id": "080926924456",
+    "title": "Sky-high Proxy Engineer",
+    "url": "https://www.naukri.com/job-listings-sky-high-proxy-engineer-capgemini-technology-services-india-limited-navi-mumbai-0-to-5-years-080926924456",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-08T14:15:18.830384+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-08T14:19:35.805877+00:00"
+  },
+  {
+    "job_id": "080926925837",
+    "title": "AI & Quantitative Modelling Analyst",
+    "url": "https://www.naukri.com/job-listings-ai-quantitative-modelling-analyst-ernst-young-llp-bengaluru-0-to-4-years-080926925837",
+    "source": "naukri",
+    "company": "EY",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-08T14:15:18.830384+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-08T14:20:12.575945+00:00"
   }
 ]
