@@ -152,7 +152,7 @@
     "location": "",
     "queued_at": "2026-09-09T06:15:16.898776+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "250826010920",
@@ -163,7 +163,7 @@
     "location": "Hyderabad",
     "queued_at": "2026-09-09T06:15:16.898776+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "300426026928",
@@ -174,7 +174,7 @@
     "location": "Pune",
     "queued_at": "2026-09-09T06:15:16.898776+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "080926025495",
@@ -185,7 +185,7 @@
     "location": "Dungarpur, Vadodara(Waghodia +1)",
     "queued_at": "2026-09-09T06:15:16.898776+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "300426026936",
@@ -196,7 +196,7 @@
     "location": "Pune",
     "queued_at": "2026-09-09T06:15:16.898776+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "290826009251",
@@ -206,7 +206,8 @@
     "company": "Infosys",
     "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-09-09T08:15:17.737382+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "090926018499",
@@ -216,6 +217,7 @@
     "company": "iRageCapital",
     "location": "Mumbai",
     "queued_at": "2026-09-09T08:15:17.737382+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
