@@ -1,93 +1,5 @@
 [
   {
-    "job_id": "250826010920",
-    "title": "Techwave is Hiring PLA / O-Calc Engineers @ Hyderabad",
-    "url": "https://www.naukri.com/job-listings-techwave-is-hiring-pla-o-calc-engineers-hyderabad-techwave-consulting-hyderabad-1-to-6-years-250826010920",
-    "source": "naukri",
-    "company": "Techwave Consulting",
-    "location": "Hyderabad",
-    "queued_at": "2026-09-09T12:15:18.672391+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "300426026936",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-pune-0-to-2-years-300426026936",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-09-09T12:15:18.672391+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "300426026928",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-pune-0-to-2-years-300426026928",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-09-09T12:15:18.672391+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "090926031350",
-    "title": "Tech & Digital-Lead Site Reliability Engineer",
-    "url": "https://www.naukri.com/job-listings-tech-digital-lead-site-reliability-engineer-hdfc-bank-bengaluru-0-to-1-years-090926031350",
-    "source": "naukri",
-    "company": "Hdfc Bank",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-09T14:15:25.711930+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "090926032040",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-haryana-knowledge-corporation-chandigarh-panchkula-1-to-2-years-090926032040",
-    "source": "naukri",
-    "company": "Haryana Knowledge Corporation",
-    "location": "Chandigarh, Panchkula",
-    "queued_at": "2026-09-09T14:15:25.711930+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "180626000284",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-180626000284",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-09-09T14:15:25.711930+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "290826009251",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-2-years-290826009251",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
-    "queued_at": "2026-09-09T14:15:25.711930+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "090926018499",
-    "title": "Institutional Derivativea Dealer",
-    "url": "https://www.naukri.com/job-listings-institutional-derivativea-dealer-iragecapital-mumbai-1-to-3-years-090926018499",
-    "source": "naukri",
-    "company": "iRageCapital",
-    "location": "Mumbai",
-    "queued_at": "2026-09-09T14:15:25.711930+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -230,5 +142,60 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "090926031350",
+    "title": "Tech & Digital-Lead Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-tech-digital-lead-site-reliability-engineer-hdfc-bank-bengaluru-0-to-1-years-090926031350",
+    "source": "naukri",
+    "company": "Hdfc Bank",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-09T14:15:25.711930+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "090926032040",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-haryana-knowledge-corporation-chandigarh-panchkula-1-to-2-years-090926032040",
+    "source": "naukri",
+    "company": "Haryana Knowledge Corporation",
+    "location": "Chandigarh, Panchkula",
+    "queued_at": "2026-09-09T14:15:25.711930+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "180626000284",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-180626000284",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-09T14:15:25.711930+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "290826009251",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-2-years-290826009251",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-09-09T14:15:25.711930+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "090926018499",
+    "title": "Institutional Derivativea Dealer",
+    "url": "https://www.naukri.com/job-listings-institutional-derivativea-dealer-iragecapital-mumbai-1-to-3-years-090926018499",
+    "source": "naukri",
+    "company": "iRageCapital",
+    "location": "Mumbai",
+    "queued_at": "2026-09-09T14:15:25.711930+00:00",
+    "status": "queued",
+    "attempts": 2
   }
 ]
