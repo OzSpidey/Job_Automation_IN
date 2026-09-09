@@ -151,7 +151,8 @@
     "company": "Vee Healthtek",
     "location": "",
     "queued_at": "2026-09-09T06:15:16.898776+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "250826010920",
@@ -161,7 +162,8 @@
     "company": "Techwave Consulting",
     "location": "Hyderabad",
     "queued_at": "2026-09-09T06:15:16.898776+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "300426026928",
@@ -171,7 +173,8 @@
     "company": "eClerx",
     "location": "Pune",
     "queued_at": "2026-09-09T06:15:16.898776+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "080926025495",
@@ -181,7 +184,8 @@
     "company": "Cryogas Equipment",
     "location": "Dungarpur, Vadodara(Waghodia +1)",
     "queued_at": "2026-09-09T06:15:16.898776+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "300426026936",
@@ -191,6 +195,7 @@
     "company": "eClerx",
     "location": "Pune",
     "queued_at": "2026-09-09T06:15:16.898776+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
