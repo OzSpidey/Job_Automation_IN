@@ -142,5 +142,55 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "090926012351",
+    "title": "Walkin Drive For Software Engineer / Team Lead - Salem WFO",
+    "url": "https://www.naukri.com/job-listings-walkin-drive-for-software-engineer-team-lead-salem-wfo-vee-healthtek-salem-1-to-6-years-090926012351",
+    "source": "naukri",
+    "company": "Vee Healthtek",
+    "location": "",
+    "queued_at": "2026-09-09T06:15:16.898776+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "250826010920",
+    "title": "Techwave is Hiring PLA / O-Calc Engineers @ Hyderabad",
+    "url": "https://www.naukri.com/job-listings-techwave-is-hiring-pla-o-calc-engineers-hyderabad-techwave-consulting-hyderabad-1-to-6-years-250826010920",
+    "source": "naukri",
+    "company": "Techwave Consulting",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-09T06:15:16.898776+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300426026928",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-pune-0-to-2-years-300426026928",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-09-09T06:15:16.898776+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "080926025495",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-cryogas-equipment-dungarpur-vadodara-0-to-3-years-080926025495",
+    "source": "naukri",
+    "company": "Cryogas Equipment",
+    "location": "Dungarpur, Vadodara(Waghodia +1)",
+    "queued_at": "2026-09-09T06:15:16.898776+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300426026936",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-pune-0-to-2-years-300426026936",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-09-09T06:15:16.898776+00:00",
+    "status": "queued"
   }
 ]
