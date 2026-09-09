@@ -197,5 +197,25 @@
     "queued_at": "2026-09-09T06:15:16.898776+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "290826009251",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-2-years-290826009251",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-09-09T08:15:17.737382+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "090926018499",
+    "title": "Institutional Derivativea Dealer",
+    "url": "https://www.naukri.com/job-listings-institutional-derivativea-dealer-iragecapital-mumbai-1-to-3-years-090926018499",
+    "source": "naukri",
+    "company": "iRageCapital",
+    "location": "Mumbai",
+    "queued_at": "2026-09-09T08:15:17.737382+00:00",
+    "status": "queued"
   }
 ]
