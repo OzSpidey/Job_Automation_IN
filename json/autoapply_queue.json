@@ -164,5 +164,35 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "100926022529",
+    "title": "Tech & Digital-Lead Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-tech-digital-lead-site-reliability-engineer-hdfc-bank-bengaluru-0-to-1-years-100926022529",
+    "source": "naukri",
+    "company": "Hdfc Bank",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-10T10:15:14.760132+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100926917940",
+    "title": "Analyst/ Consultant",
+    "url": "https://www.naukri.com/job-listings-analyst-consultant-innergize-solutions-pvt-ltd-mumbai-worli-1-to-2-years-100926917940",
+    "source": "naukri",
+    "company": "Innergize Solutions",
+    "location": "Mumbai, Worli",
+    "queued_at": "2026-09-10T10:15:14.760132+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "100926918767",
+    "title": "Embedded Firmware Engineer",
+    "url": "https://www.naukri.com/job-listings-embedded-firmware-engineer-gridbots-technologies-pvt-ltd-ahmedabad-1-to-3-years-100926918767",
+    "source": "naukri",
+    "company": "Gridbots Technologies",
+    "location": "Ahmedabad",
+    "queued_at": "2026-09-10T10:15:14.760132+00:00",
+    "status": "queued"
   }
 ]
