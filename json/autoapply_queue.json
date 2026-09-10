@@ -142,5 +142,15 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "100926009510",
+    "title": "Analyst - Loans",
+    "url": "https://www.naukri.com/job-listings-analyst-loans-sumitomo-mitsui-banking-corporation-smbc-delhi-0-to-5-years-100926009510",
+    "source": "naukri",
+    "company": "Sumitomo Mitsui Banking Corporation (SMBC)",
+    "location": "Hybrid - Delhi",
+    "queued_at": "2026-09-10T06:17:01.788953+00:00",
+    "status": "queued"
   }
 ]
