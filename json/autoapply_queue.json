@@ -142,27 +142,5 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "100926035029",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-shaktinarayan-dhaarmik-mart-gurugram-0-to-3-years-100926035029",
-    "source": "naukri",
-    "company": "Shaktinarayan Dhaarmik Mart",
-    "location": "Gurugram(Sector 65)",
-    "queued_at": "2026-09-10T16:15:33.918103+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "100926022529",
-    "title": "Tech & Digital-Lead Site Reliability Engineer",
-    "url": "https://www.naukri.com/job-listings-tech-digital-lead-site-reliability-engineer-hdfc-bank-bengaluru-0-to-1-years-100926022529",
-    "source": "naukri",
-    "company": "Hdfc Bank",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-10T16:15:33.918103+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
