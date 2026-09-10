@@ -1,27 +1,5 @@
 [
   {
-    "job_id": "100926013598",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-thyrocare-bengaluru-1-to-3-years-100926013598",
-    "source": "naukri",
-    "company": "Thyrocare",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-10T08:15:18.207874+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "100926013641",
-    "title": "Assembly Industrial Engineer (Third Party)",
-    "url": "https://www.naukri.com/job-listings-assembly-industrial-engineer-third-party-ksb-satara-1-to-3-years-100926013641",
-    "source": "naukri",
-    "company": "KSB",
-    "location": "Satara(Shirwal)",
-    "queued_at": "2026-09-10T08:15:18.207874+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -166,6 +144,28 @@
     "status": "queued"
   },
   {
+    "job_id": "100926013598",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-thyrocare-bengaluru-1-to-3-years-100926013598",
+    "source": "naukri",
+    "company": "Thyrocare",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-10T08:15:18.207874+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "100926013641",
+    "title": "Assembly Industrial Engineer (Third Party)",
+    "url": "https://www.naukri.com/job-listings-assembly-industrial-engineer-third-party-ksb-satara-1-to-3-years-100926013641",
+    "source": "naukri",
+    "company": "KSB",
+    "location": "Satara(Shirwal)",
+    "queued_at": "2026-09-10T08:15:18.207874+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
     "job_id": "100926022529",
     "title": "Tech & Digital-Lead Site Reliability Engineer",
     "url": "https://www.naukri.com/job-listings-tech-digital-lead-site-reliability-engineer-hdfc-bank-bengaluru-0-to-1-years-100926022529",
@@ -173,26 +173,7 @@
     "company": "Hdfc Bank",
     "location": "Bengaluru",
     "queued_at": "2026-09-10T10:15:14.760132+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926917940",
-    "title": "Analyst/ Consultant",
-    "url": "https://www.naukri.com/job-listings-analyst-consultant-innergize-solutions-pvt-ltd-mumbai-worli-1-to-2-years-100926917940",
-    "source": "naukri",
-    "company": "Innergize Solutions",
-    "location": "Mumbai, Worli",
-    "queued_at": "2026-09-10T10:15:14.760132+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926918767",
-    "title": "Embedded Firmware Engineer",
-    "url": "https://www.naukri.com/job-listings-embedded-firmware-engineer-gridbots-technologies-pvt-ltd-ahmedabad-1-to-3-years-100926918767",
-    "source": "naukri",
-    "company": "Gridbots Technologies",
-    "location": "Ahmedabad",
-    "queued_at": "2026-09-10T10:15:14.760132+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]

@@ -4597,5 +4597,27 @@
     "queued_at": "2026-09-10T08:15:18.207874+00:00",
     "status": "applied",
     "applied_at": "2026-09-10T08:17:30.243622+00:00"
+  },
+  {
+    "job_id": "100926917940",
+    "title": "Analyst/ Consultant",
+    "url": "https://www.naukri.com/job-listings-analyst-consultant-innergize-solutions-pvt-ltd-mumbai-worli-1-to-2-years-100926917940",
+    "source": "naukri",
+    "company": "Innergize Solutions",
+    "location": "Mumbai, Worli",
+    "queued_at": "2026-09-10T10:15:14.760132+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-10T10:16:56.560904+00:00"
+  },
+  {
+    "job_id": "100926918767",
+    "title": "Embedded Firmware Engineer",
+    "url": "https://www.naukri.com/job-listings-embedded-firmware-engineer-gridbots-technologies-pvt-ltd-ahmedabad-1-to-3-years-100926918767",
+    "source": "naukri",
+    "company": "Gridbots Technologies",
+    "location": "Ahmedabad",
+    "queued_at": "2026-09-10T10:15:14.760132+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-10T10:17:06.228330+00:00"
   }
 ]
