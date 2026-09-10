@@ -144,17 +144,6 @@
     "status": "queued"
   },
   {
-    "job_id": "100926022529",
-    "title": "Tech & Digital-Lead Site Reliability Engineer",
-    "url": "https://www.naukri.com/job-listings-tech-digital-lead-site-reliability-engineer-hdfc-bank-bengaluru-0-to-1-years-100926022529",
-    "source": "naukri",
-    "company": "Hdfc Bank",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-10T10:15:14.760132+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "100926026074",
     "title": "Software Engineer - Mission Data system & MCC",
     "url": "https://www.naukri.com/job-listings-software-engineer-mission-data-system-mcc-aaka-space-ahmedabad-0-to-3-years-100926026074",
@@ -163,7 +152,7 @@
     "location": "Ahmedabad",
     "queued_at": "2026-09-10T12:15:34.654588+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "100926926724",
@@ -174,27 +163,7 @@
     "location": "Bengaluru",
     "queued_at": "2026-09-10T12:15:34.654588+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "100926504648",
-    "title": "Personal Care - SDE - South",
-    "url": "https://www.naukri.com/job-listings-personal-care-sde-south-cavinkare-pvt-ltd-warangal-dindigul-puducherry-chennai-bengaluru-1-to-4-years-100926504648",
-    "source": "naukri",
-    "company": "CavinKare",
-    "location": "Warangal, Dindigul, Puducherry, Chennai, Bengaluru",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926504356",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-ideas-to-impacts-innovations-pvt-ltd-pune-1-to-4-years-100926504356",
-    "source": "naukri",
-    "company": "Ideas To Impacts Innovation",
-    "location": "Pune",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "100926030781",
@@ -204,197 +173,8 @@
     "company": "Coffee Brewery",
     "location": "Bengaluru",
     "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926504847",
-    "title": "Telematics Developer",
-    "url": "https://www.naukri.com/job-listings-telematics-developer-visteon-automotive-india-private-limited-kolkata-1-to-5-years-100926504847",
-    "source": "naukri",
-    "company": "Visteon",
-    "location": "Kolkata",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926502184",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-orange-gurugram-0-to-6-years-100926502184",
-    "source": "naukri",
-    "company": "Orange",
-    "location": "Gurugram",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926503711",
-    "title": "Software Engineer - Terraform IAC",
-    "url": "https://www.naukri.com/job-listings-software-engineer-terraform-iac-harman-india-kalyani-bengaluru-0-to-6-years-100926503711",
-    "source": "naukri",
-    "company": "Harman International",
-    "location": "Kalyani, Bengaluru",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926503316",
-    "title": "SDE - Backend",
-    "url": "https://www.naukri.com/job-listings-sde-backend-wazirx-mumbai-1-to-3-years-100926503316",
-    "source": "naukri",
-    "company": "Wazirx",
-    "location": "Mumbai",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926500996",
-    "title": "BackEnd Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-levels-n-curves-creative-studios-chennai-1-to-5-years-100926500996",
-    "source": "naukri",
-    "company": "Levels N Curves Creative Studios",
-    "location": "Chennai",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926503307",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-bigfix-gadget-care-chennai-0-to-1-years-100926503307",
-    "source": "naukri",
-    "company": "Bigfix",
-    "location": "Chennai",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926502483",
-    "title": "Full-Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-anzarkhan-com-remote-1-to-3-years-100926502483",
-    "source": "naukri",
-    "company": "Anzarkhan.com",
-    "location": "Remote",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926502128",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-barclays-shared-services-pune-1-to-7-years-100926502128",
-    "source": "naukri",
-    "company": "Barclays",
-    "location": "Pune",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926502529",
-    "title": "Python Developer - AI/ML",
-    "url": "https://www.naukri.com/job-listings-python-developer-ai-ml-starkin-solutions-remote-1-to-3-years-100926502529",
-    "source": "naukri",
-    "company": "Starkin Solutions",
-    "location": "Remote",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926502520",
-    "title": "Embedded C++ ECU Software developer",
-    "url": "https://www.naukri.com/job-listings-embedded-c-ecu-software-developer-bmw-techworks-india-private-limited-pune-0-to-2-years-100926502520",
-    "source": "naukri",
-    "company": "BMW Techworks India",
-    "location": "Pune",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926503352",
-    "title": "Edge LLM Engineer",
-    "url": "https://www.naukri.com/job-listings-edge-llm-engineer-flairdeck-bengaluru-1-to-4-years-100926503352",
-    "source": "naukri",
-    "company": "Flairdeck",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926502942",
-    "title": "Professional, Engineering Services",
-    "url": "https://www.naukri.com/job-listings-professional-engineering-services-jones-lang-lasalle-udaipur-1-to-6-years-100926502942",
-    "source": "naukri",
-    "company": "Jones Lang LaSalle (JLL)",
-    "location": "Udaipur",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926502538",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-iflow-bengaluru-0-to-3-years-100926502538",
-    "source": "naukri",
-    "company": "Iflow",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926503878",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-unitedlex-corporation-gurugram-0-to-2-years-100926503878",
-    "source": "naukri",
-    "company": "Unitedlex",
-    "location": "Gurugram",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926503587",
-    "title": "Metrics Analyst",
-    "url": "https://www.naukri.com/job-listings-metrics-analyst-radancy-bengaluru-1-to-2-years-100926503587",
-    "source": "naukri",
-    "company": "Radancy",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926502896",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mumbai-0-to-4-years-100926502896",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Mumbai",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926502537",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-iflow-hyderabad-0-to-3-years-100926502537",
-    "source": "naukri",
-    "company": "Iflow",
-    "location": "Hyderabad",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926502536",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-iflow-pune-0-to-3-years-100926502536",
-    "source": "naukri",
-    "company": "Iflow",
-    "location": "Pune",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926502535",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-iflow-pune-0-to-3-years-100926502535",
-    "source": "naukri",
-    "company": "Iflow",
-    "location": "Pune",
-    "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "100926013598",
@@ -404,7 +184,8 @@
     "company": "Thyrocare",
     "location": "Bengaluru",
     "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "100926013641",
@@ -414,6 +195,7 @@
     "company": "KSB",
     "location": "Satara(Shirwal)",
     "queued_at": "2026-09-10T14:15:11.060130+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
