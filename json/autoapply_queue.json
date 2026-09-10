@@ -151,67 +151,8 @@
     "company": "Thyrocare",
     "location": "Bengaluru",
     "queued_at": "2026-09-10T08:15:18.207874+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926913777",
-    "title": "Senior Software Engineer",
-    "url": "https://www.naukri.com/job-listings-senior-software-engineer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-100926913777",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-10T08:15:18.207874+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926917429",
-    "title": "Frontend Developer",
-    "url": "https://www.naukri.com/job-listings-frontend-developer-ideamagix-thane-0-to-4-years-100926917429",
-    "source": "naukri",
-    "company": "Ideamagix",
-    "location": "Thane",
-    "queued_at": "2026-09-10T08:15:18.207874+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "300526009346",
-    "title": "Urgent Hiring ASP.NET Full Stack Developer- Guntur/Hyderabad",
-    "url": "https://www.naukri.com/job-listings-urgent-hiring-asp-net-full-stack-developer-guntur-hyderabad-bookxpert-guntur-hyderabad-0-to-5-years-300526009346",
-    "source": "naukri",
-    "company": "Bookxpert",
-    "location": "Guntur, Hyderabad",
-    "queued_at": "2026-09-10T08:15:18.207874+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926917234",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-indian-mesh-pvt-ltd-mohali-zirakpur-1-to-2-years-100926917234",
-    "source": "naukri",
-    "company": "Indian Mesh",
-    "location": "Mohali, Zirakpur",
-    "queued_at": "2026-09-10T08:15:18.207874+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926913894",
-    "title": "C++ 3D Visualization Developer",
-    "url": "https://www.naukri.com/job-listings-c-3d-visualization-developer-capgemini-technology-services-india-limited-bengaluru-1-to-5-years-100926913894",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-10T08:15:18.207874+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "100926916232",
-    "title": "NEW3DX Engineer",
-    "url": "https://www.naukri.com/job-listings-3dx-engineer-detroit-engineered-products-dep-chennai-1-to-3-years-100926916232",
-    "source": "naukri",
-    "company": "Detroit Engineered Products (DEP)",
-    "location": "Chennai",
-    "queued_at": "2026-09-10T08:15:18.207874+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "100926013641",
@@ -221,6 +162,7 @@
     "company": "KSB",
     "location": "Satara(Shirwal)",
     "queued_at": "2026-09-10T08:15:18.207874+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
