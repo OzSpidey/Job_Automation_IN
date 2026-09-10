@@ -4619,5 +4619,71 @@
     "queued_at": "2026-09-10T10:15:14.760132+00:00",
     "status": "applied",
     "applied_at": "2026-09-10T10:17:06.228330+00:00"
+  },
+  {
+    "job_id": "100926926585",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-chennai-0-to-5-years-100926926585",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Chennai",
+    "queued_at": "2026-09-10T12:15:34.654588+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-10T12:17:06.791961+00:00"
+  },
+  {
+    "job_id": "100926926407",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-capgemini-technology-services-india-limited-pune-1-to-6-years-100926926407",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Pune",
+    "queued_at": "2026-09-10T12:15:34.654588+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-10T12:17:29.891041+00:00"
+  },
+  {
+    "job_id": "100926028550",
+    "title": "Index Dividend Java developer",
+    "url": "https://www.naukri.com/job-listings-index-dividend-java-developer-msci-services-mumbai-1-to-4-years-100926028550",
+    "source": "naukri",
+    "company": "MSCI Services",
+    "location": "Mumbai",
+    "queued_at": "2026-09-10T12:15:34.654588+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-10T12:17:44.182198+00:00"
+  },
+  {
+    "job_id": "100926027258",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-r-s-patel-co-ahmedabad-1-to-4-years-100926027258",
+    "source": "naukri",
+    "company": "R S Patel & Co",
+    "location": "Ahmedabad",
+    "queued_at": "2026-09-10T12:15:34.654588+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-10T12:17:53.874587+00:00"
+  },
+  {
+    "job_id": "100926926561",
+    "title": "C++ Middleware Developer",
+    "url": "https://www.naukri.com/job-listings-c-middleware-developer-capgemini-technology-services-india-limited-bengaluru-1-to-5-years-100926926561",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-10T12:15:34.654588+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-10T12:18:08.221478+00:00"
+  },
+  {
+    "job_id": "100926023675",
+    "title": "Knowledge Engineer - Freshers",
+    "url": "https://www.naukri.com/job-listings-knowledge-engineer-freshers-india-filings-pvt-ltd-rajapalayam-0-to-2-years-100926023675",
+    "source": "naukri",
+    "company": "India Filings Pvt Ltd",
+    "location": "Rajapalayam",
+    "queued_at": "2026-09-10T12:15:34.654588+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-10T12:18:46.878618+00:00"
   }
 ]
