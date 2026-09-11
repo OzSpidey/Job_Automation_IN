@@ -151,17 +151,8 @@
     "company": "Infosys",
     "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-09-11T06:15:14.316626+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110926005255",
-    "title": "Analyst-IQ/0163",
-    "url": "https://www.naukri.com/job-listings-analyst-iq-0163-iquest-management-consultants-chennai-1-to-5-years-110926005255",
-    "source": "naukri",
-    "company": "Trustline Holdings",
-    "location": "Chennai",
-    "queued_at": "2026-09-11T06:15:14.316626+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "110926006086",
@@ -171,6 +162,7 @@
     "company": "eClerx",
     "location": "Navi Mumbai",
     "queued_at": "2026-09-11T06:15:14.316626+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
