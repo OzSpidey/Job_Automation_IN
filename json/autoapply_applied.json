@@ -4762,5 +4762,27 @@
     "queued_at": "2026-09-11T10:29:39.034907+00:00",
     "status": "applied",
     "applied_at": "2026-09-11T10:34:41.629107+00:00"
+  },
+  {
+    "job_id": "110926019890",
+    "title": "MED Engineer",
+    "url": "https://www.naukri.com/job-listings-med-engineer-hle-glascoat-limited-anand-0-to-3-years-110926019890",
+    "source": "naukri",
+    "company": "HLE Glascoat Limited",
+    "location": "Anand",
+    "queued_at": "2026-09-11T14:15:14.339364+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-11T14:18:01.478006+00:00"
+  },
+  {
+    "job_id": "110926019757",
+    "title": "Software developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-kragos-technologies-jabalpur-0-to-4-years-110926019757",
+    "source": "naukri",
+    "company": "Kragos Technologies",
+    "location": "Jabalpur",
+    "queued_at": "2026-09-11T14:15:14.339364+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-11T14:18:33.863885+00:00"
   }
 ]
