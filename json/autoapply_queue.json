@@ -1,71 +1,5 @@
 [
   {
-    "job_id": "110926018007",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-gyanmisr-consulting-services-jaipur-0-to-3-years-110926018007",
-    "source": "naukri",
-    "company": "Gyanmisr Consulting Services",
-    "location": "Jaipur",
-    "queued_at": "2026-09-11T12:15:17.232026+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "290826009251",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-2-years-290826009251",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
-    "queued_at": "2026-09-11T12:15:17.232026+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "110926020162",
-    "title": "Walk-in || Python Software Developer",
-    "url": "https://www.naukri.com/job-listings-python-software-developer-meythoma-international-chennai-0-to-3-years-110926020162",
-    "source": "naukri",
-    "company": "Meythoma International",
-    "location": "",
-    "queued_at": "2026-09-11T14:15:14.339364+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "110926020135",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-clear-quant-ahmedabad-1-to-5-years-110926020135",
-    "source": "naukri",
-    "company": "Clear Quant",
-    "location": "Ahmedabad(Gota)",
-    "queued_at": "2026-09-11T14:15:14.339364+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "110926022483",
-    "title": "Embedded C/C++ Engineer | 6 Months To 2 Years | Chennai & Bangalore",
-    "url": "https://www.naukri.com/job-listings-embedded-c-c-engineer-6-months-to-2-years-chennai-bangalore-hcltech-chennai-0-to-2-years-110926022483",
-    "source": "naukri",
-    "company": "HCLTech",
-    "location": "Chennai",
-    "queued_at": "2026-09-11T14:15:14.339364+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "250226019422",
-    "title": "Kaizen Engineer",
-    "url": "https://www.naukri.com/job-listings-kaizen-engineer-unidesign-navsari-0-to-5-years-250226019422",
-    "source": "naukri",
-    "company": "Unidesign",
-    "location": "Navsari",
-    "queued_at": "2026-09-11T14:15:14.339364+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -208,5 +142,49 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "110926020162",
+    "title": "Walk-in || Python Software Developer",
+    "url": "https://www.naukri.com/job-listings-python-software-developer-meythoma-international-chennai-0-to-3-years-110926020162",
+    "source": "naukri",
+    "company": "Meythoma International",
+    "location": "",
+    "queued_at": "2026-09-11T14:15:14.339364+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "110926020135",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-clear-quant-ahmedabad-1-to-5-years-110926020135",
+    "source": "naukri",
+    "company": "Clear Quant",
+    "location": "Ahmedabad(Gota)",
+    "queued_at": "2026-09-11T14:15:14.339364+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "110926022483",
+    "title": "Embedded C/C++ Engineer | 6 Months To 2 Years | Chennai & Bangalore",
+    "url": "https://www.naukri.com/job-listings-embedded-c-c-engineer-6-months-to-2-years-chennai-bangalore-hcltech-chennai-0-to-2-years-110926022483",
+    "source": "naukri",
+    "company": "HCLTech",
+    "location": "Chennai",
+    "queued_at": "2026-09-11T14:15:14.339364+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "250226019422",
+    "title": "Kaizen Engineer",
+    "url": "https://www.naukri.com/job-listings-kaizen-engineer-unidesign-navsari-0-to-5-years-250226019422",
+    "source": "naukri",
+    "company": "Unidesign",
+    "location": "Navsari",
+    "queued_at": "2026-09-11T14:15:14.339364+00:00",
+    "status": "queued",
+    "attempts": 2
   }
 ]
