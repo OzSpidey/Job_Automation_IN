@@ -4696,5 +4696,38 @@
     "queued_at": "2026-09-11T06:15:14.316626+00:00",
     "status": "applied",
     "applied_at": "2026-09-11T06:16:21.602778+00:00"
+  },
+  {
+    "job_id": "110926909179",
+    "title": "Senior Software Engineer",
+    "url": "https://www.naukri.com/job-listings-senior-software-engineer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-110926909179",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-11T08:15:13.202590+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-11T08:16:38.004994+00:00"
+  },
+  {
+    "job_id": "110926909172",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-capgemini-technology-services-india-limited-navi-mumbai-1-to-6-years-110926909172",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-11T08:15:13.202590+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-11T08:16:52.461378+00:00"
+  },
+  {
+    "job_id": "110926909146",
+    "title": "C++ Security Developer",
+    "url": "https://www.naukri.com/job-listings-c-security-developer-capgemini-technology-services-india-limited-bengaluru-1-to-5-years-110926909146",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-11T08:15:13.202590+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-11T08:17:02.410702+00:00"
   }
 ]

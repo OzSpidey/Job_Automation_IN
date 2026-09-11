@@ -152,7 +152,7 @@
     "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-09-11T06:15:14.316626+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "110926006086",
@@ -163,47 +163,7 @@
     "location": "Navi Mumbai",
     "queued_at": "2026-09-11T06:15:14.316626+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "110926909179",
-    "title": "Senior Software Engineer",
-    "url": "https://www.naukri.com/job-listings-senior-software-engineer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-110926909179",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-11T08:15:13.202590+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110926908956",
-    "title": "Full stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-ford-motor-private-limited-chennai-1-to-6-years-110926908956",
-    "source": "naukri",
-    "company": "Ford",
-    "location": "Chennai",
-    "queued_at": "2026-09-11T08:15:13.202590+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110926909172",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-capgemini-technology-services-india-limited-navi-mumbai-1-to-6-years-110926909172",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-09-11T08:15:13.202590+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "110926909146",
-    "title": "C++ Security Developer",
-    "url": "https://www.naukri.com/job-listings-c-security-developer-capgemini-technology-services-india-limited-bengaluru-1-to-5-years-110926909146",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-11T08:15:13.202590+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "250226019422",
@@ -213,7 +173,8 @@
     "company": "Unidesign",
     "location": "Navsari",
     "queued_at": "2026-09-11T08:15:13.202590+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "110926009727",
@@ -223,6 +184,7 @@
     "company": "Sigma Rail Systems",
     "location": "Kolkata",
     "queued_at": "2026-09-11T08:15:13.202590+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
