@@ -144,17 +144,6 @@
     "status": "queued"
   },
   {
-    "job_id": "140926022076",
-    "title": "Derivatives Trader",
-    "url": "https://www.naukri.com/job-listings-derivatives-trader-mansukh-securities-and-finance-new-delhi-0-to-3-years-140926022076",
-    "source": "naukri",
-    "company": "Mansukh Securities And Finance",
-    "location": "New Delhi(Pandav Nagar +1)",
-    "queued_at": "2026-09-14T16:15:52.634488+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "140926022430",
     "title": "Software Developer",
     "url": "https://www.naukri.com/job-listings-software-developer-m-s-yashuss-unlimited-business-solutions-private-l-imited-mumbai-mumbai-suburban-0-to-5-years-140926022430",
@@ -163,6 +152,6 @@
     "location": "Mumbai(Malad West), Mumbai Suburban",
     "queued_at": "2026-09-14T18:15:15.592356+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
