@@ -142,5 +142,15 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "140926002245",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-exl-kochi-0-to-1-years-140926002245",
+    "source": "naukri",
+    "company": "EXL",
+    "location": "Kochi",
+    "queued_at": "2026-09-14T06:15:05.061306+00:00",
+    "status": "queued"
   }
 ]
