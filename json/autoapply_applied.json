@@ -5081,5 +5081,49 @@
     "queued_at": "2026-09-14T12:15:05.989693+00:00",
     "status": "applied",
     "applied_at": "2026-09-14T12:18:46.463003+00:00"
+  },
+  {
+    "job_id": "140926915305",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-pune-0-to-5-years-140926915305",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Pune",
+    "queued_at": "2026-09-14T14:15:27.109709+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-14T14:16:58.543491+00:00"
+  },
+  {
+    "job_id": "140926915230",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-chennai-0-to-5-years-140926915230",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Chennai",
+    "queued_at": "2026-09-14T14:15:27.109709+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-14T14:17:08.202575+00:00"
+  },
+  {
+    "job_id": "140926915542",
+    "title": "Senior Site Reliability Engineer - Support",
+    "url": "https://www.naukri.com/job-listings-senior-site-reliability-engineer-support-fis-global-business-solutions-india-pvt-ltd-pune-bengaluru-1-to-6-years-140926915542",
+    "source": "naukri",
+    "company": "FIS",
+    "location": "Pune, Bengaluru",
+    "queued_at": "2026-09-14T14:15:27.109709+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-14T14:17:18.311898+00:00"
+  },
+  {
+    "job_id": "140926915427",
+    "title": "Starlims Developer",
+    "url": "https://www.naukri.com/job-listings-starlims-developer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-140926915427",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-14T14:15:27.109709+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-14T14:17:54.652531+00:00"
   }
 ]
