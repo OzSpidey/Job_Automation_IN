@@ -4795,5 +4795,82 @@
     "queued_at": "2026-09-14T06:15:05.061306+00:00",
     "status": "applied",
     "applied_at": "2026-09-14T06:15:56.280141+00:00"
+  },
+  {
+    "job_id": "140926907210",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-surya-infotech-vadodara-0-to-2-years-140926907210",
+    "source": "naukri",
+    "company": "Surya Infotech",
+    "location": "Vadodara(Sayajigunj)",
+    "queued_at": "2026-09-14T08:15:09.642405+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-14T08:16:05.747079+00:00"
+  },
+  {
+    "job_id": "140926907013",
+    "title": "Software Developer - Immediate Hiring - Chennai Location",
+    "url": "https://www.naukri.com/job-listings-software-developer-immediate-hiring-chennai-location-bk-systems-chennai-0-to-2-years-140926907013",
+    "source": "naukri",
+    "company": "Bk Systems",
+    "location": "Chennai",
+    "queued_at": "2026-09-14T08:15:09.642405+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-14T08:16:15.430642+00:00"
+  },
+  {
+    "job_id": "140926907024",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-mango-infotech-mumbai-0-to-4-years-140926907024",
+    "source": "naukri",
+    "company": "Mango Infotech",
+    "location": "Mumbai",
+    "queued_at": "2026-09-14T08:15:09.642405+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-14T08:16:25.630911+00:00"
+  },
+  {
+    "job_id": "140926905434",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-outmarch-pune-1-to-2-years-140926905434",
+    "source": "naukri",
+    "company": "Outmarch",
+    "location": "Pune",
+    "queued_at": "2026-09-14T08:15:09.642405+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-14T08:16:35.442580+00:00"
+  },
+  {
+    "job_id": "140926908083",
+    "title": "Mobile Application Developer",
+    "url": "https://www.naukri.com/job-listings-mobile-application-developer-devsdom-infotech-hyderabad-0-to-2-years-140926908083",
+    "source": "naukri",
+    "company": "Devsdom Infotech",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-14T08:15:09.642405+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-14T08:16:45.376679+00:00"
+  },
+  {
+    "job_id": "120326011679",
+    "title": "Entry Level Software Engineer",
+    "url": "https://www.naukri.com/job-listings-entry-level-software-engineer-medpace-clinical-research-india-navi-mumbai-0-to-1-years-120326011679",
+    "source": "naukri",
+    "company": "Medpace Clinical Research India",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-14T08:15:09.642405+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-14T08:16:55.240589+00:00"
+  },
+  {
+    "job_id": "140926904814",
+    "title": "GenAI Developer",
+    "url": "https://www.naukri.com/job-listings-genai-developer-lericon-informatics-pvt-ltd-hyderabad-ahmedabad-bengaluru-1-to-5-years-140926904814",
+    "source": "naukri",
+    "company": "Lericon Informatics",
+    "location": "Hyderabad, Ahmedabad, Bengaluru",
+    "queued_at": "2026-09-14T08:15:09.642405+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-14T08:17:05.487789+00:00"
   }
 ]
