@@ -1,5 +1,16 @@
 [
   {
+    "job_id": "120826026406",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-120826026406",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-09-14T08:15:09.642405+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -142,16 +153,5 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "120826026406",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-120826026406",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-09-14T08:15:09.642405+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
