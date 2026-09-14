@@ -4982,5 +4982,104 @@
     "queued_at": "2026-09-14T10:15:14.151697+00:00",
     "status": "applied",
     "applied_at": "2026-09-14T10:18:10.030047+00:00"
+  },
+  {
+    "job_id": "140926909155",
+    "title": "Machnical engineer",
+    "url": "https://www.naukri.com/job-listings-machnical-engineer-international-technology-center-private-limited-ahmednagar-0-to-4-years-140926909155",
+    "source": "naukri",
+    "company": "International Technology Center",
+    "location": "Ahmednagar",
+    "queued_at": "2026-09-14T10:15:14.151697+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-14T12:16:25.831331+00:00"
+  },
+  {
+    "job_id": "140926915278",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-140926915278",
+    "source": "naukri",
+    "company": "Capgemini Technology Services India Limited",
+    "location": "Pune",
+    "queued_at": "2026-09-14T12:15:05.989693+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-14T12:16:35.632612+00:00"
+  },
+  {
+    "job_id": "140926915222",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-140926915222",
+    "source": "naukri",
+    "company": "Capgemini Technology Services India Limited",
+    "location": "Pune",
+    "queued_at": "2026-09-14T12:15:05.989693+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-14T12:16:45.723750+00:00"
+  },
+  {
+    "job_id": "140926915155",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-140926915155",
+    "source": "naukri",
+    "company": "Capgemini Technology Services India Limited",
+    "location": "Chennai",
+    "queued_at": "2026-09-14T12:15:05.989693+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-14T12:16:55.323459+00:00"
+  },
+  {
+    "job_id": "140926915346",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-140926915346",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-14T12:15:05.989693+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-14T12:17:14.386642+00:00"
+  },
+  {
+    "job_id": "140926015592",
+    "title": "Hiring For All Engineers",
+    "url": "https://www.naukri.com/job-listings-hiring-for-all-engineers-oneclick-manpower-navi-mumbai-bengaluru-0-to-5-years-140926015592",
+    "source": "naukri",
+    "company": "Oneclick Manpower Navi Mumbai",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-14T12:15:05.989693+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-14T12:17:33.062210+00:00"
+  },
+  {
+    "job_id": "140926908366",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-thisatechnologies-thisayanvilai-0-to-5-years-140926908366",
+    "source": "naukri",
+    "company": "Thisatechnologies",
+    "location": "Thisayanvilai",
+    "queued_at": "2026-09-14T12:15:05.989693+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-14T12:18:18.008529+00:00"
+  },
+  {
+    "job_id": "140926912483",
+    "title": "Frontend Developer (Remote)",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-remote-brightaxis-labs-remote-0-to-4-years-140926912483",
+    "source": "naukri",
+    "company": "Brightaxis Labs",
+    "location": "Remote",
+    "queued_at": "2026-09-14T12:15:05.989693+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-14T12:18:27.683451+00:00"
+  },
+  {
+    "job_id": "140926912730",
+    "title": "Electrician and Engineer",
+    "url": "https://www.naukri.com/job-listings-electrician-and-engineer-kalpatharu-tech-bengaluru-1-to-3-years-140926912730",
+    "source": "naukri",
+    "company": "Electrical Work & Maintenance",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-14T12:15:05.989693+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-14T12:18:46.463003+00:00"
   }
 ]
