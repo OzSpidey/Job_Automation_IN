@@ -175,5 +175,65 @@
     "queued_at": "2026-09-15T06:15:14.471102+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "150926912375",
+    "title": "Trainee Software Engineers \u2013 Freshers",
+    "url": "https://www.naukri.com/job-listings-trainee-software-engineers-freshers-razorthink-bengaluru-0-to-2-years-150926912375",
+    "source": "naukri",
+    "company": "Razorthink",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-15T08:15:04.127448+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926912449",
+    "title": "Software Developer Intern / Trainee",
+    "url": "https://www.naukri.com/job-listings-software-developer-intern-trainee-techavidus-gandhinagar-0-to-1-years-150926912449",
+    "source": "naukri",
+    "company": "Techavidus",
+    "location": "Gandhinagar",
+    "queued_at": "2026-09-15T08:15:04.127448+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926910877",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-quantum-phinance-pvt-ltd-mumbai-1-to-2-years-150926910877",
+    "source": "naukri",
+    "company": "Quantum Phinance",
+    "location": "Mumbai",
+    "queued_at": "2026-09-15T08:15:04.127448+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926910876",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-quantum-phinance-pvt-ltd-mumbai-1-to-3-years-150926910876",
+    "source": "naukri",
+    "company": "Quantum Phinance",
+    "location": "Mumbai",
+    "queued_at": "2026-09-15T08:15:04.127448+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926013689",
+    "title": "IT Engineer / Administrator",
+    "url": "https://www.naukri.com/job-listings-it-engineer-administrator-rajshree-builders-llp-mumbai-suburban-navi-mumbai-1-to-5-years-150926013689",
+    "source": "naukri",
+    "company": "Rajshree Builders Llp",
+    "location": "Mumbai Suburban, Navi Mumbai",
+    "queued_at": "2026-09-15T08:15:04.127448+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926010452",
+    "title": "PV Analyst",
+    "url": "https://www.naukri.com/job-listings-pv-analyst-se-mentor-kochi-1-to-6-years-150926010452",
+    "source": "naukri",
+    "company": "SE Mentor",
+    "location": "Kochi",
+    "queued_at": "2026-09-15T08:15:04.127448+00:00",
+    "status": "queued"
   }
 ]
