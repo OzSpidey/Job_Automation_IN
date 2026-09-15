@@ -5213,5 +5213,27 @@
     "queued_at": "2026-09-15T08:15:04.127448+00:00",
     "status": "applied",
     "applied_at": "2026-09-15T08:17:06.498399+00:00"
+  },
+  {
+    "job_id": "150926018215",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-kaplas-technology-llp-mohali-0-to-4-years-150926018215",
+    "source": "naukri",
+    "company": "Kaplas Technology LLP",
+    "location": "Mohali",
+    "queued_at": "2026-09-15T10:15:24.461499+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T10:17:29.359862+00:00"
+  },
+  {
+    "job_id": "271223009512",
+    "title": "Hiring Fresher Software Developer",
+    "url": "https://www.naukri.com/job-listings-hiring-fresher-software-developer-talent-spot-chennai-0-to-2-years-271223009512",
+    "source": "naukri",
+    "company": "Talentspot",
+    "location": "Hybrid - Chennai",
+    "queued_at": "2026-09-15T10:15:24.461499+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T10:17:39.091184+00:00"
   }
 ]

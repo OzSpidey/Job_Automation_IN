@@ -1,60 +1,5 @@
 [
   {
-    "job_id": "150926007400",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-bamigos-new-delhi-1-to-3-years-150926007400",
-    "source": "naukri",
-    "company": "Bamigos",
-    "location": "New Delhi(Lajpat Nagar)",
-    "queued_at": "2026-09-15T06:15:14.471102+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "130826920344",
-    "title": "Java Reactjs Developer",
-    "url": "https://www.naukri.com/job-listings-java-reactjs-developer-infosys-limited-bengaluru-1-to-5-years-130826920344",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-15T06:15:14.471102+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "150926007639",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-tripjack-new-delhi-1-to-5-years-150926007639",
-    "source": "naukri",
-    "company": "Tripjack",
-    "location": "New Delhi",
-    "queued_at": "2026-09-15T06:15:14.471102+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "150926013689",
-    "title": "IT Engineer / Administrator",
-    "url": "https://www.naukri.com/job-listings-it-engineer-administrator-rajshree-builders-llp-mumbai-suburban-navi-mumbai-1-to-5-years-150926013689",
-    "source": "naukri",
-    "company": "Rajshree Builders Llp",
-    "location": "Mumbai Suburban, Navi Mumbai",
-    "queued_at": "2026-09-15T08:15:04.127448+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "150926010452",
-    "title": "PV Analyst",
-    "url": "https://www.naukri.com/job-listings-pv-analyst-se-mentor-kochi-1-to-6-years-150926010452",
-    "source": "naukri",
-    "company": "SE Mentor",
-    "location": "Kochi",
-    "queued_at": "2026-09-15T08:15:04.127448+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -199,34 +144,26 @@
     "status": "queued"
   },
   {
-    "job_id": "150926018215",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-kaplas-technology-llp-mohali-0-to-4-years-150926018215",
+    "job_id": "150926013689",
+    "title": "IT Engineer / Administrator",
+    "url": "https://www.naukri.com/job-listings-it-engineer-administrator-rajshree-builders-llp-mumbai-suburban-navi-mumbai-1-to-5-years-150926013689",
     "source": "naukri",
-    "company": "Kaplas Technology LLP",
-    "location": "Mohali",
-    "queued_at": "2026-09-15T10:15:24.461499+00:00",
-    "status": "queued"
+    "company": "Rajshree Builders Llp",
+    "location": "Mumbai Suburban, Navi Mumbai",
+    "queued_at": "2026-09-15T08:15:04.127448+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
-    "job_id": "271223009512",
-    "title": "Hiring Fresher Software Developer",
-    "url": "https://www.naukri.com/job-listings-hiring-fresher-software-developer-talent-spot-chennai-0-to-2-years-271223009512",
+    "job_id": "150926010452",
+    "title": "PV Analyst",
+    "url": "https://www.naukri.com/job-listings-pv-analyst-se-mentor-kochi-1-to-6-years-150926010452",
     "source": "naukri",
-    "company": "Talentspot",
-    "location": "Hybrid - Chennai",
-    "queued_at": "2026-09-15T10:15:24.461499+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "150926502876",
-    "title": "Infosec Engineer",
-    "url": "https://www.naukri.com/job-listings-infosec-engineer-inapp-information-technologies-hybrid-1-to-5-years-150926502876",
-    "source": "naukri",
-    "company": "InApp",
-    "location": "Hybrid - Hybrid",
-    "queued_at": "2026-09-15T10:15:24.461499+00:00",
-    "status": "queued"
+    "company": "SE Mentor",
+    "location": "Kochi",
+    "queued_at": "2026-09-15T08:15:04.127448+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
     "job_id": "130826033798",
@@ -236,6 +173,7 @@
     "company": "eClerx",
     "location": "Navi Mumbai",
     "queued_at": "2026-09-15T10:15:24.461499+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
