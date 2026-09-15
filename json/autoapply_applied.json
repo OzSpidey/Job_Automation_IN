@@ -5675,5 +5675,115 @@
     "queued_at": "2026-09-15T16:15:11.363898+00:00",
     "status": "applied",
     "applied_at": "2026-09-15T18:19:29.659456+00:00"
+  },
+  {
+    "job_id": "150926930257",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-noida-1-to-3-years-150926930257",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Noida",
+    "queued_at": "2026-09-15T16:15:11.363898+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T20:16:22.905039+00:00"
+  },
+  {
+    "job_id": "150926930807",
+    "title": "Applied AI C++ Engineer",
+    "url": "https://www.naukri.com/job-listings-applied-ai-c-engineer-soul-ai-noida-1-to-6-years-150926930807",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Noida",
+    "queued_at": "2026-09-15T16:15:11.363898+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T20:16:33.093607+00:00"
+  },
+  {
+    "job_id": "150926930442",
+    "title": "Junior Software Engineer - C/C++",
+    "url": "https://www.naukri.com/job-listings-junior-software-engineer-c-c-soul-ai-delhi-ncr-1-to-2-years-150926930442",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Remote",
+    "queued_at": "2026-09-15T16:15:11.363898+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T20:16:43.124889+00:00"
+  },
+  {
+    "job_id": "150926930358",
+    "title": "Embedded Systems Developer (C/C++)",
+    "url": "https://www.naukri.com/job-listings-embedded-systems-developer-c-c-soul-ai-delhi-1-to-2-years-150926930358",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Remote",
+    "queued_at": "2026-09-15T16:15:11.363898+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T20:16:53.142560+00:00"
+  },
+  {
+    "job_id": "150926930348",
+    "title": "Junior Software Engineer - C/C++",
+    "url": "https://www.naukri.com/job-listings-junior-software-engineer-c-c-soul-ai-noida-1-to-2-years-150926930348",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Noida",
+    "queued_at": "2026-09-15T16:15:11.363898+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T20:17:03.137227+00:00"
+  },
+  {
+    "job_id": "150926930740",
+    "title": "Software Developer/Engineer (Freelancer)",
+    "url": "https://www.naukri.com/job-listings-software-developer-engineer-freelancer-soul-ai-noida-1-to-4-years-150926930740",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Noida",
+    "queued_at": "2026-09-15T16:15:11.363898+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T20:17:13.433959+00:00"
+  },
+  {
+    "job_id": "150926930722",
+    "title": "Backed Engineer",
+    "url": "https://www.naukri.com/job-listings-backed-engineer-soul-ai-noida-1-to-4-years-150926930722",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Noida",
+    "queued_at": "2026-09-15T16:15:11.363898+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T20:17:23.526422+00:00"
+  },
+  {
+    "job_id": "150926039008",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-ssqinfratel-bengaluru-0-to-3-years-150926039008",
+    "source": "naukri",
+    "company": "Ssqinfratel",
+    "location": "Bengaluru(Nagarbhavi)",
+    "queued_at": "2026-09-15T18:15:36.502861+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T20:17:42.632146+00:00"
+  },
+  {
+    "job_id": "150926933871",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-soul-ai-delhi-ncr-1-to-3-years-150926933871",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Remote",
+    "queued_at": "2026-09-15T18:15:36.502861+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T20:17:52.825093+00:00"
+  },
+  {
+    "job_id": "150926933976",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-soul-ai-chennai-1-to-3-years-150926933976",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Chennai",
+    "queued_at": "2026-09-15T18:15:36.502861+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T20:18:03.151528+00:00"
   }
 ]
