@@ -5169,5 +5169,49 @@
     "queued_at": "2026-09-15T06:15:14.471102+00:00",
     "status": "applied",
     "applied_at": "2026-09-15T06:17:08.464476+00:00"
+  },
+  {
+    "job_id": "150926912375",
+    "title": "Trainee Software Engineers \u2013 Freshers",
+    "url": "https://www.naukri.com/job-listings-trainee-software-engineers-freshers-razorthink-bengaluru-0-to-2-years-150926912375",
+    "source": "naukri",
+    "company": "Razorthink",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-15T08:15:04.127448+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T08:16:36.632059+00:00"
+  },
+  {
+    "job_id": "150926912449",
+    "title": "Software Developer Intern / Trainee",
+    "url": "https://www.naukri.com/job-listings-software-developer-intern-trainee-techavidus-gandhinagar-0-to-1-years-150926912449",
+    "source": "naukri",
+    "company": "Techavidus",
+    "location": "Gandhinagar",
+    "queued_at": "2026-09-15T08:15:04.127448+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T08:16:46.296496+00:00"
+  },
+  {
+    "job_id": "150926910877",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-quantum-phinance-pvt-ltd-mumbai-1-to-2-years-150926910877",
+    "source": "naukri",
+    "company": "Quantum Phinance",
+    "location": "Mumbai",
+    "queued_at": "2026-09-15T08:15:04.127448+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T08:16:56.496358+00:00"
+  },
+  {
+    "job_id": "150926910876",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-quantum-phinance-pvt-ltd-mumbai-1-to-3-years-150926910876",
+    "source": "naukri",
+    "company": "Quantum Phinance",
+    "location": "Mumbai",
+    "queued_at": "2026-09-15T08:15:04.127448+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T08:17:06.498399+00:00"
   }
 ]
