@@ -175,5 +175,175 @@
     "queued_at": "2026-09-15T10:15:24.461499+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "150926921145",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-soul-ai-bengaluru-1-to-3-years-150926921145",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-15T12:15:09.402747+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926921165",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-soul-ai-hyderabad-1-to-3-years-150926921165",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-15T12:15:09.402747+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926921146",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-soul-ai-new-delhi-1-to-3-years-150926921146",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "New Delhi",
+    "queued_at": "2026-09-15T12:15:09.402747+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926920932",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-soul-ai-mumbai-1-to-3-years-150926920932",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Mumbai",
+    "queued_at": "2026-09-15T12:15:09.402747+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926921873",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-soul-ai-kolkata-1-to-3-years-150926921873",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Kolkata",
+    "queued_at": "2026-09-15T12:15:09.402747+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926921222",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-bengaluru-1-to-3-years-150926921222",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-15T12:15:09.402747+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926921885",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-hyderabad-1-to-3-years-150926921885",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-15T12:15:09.402747+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926921883",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-mumbai-1-to-3-years-150926921883",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Mumbai",
+    "queued_at": "2026-09-15T12:15:09.402747+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926921876",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-new-delhi-1-to-3-years-150926921876",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "New Delhi",
+    "queued_at": "2026-09-15T12:15:09.402747+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926921166",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-kolkata-1-to-3-years-150926921166",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Kolkata",
+    "queued_at": "2026-09-15T12:15:09.402747+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926503731",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-afresh-study-abroad-thiruvananthapuram-1-to-4-years-150926503731",
+    "source": "naukri",
+    "company": "Afresh Study Abroad",
+    "location": "Thiruvananthapuram",
+    "queued_at": "2026-09-15T12:15:09.402747+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926503666",
+    "title": "Engineers",
+    "url": "https://www.naukri.com/job-listings-engineers-jaiman-construction-and-consultants-llp-jaipur-0-to-4-years-150926503666",
+    "source": "naukri",
+    "company": "Jaiman Construction And Consultants Llp",
+    "location": "Jaipur",
+    "queued_at": "2026-09-15T12:15:09.402747+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926018730",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-150926018730",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-09-15T12:15:09.402747+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926502876",
+    "title": "Infosec Engineer",
+    "url": "https://www.naukri.com/job-listings-infosec-engineer-inapp-information-technologies-hybrid-1-to-5-years-150926502876",
+    "source": "naukri",
+    "company": "InApp",
+    "location": "Hybrid - Hybrid",
+    "queued_at": "2026-09-15T12:15:09.402747+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926007400",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-bamigos-new-delhi-1-to-3-years-150926007400",
+    "source": "naukri",
+    "company": "Bamigos",
+    "location": "New Delhi(Lajpat Nagar)",
+    "queued_at": "2026-09-15T12:15:09.402747+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "130826920344",
+    "title": "Java Reactjs Developer",
+    "url": "https://www.naukri.com/job-listings-java-reactjs-developer-infosys-limited-bengaluru-1-to-5-years-130826920344",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-15T12:15:09.402747+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926007639",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-tripjack-new-delhi-1-to-5-years-150926007639",
+    "source": "naukri",
+    "company": "Tripjack",
+    "location": "New Delhi",
+    "queued_at": "2026-09-15T12:15:09.402747+00:00",
+    "status": "queued"
   }
 ]
