@@ -197,5 +197,45 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "150926018215",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-kaplas-technology-llp-mohali-0-to-4-years-150926018215",
+    "source": "naukri",
+    "company": "Kaplas Technology LLP",
+    "location": "Mohali",
+    "queued_at": "2026-09-15T10:15:24.461499+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "271223009512",
+    "title": "Hiring Fresher Software Developer",
+    "url": "https://www.naukri.com/job-listings-hiring-fresher-software-developer-talent-spot-chennai-0-to-2-years-271223009512",
+    "source": "naukri",
+    "company": "Talentspot",
+    "location": "Hybrid - Chennai",
+    "queued_at": "2026-09-15T10:15:24.461499+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150926502876",
+    "title": "Infosec Engineer",
+    "url": "https://www.naukri.com/job-listings-infosec-engineer-inapp-information-technologies-hybrid-1-to-5-years-150926502876",
+    "source": "naukri",
+    "company": "InApp",
+    "location": "Hybrid - Hybrid",
+    "queued_at": "2026-09-15T10:15:24.461499+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "130826033798",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-130826033798",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-15T10:15:24.461499+00:00",
+    "status": "queued"
   }
 ]
