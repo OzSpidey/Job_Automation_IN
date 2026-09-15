@@ -144,16 +144,6 @@
     "status": "queued"
   },
   {
-    "job_id": "150926004749",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-150926004749",
-    "source": "naukri",
-    "company": "Creative Hands HR",
-    "location": "Hyderabad, Chennai, Bengaluru",
-    "queued_at": "2026-09-15T06:15:14.471102+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "150926007400",
     "title": "Full Stack Developer",
     "url": "https://www.naukri.com/job-listings-full-stack-developer-bamigos-new-delhi-1-to-3-years-150926007400",
@@ -161,7 +151,8 @@
     "company": "Bamigos",
     "location": "New Delhi(Lajpat Nagar)",
     "queued_at": "2026-09-15T06:15:14.471102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "130826920344",
@@ -171,17 +162,8 @@
     "company": "Infosys",
     "location": "Bengaluru",
     "queued_at": "2026-09-15T06:15:14.471102+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "150926904939",
-    "title": "NEW.NET Developer with C++",
-    "url": "https://www.naukri.com/job-listings-net-developer-with-c-capgemini-technology-services-india-limited-bengaluru-1-to-5-years-150926904939",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-15T06:15:14.471102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "150926007639",
@@ -191,26 +173,7 @@
     "company": "Tripjack",
     "location": "New Delhi",
     "queued_at": "2026-09-15T06:15:14.471102+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "150926004540",
-    "title": "Software Engineer, developer / Programmer, 2026 graduate Can apply",
-    "url": "https://www.naukri.com/job-listings-software-engineer-developer-programmer-2026-graduate-can-apply-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-5-years-150926004540",
-    "source": "naukri",
-    "company": "Creative Hands HR",
-    "location": "Hyderabad, Chennai, Bengaluru",
-    "queued_at": "2026-09-15T06:15:14.471102+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "150926005248",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-150926005248",
-    "source": "naukri",
-    "company": "Creative Hands HR",
-    "location": "Hyderabad, Chennai, Bengaluru",
-    "queued_at": "2026-09-15T06:15:14.471102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
