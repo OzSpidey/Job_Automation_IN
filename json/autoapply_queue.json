@@ -144,28 +144,6 @@
     "status": "queued"
   },
   {
-    "job_id": "150926013689",
-    "title": "IT Engineer / Administrator",
-    "url": "https://www.naukri.com/job-listings-it-engineer-administrator-rajshree-builders-llp-mumbai-suburban-navi-mumbai-1-to-5-years-150926013689",
-    "source": "naukri",
-    "company": "Rajshree Builders Llp",
-    "location": "Mumbai Suburban, Navi Mumbai",
-    "queued_at": "2026-09-15T08:15:04.127448+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "150926010452",
-    "title": "PV Analyst",
-    "url": "https://www.naukri.com/job-listings-pv-analyst-se-mentor-kochi-1-to-6-years-150926010452",
-    "source": "naukri",
-    "company": "SE Mentor",
-    "location": "Kochi",
-    "queued_at": "2026-09-15T08:15:04.127448+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "130826033798",
     "title": "Analyst",
     "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-130826033798",
@@ -174,107 +152,7 @@
     "location": "Navi Mumbai",
     "queued_at": "2026-09-15T10:15:24.461499+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "150926921145",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-soul-ai-bengaluru-1-to-3-years-150926921145",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-15T12:15:09.402747+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "150926921165",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-soul-ai-hyderabad-1-to-3-years-150926921165",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "Hyderabad",
-    "queued_at": "2026-09-15T12:15:09.402747+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "150926921146",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-soul-ai-new-delhi-1-to-3-years-150926921146",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "New Delhi",
-    "queued_at": "2026-09-15T12:15:09.402747+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "150926920932",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-soul-ai-mumbai-1-to-3-years-150926920932",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "Mumbai",
-    "queued_at": "2026-09-15T12:15:09.402747+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "150926921873",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-soul-ai-kolkata-1-to-3-years-150926921873",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "Kolkata",
-    "queued_at": "2026-09-15T12:15:09.402747+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "150926921222",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-bengaluru-1-to-3-years-150926921222",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-15T12:15:09.402747+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "150926921885",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-hyderabad-1-to-3-years-150926921885",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "Hyderabad",
-    "queued_at": "2026-09-15T12:15:09.402747+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "150926921883",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-mumbai-1-to-3-years-150926921883",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "Mumbai",
-    "queued_at": "2026-09-15T12:15:09.402747+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "150926921876",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-new-delhi-1-to-3-years-150926921876",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "New Delhi",
-    "queued_at": "2026-09-15T12:15:09.402747+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "150926921166",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-kolkata-1-to-3-years-150926921166",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "Kolkata",
-    "queued_at": "2026-09-15T12:15:09.402747+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "150926503731",
