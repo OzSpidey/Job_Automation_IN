@@ -5565,5 +5565,115 @@
     "queued_at": "2026-09-15T14:15:08.036020+00:00",
     "status": "applied",
     "applied_at": "2026-09-15T16:18:42.084617+00:00"
+  },
+  {
+    "job_id": "150926924083",
+    "title": "Backed Engineer",
+    "url": "https://www.naukri.com/job-listings-backed-engineer-soul-ai-delhi-ncr-1-to-4-years-150926924083",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Delhi / NCR",
+    "queued_at": "2026-09-15T14:15:08.036020+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T18:17:28.513760+00:00"
+  },
+  {
+    "job_id": "150926924079",
+    "title": "Backed Engineer",
+    "url": "https://www.naukri.com/job-listings-backed-engineer-soul-ai-bengaluru-1-to-4-years-150926924079",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-15T14:15:08.036020+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T18:17:38.599518+00:00"
+  },
+  {
+    "job_id": "150926923798",
+    "title": "Backed Engineer",
+    "url": "https://www.naukri.com/job-listings-backed-engineer-soul-ai-mumbai-1-to-4-years-150926923798",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Mumbai",
+    "queued_at": "2026-09-15T14:15:08.036020+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T18:17:48.547278+00:00"
+  },
+  {
+    "job_id": "150926923376",
+    "title": "Software Developer/Engineer (Freelancer)",
+    "url": "https://www.naukri.com/job-listings-software-developer-engineer-freelancer-soul-ai-mumbai-1-to-4-years-150926923376",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Mumbai",
+    "queued_at": "2026-09-15T14:15:08.036020+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T18:17:58.649595+00:00"
+  },
+  {
+    "job_id": "150926922575",
+    "title": "Backed Engineer",
+    "url": "https://www.naukri.com/job-listings-backed-engineer-soul-ai-hyderabad-1-to-4-years-150926922575",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-15T14:15:08.036020+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T18:18:09.117641+00:00"
+  },
+  {
+    "job_id": "150926922663",
+    "title": "Palantir Developer",
+    "url": "https://www.naukri.com/job-listings-palantir-developer-techstar-software-development-india-pvt-ltd-hyderabad-0-to-5-years-150926922663",
+    "source": "naukri",
+    "company": "Techstar Group",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-15T14:15:08.036020+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T18:18:19.342509+00:00"
+  },
+  {
+    "job_id": "150926930379",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-soul-ai-delhi-ncr-1-to-3-years-150926930379",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Remote",
+    "queued_at": "2026-09-15T16:15:11.363898+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T18:18:41.419210+00:00"
+  },
+  {
+    "job_id": "150926930573",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-150926930573",
+    "source": "naukri",
+    "company": "Soul AI",
+    "location": "Noida",
+    "queued_at": "2026-09-15T16:15:11.363898+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T18:18:51.704448+00:00"
+  },
+  {
+    "job_id": "150926930111",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-soul-ai-noida-1-to-3-years-150926930111",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Noida",
+    "queued_at": "2026-09-15T16:15:11.363898+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T18:19:10.764710+00:00"
+  },
+  {
+    "job_id": "150926929187",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-rudr-consultancy-services-udaipur-0-to-2-years-150926929187",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Udaipur",
+    "queued_at": "2026-09-15T16:15:11.363898+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-15T18:19:29.659456+00:00"
   }
 ]
