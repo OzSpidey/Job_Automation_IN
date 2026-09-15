@@ -443,5 +443,15 @@
     "location": "Jaipur",
     "queued_at": "2026-09-15T18:15:36.502861+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "041225036371",
+    "title": "Firmware Engineer",
+    "url": "https://www.naukri.com/job-listings-firmware-engineer-dg-propulsion-amritsar-1-to-5-years-041225036371",
+    "source": "naukri",
+    "company": "DG Propulsion",
+    "location": "Amritsar",
+    "queued_at": "2026-09-15T20:15:13.268367+00:00",
+    "status": "queued"
   }
 ]
