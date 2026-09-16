@@ -5895,5 +5895,82 @@
     "queued_at": "2026-09-15T18:15:36.502861+00:00",
     "status": "applied",
     "applied_at": "2026-09-15T22:17:47.527225+00:00"
+  },
+  {
+    "job_id": "150926932750",
+    "title": "Applied AI C++ Engineer",
+    "url": "https://www.naukri.com/job-listings-applied-ai-c-engineer-soul-ai-gurugram-1-to-6-years-150926932750",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Gurugram",
+    "queued_at": "2026-09-15T18:15:36.502861+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-16T00:16:01.186578+00:00"
+  },
+  {
+    "job_id": "150926932390",
+    "title": "Junior Software Engineer - C/C++",
+    "url": "https://www.naukri.com/job-listings-junior-software-engineer-c-c-soul-ai-gurugram-1-to-2-years-150926932390",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Gurugram",
+    "queued_at": "2026-09-15T18:15:36.502861+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-16T00:16:11.329827+00:00"
+  },
+  {
+    "job_id": "150926934065",
+    "title": "Software Developer/Engineer (Freelancer)",
+    "url": "https://www.naukri.com/job-listings-software-developer-engineer-freelancer-soul-ai-chennai-1-to-4-years-150926934065",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Chennai",
+    "queued_at": "2026-09-15T18:15:36.502861+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-16T00:16:21.334040+00:00"
+  },
+  {
+    "job_id": "150926934056",
+    "title": "Backed Engineer",
+    "url": "https://www.naukri.com/job-listings-backed-engineer-soul-ai-chennai-1-to-4-years-150926934056",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Chennai",
+    "queued_at": "2026-09-15T18:15:36.502861+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-16T00:16:31.455544+00:00"
+  },
+  {
+    "job_id": "150926932700",
+    "title": "Software Developer/Engineer (Freelancer)",
+    "url": "https://www.naukri.com/job-listings-software-developer-engineer-freelancer-soul-ai-gurugram-1-to-4-years-150926932700",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Gurugram",
+    "queued_at": "2026-09-15T18:15:36.502861+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-16T00:16:41.763616+00:00"
+  },
+  {
+    "job_id": "150926932686",
+    "title": "Backed Engineer",
+    "url": "https://www.naukri.com/job-listings-backed-engineer-soul-ai-gurugram-1-to-4-years-150926932686",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Gurugram",
+    "queued_at": "2026-09-15T18:15:36.502861+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-16T00:16:51.818512+00:00"
+  },
+  {
+    "job_id": "150926931176",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-rudr-consultancy-services-jaipur-1-to-5-years-150926931176",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Jaipur",
+    "queued_at": "2026-09-15T18:15:36.502861+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-16T00:17:02.102939+00:00"
   }
 ]
