@@ -1,5 +1,82 @@
 [
   {
+    "job_id": "100926013598",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-thyrocare-bengaluru-1-to-3-years-100926013598",
+    "source": "naukri",
+    "company": "Thyrocare",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-16T06:15:19.673302+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "160926008442",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-160926008442",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-09-16T06:15:19.673302+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "160926000596",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-adani-group-mangaluru-0-to-4-years-160926000596",
+    "source": "naukri",
+    "company": "Adani Group",
+    "location": "Mangaluru",
+    "queued_at": "2026-09-16T06:15:19.673302+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "041225036371",
+    "title": "Firmware Engineer",
+    "url": "https://www.naukri.com/job-listings-firmware-engineer-dg-propulsion-amritsar-1-to-5-years-041225036371",
+    "source": "naukri",
+    "company": "DG Propulsion",
+    "location": "Amritsar",
+    "queued_at": "2026-09-16T06:15:19.673302+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "160926020070",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-karmyog-education-network-ken-mumbai-0-to-2-years-160926020070",
+    "source": "naukri",
+    "company": "Karmyog Education Network (ken)",
+    "location": "Mumbai(Madh)",
+    "queued_at": "2026-09-16T08:15:39.090785+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "160926017958",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-160926017958",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-16T08:15:39.090785+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "160926015449",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-redseer-consulting-bengaluru-0-to-3-years-160926015449",
+    "source": "naukri",
+    "company": "Redseer Consulting",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-16T08:15:39.090785+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -142,82 +219,5 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "100926013598",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-thyrocare-bengaluru-1-to-3-years-100926013598",
-    "source": "naukri",
-    "company": "Thyrocare",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-16T06:15:19.673302+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "160926008442",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-160926008442",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-09-16T06:15:19.673302+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "160926000596",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-adani-group-mangaluru-0-to-4-years-160926000596",
-    "source": "naukri",
-    "company": "Adani Group",
-    "location": "Mangaluru",
-    "queued_at": "2026-09-16T06:15:19.673302+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "041225036371",
-    "title": "Firmware Engineer",
-    "url": "https://www.naukri.com/job-listings-firmware-engineer-dg-propulsion-amritsar-1-to-5-years-041225036371",
-    "source": "naukri",
-    "company": "DG Propulsion",
-    "location": "Amritsar",
-    "queued_at": "2026-09-16T06:15:19.673302+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "160926020070",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-karmyog-education-network-ken-mumbai-0-to-2-years-160926020070",
-    "source": "naukri",
-    "company": "Karmyog Education Network (ken)",
-    "location": "Mumbai(Madh)",
-    "queued_at": "2026-09-16T08:15:39.090785+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "160926017958",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-160926017958",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-09-16T08:15:39.090785+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "160926015449",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-redseer-consulting-bengaluru-0-to-3-years-160926015449",
-    "source": "naukri",
-    "company": "Redseer Consulting",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-16T08:15:39.090785+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
