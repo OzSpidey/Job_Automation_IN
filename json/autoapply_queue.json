@@ -219,5 +219,35 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "160926029059",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-denso-new-delhi-faridabad-gurugram-0-to-2-years-160926029059",
+    "source": "naukri",
+    "company": "Denso",
+    "location": "New Delhi, Faridabad, Gurugram",
+    "queued_at": "2026-09-16T10:15:08.211286+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926500189",
+    "title": "Prestashop Developer",
+    "url": "https://www.naukri.com/job-listings-prestashop-developer-bug-treat-technologies-madurai-1-to-3-years-160926500189",
+    "source": "naukri",
+    "company": "Bugtreat Technologies",
+    "location": "Madurai",
+    "queued_at": "2026-09-16T10:15:08.211286+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926500186",
+    "title": "CS Cart Developer",
+    "url": "https://www.naukri.com/job-listings-cs-cart-developer-bug-treat-technologies-madurai-1-to-3-years-160926500186",
+    "source": "naukri",
+    "company": "Bugtreat Technologies",
+    "location": "Madurai",
+    "queued_at": "2026-09-16T10:15:08.211286+00:00",
+    "status": "queued"
   }
 ]
