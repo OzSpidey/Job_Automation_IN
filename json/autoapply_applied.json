@@ -6093,5 +6093,71 @@
     "queued_at": "2026-09-16T14:15:39.287430+00:00",
     "status": "applied",
     "applied_at": "2026-09-16T14:20:26.570524+00:00"
+  },
+  {
+    "job_id": "160926042594",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-aeoru-enterprises-delhi-delhi-ncr-0-to-3-years-160926042594",
+    "source": "naukri",
+    "company": "Aeoru Enterprises Delhi",
+    "location": "Delhi / NCR",
+    "queued_at": "2026-09-16T16:15:34.448044+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-16T16:18:27.806940+00:00"
+  },
+  {
+    "job_id": "160926928158",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-faridabad-0-to-1-years-160926928158",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Faridabad",
+    "queued_at": "2026-09-16T16:15:34.448044+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-16T16:20:08.497945+00:00"
+  },
+  {
+    "job_id": "160926928157",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-ghaziabad-0-to-1-years-160926928157",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Ghaziabad",
+    "queued_at": "2026-09-16T16:15:34.448044+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-16T16:20:18.532387+00:00"
+  },
+  {
+    "job_id": "160926928156",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-greater-noida-0-to-1-years-160926928156",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Greater Noida",
+    "queued_at": "2026-09-16T16:15:34.448044+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-16T16:20:28.637724+00:00"
+  },
+  {
+    "job_id": "160926928155",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-noida-0-to-1-years-160926928155",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Noida",
+    "queued_at": "2026-09-16T16:15:34.448044+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-16T16:20:38.660428+00:00"
+  },
+  {
+    "job_id": "160926928154",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-gurugram-0-to-1-years-160926928154",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Gurugram",
+    "queued_at": "2026-09-16T16:15:34.448044+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-16T16:20:48.771201+00:00"
   }
 ]
