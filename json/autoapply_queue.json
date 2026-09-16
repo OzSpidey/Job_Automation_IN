@@ -186,5 +186,35 @@
     "queued_at": "2026-09-16T06:15:19.673302+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "160926020070",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-karmyog-education-network-ken-mumbai-0-to-2-years-160926020070",
+    "source": "naukri",
+    "company": "Karmyog Education Network (ken)",
+    "location": "Mumbai(Madh)",
+    "queued_at": "2026-09-16T08:15:39.090785+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926017958",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-160926017958",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-16T08:15:39.090785+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926015449",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-redseer-consulting-bengaluru-0-to-3-years-160926015449",
+    "source": "naukri",
+    "company": "Redseer Consulting",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-16T08:15:39.090785+00:00",
+    "status": "queued"
   }
 ]
