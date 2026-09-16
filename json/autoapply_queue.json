@@ -208,5 +208,365 @@
     "queued_at": "2026-09-16T12:15:10.199456+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "160926504079",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-citadel-securities-gurugram-0-to-3-years-160926504079",
+    "source": "naukri",
+    "company": "Citadel Securities",
+    "location": "Gurugram",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926504077",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-citadel-securities-gurugram-0-to-3-years-160926504077",
+    "source": "naukri",
+    "company": "Citadel Securities",
+    "location": "Gurugram",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926504084",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-capsync-surat-1-to-2-years-160926504084",
+    "source": "naukri",
+    "company": "Capsync",
+    "location": "Surat",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926504541",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-webguru-infosystems-pvt-ltd-kolkata-0-to-4-years-160926504541",
+    "source": "naukri",
+    "company": "Webguru Technologies",
+    "location": "Kolkata",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926045980",
+    "title": "Walk-in || Python Software Developer (Immediate Joiners)",
+    "url": "https://www.naukri.com/job-listings-python-software-developer-immediate-joiners-pvkl-tech-services-pvt-ltd-pune-0-to-2-years-160926045980",
+    "source": "naukri",
+    "company": "PVKL Tech Services Pvt Ltd",
+    "location": "",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926504074",
+    "title": "C++ Software Engineer",
+    "url": "https://www.naukri.com/job-listings-c-software-engineer-citadel-securities-gurugram-1-to-6-years-160926504074",
+    "source": "naukri",
+    "company": "Citadel Securities",
+    "location": "Gurugram",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926504597",
+    "title": "Roku TV Developer",
+    "url": "https://www.naukri.com/job-listings-roku-tv-developer-contus-chennai-1-to-5-years-160926504597",
+    "source": "naukri",
+    "company": "CONTUS TECH",
+    "location": "Chennai",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926504080",
+    "title": "Systematic Trader",
+    "url": "https://www.naukri.com/job-listings-systematic-trader-citadel-securities-gurugram-1-to-5-years-160926504080",
+    "source": "naukri",
+    "company": "Citadel Securities",
+    "location": "Gurugram",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926502901",
+    "title": "Associate Software Engineer (Full Stack - Fresher)",
+    "url": "https://www.naukri.com/job-listings-associate-software-engineer-full-stack-fresher-sd-wot-rangareddy-0-to-1-years-160926502901",
+    "source": "naukri",
+    "company": "SD Wot",
+    "location": "Rangareddy",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926502979",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-1-to-4-years-160926502979",
+    "source": "naukri",
+    "company": "Cisco",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926502902",
+    "title": "Associate Software Engineer (JavaScript - Fresher)",
+    "url": "https://www.naukri.com/job-listings-associate-software-engineer-javascript-fresher-sd-wot-rangareddy-0-to-1-years-160926502902",
+    "source": "naukri",
+    "company": "SD Wot",
+    "location": "Rangareddy",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926501746",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-lennox-software-jodhpur-0-to-2-years-160926501746",
+    "source": "naukri",
+    "company": "Lennox Software",
+    "location": "Jodhpur",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926501435",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-deutsche-bank-bengaluru-0-to-5-years-160926501435",
+    "source": "naukri",
+    "company": "Deutsche Bank",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926503790",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-ue-developer-new-delhi-0-to-3-years-160926503790",
+    "source": "naukri",
+    "company": "UE Developer",
+    "location": "New Delhi",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926502916",
+    "title": "Python Software Developer",
+    "url": "https://www.naukri.com/job-listings-python-software-developer-knowledgesprint-technologies-india-pvt-ltd-hyderabad-0-to-3-years-160926502916",
+    "source": "naukri",
+    "company": "Knowledgesprint Technologies",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926503858",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-techno-softwares-jaipur-0-to-5-years-160926503858",
+    "source": "naukri",
+    "company": "Techno Softwares",
+    "location": "Jaipur",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926501605",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-softlabs-group-mumbai-1-to-5-years-160926501605",
+    "source": "naukri",
+    "company": "Softlabs Technologies And Development",
+    "location": "Mumbai",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926503573",
+    "title": "C++ Developer",
+    "url": "https://www.naukri.com/job-listings-c-developer-webtech-developers-pvt-ltd-pune-0-to-2-years-160926503573",
+    "source": "naukri",
+    "company": "Webtech Developers",
+    "location": "Pune",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926502801",
+    "title": "Senior Software Engineer - Optical Line Systems (L0/OLS)",
+    "url": "https://www.naukri.com/job-listings-senior-software-engineer-optical-line-systems-l0-ols-insemi-technology-services-pvt-ltd-daman-diu-bengaluru-1-to-5-years-160926502801",
+    "source": "naukri",
+    "company": "Insemi Technology Services",
+    "location": "Daman & Diu, Bengaluru",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926924655",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-nagpur-0-to-1-years-160926924655",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Nagpur",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926924653",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-bhubaneswar-0-to-1-years-160926924653",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Bhubaneswar",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926924651",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-lucknow-0-to-1-years-160926924651",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Lucknow",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926924650",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-kochi-0-to-1-years-160926924650",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Kochi",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926924648",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-coimbatore-0-to-1-years-160926924648",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Coimbatore",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926924647",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-surat-0-to-1-years-160926924647",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Surat",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926924646",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-jaipur-0-to-1-years-160926924646",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Jaipur",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926924645",
+    "title": "GPS Service Engineer Technician - Freshers",
+    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-chandigarh-0-to-1-years-160926924645",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Chandigarh",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926502261",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-transunion-hyderabad-1-to-2-years-160926502261",
+    "source": "naukri",
+    "company": "Transunion",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926501940",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-160926501940",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926501875",
+    "title": "Analyst - TA",
+    "url": "https://www.naukri.com/job-listings-analyst-ta-apex-fund-services-llp-pune-0-to-7-years-160926501875",
+    "source": "naukri",
+    "company": "Apex Group",
+    "location": "Pune",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926501776",
+    "title": "MERN Developer",
+    "url": "https://www.naukri.com/job-listings-mern-developer-zensar-technologies-pune-0-to-5-years-160926501776",
+    "source": "naukri",
+    "company": "Zensar",
+    "location": "Pune",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926500519",
+    "title": "E&E FP&A CoE Insights Senior Analyst",
+    "url": "https://www.naukri.com/job-listings-e-e-fp-a-coe-insights-senior-analyst-british-council-new-delhi-1-to-5-years-160926500519",
+    "source": "naukri",
+    "company": "British Council",
+    "location": "New Delhi",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926500189",
+    "title": "Prestashop Developer",
+    "url": "https://www.naukri.com/job-listings-prestashop-developer-bug-treat-technologies-madurai-1-to-3-years-160926500189",
+    "source": "naukri",
+    "company": "Bugtreat Technologies",
+    "location": "Madurai",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926500186",
+    "title": "CS Cart Developer",
+    "url": "https://www.naukri.com/job-listings-cs-cart-developer-bug-treat-technologies-madurai-1-to-3-years-160926500186",
+    "source": "naukri",
+    "company": "Bugtreat Technologies",
+    "location": "Madurai",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926017958",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-160926017958",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "160926015449",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-redseer-consulting-bengaluru-0-to-3-years-160926015449",
+    "source": "naukri",
+    "company": "Redseer Consulting",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-16T14:15:39.287430+00:00",
+    "status": "queued"
   }
 ]
