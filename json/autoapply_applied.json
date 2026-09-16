@@ -6159,5 +6159,71 @@
     "queued_at": "2026-09-16T16:15:34.448044+00:00",
     "status": "applied",
     "applied_at": "2026-09-16T16:20:48.771201+00:00"
+  },
+  {
+    "job_id": "160926933123",
+    "title": "Site Reliability Engineer I",
+    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-i-f5-networks-innovation-private-limited-hyderabad-bengaluru-1-to-6-years-160926933123",
+    "source": "naukri",
+    "company": "F5",
+    "location": "Hyderabad, Bengaluru",
+    "queued_at": "2026-09-16T18:15:31.313211+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-16T18:18:04.927994+00:00"
+  },
+  {
+    "job_id": "160926933731",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-trade-brains-bengaluru-1-to-5-years-160926933731",
+    "source": "naukri",
+    "company": "Trade Brains",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-16T18:15:31.313211+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-16T18:18:19.826901+00:00"
+  },
+  {
+    "job_id": "160926934168",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-rudr-consultancy-services-jaipur-1-to-3-years-160926934168",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Jaipur",
+    "queued_at": "2026-09-16T18:15:31.313211+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-16T18:18:34.773438+00:00"
+  },
+  {
+    "job_id": "160926933835",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-rudr-consultancy-services-udaipur-jaipur-1-to-3-years-160926933835",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Udaipur, Jaipur",
+    "queued_at": "2026-09-16T18:15:31.313211+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-16T18:18:45.078676+00:00"
+  },
+  {
+    "job_id": "160926934568",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-rudr-consultancy-services-udaipur-1-to-6-years-160926934568",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Udaipur",
+    "queued_at": "2026-09-16T18:15:31.313211+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-16T18:19:17.781935+00:00"
+  },
+  {
+    "job_id": "160926933233",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-axtria-india-private-limited-noida-0-to-3-years-160926933233",
+    "source": "naukri",
+    "company": "Axtria",
+    "location": "Noida",
+    "queued_at": "2026-09-16T18:15:31.313211+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-16T18:19:32.594590+00:00"
   }
 ]
