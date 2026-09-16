@@ -144,39 +144,6 @@
     "status": "queued"
   },
   {
-    "job_id": "160926020070",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-karmyog-education-network-ken-mumbai-0-to-2-years-160926020070",
-    "source": "naukri",
-    "company": "Karmyog Education Network (ken)",
-    "location": "Mumbai(Madh)",
-    "queued_at": "2026-09-16T08:15:39.090785+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "160926017958",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-160926017958",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-09-16T08:15:39.090785+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "160926015449",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-redseer-consulting-bengaluru-0-to-3-years-160926015449",
-    "source": "naukri",
-    "company": "Redseer Consulting",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-16T08:15:39.090785+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "160926029059",
     "title": "Engineer",
     "url": "https://www.naukri.com/job-listings-engineer-denso-new-delhi-faridabad-gurugram-0-to-2-years-160926029059",
@@ -185,87 +152,7 @@
     "location": "New Delhi, Faridabad, Gurugram",
     "queued_at": "2026-09-16T10:15:08.211286+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "160926501435",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-deutsche-bank-bengaluru-0-to-5-years-160926501435",
-    "source": "naukri",
-    "company": "Deutsche Bank",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-16T12:15:10.199456+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "160926501605",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-softlabs-group-mumbai-1-to-5-years-160926501605",
-    "source": "naukri",
-    "company": "Softlabs Technologies And Development",
-    "location": "Mumbai",
-    "queued_at": "2026-09-16T12:15:10.199456+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "160926502870",
-    "title": "Foundational Engineer",
-    "url": "https://www.naukri.com/job-listings-foundational-engineer-harman-india-pune-0-to-1-years-160926502870",
-    "source": "naukri",
-    "company": "Harman International",
-    "location": "Pune",
-    "queued_at": "2026-09-16T12:15:10.199456+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "160926501825",
-    "title": "Software Developer / Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-developer-software-engineer-logic-research-labs-kumbakonam-1-to-3-years-160926501825",
-    "source": "naukri",
-    "company": "Logic Research Labs",
-    "location": "Kumbakonam",
-    "queued_at": "2026-09-16T12:15:10.199456+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "160926501940",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-160926501940",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-09-16T12:15:10.199456+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "160926501875",
-    "title": "Analyst - TA",
-    "url": "https://www.naukri.com/job-listings-analyst-ta-apex-fund-services-llp-pune-0-to-7-years-160926501875",
-    "source": "naukri",
-    "company": "Apex Group",
-    "location": "Pune",
-    "queued_at": "2026-09-16T12:15:10.199456+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "160926501776",
-    "title": "MERN Developer",
-    "url": "https://www.naukri.com/job-listings-mern-developer-zensar-technologies-pune-0-to-5-years-160926501776",
-    "source": "naukri",
-    "company": "Zensar",
-    "location": "Pune",
-    "queued_at": "2026-09-16T12:15:10.199456+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "160926500519",
-    "title": "E&E FP&A CoE Insights Senior Analyst",
-    "url": "https://www.naukri.com/job-listings-e-e-fp-a-coe-insights-senior-analyst-british-council-new-delhi-1-to-5-years-160926500519",
-    "source": "naukri",
-    "company": "British Council",
-    "location": "New Delhi",
-    "queued_at": "2026-09-16T12:15:10.199456+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "160926037994",
@@ -275,47 +162,8 @@
     "company": "Minerva Valuations",
     "location": "Remote",
     "queued_at": "2026-09-16T12:15:10.199456+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "160926922986",
-    "title": "GPS Service Engineer Technician - Freshers",
-    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-new-delhi-0-to-1-years-160926922986",
-    "source": "naukri",
-    "company": "Leading Client",
-    "location": "New Delhi",
-    "queued_at": "2026-09-16T12:15:10.199456+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "160926922795",
-    "title": "GPS Service Engineer Technician - Freshers",
-    "url": "https://www.naukri.com/job-listings-gps-service-engineer-technician-freshers-purview-india-consulting-and-services-llp-bengaluru-0-to-1-years-160926922795",
-    "source": "naukri",
-    "company": "Leading Client",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-16T12:15:10.199456+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "160926500189",
-    "title": "Prestashop Developer",
-    "url": "https://www.naukri.com/job-listings-prestashop-developer-bug-treat-technologies-madurai-1-to-3-years-160926500189",
-    "source": "naukri",
-    "company": "Bugtreat Technologies",
-    "location": "Madurai",
-    "queued_at": "2026-09-16T12:15:10.199456+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "160926500186",
-    "title": "CS Cart Developer",
-    "url": "https://www.naukri.com/job-listings-cs-cart-developer-bug-treat-technologies-madurai-1-to-3-years-160926500186",
-    "source": "naukri",
-    "company": "Bugtreat Technologies",
-    "location": "Madurai",
-    "queued_at": "2026-09-16T12:15:10.199456+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "100926013598",
@@ -325,7 +173,8 @@
     "company": "Thyrocare",
     "location": "Bengaluru",
     "queued_at": "2026-09-16T12:15:10.199456+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "160926000596",
@@ -335,7 +184,8 @@
     "company": "Adani Group",
     "location": "Mangaluru",
     "queued_at": "2026-09-16T12:15:10.199456+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "160926008442",
@@ -345,7 +195,8 @@
     "company": "eClerx",
     "location": "Chandigarh",
     "queued_at": "2026-09-16T12:15:10.199456+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "041225036371",
@@ -355,6 +206,7 @@
     "company": "DG Propulsion",
     "location": "Amritsar",
     "queued_at": "2026-09-16T12:15:10.199456+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
