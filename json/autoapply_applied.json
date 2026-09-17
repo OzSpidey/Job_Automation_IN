@@ -6236,5 +6236,38 @@
     "queued_at": "2026-09-17T04:15:03.487398+00:00",
     "status": "applied",
     "applied_at": "2026-09-17T04:16:36.427370+00:00"
+  },
+  {
+    "job_id": "170926912881",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-sas-research-and-development-sas-r-d-ahmedabad-0-to-3-years-170926912881",
+    "source": "naukri",
+    "company": "SAS Research and Development (SAS R&D)",
+    "location": "Ahmedabad",
+    "queued_at": "2026-09-17T06:15:10.193302+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-17T06:16:16.907482+00:00"
+  },
+  {
+    "job_id": "170926911021",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-intered-ventures-namakkal-0-to-2-years-170926911021",
+    "source": "naukri",
+    "company": "Intered Ventures",
+    "location": "Namakkal",
+    "queued_at": "2026-09-17T06:15:10.193302+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-17T06:16:26.812662+00:00"
+  },
+  {
+    "job_id": "170926008357",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-persistent-hyderabad-0-to-4-years-170926008357",
+    "source": "naukri",
+    "company": "Persistent",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-17T06:15:10.193302+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-17T06:16:36.716137+00:00"
   }
 ]
