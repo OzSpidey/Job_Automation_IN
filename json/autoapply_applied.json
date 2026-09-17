@@ -6269,5 +6269,27 @@
     "queued_at": "2026-09-17T06:15:10.193302+00:00",
     "status": "applied",
     "applied_at": "2026-09-17T06:16:36.716137+00:00"
+  },
+  {
+    "job_id": "170926019807",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-najuk-salar-shahabadi-hyderabad-pune-0-to-2-years-170926019807",
+    "source": "naukri",
+    "company": "Golden Management Services",
+    "location": "Hybrid - Hyderabad, Pune",
+    "queued_at": "2026-09-17T08:15:14.825111+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-17T08:16:25.799979+00:00"
+  },
+  {
+    "job_id": "170926018883",
+    "title": "Title Analyst",
+    "url": "https://www.naukri.com/job-listings-title-analyst-dyuti-technologies-bengaluru-1-to-5-years-170926018883",
+    "source": "naukri",
+    "company": "Dyuti Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-17T08:15:14.825111+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-17T08:16:47.116037+00:00"
   }
 ]
