@@ -153,5 +153,295 @@
     "queued_at": "2026-09-17T10:15:01.535050+00:00",
     "status": "queued",
     "attempts": 2
+  },
+  {
+    "job_id": "290826009251",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-2-years-290826009251",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926032446",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-bee-pee-jay-finance-bengaluru-1-to-3-years-170926032446",
+    "source": "naukri",
+    "company": "Bee Pee Jay Finance",
+    "location": "Hybrid - Bengaluru",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926505196",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-computelib-remote-1-to-4-years-170926505196",
+    "source": "naukri",
+    "company": "Computelib",
+    "location": "Remote",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926505087",
+    "title": "Quant Researchers/Traders",
+    "url": "https://www.naukri.com/job-listings-quant-researchers-traders-thinkbot-research-bengaluru-0-to-3-years-170926505087",
+    "source": "naukri",
+    "company": "Thinkbot Research",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926502418",
+    "title": "Software Engineer / Programmer / Developer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-programmer-developer-itlpro-solutions-private-limited-pune-0-to-6-years-170926502418",
+    "source": "naukri",
+    "company": "ITLPro Solutions",
+    "location": "Pune",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926503695",
+    "title": "Software Engineer - Ethernet",
+    "url": "https://www.naukri.com/job-listings-software-engineer-ethernet-harman-india-kalyani-bengaluru-0-to-6-years-170926503695",
+    "source": "naukri",
+    "company": "Harman International",
+    "location": "Kalyani, Bengaluru",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926500923",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-simptra-technologies-pvt-ltd-fynxt-chennai-surat-1-to-3-years-170926500923",
+    "source": "naukri",
+    "company": "Simptra Technologies fynxt",
+    "location": "Chennai, Surat",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926501817",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-corient-business-solutions-limited-mumbai-1-to-6-years-170926501817",
+    "source": "naukri",
+    "company": "Corient Business Solutions",
+    "location": "Mumbai",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926503900",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-hsquare-sports-private-limited-new-delhi-1-to-3-years-170926503900",
+    "source": "naukri",
+    "company": "Hsquare Sports",
+    "location": "New Delhi",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926503274",
+    "title": "Full Stack developer (Microsoft technology stack)",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-microsoft-technology-stack-ikart-solutions-ahmedabad-1-to-4-years-170926503274",
+    "source": "naukri",
+    "company": "Ikart Solutions",
+    "location": "Ahmedabad",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926501152",
+    "title": "Investment Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-investment-full-stack-developer-e4-softwares-mumbai-bengaluru-1-to-4-years-170926501152",
+    "source": "naukri",
+    "company": "E4 Software Services",
+    "location": "Mumbai, Bengaluru",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926501827",
+    "title": "Java Developers",
+    "url": "https://www.naukri.com/job-listings-java-developers-quantumberg-technologies-private-limited-bengaluru-1-to-2-years-170926501827",
+    "source": "naukri",
+    "company": "Quantumberg Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926503100",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-d2k-technologies-navi-mumbai-1-to-2-years-170926503100",
+    "source": "naukri",
+    "company": "D2K Technologies",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926501224",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-acespire-tech-consulting-bengaluru-1-to-2-years-170926501224",
+    "source": "naukri",
+    "company": "Acespire Tech Consulting",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926502379",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-nucsoft-pvt-ltd-mumbai-1-to-3-years-170926502379",
+    "source": "naukri",
+    "company": "Nucsoft Limited",
+    "location": "Mumbai",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926500483",
+    "title": "Senior Software Engineer - Optical Line Systems (L0/OLS)",
+    "url": "https://www.naukri.com/job-listings-senior-software-engineer-optical-line-systems-l0-ols-insemi-technology-services-pvt-ltd-bengaluru-1-to-5-years-170926500483",
+    "source": "naukri",
+    "company": "Insemi Technology Services",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926504825",
+    "title": "ENGINEER",
+    "url": "https://www.naukri.com/job-listings-engineer-dixon-tech-noida-1-to-4-years-170926504825",
+    "source": "naukri",
+    "company": "Dixon Technologies",
+    "location": "Noida",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926504262",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-d2k-technologies-navi-mumbai-1-to-5-years-170926504262",
+    "source": "naukri",
+    "company": "D2K Technologies",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926501221",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-acespire-tech-consulting-bengaluru-1-to-2-years-170926501221",
+    "source": "naukri",
+    "company": "Acespire Tech Consulting",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926501140",
+    "title": "Fresher Engineer",
+    "url": "https://www.naukri.com/job-listings-fresher-engineer-itlpro-solutions-private-limited-pune-0-to-1-years-170926501140",
+    "source": "naukri",
+    "company": "ITLPro Solutions",
+    "location": "Pune",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926500981",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-zionstar-edtech-private-limited-nagercoil-1-to-4-years-170926500981",
+    "source": "naukri",
+    "company": "Zionstar Edtech",
+    "location": "Nagercoil",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926504738",
+    "title": "Blueprint Developer",
+    "url": "https://www.naukri.com/job-listings-blueprint-developer-tiltlabs-thiruvananthapuram-1-to-3-years-170926504738",
+    "source": "naukri",
+    "company": "Tiltlabs Consultancy Services",
+    "location": "Thiruvananthapuram",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926504464",
+    "title": "Analyst - Biomonitoring PMOps",
+    "url": "https://www.naukri.com/job-listings-analyst-biomonitoring-pmops-merck-group-bengaluru-1-to-3-years-170926504464",
+    "source": "naukri",
+    "company": "Merck",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926502527",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-170926502527",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926502320",
+    "title": "Mean Developer",
+    "url": "https://www.naukri.com/job-listings-mean-developer-zensar-technologies-pune-0-to-5-years-170926502320",
+    "source": "naukri",
+    "company": "Zensar",
+    "location": "Pune",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926500954",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-iflowtech-solutions-private-limited-bengaluru-1-to-4-years-170926500954",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926500949",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-iflowtech-solutions-private-limited-chennai-1-to-4-years-170926500949",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Chennai",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926500945",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-chennai-1-to-5-years-170926500945",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Chennai",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926503795",
+    "title": "Design Verification Engineer",
+    "url": "https://www.naukri.com/job-listings-design-verification-engineer-advanced-micro-devices-inc-bengaluru-1-to-5-years-170926503795",
+    "source": "naukri",
+    "company": "Advanced Micro Devices (AMD)",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-17T14:15:21.700342+00:00",
+    "status": "queued"
   }
 ]
