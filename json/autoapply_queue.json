@@ -142,27 +142,5 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "290826009251",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-2-years-290826009251",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
-    "queued_at": "2026-09-17T14:15:21.700342+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "170926032446",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-bee-pee-jay-finance-bengaluru-1-to-3-years-170926032446",
-    "source": "naukri",
-    "company": "Bee Pee Jay Finance",
-    "location": "Hybrid - Bengaluru",
-    "queued_at": "2026-09-17T14:15:21.700342+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
