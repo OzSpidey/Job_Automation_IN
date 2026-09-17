@@ -153,5 +153,35 @@
     "queued_at": "2026-09-17T04:15:03.487398+00:00",
     "status": "queued",
     "attempts": 2
+  },
+  {
+    "job_id": "170926019807",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-najuk-salar-shahabadi-hyderabad-pune-0-to-2-years-170926019807",
+    "source": "naukri",
+    "company": "Golden Management Services",
+    "location": "Hybrid - Hyderabad, Pune",
+    "queued_at": "2026-09-17T08:15:14.825111+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926017476",
+    "title": "Quality Engineer - Fresher For Manufacturing Industry",
+    "url": "https://www.naukri.com/job-listings-quality-engineer-fresher-for-manufacturing-industry-halgona-radiators-coimbatore-0-to-5-years-170926017476",
+    "source": "naukri",
+    "company": "Halgona Radiators",
+    "location": "Coimbatore",
+    "queued_at": "2026-09-17T08:15:14.825111+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926018883",
+    "title": "Title Analyst",
+    "url": "https://www.naukri.com/job-listings-title-analyst-dyuti-technologies-bengaluru-1-to-5-years-170926018883",
+    "source": "naukri",
+    "company": "Dyuti Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-17T08:15:14.825111+00:00",
+    "status": "queued"
   }
 ]
