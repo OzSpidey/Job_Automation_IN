@@ -142,5 +142,25 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "170926007590",
+    "title": "Software Developer Fresher @Madurai",
+    "url": "https://www.naukri.com/job-listings-170926007590",
+    "source": "naukri",
+    "company": "Innowave Healthcare",
+    "location": "Madurai",
+    "queued_at": "2026-09-17T04:15:03.487398+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926006798",
+    "title": "Analyst - Deals Desk Hybrid",
+    "url": "https://www.naukri.com/job-listings-analyst-deals-desk-hybrid-trafigura-mumbai-0-to-5-years-170926006798",
+    "source": "naukri",
+    "company": "Trafigura",
+    "location": "Mumbai",
+    "queued_at": "2026-09-17T04:15:03.487398+00:00",
+    "status": "queued"
   }
 ]
