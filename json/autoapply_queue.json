@@ -1,5 +1,60 @@
 [
   {
+    "job_id": "250826010920",
+    "title": "Techwave is Hiring PLA / O-Calc Engineers @ Hyderabad",
+    "url": "https://www.naukri.com/job-listings-techwave-is-hiring-pla-o-calc-engineers-hyderabad-techwave-consulting-hyderabad-1-to-6-years-250826010920",
+    "source": "naukri",
+    "company": "Techwave Consulting",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-18T12:15:06.501347+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "180926031580",
+    "title": "Trainee - Embedded (C/C++ Developer)",
+    "url": "https://www.naukri.com/job-listings-trainee-embedded-c-c-developer-idemia-public-security-noida-0-to-1-years-180926031580",
+    "source": "naukri",
+    "company": "IDEMIA Public Security",
+    "location": "Noida(Sector 73)",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "020926034167",
+    "title": "Aws Devops Engineer",
+    "url": "https://www.naukri.com/job-listings-aws-devops-engineer-infosys-hyderabad-chennai-bengaluru-1-to-2-years-020926034167",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "180926018148",
+    "title": "C/C++ Graphics & Modelling Engineer",
+    "url": "https://www.naukri.com/job-listings-c-c-graphics-modelling-engineer-sunrise-biztech-systems-hyderabad-1-to-6-years-180926018148",
+    "source": "naukri",
+    "company": "Sunrise Biztech Systems",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "220126028612",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-220126028612",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -142,60 +197,5 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "250826010920",
-    "title": "Techwave is Hiring PLA / O-Calc Engineers @ Hyderabad",
-    "url": "https://www.naukri.com/job-listings-techwave-is-hiring-pla-o-calc-engineers-hyderabad-techwave-consulting-hyderabad-1-to-6-years-250826010920",
-    "source": "naukri",
-    "company": "Techwave Consulting",
-    "location": "Hyderabad",
-    "queued_at": "2026-09-18T12:15:06.501347+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "180926031580",
-    "title": "Trainee - Embedded (C/C++ Developer)",
-    "url": "https://www.naukri.com/job-listings-trainee-embedded-c-c-developer-idemia-public-security-noida-0-to-1-years-180926031580",
-    "source": "naukri",
-    "company": "IDEMIA Public Security",
-    "location": "Noida(Sector 73)",
-    "queued_at": "2026-09-18T14:15:03.894008+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "020926034167",
-    "title": "Aws Devops Engineer",
-    "url": "https://www.naukri.com/job-listings-aws-devops-engineer-infosys-hyderabad-chennai-bengaluru-1-to-2-years-020926034167",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
-    "queued_at": "2026-09-18T14:15:03.894008+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "180926018148",
-    "title": "C/C++ Graphics & Modelling Engineer",
-    "url": "https://www.naukri.com/job-listings-c-c-graphics-modelling-engineer-sunrise-biztech-systems-hyderabad-1-to-6-years-180926018148",
-    "source": "naukri",
-    "company": "Sunrise Biztech Systems",
-    "location": "Hyderabad",
-    "queued_at": "2026-09-18T14:15:03.894008+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "220126028612",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-220126028612",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-09-18T14:15:03.894008+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
