@@ -164,5 +164,25 @@
     "queued_at": "2026-09-18T04:15:03.517521+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "250826010920",
+    "title": "Techwave is Hiring PLA / O-Calc Engineers @ Hyderabad",
+    "url": "https://www.naukri.com/job-listings-techwave-is-hiring-pla-o-calc-engineers-hyderabad-techwave-consulting-hyderabad-1-to-6-years-250826010920",
+    "source": "naukri",
+    "company": "Techwave Consulting",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-18T06:15:49.245954+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926010447",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-rinox-engineering-ludhiana-1-to-3-years-180926010447",
+    "source": "naukri",
+    "company": "Rinox Engineering",
+    "location": "Ludhiana(Giaspura)",
+    "queued_at": "2026-09-18T06:15:49.245954+00:00",
+    "status": "queued"
   }
 ]
