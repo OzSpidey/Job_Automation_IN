@@ -153,5 +153,15 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "180926907652",
+    "title": "Python Developer - Agentic AI / LLM / RAG Engineer",
+    "url": "https://www.naukri.com/job-listings-python-developer-agentic-ai-llm-rag-engineer-infosys-limited-bengaluru-1-to-6-years-180926907652",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-18T04:15:03.517521+00:00",
+    "status": "queued"
   }
 ]
