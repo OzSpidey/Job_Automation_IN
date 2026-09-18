@@ -144,17 +144,6 @@
     "status": "queued"
   },
   {
-    "job_id": "180926907652",
-    "title": "Python Developer - Agentic AI / LLM / RAG Engineer",
-    "url": "https://www.naukri.com/job-listings-python-developer-agentic-ai-llm-rag-engineer-infosys-limited-bengaluru-1-to-6-years-180926907652",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-18T04:15:03.517521+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "250826010920",
     "title": "Techwave is Hiring PLA / O-Calc Engineers @ Hyderabad",
     "url": "https://www.naukri.com/job-listings-techwave-is-hiring-pla-o-calc-engineers-hyderabad-techwave-consulting-hyderabad-1-to-6-years-250826010920",
@@ -163,17 +152,7 @@
     "location": "Hyderabad",
     "queued_at": "2026-09-18T06:15:49.245954+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "180926915757",
-    "title": "Software Developer Intern / Trainee",
-    "url": "https://www.naukri.com/job-listings-software-developer-intern-trainee-techavidus-gandhinagar-0-to-1-years-180926915757",
-    "source": "naukri",
-    "company": "Techavidus",
-    "location": "Gandhinagar",
-    "queued_at": "2026-09-18T08:15:13.936880+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "020926034167",
@@ -183,7 +162,8 @@
     "company": "Infosys",
     "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
     "queued_at": "2026-09-18T08:15:13.936880+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "180926018148",
@@ -193,27 +173,8 @@
     "company": "Sunrise Biztech Systems",
     "location": "Hyderabad",
     "queued_at": "2026-09-18T08:15:13.936880+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "180926916678",
-    "title": "Prompt Engineer",
-    "url": "https://www.naukri.com/job-listings-prompt-engineer-e-software-solutions-gurugram-yamuna-nagar-1-to-3-years-180926916678",
-    "source": "naukri",
-    "company": "e Software Solutions",
-    "location": "Gurugram, Yamuna Nagar",
-    "queued_at": "2026-09-18T08:15:13.936880+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "180926014276",
-    "title": "Backedn Developer",
-    "url": "https://www.naukri.com/job-listings-backedn-developer-eagle-peak-intel-pune-mumbai-all-areas-1-to-2-years-180926014276",
-    "source": "naukri",
-    "company": "Eagle Peak Intel",
-    "location": "Pune, Mumbai (All Areas)",
-    "queued_at": "2026-09-18T08:15:13.936880+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "180926016008",
@@ -223,7 +184,8 @@
     "company": "eClerx",
     "location": "Navi Mumbai",
     "queued_at": "2026-09-18T08:15:13.936880+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "220126028612",
@@ -233,6 +195,7 @@
     "company": "eClerx",
     "location": "Chandigarh",
     "queued_at": "2026-09-18T08:15:13.936880+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
