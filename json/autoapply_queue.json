@@ -1,60 +1,5 @@
 [
   {
-    "job_id": "250826010920",
-    "title": "Techwave is Hiring PLA / O-Calc Engineers @ Hyderabad",
-    "url": "https://www.naukri.com/job-listings-techwave-is-hiring-pla-o-calc-engineers-hyderabad-techwave-consulting-hyderabad-1-to-6-years-250826010920",
-    "source": "naukri",
-    "company": "Techwave Consulting",
-    "location": "Hyderabad",
-    "queued_at": "2026-09-18T06:15:49.245954+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "020926034167",
-    "title": "Aws Devops Engineer",
-    "url": "https://www.naukri.com/job-listings-aws-devops-engineer-infosys-hyderabad-chennai-bengaluru-1-to-2-years-020926034167",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
-    "queued_at": "2026-09-18T08:15:13.936880+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "180926018148",
-    "title": "C/C++ Graphics & Modelling Engineer",
-    "url": "https://www.naukri.com/job-listings-c-c-graphics-modelling-engineer-sunrise-biztech-systems-hyderabad-1-to-6-years-180926018148",
-    "source": "naukri",
-    "company": "Sunrise Biztech Systems",
-    "location": "Hyderabad",
-    "queued_at": "2026-09-18T08:15:13.936880+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "180926016008",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-180926016008",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-09-18T08:15:13.936880+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "220126028612",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-220126028612",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-09-18T08:15:13.936880+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -199,94 +144,48 @@
     "status": "queued"
   },
   {
-    "job_id": "180926922522",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-180926922522",
+    "job_id": "020926034167",
+    "title": "Aws Devops Engineer",
+    "url": "https://www.naukri.com/job-listings-aws-devops-engineer-infosys-hyderabad-chennai-bengaluru-1-to-2-years-020926034167",
     "source": "naukri",
-    "company": "Capgemini",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-18T10:15:14.313031+00:00",
-    "status": "queued"
+    "company": "Infosys",
+    "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-09-18T08:15:13.936880+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
-    "job_id": "180926922496",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-chennai-0-to-5-years-180926922496",
+    "job_id": "180926018148",
+    "title": "C/C++ Graphics & Modelling Engineer",
+    "url": "https://www.naukri.com/job-listings-c-c-graphics-modelling-engineer-sunrise-biztech-systems-hyderabad-1-to-6-years-180926018148",
     "source": "naukri",
-    "company": "Capgemini",
-    "location": "Chennai",
-    "queued_at": "2026-09-18T10:15:14.313031+00:00",
-    "status": "queued"
+    "company": "Sunrise Biztech Systems",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-18T08:15:13.936880+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
-    "job_id": "180926500094",
-    "title": "Software Engineer - Ethernet",
-    "url": "https://www.naukri.com/job-listings-software-engineer-ethernet-harman-india-bengaluru-0-to-6-years-180926500094",
+    "job_id": "180926016008",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-180926016008",
     "source": "naukri",
-    "company": "Harman International",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-18T10:15:14.313031+00:00",
-    "status": "queued"
+    "company": "eClerx",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-18T08:15:13.936880+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
-    "job_id": "180926500421",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-gove-enterprises-new-delhi-0-to-2-years-180926500421",
+    "job_id": "220126028612",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-220126028612",
     "source": "naukri",
-    "company": "Gove Enterprises",
-    "location": "New Delhi",
-    "queued_at": "2026-09-18T10:15:14.313031+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "180926500344",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-simptra-technologies-pvt-ltd-fynxt-surat-1-to-3-years-180926500344",
-    "source": "naukri",
-    "company": "Simptra Technologies fynxt",
-    "location": "Surat",
-    "queued_at": "2026-09-18T10:15:14.313031+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "180926500329",
-    "title": "Investment Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-investment-full-stack-developer-e4-softwares-bengaluru-1-to-4-years-180926500329",
-    "source": "naukri",
-    "company": "E4 Software Services",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-18T10:15:14.313031+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "170926501152",
-    "title": "Investment Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-investment-full-stack-developer-e4-softwares-mumbai-1-to-4-years-170926501152",
-    "source": "naukri",
-    "company": "E4 Software Services",
-    "location": "Mumbai",
-    "queued_at": "2026-09-18T10:15:14.313031+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "180926922552",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-180926922552",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-18T10:15:14.313031+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "180926920809",
-    "title": "Entry / Experienced Engineer",
-    "url": "https://www.naukri.com/job-listings-entry-experienced-engineer-nucor-towers-structures-india-private-limited-noida-0-to-4-years-180926920809",
-    "source": "naukri",
-    "company": "Nucor",
-    "location": "Noida",
-    "queued_at": "2026-09-18T10:15:14.313031+00:00",
-    "status": "queued"
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-09-18T08:15:13.936880+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
     "job_id": "180926020395",
@@ -296,7 +195,8 @@
     "company": "Adani Group",
     "location": "Bhuj",
     "queued_at": "2026-09-18T10:15:14.313031+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "180926907652",
@@ -306,6 +206,7 @@
     "company": "Infosys",
     "location": "Bengaluru",
     "queued_at": "2026-09-18T10:15:14.313031+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]

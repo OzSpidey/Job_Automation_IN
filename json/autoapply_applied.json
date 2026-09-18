@@ -6379,5 +6379,49 @@
     "queued_at": "2026-09-18T08:15:13.936880+00:00",
     "status": "applied",
     "applied_at": "2026-09-18T08:17:17.838944+00:00"
+  },
+  {
+    "job_id": "180926922522",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-180926922522",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-18T10:15:14.313031+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-18T10:17:06.344132+00:00"
+  },
+  {
+    "job_id": "180926922496",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-chennai-0-to-5-years-180926922496",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Chennai",
+    "queued_at": "2026-09-18T10:15:14.313031+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-18T10:17:16.299509+00:00"
+  },
+  {
+    "job_id": "180926922552",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-180926922552",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-18T10:15:14.313031+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-18T10:17:48.175230+00:00"
+  },
+  {
+    "job_id": "180926920809",
+    "title": "Entry / Experienced Engineer",
+    "url": "https://www.naukri.com/job-listings-entry-experienced-engineer-nucor-towers-structures-india-private-limited-noida-0-to-4-years-180926920809",
+    "source": "naukri",
+    "company": "Nucor",
+    "location": "Noida",
+    "queued_at": "2026-09-18T10:15:14.313031+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-18T10:17:58.114349+00:00"
   }
 ]
