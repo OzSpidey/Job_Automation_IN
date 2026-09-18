@@ -175,5 +175,335 @@
     "queued_at": "2026-09-18T12:15:06.501347+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "180926501255",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-0-to-5-years-180926501255",
+    "source": "naukri",
+    "company": "Cisco",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926501100",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-brilliant-info-system-pvt-ltd-pune-0-to-3-years-180926501100",
+    "source": "naukri",
+    "company": "Brilliant Info System",
+    "location": "Pune",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926501080",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-brilliant-info-system-pvt-ltd-pune-1-to-3-years-180926501080",
+    "source": "naukri",
+    "company": "Brilliant Info System",
+    "location": "Pune",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926503722",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-paarsh-infotech-nashik-pune-0-to-2-years-180926503722",
+    "source": "naukri",
+    "company": "Paarsh Infotech",
+    "location": "Nashik, Pune",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926503773",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-digital-webber-kolkata-0-to-3-years-180926503773",
+    "source": "naukri",
+    "company": "Digital Webber",
+    "location": "Kolkata",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926504874",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-fireblaze-ai-school-nagpur-1-to-6-years-180926504874",
+    "source": "naukri",
+    "company": "Fireblaze Ai School",
+    "location": "Nagpur",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926504862",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-fireblaze-ai-school-nagpur-1-to-6-years-180926504862",
+    "source": "naukri",
+    "company": "Fireblaze Ai School",
+    "location": "Nagpur",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926501083",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-brilliant-info-system-pvt-ltd-pune-1-to-2-years-180926501083",
+    "source": "naukri",
+    "company": "Brilliant Info System",
+    "location": "Pune",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926031580",
+    "title": "Trainee - Embedded (C/C++ Developer)",
+    "url": "https://www.naukri.com/job-listings-trainee-embedded-c-c-developer-idemia-public-security-noida-0-to-1-years-180926031580",
+    "source": "naukri",
+    "company": "IDEMIA Public Security",
+    "location": "Noida(Sector 73)",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926505207",
+    "title": "AEP engineer",
+    "url": "https://www.naukri.com/job-listings-aep-engineer-zensar-technologies-bengaluru-0-to-5-years-180926505207",
+    "source": "naukri",
+    "company": "Zensar",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926505111",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-luminous-power-technologies-pvt-ltd-haridwar-1-to-11-years-180926505111",
+    "source": "naukri",
+    "company": "Luminous Power Technologies",
+    "location": "Haridwar",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926502812",
+    "title": "DevOps Engineer fresher",
+    "url": "https://www.naukri.com/job-listings-devops-engineer-fresher-training-basket-noida-1-to-2-years-180926502812",
+    "source": "naukri",
+    "company": "Training Basket",
+    "location": "Noida",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926502742",
+    "title": "Finance System Functional Associate",
+    "url": "https://www.naukri.com/job-listings-finance-system-functional-associate-tencys-bengaluru-1-to-4-years-180926502742",
+    "source": "naukri",
+    "company": "Tencys Systems",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926501846",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-iflowtech-solutions-private-limited-pune-bengaluru-1-to-4-years-180926501846",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Pune, Bengaluru",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926504985",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-iqvia-biotech-pune-gurugram-bengaluru-0-to-3-years-180926504985",
+    "source": "naukri",
+    "company": "Iqvia Biotech",
+    "location": "Pune, Gurugram, Bengaluru",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926503201",
+    "title": "Vantage/wmA Developer",
+    "url": "https://www.naukri.com/job-listings-vantage-wma-developer-dxc-technology-noida-1-to-6-years-180926503201",
+    "source": "naukri",
+    "company": "DXC Technology",
+    "location": "Noida",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926503153",
+    "title": "Metrics Analyst",
+    "url": "https://www.naukri.com/job-listings-metrics-analyst-radancy-bengaluru-1-to-2-years-180926503153",
+    "source": "naukri",
+    "company": "Radancy",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926501398",
+    "title": "Developer Others",
+    "url": "https://www.naukri.com/job-listings-developer-others-itc-infotech-india-ltd-bengaluru-1-to-2-years-180926501398",
+    "source": "naukri",
+    "company": "ITC Infotech",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926501270",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-ernst-young-mumbai-1-to-6-years-180926501270",
+    "source": "naukri",
+    "company": "EY",
+    "location": "Mumbai",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926501244",
+    "title": "NEWdeveloper 3DX",
+    "url": "https://www.naukri.com/job-listings-developer-3dx-itc-infotech-india-ltd-pune-1-to-6-years-180926501244",
+    "source": "naukri",
+    "company": "ITC Infotech",
+    "location": "Pune",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926500945",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-kolkata-chennai-1-to-5-years-180926500945",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Kolkata, Chennai",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926500944",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-hyderabad-1-to-5-years-180926500944",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926500943",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-chennai-1-to-5-years-180926500943",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Chennai",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926500843",
+    "title": "ESG Analyst",
+    "url": "https://www.naukri.com/job-listings-esg-analyst-breathe-esg-bengaluru-1-to-3-years-180926500843",
+    "source": "naukri",
+    "company": "Breathe Esg Bangalore",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926500094",
+    "title": "Software Engineer - Ethernet",
+    "url": "https://www.naukri.com/job-listings-software-engineer-ethernet-harman-india-bengaluru-0-to-6-years-180926500094",
+    "source": "naukri",
+    "company": "Harman International",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926500421",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-gove-enterprises-new-delhi-0-to-2-years-180926500421",
+    "source": "naukri",
+    "company": "Gove Enterprises",
+    "location": "New Delhi",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926500344",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-simptra-technologies-pvt-ltd-fynxt-surat-1-to-3-years-180926500344",
+    "source": "naukri",
+    "company": "Simptra Technologies fynxt",
+    "location": "Surat",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "170926501152",
+    "title": "Investment Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-investment-full-stack-developer-e4-softwares-mumbai-1-to-4-years-170926501152",
+    "source": "naukri",
+    "company": "E4 Software Services",
+    "location": "Mumbai",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926500329",
+    "title": "Investment Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-investment-full-stack-developer-e4-softwares-bengaluru-1-to-4-years-180926500329",
+    "source": "naukri",
+    "company": "E4 Software Services",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926500440",
+    "title": "Blueprint Developer",
+    "url": "https://www.naukri.com/job-listings-blueprint-developer-tiltlabs-thiruvananthapuram-1-to-3-years-180926500440",
+    "source": "naukri",
+    "company": "Tiltlabs Consultancy Services",
+    "location": "Thiruvananthapuram",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "020926034167",
+    "title": "Aws Devops Engineer",
+    "url": "https://www.naukri.com/job-listings-aws-devops-engineer-infosys-hyderabad-chennai-bengaluru-1-to-2-years-020926034167",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926018148",
+    "title": "C/C++ Graphics & Modelling Engineer",
+    "url": "https://www.naukri.com/job-listings-c-c-graphics-modelling-engineer-sunrise-biztech-systems-hyderabad-1-to-6-years-180926018148",
+    "source": "naukri",
+    "company": "Sunrise Biztech Systems",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "220126028612",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-220126028612",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-09-18T14:15:03.894008+00:00",
+    "status": "queued"
   }
 ]
