@@ -164,5 +164,75 @@
     "queued_at": "2026-09-18T06:15:49.245954+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "180926915757",
+    "title": "Software Developer Intern / Trainee",
+    "url": "https://www.naukri.com/job-listings-software-developer-intern-trainee-techavidus-gandhinagar-0-to-1-years-180926915757",
+    "source": "naukri",
+    "company": "Techavidus",
+    "location": "Gandhinagar",
+    "queued_at": "2026-09-18T08:15:13.936880+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "020926034167",
+    "title": "Aws Devops Engineer",
+    "url": "https://www.naukri.com/job-listings-aws-devops-engineer-infosys-hyderabad-chennai-bengaluru-1-to-2-years-020926034167",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-09-18T08:15:13.936880+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926018148",
+    "title": "C/C++ Graphics & Modelling Engineer",
+    "url": "https://www.naukri.com/job-listings-c-c-graphics-modelling-engineer-sunrise-biztech-systems-hyderabad-1-to-6-years-180926018148",
+    "source": "naukri",
+    "company": "Sunrise Biztech Systems",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-18T08:15:13.936880+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926916678",
+    "title": "Prompt Engineer",
+    "url": "https://www.naukri.com/job-listings-prompt-engineer-e-software-solutions-gurugram-yamuna-nagar-1-to-3-years-180926916678",
+    "source": "naukri",
+    "company": "e Software Solutions",
+    "location": "Gurugram, Yamuna Nagar",
+    "queued_at": "2026-09-18T08:15:13.936880+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926014276",
+    "title": "Backedn Developer",
+    "url": "https://www.naukri.com/job-listings-backedn-developer-eagle-peak-intel-pune-mumbai-all-areas-1-to-2-years-180926014276",
+    "source": "naukri",
+    "company": "Eagle Peak Intel",
+    "location": "Pune, Mumbai (All Areas)",
+    "queued_at": "2026-09-18T08:15:13.936880+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "180926016008",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-180926016008",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-18T08:15:13.936880+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "220126028612",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-220126028612",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-09-18T08:15:13.936880+00:00",
+    "status": "queued"
   }
 ]
