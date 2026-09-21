@@ -6610,5 +6610,82 @@
     "queued_at": "2026-09-21T12:15:33.213286+00:00",
     "status": "applied",
     "applied_at": "2026-09-21T12:17:38.244893+00:00"
+  },
+  {
+    "job_id": "210926922420",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-210926922420",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-21T14:15:26.402575+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-21T14:16:58.994967+00:00"
+  },
+  {
+    "job_id": "210926922419",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-mumbai-0-to-5-years-210926922419",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Mumbai",
+    "queued_at": "2026-09-21T14:15:26.402575+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-21T14:17:09.355965+00:00"
+  },
+  {
+    "job_id": "210926922426",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-navi-mumbai-0-to-5-years-210926922426",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-21T14:15:26.402575+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-21T14:17:19.636143+00:00"
+  },
+  {
+    "job_id": "210926922397",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-capgemini-technology-services-india-limited-mumbai-hyderabad-bengaluru-0-to-5-years-210926922397",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Mumbai, Hyderabad, Bengaluru",
+    "queued_at": "2026-09-21T14:15:26.402575+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-21T14:18:10.924228+00:00"
+  },
+  {
+    "job_id": "210926923406",
+    "title": "PowerCurve Developer",
+    "url": "https://www.naukri.com/job-listings-powercurve-developer-synechron-technologies-pvt-ltd-bengaluru-1-to-6-years-210926923406",
+    "source": "naukri",
+    "company": "Synechron",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-21T14:15:26.402575+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-21T14:19:15.405487+00:00"
+  },
+  {
+    "job_id": "210926922532",
+    "title": "Manager/ Analyst",
+    "url": "https://www.naukri.com/job-listings-manager-analyst-cushman-wakefield-india-pvt-ltd-bengaluru-0-to-5-years-210926922532",
+    "source": "naukri",
+    "company": "Cushman & Wakefield",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-21T14:15:26.402575+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-21T14:19:37.422000+00:00"
+  },
+  {
+    "job_id": "210926922360",
+    "title": "Micro Focus Developer with CDC",
+    "url": "https://www.naukri.com/job-listings-micro-focus-developer-with-cdc-capgemini-technology-services-india-limited-navi-mumbai-1-to-6-years-210926922360",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-21T14:15:26.402575+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-21T14:19:47.398527+00:00"
   }
 ]
