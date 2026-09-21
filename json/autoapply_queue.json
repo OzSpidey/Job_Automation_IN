@@ -144,83 +144,6 @@
     "status": "queued"
   },
   {
-    "job_id": "210926922732",
-    "title": "Full Stack developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-infosys-limited-bengaluru-1-to-6-years-210926922732",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-21T14:15:26.402575+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "210926922756",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-infosys-limited-pune-1-to-6-years-210926922756",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Pune",
-    "queued_at": "2026-09-21T14:15:26.402575+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "210926922915",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-infosys-limited-bengaluru-1-to-5-years-210926922915",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-21T14:15:26.402575+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "210926922764",
-    "title": "Amazon connect Engineer",
-    "url": "https://www.naukri.com/job-listings-amazon-connect-engineer-infosys-limited-bengaluru-0-to-5-years-210926922764",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-21T14:15:26.402575+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "210926922768",
-    "title": "Google CCAI Developer",
-    "url": "https://www.naukri.com/job-listings-google-ccai-developer-infosys-limited-bengaluru-1-to-6-years-210926922768",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-21T14:15:26.402575+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "290826009251",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-2-years-290826009251",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
-    "queued_at": "2026-09-21T14:15:26.402575+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "210926012397",
-    "title": "Software Analyst/Developer",
-    "url": "https://www.naukri.com/job-listings-software-analyst-developer-bluescope-chennai-1-to-2-years-210926012397",
-    "source": "naukri",
-    "company": "Bluescope",
-    "location": "Chennai",
-    "queued_at": "2026-09-21T14:15:26.402575+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "210926000142",
     "title": "Java Developer",
     "url": "https://www.naukri.com/job-listings-java-developer-ignitefortune-tech-chennai-0-to-1-years-210926000142",
@@ -229,6 +152,6 @@
     "location": "Remote",
     "queued_at": "2026-09-21T16:15:25.423991+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
