@@ -144,17 +144,6 @@
     "status": "queued"
   },
   {
-    "job_id": "210926000142",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-ignitefortune-tech-chennai-0-to-1-years-210926000142",
-    "source": "naukri",
-    "company": "Ignitefortune Tech",
-    "location": "Remote",
-    "queued_at": "2026-09-21T04:15:33.623818+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "290826009251",
     "title": "Java Developer",
     "url": "https://www.naukri.com/job-listings-java-developer-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-2-years-290826009251",
@@ -163,27 +152,7 @@
     "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-09-21T06:14:55.956725+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "210926907926",
-    "title": "C++ Developer",
-    "url": "https://www.naukri.com/job-listings-c-developer-emperen-technologies-pune-1-to-4-years-210926907926",
-    "source": "naukri",
-    "company": "Emperen Technologies",
-    "location": "Pune",
-    "queued_at": "2026-09-21T08:15:17.611745+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "210926907996",
-    "title": "Engineer InfraEng Observability",
-    "url": "https://www.naukri.com/job-listings-engineer-infraeng-observability-crowdstrike-pune-1-to-5-years-210926907996",
-    "source": "naukri",
-    "company": "Crowdstrike",
-    "location": "Pune",
-    "queued_at": "2026-09-21T08:15:17.611745+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "210926012397",
@@ -193,17 +162,8 @@
     "company": "Bluescope",
     "location": "Chennai",
     "queued_at": "2026-09-21T08:15:17.611745+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "210926906797",
-    "title": "Ls-Dyna Engineer",
-    "url": "https://www.naukri.com/job-listings-ls-dyna-engineer-dhio-research-engineering-pune-1-to-3-years-210926906797",
-    "source": "naukri",
-    "company": "Dhio Research & Engineering",
-    "location": "Pune",
-    "queued_at": "2026-09-21T08:15:17.611745+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "210926008219",
@@ -213,17 +173,8 @@
     "company": "Sricharansolutions",
     "location": "Ameerpet",
     "queued_at": "2026-09-21T08:15:17.611745+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "210926907910",
-    "title": "Quantitative Developer",
-    "url": "https://www.naukri.com/job-listings-quantitative-developer-emperen-technologies-pune-1-to-4-years-210926907910",
-    "source": "naukri",
-    "company": "Emperen Technologies",
-    "location": "Pune",
-    "queued_at": "2026-09-21T08:15:17.611745+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "210926008424",
@@ -233,16 +184,7 @@
     "company": "eClerx",
     "location": "Chandigarh",
     "queued_at": "2026-09-21T08:15:17.611745+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "050626005086",
-    "title": "Genome Analyst",
-    "url": "https://www.naukri.com/job-listings-genome-analyst-lifecell-chennai-0-to-5-years-050626005086",
-    "source": "naukri",
-    "company": "Lifecell",
-    "location": "Chennai",
-    "queued_at": "2026-09-21T08:15:17.611745+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
