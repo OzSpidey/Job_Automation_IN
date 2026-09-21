@@ -142,16 +142,5 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "210926000142",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-ignitefortune-tech-chennai-0-to-1-years-210926000142",
-    "source": "naukri",
-    "company": "Ignitefortune Tech",
-    "location": "Remote",
-    "queued_at": "2026-09-21T16:15:25.423991+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
