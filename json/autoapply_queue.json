@@ -1,5 +1,49 @@
 [
   {
+    "job_id": "290826009251",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-2-years-290826009251",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-09-21T06:14:55.956725+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "210926012397",
+    "title": "Software Analyst/Developer",
+    "url": "https://www.naukri.com/job-listings-software-analyst-developer-bluescope-chennai-1-to-2-years-210926012397",
+    "source": "naukri",
+    "company": "Bluescope",
+    "location": "Chennai",
+    "queued_at": "2026-09-21T08:15:17.611745+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "210926008219",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-sri-charan-solutions-ameerpet-1-to-3-years-210926008219",
+    "source": "naukri",
+    "company": "Sricharansolutions",
+    "location": "Ameerpet",
+    "queued_at": "2026-09-21T08:15:17.611745+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "210926008424",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-210926008424",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-09-21T08:15:17.611745+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -142,49 +186,5 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "290826009251",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-2-years-290826009251",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
-    "queued_at": "2026-09-21T06:14:55.956725+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "210926012397",
-    "title": "Software Analyst/Developer",
-    "url": "https://www.naukri.com/job-listings-software-analyst-developer-bluescope-chennai-1-to-2-years-210926012397",
-    "source": "naukri",
-    "company": "Bluescope",
-    "location": "Chennai",
-    "queued_at": "2026-09-21T08:15:17.611745+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "210926008219",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-sri-charan-solutions-ameerpet-1-to-3-years-210926008219",
-    "source": "naukri",
-    "company": "Sricharansolutions",
-    "location": "Ameerpet",
-    "queued_at": "2026-09-21T08:15:17.611745+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "210926008424",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-210926008424",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-09-21T08:15:17.611745+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
