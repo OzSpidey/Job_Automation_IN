@@ -6533,5 +6533,71 @@
     "queued_at": "2026-09-21T08:15:17.611745+00:00",
     "status": "applied",
     "applied_at": "2026-09-21T08:18:09.964801+00:00"
+  },
+  {
+    "job_id": "210926913067",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-exone-technologies-kozhikode-1-to-5-years-210926913067",
+    "source": "naukri",
+    "company": "Exone Technologies",
+    "location": "Kozhikode",
+    "queued_at": "2026-09-21T10:15:10.795395+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-21T10:16:46.435058+00:00"
+  },
+  {
+    "job_id": "210926016593",
+    "title": "Desktop Support Engineer - Freshers",
+    "url": "https://www.naukri.com/job-listings-desktop-support-engineer-freshers-independent-recruitment-consultant-freelancer-chennai-0-to-1-years-210926016593",
+    "source": "naukri",
+    "company": "Independent Recruitment Consultant (freelancer)",
+    "location": "Chennai",
+    "queued_at": "2026-09-21T10:15:10.795395+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-21T10:16:56.608427+00:00"
+  },
+  {
+    "job_id": "210926016338",
+    "title": "ERPNext Developer",
+    "url": "https://www.naukri.com/job-listings-erpnext-developer-klaimify-raipur-1-to-5-years-210926016338",
+    "source": "naukri",
+    "company": "Klaimify",
+    "location": "Raipur",
+    "queued_at": "2026-09-21T10:15:10.795395+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-21T10:17:06.555644+00:00"
+  },
+  {
+    "job_id": "210926911947",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-skytech-infinite-platform-ltd-bengaluru-0-to-1-years-210926911947",
+    "source": "naukri",
+    "company": "Skytech Infinite Platform Ltd",
+    "location": "Bengaluru(Lingarajapuram)",
+    "queued_at": "2026-09-21T10:15:10.795395+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-21T10:17:16.606182+00:00"
+  },
+  {
+    "job_id": "210926912283",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-aimbiz-global-consulting-bengaluru-0-to-1-years-210926912283",
+    "source": "naukri",
+    "company": "Aimbiz Global Consulting",
+    "location": "Bengaluru(JP Nagar)",
+    "queued_at": "2026-09-21T10:15:10.795395+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-21T10:17:26.752441+00:00"
+  },
+  {
+    "job_id": "210926909844",
+    "title": "BIM Developer",
+    "url": "https://www.naukri.com/job-listings-bim-developer-arcot-ai-solutions-navi-mumbai-1-to-4-years-210926909844",
+    "source": "naukri",
+    "company": "Arcot Ai Solutions",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-21T10:15:10.795395+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-21T10:17:36.822677+00:00"
   }
 ]

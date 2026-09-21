@@ -1,49 +1,5 @@
 [
   {
-    "job_id": "290826009251",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-2-years-290826009251",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
-    "queued_at": "2026-09-21T06:14:55.956725+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "210926012397",
-    "title": "Software Analyst/Developer",
-    "url": "https://www.naukri.com/job-listings-software-analyst-developer-bluescope-chennai-1-to-2-years-210926012397",
-    "source": "naukri",
-    "company": "Bluescope",
-    "location": "Chennai",
-    "queued_at": "2026-09-21T08:15:17.611745+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "210926008219",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-sri-charan-solutions-ameerpet-1-to-3-years-210926008219",
-    "source": "naukri",
-    "company": "Sricharansolutions",
-    "location": "Ameerpet",
-    "queued_at": "2026-09-21T08:15:17.611745+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "210926008424",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-210926008424",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-09-21T08:15:17.611745+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -188,64 +144,26 @@
     "status": "queued"
   },
   {
-    "job_id": "210926913067",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-exone-technologies-kozhikode-1-to-5-years-210926913067",
+    "job_id": "210926012397",
+    "title": "Software Analyst/Developer",
+    "url": "https://www.naukri.com/job-listings-software-analyst-developer-bluescope-chennai-1-to-2-years-210926012397",
     "source": "naukri",
-    "company": "Exone Technologies",
-    "location": "Kozhikode",
-    "queued_at": "2026-09-21T10:15:10.795395+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "210926016593",
-    "title": "Desktop Support Engineer - Freshers",
-    "url": "https://www.naukri.com/job-listings-desktop-support-engineer-freshers-independent-recruitment-consultant-freelancer-chennai-0-to-1-years-210926016593",
-    "source": "naukri",
-    "company": "Independent Recruitment Consultant (freelancer)",
+    "company": "Bluescope",
     "location": "Chennai",
-    "queued_at": "2026-09-21T10:15:10.795395+00:00",
-    "status": "queued"
+    "queued_at": "2026-09-21T08:15:17.611745+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
-    "job_id": "210926016338",
-    "title": "ERPNext Developer",
-    "url": "https://www.naukri.com/job-listings-erpnext-developer-klaimify-raipur-1-to-5-years-210926016338",
-    "source": "naukri",
-    "company": "Klaimify",
-    "location": "Raipur",
-    "queued_at": "2026-09-21T10:15:10.795395+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "210926911947",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-skytech-infinite-platform-ltd-bengaluru-0-to-1-years-210926911947",
-    "source": "naukri",
-    "company": "Skytech Infinite Platform Ltd",
-    "location": "Bengaluru(Lingarajapuram)",
-    "queued_at": "2026-09-21T10:15:10.795395+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "210926912283",
+    "job_id": "210926008424",
     "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-aimbiz-global-consulting-bengaluru-0-to-1-years-210926912283",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-210926008424",
     "source": "naukri",
-    "company": "Aimbiz Global Consulting",
-    "location": "Bengaluru(JP Nagar)",
-    "queued_at": "2026-09-21T10:15:10.795395+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "210926909844",
-    "title": "BIM Developer",
-    "url": "https://www.naukri.com/job-listings-bim-developer-arcot-ai-solutions-navi-mumbai-1-to-4-years-210926909844",
-    "source": "naukri",
-    "company": "Arcot Ai Solutions",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-09-21T10:15:10.795395+00:00",
-    "status": "queued"
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-09-21T08:15:17.611745+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
     "job_id": "210926000142",
@@ -255,6 +173,7 @@
     "company": "Ignitefortune Tech",
     "location": "Remote",
     "queued_at": "2026-09-21T10:15:10.795395+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
