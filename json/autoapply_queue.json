@@ -142,16 +142,5 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "220926010216",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-mufin-green-finance-new-delhi-0-to-2-years-220926010216",
-    "source": "naukri",
-    "company": "Mufin Green Finance",
-    "location": "New Delhi(Netaji Subhash Place)",
-    "queued_at": "2026-09-22T14:15:24.380356+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
