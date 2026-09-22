@@ -142,5 +142,25 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "220926003030",
+    "title": "Hiring For All Types of Engineers",
+    "url": "https://www.naukri.com/job-listings-hiring-for-all-types-of-engineers-renoysys-bhubaneswar-pune-mumbai-all-areas-0-to-5-years-220926003030",
+    "source": "naukri",
+    "company": "Renoysys",
+    "location": "Bhubaneswar, Pune, Mumbai (All Areas)",
+    "queued_at": "2026-09-22T06:15:13.424875+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "220926901552",
+    "title": "MFE Engineer",
+    "url": "https://www.naukri.com/job-listings-mfe-engineer-ford-motor-private-limited-chennai-chennai-1-to-6-years-220926901552",
+    "source": "naukri",
+    "company": "Ford",
+    "location": "Chennai, Chennai",
+    "queued_at": "2026-09-22T06:15:13.424875+00:00",
+    "status": "queued"
   }
 ]
