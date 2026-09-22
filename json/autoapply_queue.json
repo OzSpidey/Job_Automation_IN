@@ -142,5 +142,45 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "220926010216",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-mufin-green-finance-new-delhi-0-to-2-years-220926010216",
+    "source": "naukri",
+    "company": "Mufin Green Finance",
+    "location": "New Delhi(Netaji Subhash Place)",
+    "queued_at": "2026-09-22T08:15:03.487499+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290826009251",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-2-years-290826009251",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-09-22T08:15:03.487499+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "220926014927",
+    "title": "Programmer/Analyst",
+    "url": "https://www.naukri.com/job-listings-programmer-analyst-netapp-bengaluru-0-to-3-years-220926014927",
+    "source": "naukri",
+    "company": "NetApp",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-22T08:15:03.487499+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "220926901552",
+    "title": "MFE Engineer",
+    "url": "https://www.naukri.com/job-listings-mfe-engineer-ford-motor-private-limited-chennai-chennai-1-to-6-years-220926901552",
+    "source": "naukri",
+    "company": "Ford",
+    "location": "Chennai, Chennai",
+    "queued_at": "2026-09-22T08:15:03.487499+00:00",
+    "status": "queued"
   }
 ]
