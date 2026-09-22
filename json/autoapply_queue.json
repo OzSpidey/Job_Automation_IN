@@ -144,39 +144,6 @@
     "status": "queued"
   },
   {
-    "job_id": "220926010216",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-mufin-green-finance-new-delhi-0-to-2-years-220926010216",
-    "source": "naukri",
-    "company": "Mufin Green Finance",
-    "location": "New Delhi(Netaji Subhash Place)",
-    "queued_at": "2026-09-22T08:15:03.487499+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "290826009251",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-2-years-290826009251",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
-    "queued_at": "2026-09-22T08:15:03.487499+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "220926014927",
-    "title": "Programmer/Analyst",
-    "url": "https://www.naukri.com/job-listings-programmer-analyst-netapp-bengaluru-0-to-3-years-220926014927",
-    "source": "naukri",
-    "company": "NetApp",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-22T08:15:03.487499+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "220926022359",
     "title": "Python Software Developer",
     "url": "https://www.naukri.com/job-listings-python-software-developer-highradius-hyderabad-1-to-3-years-220926022359",
@@ -185,7 +152,7 @@
     "location": "Hyderabad",
     "queued_at": "2026-09-22T10:15:19.454105+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "220926016600",
@@ -196,57 +163,7 @@
     "location": "Gurugram",
     "queued_at": "2026-09-22T10:15:19.454105+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "220926500453",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-opseazy-bengaluru-1-to-2-years-220926500453",
-    "source": "naukri",
-    "company": "Opseazy",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "220926500100",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-i2ispecialist-technologies-pune-0-to-4-years-220926500100",
-    "source": "naukri",
-    "company": "I2ispecialist Technologies",
-    "location": "Pune",
-    "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "220926502644",
-    "title": "Frontend Developer",
-    "url": "https://www.naukri.com/job-listings-frontend-developer-opseazy-remote-0-to-2-years-220926502644",
-    "source": "naukri",
-    "company": "Opseazy",
-    "location": "Remote",
-    "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "220926500440",
-    "title": "Frontend Developer",
-    "url": "https://www.naukri.com/job-listings-frontend-developer-i2ispecialist-technologies-pune-0-to-2-years-220926500440",
-    "source": "naukri",
-    "company": "I2ispecialist Technologies",
-    "location": "Pune",
-    "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "220926500430",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-opseazy-chennai-0-to-1-years-220926500430",
-    "source": "naukri",
-    "company": "Opseazy",
-    "location": "Chennai",
-    "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "220926931321",
@@ -256,7 +173,8 @@
     "company": "Infosys",
     "location": "Bengaluru",
     "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "220926039679",
@@ -266,136 +184,7 @@
     "company": "CMS It Services",
     "location": "Mundra",
     "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "220926931221",
-    "title": "Assembler Developer",
-    "url": "https://www.naukri.com/job-listings-assembler-developer-bmc-software-india-private-limited-pune-1-to-3-years-220926931221",
-    "source": "naukri",
-    "company": "BMC Software",
-    "location": "Pune",
-    "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "220926502143",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-tsw-capital-services-private-limited-mumbai-0-to-2-years-220926502143",
-    "source": "naukri",
-    "company": "TSW Capital Services",
-    "location": "Mumbai",
-    "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "220926502081",
-    "title": "MERN Developer",
-    "url": "https://www.naukri.com/job-listings-mern-developer-zensar-technologies-pune-0-to-5-years-220926502081",
-    "source": "naukri",
-    "company": "Zensar",
-    "location": "Pune",
-    "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "220926502027",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-nomura-capital-india-private-limited-mumbai-0-to-3-years-220926502027",
-    "source": "naukri",
-    "company": "Nomura",
-    "location": "Mumbai",
-    "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "220926501498",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-220926501498",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "220926501493",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-220926501493",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "220926501173",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-dentsu-inc-pune-madhubani-0-to-1-years-220926501173",
-    "source": "naukri",
-    "company": "Dentsu Webchutney",
-    "location": "Pune, Madhubani",
-    "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "220926500953",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-4-years-220926500953",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "220926500553",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-chennai-1-to-5-years-220926500553",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Chennai",
-    "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "220926500491",
-    "title": "Quantitative Analyst",
-    "url": "https://www.naukri.com/job-listings-quantitative-analyst-innocode-ventures-pune-1-to-2-years-220926500491",
-    "source": "naukri",
-    "company": "Innocode Ventures",
-    "location": "Pune",
-    "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "220926500173",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-pune-1-to-5-years-220926500173",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Pune",
-    "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "220926929567",
-    "title": "Associate Site Reliability Engineer",
-    "url": "https://www.naukri.com/job-listings-associate-site-reliability-engineer-ibm-india-pvt-limited-pune-0-to-1-years-220926929567",
-    "source": "naukri",
-    "company": "IBM",
-    "location": "Pune",
-    "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "220926901552",
-    "title": "MFE Engineer",
-    "url": "https://www.naukri.com/job-listings-mfe-engineer-ford-motor-private-limited-chennai-chennai-1-to-6-years-220926901552",
-    "source": "naukri",
-    "company": "Ford",
-    "location": "Chennai, Chennai",
-    "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
