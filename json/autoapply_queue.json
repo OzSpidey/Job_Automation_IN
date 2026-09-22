@@ -151,7 +151,8 @@
     "company": "Mufin Green Finance",
     "location": "New Delhi(Netaji Subhash Place)",
     "queued_at": "2026-09-22T08:15:03.487499+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "290826009251",
@@ -161,7 +162,8 @@
     "company": "Infosys",
     "location": "Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-09-22T08:15:03.487499+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "220926014927",
@@ -171,16 +173,7 @@
     "company": "NetApp",
     "location": "Bengaluru",
     "queued_at": "2026-09-22T08:15:03.487499+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "220926901552",
-    "title": "MFE Engineer",
-    "url": "https://www.naukri.com/job-listings-mfe-engineer-ford-motor-private-limited-chennai-chennai-1-to-6-years-220926901552",
-    "source": "naukri",
-    "company": "Ford",
-    "location": "Chennai, Chennai",
-    "queued_at": "2026-09-22T08:15:03.487499+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
