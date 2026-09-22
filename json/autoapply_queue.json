@@ -175,5 +175,55 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "220926929567",
+    "title": "Associate Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-associate-site-reliability-engineer-ibm-india-pvt-limited-pune-0-to-1-years-220926929567",
+    "source": "naukri",
+    "company": "IBM",
+    "location": "Pune",
+    "queued_at": "2026-09-22T10:15:19.454105+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "220926022359",
+    "title": "Python Software Developer",
+    "url": "https://www.naukri.com/job-listings-python-software-developer-highradius-hyderabad-1-to-3-years-220926022359",
+    "source": "naukri",
+    "company": "Highradius",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-22T10:15:19.454105+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "220926017541",
+    "title": "Hiring For All Engineers",
+    "url": "https://www.naukri.com/job-listings-hiring-for-all-engineers-oneclick-manpower-navi-mumbai-bengaluru-0-to-5-years-220926017541",
+    "source": "naukri",
+    "company": "Oneclick Manpower Navi Mumbai",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-22T10:15:19.454105+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "220926016600",
+    "title": "Agentic AI Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-agentic-ai-full-stack-developer-quadlabs-technologies-gurugram-0-to-3-years-220926016600",
+    "source": "naukri",
+    "company": "Quadlabs Technologies",
+    "location": "Gurugram",
+    "queued_at": "2026-09-22T10:15:19.454105+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "220926901552",
+    "title": "MFE Engineer",
+    "url": "https://www.naukri.com/job-listings-mfe-engineer-ford-motor-private-limited-chennai-chennai-1-to-6-years-220926901552",
+    "source": "naukri",
+    "company": "Ford",
+    "location": "Chennai, Chennai",
+    "queued_at": "2026-09-22T10:15:19.454105+00:00",
+    "status": "queued"
   }
 ]
