@@ -1,38 +1,5 @@
 [
   {
-    "job_id": "220926931321",
-    "title": "Amazon connect Engineer",
-    "url": "https://www.naukri.com/job-listings-amazon-connect-engineer-infosys-limited-bengaluru-0-to-5-years-220926931321",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "220926039679",
-    "title": "Associate Trainee Engineer (Fresher )",
-    "url": "https://www.naukri.com/job-listings-associate-trainee-engineer-fresher-cms-it-services-mundra-0-to-1-years-220926039679",
-    "source": "naukri",
-    "company": "CMS It Services",
-    "location": "Mundra",
-    "queued_at": "2026-09-22T12:15:26.574464+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "220926010216",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-mufin-green-finance-new-delhi-0-to-2-years-220926010216",
-    "source": "naukri",
-    "company": "Mufin Green Finance",
-    "location": "New Delhi(Netaji Subhash Place)",
-    "queued_at": "2026-09-22T14:15:24.380356+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -175,5 +142,16 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "220926010216",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-mufin-green-finance-new-delhi-0-to-2-years-220926010216",
+    "source": "naukri",
+    "company": "Mufin Green Finance",
+    "location": "New Delhi(Netaji Subhash Place)",
+    "queued_at": "2026-09-22T14:15:24.380356+00:00",
+    "status": "queued",
+    "attempts": 2
   }
 ]
