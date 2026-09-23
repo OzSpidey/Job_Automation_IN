@@ -1,38 +1,5 @@
 [
   {
-    "job_id": "230926020426",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-virtuvian-ventures-lucknow-0-to-2-years-230926020426",
-    "source": "naukri",
-    "company": "Virtuvian Ventures",
-    "location": "Lucknow(Gomti Nagar)",
-    "queued_at": "2026-09-23T08:15:23.462445+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "280526012175",
-    "title": "HCL Geomtech Product _Sr. CAD Developer (C++) _Pune/Mumbai/Blr/Chennai",
-    "url": "https://www.naukri.com/job-listings-hcl-geomtech-product-sr-cad-developer-c-pune-mumbai-blr-chennai-hcltech-pune-bengaluru-mumbai-all-areas-1-to-6-years-280526012175",
-    "source": "naukri",
-    "company": "HCLTech",
-    "location": "Pune, Bengaluru, Mumbai (All Areas)",
-    "queued_at": "2026-09-23T08:15:23.462445+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "230926018879",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-230926018879",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-09-23T08:15:23.462445+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -177,6 +144,39 @@
     "status": "queued"
   },
   {
+    "job_id": "230926020426",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-virtuvian-ventures-lucknow-0-to-2-years-230926020426",
+    "source": "naukri",
+    "company": "Virtuvian Ventures",
+    "location": "Lucknow(Gomti Nagar)",
+    "queued_at": "2026-09-23T08:15:23.462445+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "280526012175",
+    "title": "HCL Geomtech Product _Sr. CAD Developer (C++) _Pune/Mumbai/Blr/Chennai",
+    "url": "https://www.naukri.com/job-listings-hcl-geomtech-product-sr-cad-developer-c-pune-mumbai-blr-chennai-hcltech-pune-bengaluru-mumbai-all-areas-1-to-6-years-280526012175",
+    "source": "naukri",
+    "company": "HCLTech",
+    "location": "Pune, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-09-23T08:15:23.462445+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "230926018879",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-230926018879",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-23T08:15:23.462445+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
     "job_id": "230926025536",
     "title": "Software Developer",
     "url": "https://www.naukri.com/job-listings-software-developer-insightstap-solutions-kolkata-0-to-1-years-230926025536",
@@ -184,6 +184,7 @@
     "company": "Insightstap Solutions",
     "location": "Kolkata",
     "queued_at": "2026-09-23T10:15:17.100877+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
