@@ -142,5 +142,15 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "230926005908",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-guenstiger-de-gurugram-1-to-2-years-230926005908",
+    "source": "naukri",
+    "company": "Guenstiger.de",
+    "location": "Gurugram",
+    "queued_at": "2026-09-23T04:15:17.531672+00:00",
+    "status": "queued"
   }
 ]
