@@ -175,5 +175,15 @@
     "level": "Early",
     "queued_at": "2026-09-08T22:15:05.554181+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "230926025536",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-insightstap-solutions-kolkata-0-to-1-years-230926025536",
+    "source": "naukri",
+    "company": "Insightstap Solutions",
+    "location": "Kolkata",
+    "queued_at": "2026-09-23T10:15:17.100877+00:00",
+    "status": "queued"
   }
 ]
