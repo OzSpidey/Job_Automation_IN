@@ -144,17 +144,6 @@
     "status": "queued"
   },
   {
-    "job_id": "230926005908",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-guenstiger-de-gurugram-1-to-2-years-230926005908",
-    "source": "naukri",
-    "company": "Guenstiger.de",
-    "location": "Gurugram",
-    "queued_at": "2026-09-23T04:15:17.531672+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "230926020426",
     "title": "Software Developer",
     "url": "https://www.naukri.com/job-listings-software-developer-virtuvian-ventures-lucknow-0-to-2-years-230926020426",
@@ -162,7 +151,8 @@
     "company": "Virtuvian Ventures",
     "location": "Lucknow(Gomti Nagar)",
     "queued_at": "2026-09-23T08:15:23.462445+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "280526012175",
@@ -172,17 +162,8 @@
     "company": "HCLTech",
     "location": "Pune, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-09-23T08:15:23.462445+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "230926021286",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-national-skill-development-corporation-nsdc-delhi-1-to-3-years-230926021286",
-    "source": "naukri",
-    "company": "National Skill Development Corporation (NSDC)",
-    "location": "Delhi",
-    "queued_at": "2026-09-23T08:15:23.462445+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "230926018879",
@@ -192,6 +173,7 @@
     "company": "eClerx",
     "location": "Navi Mumbai",
     "queued_at": "2026-09-23T08:15:23.462445+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
