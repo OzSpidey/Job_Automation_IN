@@ -164,5 +164,275 @@
     "queued_at": "2026-09-23T14:15:17.298415+00:00",
     "status": "queued",
     "attempts": 2
+  },
+  {
+    "job_id": "230926503906",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-ivis-international-pvt-ltd-hyderabad-0-to-2-years-230926503906",
+    "source": "naukri",
+    "company": "Ivis International",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926937019",
+    "title": "C++ Developer / Graphics Engineer / Sr Engineer / Lead Engineer",
+    "url": "https://www.naukri.com/job-listings-c-developer-graphics-engineer-sr-engineer-lead-engineer-qualcomm-india-pvt-ltd-bengaluru-1-to-5-years-230926937019",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926936145",
+    "title": "Staff Engineer-C++ , Embedded, AI/ML, GenAI,edge aing",
+    "url": "https://www.naukri.com/job-listings-staff-engineer-c-embedded-ai-ml-genai-edge-aing-qualcomm-india-pvt-ltd-hyderabad-1-to-3-years-230926936145",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926936789",
+    "title": "GPU Compute Gaming Compiler Engineer",
+    "url": "https://www.naukri.com/job-listings-gpu-compute-gaming-compiler-engineer-qualcomm-india-pvt-ltd-bengaluru-0-to-5-years-230926936789",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926936777",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-qualcomm-india-pvt-ltd-bengaluru-0-to-5-years-230926936777",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926936508",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-qualcomm-india-pvt-ltd-hyderabad-0-to-5-years-230926936508",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926504244",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-kantar-imrb-bengaluru-1-to-2-years-230926504244",
+    "source": "naukri",
+    "company": "Kantar Imrb",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926504040",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-chennai-1-to-5-years-230926504040",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Chennai",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926936722",
+    "title": "Thermal and Limits Management, Power Performance Engineer, Staff",
+    "url": "https://www.naukri.com/job-listings-thermal-and-limits-management-power-performance-engineer-staff-qualcomm-india-pvt-ltd-bengaluru-1-to-4-years-230926936722",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926936172",
+    "title": "Infra-Staff Design Verification Engineer",
+    "url": "https://www.naukri.com/job-listings-infra-staff-design-verification-engineer-qualcomm-india-pvt-ltd-bengaluru-1-to-5-years-230926936172",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926501524",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-gap-hyderabad-1-to-5-years-230926501524",
+    "source": "naukri",
+    "company": "GAP",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926502377",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-safeaeon-mohali-0-to-1-years-230926502377",
+    "source": "naukri",
+    "company": "Safeaeon",
+    "location": "Mohali",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926502616",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-oneture-technologies-private-limited-mumbai-1-to-6-years-230926502616",
+    "source": "naukri",
+    "company": "Oneture Technologies",
+    "location": "Mumbai",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926931404",
+    "title": "Engineer- Camera HAL",
+    "url": "https://www.naukri.com/job-listings-engineer-camera-hal-qualcomm-india-pvt-ltd-hyderabad-0-to-5-years-230926931404",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926931343",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-qualcomm-india-pvt-ltd-hyderabad-0-to-5-years-230926931343",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926931290",
+    "title": "Engineer- Camera",
+    "url": "https://www.naukri.com/job-listings-engineer-camera-qualcomm-india-pvt-ltd-hyderabad-0-to-5-years-230926931290",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926931086",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-qualcomm-india-pvt-ltd-hyderabad-0-to-5-years-230926931086",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926503601",
+    "title": "engineers",
+    "url": "https://www.naukri.com/job-listings-engineers-skugal-technologies-private-limited-noida-1-to-4-years-230926503601",
+    "source": "naukri",
+    "company": "Skugal Technologies",
+    "location": "Noida",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926501265",
+    "title": "HRIT Analyst",
+    "url": "https://www.naukri.com/job-listings-hrit-analyst-intercontinental-hotels-group-india-private-limited-gurugram-1-to-6-years-230926501265",
+    "source": "naukri",
+    "company": "IHG Hotels & Resorts",
+    "location": "Gurugram",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926501185",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-chennai-1-to-5-years-230926501185",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Chennai",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926500732",
+    "title": "Full struct Developer",
+    "url": "https://www.naukri.com/job-listings-full-struct-developer-mps-info-services-kolkata-1-to-2-years-230926500732",
+    "source": "naukri",
+    "company": "MPS Info Services",
+    "location": "Kolkata",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926500716",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-hyderabad-1-to-5-years-230926500716",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926500674",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-chennai-1-to-5-years-230926500674",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Chennai",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926500152",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-dentsu-inc-pune-0-to-1-years-230926500152",
+    "source": "naukri",
+    "company": "Dentsu Webchutney",
+    "location": "Pune",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926930802",
+    "title": "Camera Firmware Engineer",
+    "url": "https://www.naukri.com/job-listings-camera-firmware-engineer-qualcomm-india-pvt-ltd-hyderabad-1-to-3-years-230926930802",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926931439",
+    "title": "CPU Performance Associate Engineer",
+    "url": "https://www.naukri.com/job-listings-cpu-performance-associate-engineer-qualcomm-india-pvt-ltd-bengaluru-1-to-6-years-230926931439",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "230926931302",
+    "title": "LPASS Design Verification Engineer",
+    "url": "https://www.naukri.com/job-listings-lpass-design-verification-engineer-qualcomm-india-pvt-ltd-bengaluru-1-to-2-years-230926931302",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-23T18:15:20.332604+00:00",
+    "status": "queued"
   }
 ]
