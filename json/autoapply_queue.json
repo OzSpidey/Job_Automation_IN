@@ -162,5 +162,25 @@
     "level": "Early",
     "queued_at": "2026-09-23T22:01:25.656259+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "240926027335",
+    "title": "Enovia Java Developer (3DEXPERIENCE)",
+    "url": "https://www.naukri.com/job-listings-enovia-java-developer-3dexperience-contevolve-noida-1-to-5-years-240926027335",
+    "source": "naukri",
+    "company": "Contevolve",
+    "location": "Noida",
+    "queued_at": "2026-09-24T10:15:15.118235+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240926023327",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-240926023327",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-09-24T10:15:15.118235+00:00",
+    "status": "queued"
   }
 ]
