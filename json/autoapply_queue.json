@@ -1,60 +1,5 @@
 [
   {
-    "job_id": "090726020222",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-nilorn-new-delhi-0-to-4-years-090726020222",
-    "source": "naukri",
-    "company": "Nilorn",
-    "location": "New Delhi",
-    "queued_at": "2026-09-24T12:15:35.804465+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "240926040620",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-a-p-moller-maersk-chennai-1-to-2-years-240926040620",
-    "source": "naukri",
-    "company": "A.P. Moller Maersk",
-    "location": "Chennai",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "240926038815",
-    "title": "Senior Analyst - FP&A",
-    "url": "https://www.naukri.com/job-listings-senior-analyst-fp-a-kaar-technologies-chennai-1-to-5-years-240926038815",
-    "source": "naukri",
-    "company": "Kaar Technologies",
-    "location": "Chennai",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "240926030369",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-aadhyaai-kolkata-1-to-3-years-240926030369",
-    "source": "naukri",
-    "company": "Hindalco Industries",
-    "location": "Kolkata(Camac Street)",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "150726015430",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-netapp-bengaluru-0-to-3-years-150726015430",
-    "source": "naukri",
-    "company": "NetApp",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -206,5 +151,49 @@
     "level": "Early",
     "queued_at": "2026-09-23T22:01:25.656259+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "240926040620",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-a-p-moller-maersk-chennai-1-to-2-years-240926040620",
+    "source": "naukri",
+    "company": "A.P. Moller Maersk",
+    "location": "Chennai",
+    "queued_at": "2026-09-24T14:15:20.372814+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "240926038815",
+    "title": "Senior Analyst - FP&A",
+    "url": "https://www.naukri.com/job-listings-senior-analyst-fp-a-kaar-technologies-chennai-1-to-5-years-240926038815",
+    "source": "naukri",
+    "company": "Kaar Technologies",
+    "location": "Chennai",
+    "queued_at": "2026-09-24T14:15:20.372814+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "240926030369",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-aadhyaai-kolkata-1-to-3-years-240926030369",
+    "source": "naukri",
+    "company": "Hindalco Industries",
+    "location": "Kolkata(Camac Street)",
+    "queued_at": "2026-09-24T14:15:20.372814+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "150726015430",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-netapp-bengaluru-0-to-3-years-150726015430",
+    "source": "naukri",
+    "company": "NetApp",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-24T14:15:20.372814+00:00",
+    "status": "queued",
+    "attempts": 2
   }
 ]
