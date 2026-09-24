@@ -153,28 +153,6 @@
     "status": "queued"
   },
   {
-    "job_id": "240926027335",
-    "title": "Enovia Java Developer (3DEXPERIENCE)",
-    "url": "https://www.naukri.com/job-listings-enovia-java-developer-3dexperience-contevolve-noida-1-to-5-years-240926027335",
-    "source": "naukri",
-    "company": "Contevolve",
-    "location": "Noida",
-    "queued_at": "2026-09-24T10:15:15.118235+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "240926023327",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-240926023327",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-09-24T10:15:15.118235+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "090726020222",
     "title": "Software Developer",
     "url": "https://www.naukri.com/job-listings-software-developer-nilorn-new-delhi-0-to-4-years-090726020222",
@@ -183,47 +161,7 @@
     "location": "New Delhi",
     "queued_at": "2026-09-24T12:15:35.804465+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "240926504747",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-majesco-software-and-solutions-india-pvt-ltd-remote-0-to-2-years-240926504747",
-    "source": "naukri",
-    "company": "Majesco",
-    "location": "Remote",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "240926503573",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-m-s-consulting-remote-1-to-3-years-240926503573",
-    "source": "naukri",
-    "company": "Mands Consulting Com",
-    "location": "Remote",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "240926504610",
-    "title": "Analyst - Dangerous Goods",
-    "url": "https://www.naukri.com/job-listings-analyst-dangerous-goods-merck-group-bengaluru-0-to-3-years-240926504610",
-    "source": "naukri",
-    "company": "Merck",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "240926041068",
-    "title": "Walk In - Fresher - Analyst, BQM & Custodian - BRD",
-    "url": "https://www.naukri.com/job-listings-walk-in-fresher-analyst-bqm-custodian-brd-veeda-cr-ahmedabad-0-to-1-years-240926041068",
-    "source": "naukri",
-    "company": "Veeda CR",
-    "location": "",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "240926040620",
@@ -233,7 +171,8 @@
     "company": "A.P. Moller Maersk",
     "location": "Chennai",
     "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "240926038815",
@@ -243,27 +182,8 @@
     "company": "Kaar Technologies",
     "location": "Chennai",
     "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "240926501854",
-    "title": "DCS Software Engineer",
-    "url": "https://www.naukri.com/job-listings-dcs-software-engineer-kbc-global-vadodara-0-to-3-years-240926501854",
-    "source": "naukri",
-    "company": "KBC Global",
-    "location": "Vadodara",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "240926501360",
-    "title": "Software Development Engineer",
-    "url": "https://www.naukri.com/job-listings-software-development-engineer-texas-instruments-india-ltd-hyderabad-bengaluru-0-to-2-years-240926501360",
-    "source": "naukri",
-    "company": "Texas Instruments",
-    "location": "Hyderabad, Bengaluru",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "240926030369",
@@ -273,117 +193,8 @@
     "company": "Hindalco Industries",
     "location": "Kolkata(Camac Street)",
     "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "240926500270",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-ladera-technology-private-limited-chennai-0-to-1-years-240926500270",
-    "source": "naukri",
-    "company": "Ladera Technology",
-    "location": "Chennai",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "240926501200",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-approzo-new-delhi-1-to-3-years-240926501200",
-    "source": "naukri",
-    "company": "Approzo",
-    "location": "New Delhi",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "240926502858",
-    "title": "SecOps Engineer",
-    "url": "https://www.naukri.com/job-listings-secops-engineer-shipthis-bengaluru-1-to-2-years-240926502858",
-    "source": "naukri",
-    "company": "Onder Shipthis Technologies",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "240926502412",
-    "title": "Citrix Engineer-Fresher",
-    "url": "https://www.naukri.com/job-listings-citrix-engineer-fresher-quadrasystems-net-coimbatore-0-to-3-years-240926502412",
-    "source": "naukri",
-    "company": "Quadrasystems.net",
-    "location": "Coimbatore",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "240926501645",
-    "title": "AI Engineers (Freshers)",
-    "url": "https://www.naukri.com/job-listings-ai-engineers-freshers-virtueinfo-ahmedabad-0-to-1-years-240926501645",
-    "source": "naukri",
-    "company": "Virtueinfo",
-    "location": "Ahmedabad",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "240926500921",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-iflowtech-solutions-private-limited-bengaluru-1-to-4-years-240926500921",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "240926500711",
-    "title": "Copilot Adoption Engineer",
-    "url": "https://www.naukri.com/job-listings-copilot-adoption-engineer-quadrasystems-net-coimbatore-0-to-3-years-240926500711",
-    "source": "naukri",
-    "company": "Quadrasystems.net",
-    "location": "Coimbatore",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "240926502617",
-    "title": "Cyber Response Analyst",
-    "url": "https://www.naukri.com/job-listings-cyber-response-analyst-bloom-engineering-company-bengaluru-1-to-5-years-240926502617",
-    "source": "naukri",
-    "company": "Bloom Engineering",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "240926502223",
-    "title": "Analyst - VMF",
-    "url": "https://www.naukri.com/job-listings-analyst-vmf-flex-coimbatore-0-to-5-years-240926502223",
-    "source": "naukri",
-    "company": "Flex",
-    "location": "Coimbatore",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "240926501547",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eyeota-mumbai-0-to-3-years-240926501547",
-    "source": "naukri",
-    "company": "Eyeota",
-    "location": "Mumbai",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "240926500784",
-    "title": "Firmware Engineer (USB & OpenBMC)",
-    "url": "https://www.naukri.com/job-listings-firmware-engineer-usb-openbmc-tessolve-semiconductor-pvt-ltd-bengaluru-1-to-5-years-240926500784",
-    "source": "naukri",
-    "company": "Tessolve",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "150726015430",
@@ -393,6 +204,7 @@
     "company": "NetApp",
     "location": "Bengaluru",
     "queued_at": "2026-09-24T14:15:20.372814+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
