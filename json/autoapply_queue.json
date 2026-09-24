@@ -160,6 +160,7 @@
     "company": "NetApp",
     "location": "Bengaluru",
     "queued_at": "2026-09-24T08:15:14.858174+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
