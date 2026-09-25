@@ -6863,5 +6863,115 @@
     "queued_at": "2026-09-25T14:15:42.105298+00:00",
     "status": "applied",
     "applied_at": "2026-09-25T14:18:27.217778+00:00"
+  },
+  {
+    "job_id": "250926934558",
+    "title": "C++ Developer - Linux",
+    "url": "https://www.naukri.com/job-listings-250926934558",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Pune",
+    "queued_at": "2026-09-25T16:15:20.491411+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-25T16:17:36.756319+00:00"
+  },
+  {
+    "job_id": "250926934554",
+    "title": "C++ Developer - Linux",
+    "url": "https://www.naukri.com/job-listings-c-developer-linux-convate-consultancy-services-pvt-ltd-bengaluru-1-to-3-years-250926934554",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-25T16:15:20.491411+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-25T16:17:46.691022+00:00"
+  },
+  {
+    "job_id": "250926934553",
+    "title": "C++ Developer - Networking",
+    "url": "https://www.naukri.com/job-listings-c-developer-networking-convate-consultancy-services-pvt-ltd-gurugram-1-to-5-years-250926934553",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Gurugram",
+    "queued_at": "2026-09-25T16:15:20.491411+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-25T16:17:56.591846+00:00"
+  },
+  {
+    "job_id": "250926934552",
+    "title": "C++ Developer - Networking, Linux",
+    "url": "https://www.naukri.com/job-listings-c-developer-networking-linux-convate-consultancy-services-pvt-ltd-noida-1-to-3-years-250926934552",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Noida",
+    "queued_at": "2026-09-25T16:15:20.491411+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-25T16:18:06.549239+00:00"
+  },
+  {
+    "job_id": "250926934551",
+    "title": "C++ Developer - Linux",
+    "url": "https://www.naukri.com/job-listings-c-developer-linux-convate-consultancy-services-pvt-ltd-hyderabad-1-to-3-years-250926934551",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-25T16:15:20.491411+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-25T16:18:16.600844+00:00"
+  },
+  {
+    "job_id": "250926934548",
+    "title": "C++ Developer - Networking",
+    "url": "https://www.naukri.com/job-listings-250926934548",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Chennai",
+    "queued_at": "2026-09-25T16:15:20.491411+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-25T16:18:26.567778+00:00"
+  },
+  {
+    "job_id": "250926934545",
+    "title": "C++ Developer - Networking, Linux",
+    "url": "https://www.naukri.com/job-listings-c-developer-networking-linux-convate-consultancy-services-pvt-ltd-mumbai-1-to-3-years-250926934545",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Mumbai",
+    "queued_at": "2026-09-25T16:15:20.491411+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-25T16:18:36.684068+00:00"
+  },
+  {
+    "job_id": "250926934541",
+    "title": "C++ Developer - Linux",
+    "url": "https://www.naukri.com/job-listings-c-developer-linux-convate-consultancy-services-pvt-ltd-mumbai-1-to-3-years-250926934541",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Mumbai",
+    "queued_at": "2026-09-25T16:15:20.491411+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-25T16:18:46.712856+00:00"
+  },
+  {
+    "job_id": "250926934540",
+    "title": "C++ Developer - Networking",
+    "url": "https://www.naukri.com/job-listings-c-developer-networking-convate-consultancy-services-pvt-ltd-hyderabad-1-to-5-years-250926934540",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-25T16:15:20.491411+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-25T16:18:56.757880+00:00"
+  },
+  {
+    "job_id": "250926934539",
+    "title": "C++ Developer - Networking",
+    "url": "https://www.naukri.com/job-listings-c-developer-networking-convate-consultancy-services-pvt-ltd-pune-1-to-5-years-250926934539",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Pune",
+    "queued_at": "2026-09-25T16:15:20.491411+00:00",
+    "status": "applied",
+    "applied_at": "2026-09-25T16:19:06.701869+00:00"
   }
 ]
