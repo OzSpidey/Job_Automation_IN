@@ -1,5 +1,38 @@
 [
   {
+    "job_id": "250926031625",
+    "title": "ADG Analyst",
+    "url": "https://www.naukri.com/job-listings-adg-analyst-evoke-hr-gurugram-1-to-4-years-250926031625",
+    "source": "naukri",
+    "company": "Evoke HR solutions private limited",
+    "location": "Gurugram",
+    "queued_at": "2026-09-25T12:15:54.572534+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "250926029795",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-250926029795",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-25T12:15:54.572534+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "250926006328",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-hl-mando-softtech-bengaluru-1-to-3-years-250926006328",
+    "source": "naukri",
+    "company": "HL Mando Softtech",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-25T14:15:42.105298+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -151,38 +184,5 @@
     "level": "Early",
     "queued_at": "2026-09-23T22:01:25.656259+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "250926031625",
-    "title": "ADG Analyst",
-    "url": "https://www.naukri.com/job-listings-adg-analyst-evoke-hr-gurugram-1-to-4-years-250926031625",
-    "source": "naukri",
-    "company": "Evoke HR solutions private limited",
-    "location": "Gurugram",
-    "queued_at": "2026-09-25T12:15:54.572534+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "250926029795",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-250926029795",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-09-25T12:15:54.572534+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "250926006328",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-hl-mando-softtech-bengaluru-1-to-3-years-250926006328",
-    "source": "naukri",
-    "company": "HL Mando Softtech",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-25T14:15:42.105298+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
