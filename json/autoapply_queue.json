@@ -160,6 +160,7 @@
     "company": "HL Mando Softtech",
     "location": "Bengaluru",
     "queued_at": "2026-09-25T08:15:17.119255+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
