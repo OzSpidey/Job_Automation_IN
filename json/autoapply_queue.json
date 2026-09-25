@@ -272,5 +272,155 @@
     "location": "Pune",
     "queued_at": "2026-09-25T16:15:20.491411+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "250926503308",
+    "title": "Software Development Engineer",
+    "url": "https://www.naukri.com/job-listings-software-development-engineer-texas-instruments-india-ltd-bengaluru-0-to-2-years-250926503308",
+    "source": "naukri",
+    "company": "Texas Instruments",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-25T18:15:06.380097+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "250926503428",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-ue-developer-new-delhi-0-to-3-years-250926503428",
+    "source": "naukri",
+    "company": "UE Developer",
+    "location": "New Delhi",
+    "queued_at": "2026-09-25T18:15:06.380097+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "250926504315",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-ue-developer-remote-0-to-3-years-250926504315",
+    "source": "naukri",
+    "company": "UE Developer",
+    "location": "Remote",
+    "queued_at": "2026-09-25T18:15:06.380097+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "250926503483",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-ecofrost-technologies-pvt-ltd-bengaluru-1-to-6-years-250926503483",
+    "source": "naukri",
+    "company": "Ecozen Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-25T18:15:06.380097+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "250926503543",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-rockman-industries-chennai-private-limited-chennai-1-to-10-years-250926503543",
+    "source": "naukri",
+    "company": "Rockman",
+    "location": "Chennai",
+    "queued_at": "2026-09-25T18:15:06.380097+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "250926504423",
+    "title": "Firmware Engineer (USB & OpenBMC)",
+    "url": "https://www.naukri.com/job-listings-firmware-engineer-usb-openbmc-tessolve-semiconductor-pvt-ltd-bengaluru-1-to-5-years-250926504423",
+    "source": "naukri",
+    "company": "Tessolve",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-25T18:15:06.380097+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "250926500293",
+    "title": "Associate Software Engineer - Freshers",
+    "url": "https://www.naukri.com/job-listings-associate-software-engineer-freshers-kiaq-technologies-chennai-0-to-1-years-250926500293",
+    "source": "naukri",
+    "company": "Kiaq Technologies",
+    "location": "Chennai",
+    "queued_at": "2026-09-25T18:15:06.380097+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "250926913885",
+    "title": "Custom Software Engineer",
+    "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-0-to-1-years-250926913885",
+    "source": "naukri",
+    "company": "Accenture",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-25T18:15:06.380097+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "250926500974",
+    "title": "Associate Software Developer (Fresher - MERN Stack)",
+    "url": "https://www.naukri.com/job-listings-associate-software-developer-fresher-mern-stack-kiaq-technologies-chennai-0-to-1-years-250926500974",
+    "source": "naukri",
+    "company": "Kiaq Technologies",
+    "location": "Chennai",
+    "queued_at": "2026-09-25T18:15:06.380097+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "250926501374",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-nestack-technologies-hyderabad-1-to-3-years-250926501374",
+    "source": "naukri",
+    "company": "Nestack Technologies",
+    "location": "Hyderabad",
+    "queued_at": "2026-09-25T18:15:06.380097+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "250926501280",
+    "title": "Full Stack Developer (Claude Code / AI-Assisted)",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-claude-code-ai-assisted-srm-technologies-remote-1-to-2-years-250926501280",
+    "source": "naukri",
+    "company": "SRM Technologies",
+    "location": "Remote",
+    "queued_at": "2026-09-25T18:15:06.380097+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "250926500051",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-tamilzorous-infotech-salem-1-to-6-years-250926500051",
+    "source": "naukri",
+    "company": "Tamilzorous Infotech",
+    "location": "Salem",
+    "queued_at": "2026-09-25T18:15:06.380097+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "250926500184",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-kvon-tech-jaipur-1-to-3-years-250926500184",
+    "source": "naukri",
+    "company": "Kvontech Consultancy Services",
+    "location": "Jaipur",
+    "queued_at": "2026-09-25T18:15:06.380097+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "250926031625",
+    "title": "ADG Analyst",
+    "url": "https://www.naukri.com/job-listings-adg-analyst-evoke-hr-gurugram-1-to-4-years-250926031625",
+    "source": "naukri",
+    "company": "Evoke HR solutions private limited",
+    "location": "Gurugram",
+    "queued_at": "2026-09-25T18:15:06.380097+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "250926029795",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-0-to-2-years-250926029795",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-09-25T18:15:06.380097+00:00",
+    "status": "queued"
   }
 ]
