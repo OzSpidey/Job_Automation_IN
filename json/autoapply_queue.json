@@ -151,5 +151,15 @@
     "level": "Early",
     "queued_at": "2026-09-23T22:01:25.656259+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "250926006328",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-hl-mando-softtech-bengaluru-1-to-3-years-250926006328",
+    "source": "naukri",
+    "company": "HL Mando Softtech",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-25T08:15:17.119255+00:00",
+    "status": "queued"
   }
 ]
