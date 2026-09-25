@@ -162,5 +162,25 @@
     "level": "Early",
     "queued_at": "2026-09-23T22:01:25.656259+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "250926019950",
+    "title": "Python Software Developer",
+    "url": "https://www.naukri.com/job-listings-python-software-developer-bluetris-technologies-jaipur-1-to-2-years-250926019950",
+    "source": "naukri",
+    "company": "Bluetris Technologies",
+    "location": "Jaipur(Malviya Nagar)",
+    "queued_at": "2026-09-25T10:15:11.013535+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "250926018575",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-aduex-display-service-delhi-ncr-0-to-6-years-250926018575",
+    "source": "naukri",
+    "company": "Aduex Display Service",
+    "location": "Delhi / NCR",
+    "queued_at": "2026-09-25T10:15:11.013535+00:00",
+    "status": "queued"
   }
 ]
