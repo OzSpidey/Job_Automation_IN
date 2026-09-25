@@ -153,17 +153,6 @@
     "status": "queued"
   },
   {
-    "job_id": "250926006328",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-hl-mando-softtech-bengaluru-1-to-3-years-250926006328",
-    "source": "naukri",
-    "company": "HL Mando Softtech",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-25T08:15:17.119255+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "250926018575",
     "title": "Engineer",
     "url": "https://www.naukri.com/job-listings-engineer-aduex-display-service-delhi-ncr-0-to-6-years-250926018575",
@@ -172,107 +161,7 @@
     "location": "Delhi / NCR",
     "queued_at": "2026-09-25T10:15:11.013535+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "250926500293",
-    "title": "Associate Software Engineer - Freshers",
-    "url": "https://www.naukri.com/job-listings-associate-software-engineer-freshers-kiaq-technologies-chennai-0-to-1-years-250926500293",
-    "source": "naukri",
-    "company": "Kiaq Technologies",
-    "location": "Chennai",
-    "queued_at": "2026-09-25T12:15:54.572534+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "250926500974",
-    "title": "Associate Software Developer (Fresher - MERN Stack)",
-    "url": "https://www.naukri.com/job-listings-associate-software-developer-fresher-mern-stack-kiaq-technologies-chennai-0-to-1-years-250926500974",
-    "source": "naukri",
-    "company": "Kiaq Technologies",
-    "location": "Chennai",
-    "queued_at": "2026-09-25T12:15:54.572534+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "250926500051",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-tamilzorous-infotech-salem-1-to-6-years-250926500051",
-    "source": "naukri",
-    "company": "Tamilzorous Infotech",
-    "location": "Salem",
-    "queued_at": "2026-09-25T12:15:54.572534+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "250926500184",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-kvon-tech-jaipur-1-to-3-years-250926500184",
-    "source": "naukri",
-    "company": "Kvontech Consultancy Services",
-    "location": "Jaipur",
-    "queued_at": "2026-09-25T12:15:54.572534+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "250926501138",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-brillio-2-bengaluru-1-to-3-years-250926501138",
-    "source": "naukri",
-    "company": "Brillio",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-25T12:15:54.572534+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "250926500487",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-iflowtech-solutions-private-limited-kolkata-1-to-4-years-250926500487",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Kolkata",
-    "queued_at": "2026-09-25T12:15:54.572534+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "250926501537",
-    "title": "Vessel Optimisation Analyst",
-    "url": "https://www.naukri.com/job-listings-vessel-optimisation-analyst-alpha-ori-technologies-mumbai-chennai-0-to-1-years-250926501537",
-    "source": "naukri",
-    "company": "Zeronorth",
-    "location": "Mumbai, Chennai",
-    "queued_at": "2026-09-25T12:15:54.572534+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "250926500640",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-paraglider-media-pvt-ltd-bhopal-1-to-4-years-250926500640",
-    "source": "naukri",
-    "company": "Paraglider Media",
-    "location": "Bhopal",
-    "queued_at": "2026-09-25T12:15:54.572534+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "250926500593",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-maivin-consulting-services-new-delhi-0-to-2-years-250926500593",
-    "source": "naukri",
-    "company": "Maivin Consulting Services",
-    "location": "New Delhi",
-    "queued_at": "2026-09-25T12:15:54.572534+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "250926500458",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-chennai-1-to-5-years-250926500458",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Chennai",
-    "queued_at": "2026-09-25T12:15:54.572534+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "250926031625",
@@ -282,7 +171,8 @@
     "company": "Evoke HR solutions private limited",
     "location": "Gurugram",
     "queued_at": "2026-09-25T12:15:54.572534+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "250926029795",
@@ -292,16 +182,7 @@
     "company": "eClerx",
     "location": "Navi Mumbai",
     "queued_at": "2026-09-25T12:15:54.572534+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "250926913885",
-    "title": "Custom Software Engineer",
-    "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-0-to-1-years-250926913885",
-    "source": "naukri",
-    "company": "Accenture",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-25T12:15:54.572534+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
