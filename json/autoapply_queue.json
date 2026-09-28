@@ -160,7 +160,8 @@
     "company": "NetApp",
     "location": "Bengaluru",
     "queued_at": "2026-09-28T08:15:14.596900+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "280926010436",
@@ -170,6 +171,7 @@
     "company": "Smartstatz Solutions",
     "location": "Mumbai (All Areas)(Mumbai Central)",
     "queued_at": "2026-09-28T08:15:14.596900+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
