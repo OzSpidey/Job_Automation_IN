@@ -161,7 +161,7 @@
     "location": "Mumbai Suburban, Mumbai (All Areas)(Kurla East)",
     "queued_at": "2026-09-29T12:15:31.520097+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "290926015452",
@@ -172,167 +172,7 @@
     "location": "Bengaluru",
     "queued_at": "2026-09-29T12:15:31.520097+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "290926934759",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-290926934759",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-29T14:15:19.347704+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290926502319",
-    "title": "Software Engineer / Programmer / Developer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-programmer-developer-itlpro-solutions-private-limited-pune-0-to-6-years-290926502319",
-    "source": "naukri",
-    "company": "ITLPro Solutions",
-    "location": "Pune",
-    "queued_at": "2026-09-29T14:15:19.347704+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290926502398",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-mastercard-pune-0-to-7-years-290926502398",
-    "source": "naukri",
-    "company": "Mastercard",
-    "location": "Pune",
-    "queued_at": "2026-09-29T14:15:19.347704+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290926501521",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-bitblue-technology-palghar-0-to-1-years-290926501521",
-    "source": "naukri",
-    "company": "Bitblue Technology",
-    "location": "Palghar",
-    "queued_at": "2026-09-29T14:15:19.347704+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290926504225",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-hilton-software-technologies-hyderabad-0-to-1-years-290926504225",
-    "source": "naukri",
-    "company": "Hilton Software Technologies",
-    "location": "Hyderabad",
-    "queued_at": "2026-09-29T14:15:19.347704+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290926501308",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-synergylabs-gurugram-0-to-1-years-290926501308",
-    "source": "naukri",
-    "company": "Synergylabs",
-    "location": "Gurugram",
-    "queued_at": "2026-09-29T14:15:19.347704+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290926501520",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-bitblue-technology-palghar-1-to-6-years-290926501520",
-    "source": "naukri",
-    "company": "Bitblue Technology",
-    "location": "Palghar",
-    "queued_at": "2026-09-29T14:15:19.347704+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290926502220",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-zensar-technologies-pune-0-to-8-years-290926502220",
-    "source": "naukri",
-    "company": "Zensar",
-    "location": "Pune",
-    "queued_at": "2026-09-29T14:15:19.347704+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290926501307",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-synergylabs-gurugram-0-to-2-years-290926501307",
-    "source": "naukri",
-    "company": "Synergylabs",
-    "location": "Gurugram",
-    "queued_at": "2026-09-29T14:15:19.347704+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290926501284",
-    "title": "Camera Engineer",
-    "url": "https://www.naukri.com/job-listings-camera-engineer-dreamvu-hyderabad-1-to-5-years-290926501284",
-    "source": "naukri",
-    "company": "Dreamvu",
-    "location": "Hyderabad",
-    "queued_at": "2026-09-29T14:15:19.347704+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290926501819",
-    "title": "Fresher Engineer",
-    "url": "https://www.naukri.com/job-listings-fresher-engineer-itlpro-solutions-private-limited-pune-0-to-1-years-290926501819",
-    "source": "naukri",
-    "company": "ITLPro Solutions",
-    "location": "Pune",
-    "queued_at": "2026-09-29T14:15:19.347704+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290926502327",
-    "title": "Analyst - TA",
-    "url": "https://www.naukri.com/job-listings-analyst-ta-apex-fund-services-llp-pune-0-to-7-years-290926502327",
-    "source": "naukri",
-    "company": "Apex Group",
-    "location": "Pune",
-    "queued_at": "2026-09-29T14:15:19.347704+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290926501460",
-    "title": "MERN Developer",
-    "url": "https://www.naukri.com/job-listings-mern-developer-vyavsaay-digiworld-pvt-ltd-pune-1-to-3-years-290926501460",
-    "source": "naukri",
-    "company": "Vyavsaay Digiworld",
-    "location": "Pune",
-    "queued_at": "2026-09-29T14:15:19.347704+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290926501326",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-mbs-hatcheries-coimbatore-1-to-4-years-290926501326",
-    "source": "naukri",
-    "company": "MBS Hatcheries",
-    "location": "Coimbatore",
-    "queued_at": "2026-09-29T14:15:19.347704+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290926501293",
-    "title": "C# Developer",
-    "url": "https://www.naukri.com/job-listings-c-developer-synergylabs-gurugram-0-to-2-years-290926501293",
-    "source": "naukri",
-    "company": "Synergylabs",
-    "location": "Gurugram",
-    "queued_at": "2026-09-29T14:15:19.347704+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290926917186",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-applied-materials-india-private-limited-bengaluru-0-to-5-years-290926917186",
-    "source": "naukri",
-    "company": "Applied Materials",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-29T14:15:19.347704+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "290926020952",
@@ -342,7 +182,8 @@
     "company": "Windhives",
     "location": "Remote",
     "queued_at": "2026-09-29T14:15:19.347704+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "290926022776",
@@ -352,7 +193,8 @@
     "company": "Kazam Ev Tech",
     "location": "Kolkata, Kanpur, Alwar",
     "queued_at": "2026-09-29T14:15:19.347704+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "290926020058",
@@ -362,16 +204,7 @@
     "company": "Vitromed Healthcare",
     "location": "Jaipur",
     "queued_at": "2026-09-29T14:15:19.347704+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290926500128",
-    "title": "Design Verification Engr",
-    "url": "https://www.naukri.com/job-listings-design-verification-engr-texas-instruments-india-ltd-bengaluru-1-to-6-years-290926500128",
-    "source": "naukri",
-    "company": "Texas Instruments",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-29T14:15:19.347704+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
