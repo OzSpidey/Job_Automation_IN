@@ -153,69 +153,6 @@
     "status": "queued"
   },
   {
-    "job_id": "290926020952",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-windhives-kochi-0-to-4-years-290926020952",
-    "source": "naukri",
-    "company": "Windhives",
-    "location": "Remote",
-    "queued_at": "2026-09-29T08:15:13.956830+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "290926022776",
-    "title": "City Engineer",
-    "url": "https://www.naukri.com/job-listings-city-engineer-kazam-ev-tech-kolkata-kanpur-alwar-1-to-3-years-290926022776",
-    "source": "naukri",
-    "company": "Kazam Ev Tech",
-    "location": "Kolkata, Kanpur, Alwar",
-    "queued_at": "2026-09-29T08:15:13.956830+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "290926020058",
-    "title": "IPQC Engineer",
-    "url": "https://www.naukri.com/job-listings-ipqc-engineer-vitromed-healthcare-jaipur-1-to-5-years-290926020058",
-    "source": "naukri",
-    "company": "Vitromed Healthcare",
-    "location": "Jaipur",
-    "queued_at": "2026-09-29T08:15:13.956830+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "290926028131",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-ample-softech-system-nagpur-pune-mumbai-all-areas-0-to-4-years-290926028131",
-    "source": "naukri",
-    "company": "Ample Softech System",
-    "location": "Nagpur, Pune, Mumbai (All Areas)",
-    "queued_at": "2026-09-29T12:15:31.520097+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290926500128",
-    "title": "Design Verification Engr",
-    "url": "https://www.naukri.com/job-listings-design-verification-engr-texas-instruments-india-ltd-bengaluru-1-to-6-years-290926500128",
-    "source": "naukri",
-    "company": "Texas Instruments",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-29T12:15:31.520097+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "290926917186",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-applied-materials-india-private-limited-bengaluru-0-to-5-years-290926917186",
-    "source": "naukri",
-    "company": "Applied Materials",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-29T12:15:31.520097+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "290926014859",
     "title": "Full stack Developer - Kurla",
     "url": "https://www.naukri.com/job-listings-full-stack-developer-kurla-agile-ai-tech-pvt-ltd-mumbai-suburban-mumbai-all-areas-1-to-2-years-290926014859",
@@ -223,7 +160,8 @@
     "company": "Agile AI Tech PVT LTD",
     "location": "Mumbai Suburban, Mumbai (All Areas)(Kurla East)",
     "queued_at": "2026-09-29T12:15:31.520097+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "290926015452",
@@ -233,6 +171,7 @@
     "company": "Tutorcloud AI Pvt Ltd",
     "location": "Bengaluru",
     "queued_at": "2026-09-29T12:15:31.520097+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
