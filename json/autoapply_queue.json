@@ -1,5 +1,60 @@
 [
   {
+    "job_id": "290926014859",
+    "title": "Full stack Developer - Kurla",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-kurla-agile-ai-tech-pvt-ltd-mumbai-suburban-mumbai-all-areas-1-to-2-years-290926014859",
+    "source": "naukri",
+    "company": "Agile AI Tech PVT LTD",
+    "location": "Mumbai Suburban, Mumbai (All Areas)(Kurla East)",
+    "queued_at": "2026-09-29T06:15:04.741643+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "290926015452",
+    "title": "Python Software Developer",
+    "url": "https://www.naukri.com/job-listings-python-software-developer-tutorcloud-ai-pvt-ltd-bengaluru-1-to-5-years-290926015452",
+    "source": "naukri",
+    "company": "Tutorcloud AI Pvt Ltd",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-29T06:15:04.741643+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "290926020952",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-windhives-kochi-0-to-4-years-290926020952",
+    "source": "naukri",
+    "company": "Windhives",
+    "location": "Remote",
+    "queued_at": "2026-09-29T08:15:13.956830+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "290926022776",
+    "title": "City Engineer",
+    "url": "https://www.naukri.com/job-listings-city-engineer-kazam-ev-tech-kolkata-kanpur-alwar-1-to-3-years-290926022776",
+    "source": "naukri",
+    "company": "Kazam Ev Tech",
+    "location": "Kolkata, Kanpur, Alwar",
+    "queued_at": "2026-09-29T08:15:13.956830+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "290926020058",
+    "title": "IPQC Engineer",
+    "url": "https://www.naukri.com/job-listings-ipqc-engineer-vitromed-healthcare-jaipur-1-to-5-years-290926020058",
+    "source": "naukri",
+    "company": "Vitromed Healthcare",
+    "location": "Jaipur",
+    "queued_at": "2026-09-29T08:15:13.956830+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -151,60 +206,5 @@
     "level": "Early",
     "queued_at": "2026-09-23T22:01:25.656259+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "290926014859",
-    "title": "Full stack Developer - Kurla",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-kurla-agile-ai-tech-pvt-ltd-mumbai-suburban-mumbai-all-areas-1-to-2-years-290926014859",
-    "source": "naukri",
-    "company": "Agile AI Tech PVT LTD",
-    "location": "Mumbai Suburban, Mumbai (All Areas)(Kurla East)",
-    "queued_at": "2026-09-29T06:15:04.741643+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "290926015452",
-    "title": "Python Software Developer",
-    "url": "https://www.naukri.com/job-listings-python-software-developer-tutorcloud-ai-pvt-ltd-bengaluru-1-to-5-years-290926015452",
-    "source": "naukri",
-    "company": "Tutorcloud AI Pvt Ltd",
-    "location": "Bengaluru",
-    "queued_at": "2026-09-29T06:15:04.741643+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "290926020952",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-windhives-kochi-0-to-4-years-290926020952",
-    "source": "naukri",
-    "company": "Windhives",
-    "location": "Remote",
-    "queued_at": "2026-09-29T08:15:13.956830+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "290926022776",
-    "title": "City Engineer",
-    "url": "https://www.naukri.com/job-listings-city-engineer-kazam-ev-tech-kolkata-kanpur-alwar-1-to-3-years-290926022776",
-    "source": "naukri",
-    "company": "Kazam Ev Tech",
-    "location": "Kolkata, Kanpur, Alwar",
-    "queued_at": "2026-09-29T08:15:13.956830+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "290926020058",
-    "title": "IPQC Engineer",
-    "url": "https://www.naukri.com/job-listings-ipqc-engineer-vitromed-healthcare-jaipur-1-to-5-years-290926020058",
-    "source": "naukri",
-    "company": "Vitromed Healthcare",
-    "location": "Jaipur",
-    "queued_at": "2026-09-29T08:15:13.956830+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
