@@ -1,5 +1,27 @@
 [
   {
+    "job_id": "300926026412",
+    "title": "External Geometry Developer",
+    "url": "https://www.naukri.com/job-listings-external-geometry-developer-michelin-pune-0-to-5-years-300926026412",
+    "source": "naukri",
+    "company": "Michelin",
+    "location": "Hybrid - Pune",
+    "queued_at": "2026-09-30T12:15:09.922786+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "290926022776",
+    "title": "City Engineer",
+    "url": "https://www.naukri.com/job-listings-city-engineer-kazam-ev-tech-kolkata-kanpur-alwar-1-to-3-years-290926022776",
+    "source": "naukri",
+    "company": "Kazam Ev Tech",
+    "location": "Kolkata, Kanpur, Alwar",
+    "queued_at": "2026-09-30T14:16:02.497200+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -160,27 +182,5 @@
     "level": "Early",
     "queued_at": "2026-09-29T16:01:18.815352+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "300926026412",
-    "title": "External Geometry Developer",
-    "url": "https://www.naukri.com/job-listings-external-geometry-developer-michelin-pune-0-to-5-years-300926026412",
-    "source": "naukri",
-    "company": "Michelin",
-    "location": "Hybrid - Pune",
-    "queued_at": "2026-09-30T12:15:09.922786+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "290926022776",
-    "title": "City Engineer",
-    "url": "https://www.naukri.com/job-listings-city-engineer-kazam-ev-tech-kolkata-kanpur-alwar-1-to-3-years-290926022776",
-    "source": "naukri",
-    "company": "Kazam Ev Tech",
-    "location": "Kolkata, Kanpur, Alwar",
-    "queued_at": "2026-09-30T14:16:02.497200+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
