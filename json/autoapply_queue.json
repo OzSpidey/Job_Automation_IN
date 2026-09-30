@@ -170,7 +170,7 @@
     "location": "Hybrid - Pune",
     "queued_at": "2026-09-30T06:15:38.726568+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "300926009784",
@@ -180,7 +180,8 @@
     "company": "Essex Lake Group",
     "location": "Delhi / NCR",
     "queued_at": "2026-09-30T08:15:13.040901+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "300926008437",
@@ -190,7 +191,8 @@
     "company": "eClerx",
     "location": "Pune",
     "queued_at": "2026-09-30T08:15:13.040901+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "290926022776",
@@ -200,7 +202,8 @@
     "company": "Kazam Ev Tech",
     "location": "Kolkata, Kanpur, Alwar",
     "queued_at": "2026-09-30T08:15:13.040901+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "300926000902",
@@ -210,6 +213,7 @@
     "company": "eClerx",
     "location": "Chandigarh",
     "queued_at": "2026-09-30T08:15:13.040901+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
