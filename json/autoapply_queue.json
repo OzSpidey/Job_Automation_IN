@@ -169,7 +169,8 @@
     "company": "eClerx",
     "location": "Chandigarh",
     "queued_at": "2026-09-30T02:15:19.872228+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "290926022776",
@@ -179,6 +180,7 @@
     "company": "Kazam Ev Tech",
     "location": "Kolkata, Kanpur, Alwar",
     "queued_at": "2026-09-30T02:15:19.872228+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
