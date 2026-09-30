@@ -171,5 +171,45 @@
     "queued_at": "2026-09-30T06:15:38.726568+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "300926009784",
+    "title": "ADG Analyst",
+    "url": "https://www.naukri.com/job-listings-adg-analyst-essex-lake-group-delhi-ncr-1-to-2-years-300926009784",
+    "source": "naukri",
+    "company": "Essex Lake Group",
+    "location": "Delhi / NCR",
+    "queued_at": "2026-09-30T08:15:13.040901+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926008437",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-pune-0-to-2-years-300926008437",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-09-30T08:15:13.040901+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290926022776",
+    "title": "City Engineer",
+    "url": "https://www.naukri.com/job-listings-city-engineer-kazam-ev-tech-kolkata-kanpur-alwar-1-to-3-years-290926022776",
+    "source": "naukri",
+    "company": "Kazam Ev Tech",
+    "location": "Kolkata, Kanpur, Alwar",
+    "queued_at": "2026-09-30T08:15:13.040901+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926000902",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-300926000902",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-09-30T08:15:13.040901+00:00",
+    "status": "queued"
   }
 ]
