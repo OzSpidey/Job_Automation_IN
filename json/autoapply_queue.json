@@ -182,5 +182,25 @@
     "queued_at": "2026-09-30T02:15:19.872228+00:00",
     "status": "queued",
     "attempts": 2
+  },
+  {
+    "job_id": "300926006146",
+    "title": "External Geometry Developer",
+    "url": "https://www.naukri.com/job-listings-external-geometry-developer-michelin-pune-1-to-5-years-300926006146",
+    "source": "naukri",
+    "company": "Michelin",
+    "location": "Hybrid - Pune",
+    "queued_at": "2026-09-30T06:15:38.726568+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926002579",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-300926002579",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-09-30T06:15:38.726568+00:00",
+    "status": "queued"
   }
 ]
