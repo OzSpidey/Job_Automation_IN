@@ -215,5 +215,245 @@
     "level": "Early",
     "queued_at": "2026-09-29T16:01:18.815352+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "300926501348",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-majesco-software-and-solutions-india-pvt-ltd-mumbai-industrial-0-to-2-years-300926501348",
+    "source": "naukri",
+    "company": "Majesco",
+    "location": "Mumbai, Industrial",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926502568",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-1-to-2-years-300926502568",
+    "source": "naukri",
+    "company": "Cisco",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926017918",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-ibrowsejobs-technologies-bengaluru-0-to-5-years-300926017918",
+    "source": "naukri",
+    "company": "Ibrowsejobs Technologies",
+    "location": "Remote",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926500747",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-citadel-securities-gurugram-0-to-3-years-300926500747",
+    "source": "naukri",
+    "company": "Citadel Securities",
+    "location": "Gurugram",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926500748",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-citadel-securities-gurugram-0-to-3-years-300926500748",
+    "source": "naukri",
+    "company": "Citadel Securities",
+    "location": "Gurugram",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926500749",
+    "title": "C++ Software Engineer",
+    "url": "https://www.naukri.com/job-listings-c-software-engineer-citadel-securities-gurugram-1-to-6-years-300926500749",
+    "source": "naukri",
+    "company": "Citadel Securities",
+    "location": "Gurugram",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926500356",
+    "title": "C++ WITH IMS Professional",
+    "url": "https://www.naukri.com/job-listings-c-with-ims-professional-psr-tek-bengaluru-1-to-5-years-300926500356",
+    "source": "naukri",
+    "company": "PSRTEK",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926500003",
+    "title": "C++ developer",
+    "url": "https://www.naukri.com/job-listings-c-developer-psr-tek-chennai-1-to-4-years-300926500003",
+    "source": "naukri",
+    "company": "PSRTEK",
+    "location": "Chennai",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926501293",
+    "title": "External Geometry Developer",
+    "url": "https://www.naukri.com/job-listings-external-geometry-developer-michelin-pune-0-to-5-years-300926501293",
+    "source": "naukri",
+    "company": "Michelin",
+    "location": "Pune",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926501562",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-tejas-networks-bengaluru-1-to-3-years-300926501562",
+    "source": "naukri",
+    "company": "Saankhya Labs",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926501377",
+    "title": "ESD Engineer",
+    "url": "https://www.naukri.com/job-listings-esd-engineer-texas-instruments-india-ltd-hyderabad-bengaluru-1-to-6-years-300926501377",
+    "source": "naukri",
+    "company": "Texas Instruments",
+    "location": "Hyderabad, Bengaluru",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926501318",
+    "title": "ENGINEER",
+    "url": "https://www.naukri.com/job-listings-engineer-samvardhana-motherson-international-ltd-pune-1-to-9-years-300926501318",
+    "source": "naukri",
+    "company": "Motherson",
+    "location": "Pune",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926500788",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-dream-tekis-software-pvt-ltd-bengaluru-1-to-5-years-300926500788",
+    "source": "naukri",
+    "company": "Dream Tekis Software",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926500478",
+    "title": "MLOps Engineer",
+    "url": "https://www.naukri.com/job-listings-mlops-engineer-quantanxt-technologies-bengaluru-1-to-3-years-300926500478",
+    "source": "naukri",
+    "company": "Quantanxt Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926502487",
+    "title": "FSA Analyst",
+    "url": "https://www.naukri.com/job-listings-fsa-analyst-grassroots-solutions-services-pvt-ltd-bengaluru-0-to-2-years-300926502487",
+    "source": "naukri",
+    "company": "Grassroots BPO",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926501102",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-chennai-1-to-5-years-300926501102",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Chennai",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926500964",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-barclays-shared-services-chennai-0-to-8-years-300926500964",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Chennai",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926500746",
+    "title": "Systematic Trader",
+    "url": "https://www.naukri.com/job-listings-systematic-trader-citadel-securities-gurugram-1-to-5-years-300926500746",
+    "source": "naukri",
+    "company": "Citadel Securities",
+    "location": "Gurugram",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926500257",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-upkar-developers-mumbai-0-to-3-years-300926500257",
+    "source": "naukri",
+    "company": "Upkar Developers",
+    "location": "Mumbai",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926500101",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-bengaluru-1-to-5-years-300926500101",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926022330",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-mohali-0-to-2-years-300926022330",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mohali",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926022329",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-300926022329",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926022328",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-300926022328",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300926017784",
+    "title": "Knitting & Yarn Developer",
+    "url": "https://www.naukri.com/job-listings-knitting-yarn-developer-indra-dhar-consultancy-gurugram-1-to-3-years-300926017784",
+    "source": "naukri",
+    "company": "Indra Dhar Consultancy",
+    "location": "Gurugram(Sector 23A)",
+    "queued_at": "2026-09-30T10:15:02.464163+00:00",
+    "status": "queued"
   }
 ]
