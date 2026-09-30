@@ -162,17 +162,6 @@
     "status": "queued"
   },
   {
-    "job_id": "300926035945",
-    "title": "Walk-in || Claude Code Java Developer",
-    "url": "https://www.naukri.com/job-listings-claude-code-java-developer-pristine-it-code-thane-nashik-mumbai-all-areas-0-to-3-years-300926035945",
-    "source": "naukri",
-    "company": "Pristine It Code",
-    "location": "",
-    "queued_at": "2026-09-30T16:15:06.499747+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "300926036009",
     "title": "Software Developer",
     "url": "https://www.naukri.com/job-listings-software-developer-nirvikalp-ai-systems-jaipur-0-to-2-years-300926036009",
@@ -181,7 +170,7 @@
     "location": "Jaipur(Vidhyadhar Nagar)",
     "queued_at": "2026-09-30T18:15:34.712910+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "300926026412",
@@ -192,16 +181,6 @@
     "location": "Hybrid - Pune",
     "queued_at": "2026-09-30T18:15:34.712910+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "011026000089",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-jobaaj-com-hyderabad-pune-bengaluru-0-to-2-years-011026000089",
-    "source": "naukri",
-    "company": "Jobaaj com",
-    "location": "Hybrid - Hyderabad, Pune, Bengaluru",
-    "queued_at": "2026-09-30T20:15:17.058770+00:00",
-    "status": "queued"
+    "attempts": 2
   }
 ]
