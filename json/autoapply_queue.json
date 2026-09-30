@@ -160,5 +160,25 @@
     "level": "Early",
     "queued_at": "2026-09-29T16:01:18.815352+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "300926000902",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-chandigarh-0-to-2-years-300926000902",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-09-30T02:15:19.872228+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "290926022776",
+    "title": "City Engineer",
+    "url": "https://www.naukri.com/job-listings-city-engineer-kazam-ev-tech-kolkata-kanpur-alwar-1-to-3-years-290926022776",
+    "source": "naukri",
+    "company": "Kazam Ev Tech",
+    "location": "Kolkata, Kanpur, Alwar",
+    "queued_at": "2026-09-30T02:15:19.872228+00:00",
+    "status": "queued"
   }
 ]
