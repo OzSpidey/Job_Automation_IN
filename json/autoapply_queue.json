@@ -171,5 +171,175 @@
     "queued_at": "2026-10-01T10:15:26.379772+00:00",
     "status": "queued",
     "attempts": 2
+  },
+  {
+    "job_id": "011026504418",
+    "title": "Software Developement Engineer III (JAVA+Rust)",
+    "url": "https://www.naukri.com/job-listings-software-developement-engineer-iii-java-rust-upstox-bengaluru-0-to-5-years-011026504418",
+    "source": "naukri",
+    "company": "Upstox",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-01T14:15:19.643521+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "050526006845",
+    "title": "Software Developer (In Python)",
+    "url": "https://www.naukri.com/job-listings-software-developer-in-python-drishti-works-private-limited-mumbai-0-to-1-years-050526006845",
+    "source": "naukri",
+    "company": "Drishti Works Private Limited",
+    "location": "Mumbai(Mumbai Central)",
+    "queued_at": "2026-10-01T14:15:19.643521+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "011026034859",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-wipro-limited-bengaluru-0-to-5-years-011026034859",
+    "source": "naukri",
+    "company": "Wipro",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-01T14:15:19.643521+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "011026504277",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-yeko-enterprises-krishnagiri-1-to-5-years-011026504277",
+    "source": "naukri",
+    "company": "Yeko Enterprises",
+    "location": "Krishnagiri",
+    "queued_at": "2026-10-01T14:15:19.643521+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "011026927488",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-optum-global-solutions-india-private-limited-hyderabad-0-to-5-years-011026927488",
+    "source": "naukri",
+    "company": "Optum",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-01T14:15:19.643521+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "011026501087",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-comviva-technologies-limited-gurugram-0-to-4-years-011026501087",
+    "source": "naukri",
+    "company": "Comviva Technology",
+    "location": "Gurugram",
+    "queued_at": "2026-10-01T14:15:19.643521+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "011026500975",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-achnet-inc-noida-0-to-3-years-011026500975",
+    "source": "naukri",
+    "company": "Achnet",
+    "location": "Noida",
+    "queued_at": "2026-10-01T14:15:19.643521+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "011026927364",
+    "title": "Custom Software Engineer",
+    "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-1-to-6-years-011026927364",
+    "source": "naukri",
+    "company": "Accenture",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-01T14:15:19.643521+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "011026503462",
+    "title": "Software Developer Freshers",
+    "url": "https://www.naukri.com/job-listings-software-developer-freshers-training-basket-noida-0-to-1-years-011026503462",
+    "source": "naukri",
+    "company": "Training Basket",
+    "location": "Noida",
+    "queued_at": "2026-10-01T14:15:19.643521+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "011026502367",
+    "title": "SDE (Voice AI) Engineer",
+    "url": "https://www.naukri.com/job-listings-sde-voice-ai-engineer-2care-ai-bengaluru-1-to-3-years-011026502367",
+    "source": "naukri",
+    "company": "2care.ai",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-01T14:15:19.643521+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "011026500876",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-comviva-technologies-limited-bengaluru-1-to-3-years-011026500876",
+    "source": "naukri",
+    "company": "Comviva Technology",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-01T14:15:19.643521+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "011026502885",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-comviva-technologies-limited-bangarapet-1-to-3-years-011026502885",
+    "source": "naukri",
+    "company": "Comviva Technology",
+    "location": "Bangarapet",
+    "queued_at": "2026-10-01T14:15:19.643521+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "011026500827",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-social-donut-mumbai-1-to-6-years-011026500827",
+    "source": "naukri",
+    "company": "Social Donut",
+    "location": "Mumbai",
+    "queued_at": "2026-10-01T14:15:19.643521+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "011026501385",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-zensar-technologies-bengaluru-1-to-4-years-011026501385",
+    "source": "naukri",
+    "company": "Zensar",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-01T14:15:19.643521+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "011026501408",
+    "title": "C++ Developer",
+    "url": "https://www.naukri.com/job-listings-c-developer-webtech-developers-pvt-ltd-pune-0-to-2-years-011026501408",
+    "source": "naukri",
+    "company": "Webtech Developers",
+    "location": "Pune",
+    "queued_at": "2026-10-01T14:15:19.643521+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "011026501770",
+    "title": "Data Engineer",
+    "url": "https://www.naukri.com/job-listings-data-engineer-nk-securities-research-gurugram-1-to-3-years-011026501770",
+    "source": "naukri",
+    "company": "NK Securities Research",
+    "location": "Gurugram",
+    "queued_at": "2026-10-01T14:15:19.643521+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "011026502570",
+    "title": "Firmware Engineer",
+    "url": "https://www.naukri.com/job-listings-firmware-engineer-acevin-solutions-mumbai-1-to-6-years-011026502570",
+    "source": "naukri",
+    "company": "Acevin Solutions",
+    "location": "Mumbai",
+    "queued_at": "2026-10-01T14:15:19.643521+00:00",
+    "status": "queued"
   }
 ]
