@@ -160,5 +160,25 @@
     "level": "Early",
     "queued_at": "2026-09-29T16:01:18.815352+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "011026021850",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-neerinfo-mumbai-0-to-6-years-011026021850",
+    "source": "naukri",
+    "company": "Neerinfo",
+    "location": "Mumbai",
+    "queued_at": "2026-10-01T10:15:26.379772+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "011026012196",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-ibrowsejobs-technologies-bengaluru-0-to-5-years-011026012196",
+    "source": "naukri",
+    "company": "Ibrowsejobs Technologies",
+    "location": "Remote",
+    "queued_at": "2026-10-01T10:15:26.379772+00:00",
+    "status": "queued"
   }
 ]
