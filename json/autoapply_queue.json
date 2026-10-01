@@ -162,28 +162,6 @@
     "status": "queued"
   },
   {
-    "job_id": "050526006845",
-    "title": "Software Developer (In Python)",
-    "url": "https://www.naukri.com/job-listings-software-developer-in-python-drishti-works-private-limited-mumbai-0-to-1-years-050526006845",
-    "source": "naukri",
-    "company": "Drishti Works Private Limited",
-    "location": "Mumbai(Mumbai Central)",
-    "queued_at": "2026-10-01T14:15:19.643521+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "011026034859",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-wipro-limited-bengaluru-0-to-5-years-011026034859",
-    "source": "naukri",
-    "company": "Wipro",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-01T14:15:19.643521+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "011026021850",
     "title": "Java Developer",
     "url": "https://www.naukri.com/job-listings-java-developer-neerinfo-mumbai-0-to-6-years-011026021850",
@@ -192,6 +170,6 @@
     "location": "Mumbai",
     "queued_at": "2026-10-01T16:18:38.383146+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
