@@ -169,16 +169,7 @@
     "company": "Neerinfo",
     "location": "Mumbai",
     "queued_at": "2026-10-01T10:15:26.379772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "011026012196",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-ibrowsejobs-technologies-bengaluru-0-to-5-years-011026012196",
-    "source": "naukri",
-    "company": "Ibrowsejobs Technologies",
-    "location": "Remote",
-    "queued_at": "2026-10-01T10:15:26.379772+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
