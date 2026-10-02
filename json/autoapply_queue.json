@@ -1,5 +1,27 @@
 [
   {
+    "job_id": "021026011973",
+    "title": "C++ Developer / Embedded C++ Developer",
+    "url": "https://www.naukri.com/job-listings-c-developer-embedded-c-developer-libre-wireless-technologies-bengaluru-1-to-4-years-021026011973",
+    "source": "naukri",
+    "company": "Libre Wireless Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-02T12:15:15.989084+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "061024001785",
+    "title": "Firmware Engineer - LoRaWAN/NB-IoT/WIFI",
+    "url": "https://www.naukri.com/job-listings-firmware-engineer-lorawan-nb-iot-wifi-mettsenia-solutions-bengaluru-0-to-3-years-061024001785",
+    "source": "naukri",
+    "company": "Mettsenia Solutions",
+    "location": "Bengaluru(Jayanagar +3)",
+    "queued_at": "2026-10-02T14:15:19.636939+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -160,27 +182,5 @@
     "level": "Early",
     "queued_at": "2026-09-29T16:01:18.815352+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "021026011973",
-    "title": "C++ Developer / Embedded C++ Developer",
-    "url": "https://www.naukri.com/job-listings-c-developer-embedded-c-developer-libre-wireless-technologies-bengaluru-1-to-4-years-021026011973",
-    "source": "naukri",
-    "company": "Libre Wireless Technologies",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-02T12:15:15.989084+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "061024001785",
-    "title": "Firmware Engineer - LoRaWAN/NB-IoT/WIFI",
-    "url": "https://www.naukri.com/job-listings-firmware-engineer-lorawan-nb-iot-wifi-mettsenia-solutions-bengaluru-0-to-3-years-061024001785",
-    "source": "naukri",
-    "company": "Mettsenia Solutions",
-    "location": "Bengaluru(Jayanagar +3)",
-    "queued_at": "2026-10-02T14:15:19.636939+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
