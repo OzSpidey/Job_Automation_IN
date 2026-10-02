@@ -160,5 +160,15 @@
     "level": "Early",
     "queued_at": "2026-09-29T16:01:18.815352+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "021026011973",
+    "title": "C++ Developer / Embedded C++ Developer",
+    "url": "https://www.naukri.com/job-listings-c-developer-embedded-c-developer-libre-wireless-technologies-bengaluru-1-to-4-years-021026011973",
+    "source": "naukri",
+    "company": "Libre Wireless Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-02T12:15:15.989084+00:00",
+    "status": "queued"
   }
 ]
