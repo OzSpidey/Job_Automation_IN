@@ -170,7 +170,7 @@
     "location": "Bengaluru",
     "queued_at": "2026-10-02T12:15:15.989084+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "061024001785",
@@ -180,6 +180,7 @@
     "company": "Mettsenia Solutions",
     "location": "Bengaluru(Jayanagar +3)",
     "queued_at": "2026-10-02T14:15:19.636939+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
