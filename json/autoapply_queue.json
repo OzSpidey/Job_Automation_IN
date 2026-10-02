@@ -169,6 +169,7 @@
     "company": "Libre Wireless Technologies",
     "location": "Bengaluru",
     "queued_at": "2026-10-02T12:15:15.989084+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
