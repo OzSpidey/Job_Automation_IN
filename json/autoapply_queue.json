@@ -160,16 +160,5 @@
     "level": "Early",
     "queued_at": "2026-09-29T16:01:18.815352+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "061024001785",
-    "title": "Firmware Engineer - LoRaWAN/NB-IoT/WIFI",
-    "url": "https://www.naukri.com/job-listings-firmware-engineer-lorawan-nb-iot-wifi-mettsenia-solutions-bengaluru-0-to-3-years-061024001785",
-    "source": "naukri",
-    "company": "Mettsenia Solutions",
-    "location": "Bengaluru(Jayanagar +3)",
-    "queued_at": "2026-10-02T14:15:19.636939+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
