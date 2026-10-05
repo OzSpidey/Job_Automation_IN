@@ -7336,5 +7336,27 @@
     "queued_at": "2026-10-05T12:15:15.966907+00:00",
     "status": "applied",
     "applied_at": "2026-10-05T12:17:55.111669+00:00"
+  },
+  {
+    "job_id": "051026035865",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-konnect-consultants-kota-kota-0-to-5-years-051026035865",
+    "source": "naukri",
+    "company": "Konnect Consultancy",
+    "location": "Kota",
+    "queued_at": "2026-10-05T14:15:11.407552+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-05T14:16:45.857625+00:00"
+  },
+  {
+    "job_id": "051026037002",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-hackajob-hyderabad-chennai-bengaluru-1-to-6-years-051026037002",
+    "source": "naukri",
+    "company": "Hackajob",
+    "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-10-05T14:15:11.407552+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-05T14:17:00.721998+00:00"
   }
 ]
