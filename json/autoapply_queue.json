@@ -1,38 +1,5 @@
 [
   {
-    "job_id": "300926008437",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-2-years-300926008437",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-10-05T08:15:09.886802+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "051026011463",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-2-years-051026011463",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-10-05T08:15:09.886802+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "051026011461",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-2-years-051026011461",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-10-05T08:15:09.886802+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -195,44 +162,37 @@
     "status": "queued"
   },
   {
-    "job_id": "051026500297",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-think-monk-malda-1-to-4-years-051026500297",
+    "job_id": "300926008437",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-2-years-300926008437",
     "source": "naukri",
-    "company": "Think Monk Edutech",
-    "location": "Malda",
-    "queued_at": "2026-10-05T10:15:20.342107+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051026500296",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-think-monk-mumbai-suburban-1-to-4-years-051026500296",
-    "source": "naukri",
-    "company": "Think Monk Edutech",
-    "location": "Mumbai Suburban",
-    "queued_at": "2026-10-05T10:15:20.342107+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051026500235",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-ion-trading-noida-1-to-5-years-051026500235",
-    "source": "naukri",
-    "company": "ION",
-    "location": "Noida",
-    "queued_at": "2026-10-05T10:15:20.342107+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051026500234",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-ion-trading-pune-1-to-5-years-051026500234",
-    "source": "naukri",
-    "company": "ION",
+    "company": "eClerx",
     "location": "Pune",
-    "queued_at": "2026-10-05T10:15:20.342107+00:00",
-    "status": "queued"
+    "queued_at": "2026-10-05T08:15:09.886802+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "051026011463",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-2-years-051026011463",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-10-05T08:15:09.886802+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "051026011461",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-2-years-051026011461",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-10-05T08:15:09.886802+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
     "job_id": "051026001240",
@@ -242,6 +202,7 @@
     "company": "Vastu Housing Finance",
     "location": "Mumbai(Sewri)",
     "queued_at": "2026-10-05T10:15:20.342107+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
