@@ -162,39 +162,6 @@
     "status": "queued"
   },
   {
-    "job_id": "300926008437",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-2-years-300926008437",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-10-05T08:15:09.886802+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "051026011463",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-2-years-051026011463",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-10-05T08:15:09.886802+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "051026011461",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-2-years-051026011461",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-10-05T08:15:09.886802+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "051026001240",
     "title": "Developer/Construction Finance-Executive",
     "url": "https://www.naukri.com/job-listings-developer-construction-finance-executive-vastu-housing-finance-mumbai-0-to-4-years-051026001240",
@@ -203,67 +170,7 @@
     "location": "Mumbai(Sewri)",
     "queued_at": "2026-10-05T10:15:20.342107+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "051026025881",
-    "title": "Urgent requirements For Software Developer - Fresher",
-    "url": "https://www.naukri.com/job-listings-urgent-requirements-for-software-developer-fresher-z-tech-solutions-chennai-0-to-1-years-051026025881",
-    "source": "naukri",
-    "company": "Z Tech Solutions",
-    "location": "Chennai",
-    "queued_at": "2026-10-05T12:15:15.966907+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051026501001",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-information-evolution-inc-coimbatore-0-to-5-years-051026501001",
-    "source": "naukri",
-    "company": "Information Evolution",
-    "location": "Coimbatore",
-    "queued_at": "2026-10-05T12:15:15.966907+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051026500923",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-apxor-hyderabad-1-to-3-years-051026500923",
-    "source": "naukri",
-    "company": "Apxor",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-05T12:15:15.966907+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051026500749",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-transaction-analysts-bengaluru-1-to-2-years-051026500749",
-    "source": "naukri",
-    "company": "Transaction Analysts",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-05T12:15:15.966907+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051026501004",
-    "title": "Quant Researchers/Traders",
-    "url": "https://www.naukri.com/job-listings-quant-researchers-traders-thinkbot-research-bengaluru-0-to-5-years-051026501004",
-    "source": "naukri",
-    "company": "Thinkbot Research",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-05T12:15:15.966907+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051026500921",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-apxor-hyderabad-1-to-4-years-051026500921",
-    "source": "naukri",
-    "company": "Apxor",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-05T12:15:15.966907+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "051026022085",
@@ -273,46 +180,7 @@
     "company": "SmartStream",
     "location": "Hybrid - Mumbai, Bengaluru",
     "queued_at": "2026-10-05T12:15:15.966907+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051026500297",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-think-monk-malda-1-to-4-years-051026500297",
-    "source": "naukri",
-    "company": "Think Monk Edutech",
-    "location": "Malda",
-    "queued_at": "2026-10-05T12:15:15.966907+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051026500296",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-think-monk-mumbai-suburban-1-to-4-years-051026500296",
-    "source": "naukri",
-    "company": "Think Monk Edutech",
-    "location": "Mumbai Suburban",
-    "queued_at": "2026-10-05T12:15:15.966907+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051026500235",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-ion-trading-noida-1-to-5-years-051026500235",
-    "source": "naukri",
-    "company": "ION",
-    "location": "Noida",
-    "queued_at": "2026-10-05T12:15:15.966907+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051026500234",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-ion-trading-pune-1-to-5-years-051026500234",
-    "source": "naukri",
-    "company": "ION",
-    "location": "Pune",
-    "queued_at": "2026-10-05T12:15:15.966907+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
