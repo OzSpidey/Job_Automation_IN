@@ -193,5 +193,55 @@
     "level": "Early",
     "queued_at": "2026-09-29T16:01:18.815352+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "051026500297",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-think-monk-malda-1-to-4-years-051026500297",
+    "source": "naukri",
+    "company": "Think Monk Edutech",
+    "location": "Malda",
+    "queued_at": "2026-10-05T10:15:20.342107+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "051026500296",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-think-monk-mumbai-suburban-1-to-4-years-051026500296",
+    "source": "naukri",
+    "company": "Think Monk Edutech",
+    "location": "Mumbai Suburban",
+    "queued_at": "2026-10-05T10:15:20.342107+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "051026500235",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-ion-trading-noida-1-to-5-years-051026500235",
+    "source": "naukri",
+    "company": "ION",
+    "location": "Noida",
+    "queued_at": "2026-10-05T10:15:20.342107+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "051026500234",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-ion-trading-pune-1-to-5-years-051026500234",
+    "source": "naukri",
+    "company": "ION",
+    "location": "Pune",
+    "queued_at": "2026-10-05T10:15:20.342107+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "051026001240",
+    "title": "Developer/Construction Finance-Executive",
+    "url": "https://www.naukri.com/job-listings-developer-construction-finance-executive-vastu-housing-finance-mumbai-0-to-4-years-051026001240",
+    "source": "naukri",
+    "company": "Vastu Housing Finance",
+    "location": "Mumbai(Sewri)",
+    "queued_at": "2026-10-05T10:15:20.342107+00:00",
+    "status": "queued"
   }
 ]
