@@ -160,16 +160,5 @@
     "level": "Early",
     "queued_at": "2026-09-29T16:01:18.815352+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "051026022085",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-smartstream-mumbai-bengaluru-1-to-5-years-051026022085",
-    "source": "naukri",
-    "company": "SmartStream",
-    "location": "Hybrid - Mumbai, Bengaluru",
-    "queued_at": "2026-10-05T18:15:23.084307+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
