@@ -182,5 +182,65 @@
     "level": "Early",
     "queued_at": "2026-09-29T16:01:18.815352+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "061026916622",
+    "title": "Genesys Engineer",
+    "url": "https://www.naukri.com/job-listings-genesys-engineer-infosys-limited-bengaluru-1-to-2-years-061026916622",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-06T10:15:38.685749+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061026013821",
+    "title": "Servo Engineer",
+    "url": "https://www.naukri.com/job-listings-servo-engineer-talent-corner-hr-services-pune-1-to-3-years-061026013821",
+    "source": "naukri",
+    "company": "Swiftin Agencies LLP",
+    "location": "Pune",
+    "queued_at": "2026-10-06T10:15:38.685749+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061026916714",
+    "title": "GenAI Developer",
+    "url": "https://www.naukri.com/job-listings-genai-developer-infosys-limited-bengaluru-1-to-2-years-061026916714",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-06T10:15:38.685749+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061026500795",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-kolkata-1-to-5-years-061026500795",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Kolkata",
+    "queued_at": "2026-10-06T10:15:38.685749+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061026013794",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-exl-service-gurugram-0-to-1-years-061026013794",
+    "source": "naukri",
+    "company": "EXL",
+    "location": "Gurugram",
+    "queued_at": "2026-10-06T10:15:38.685749+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061026013621",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-exl-service-gurugram-1-to-3-years-061026013621",
+    "source": "naukri",
+    "company": "EXL",
+    "location": "Gurugram",
+    "queued_at": "2026-10-06T10:15:38.685749+00:00",
+    "status": "queued"
   }
 ]
