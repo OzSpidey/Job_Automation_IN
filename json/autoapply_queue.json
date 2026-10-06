@@ -171,5 +171,25 @@
     "queued_at": "2026-10-06T06:15:15.312955+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "061026912333",
+    "title": "Fresher - Java ,C,C++",
+    "url": "https://www.naukri.com/job-listings-fresher-java-c-c-interface-infosys-chennai-bengaluru-0-to-1-years-061026912333",
+    "source": "naukri",
+    "company": "Interface Infosys",
+    "location": "Chennai, Bengaluru",
+    "queued_at": "2026-10-06T08:15:15.014241+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061026007149",
+    "title": "Walk-in || Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-ngl-fine-chem-tarapur-boisar-0-to-7-years-061026007149",
+    "source": "naukri",
+    "company": "NGL Fine Chem",
+    "location": "",
+    "queued_at": "2026-10-06T08:15:15.014241+00:00",
+    "status": "queued"
   }
 ]
