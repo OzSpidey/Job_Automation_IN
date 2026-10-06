@@ -1,27 +1,5 @@
 [
   {
-    "job_id": "061026006633",
-    "title": "Walk-in || Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-ngl-fine-chem-tarapur-boisar-0-to-7-years-061026006633",
-    "source": "naukri",
-    "company": "NGL Fine Chem",
-    "location": "",
-    "queued_at": "2026-10-06T06:15:15.312955+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "061026007149",
-    "title": "Walk-in || Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-ngl-fine-chem-tarapur-boisar-0-to-7-years-061026007149",
-    "source": "naukri",
-    "company": "NGL Fine Chem",
-    "location": "",
-    "queued_at": "2026-10-06T08:15:15.014241+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -184,6 +162,17 @@
     "status": "queued"
   },
   {
+    "job_id": "061026007149",
+    "title": "Walk-in || Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-ngl-fine-chem-tarapur-boisar-0-to-7-years-061026007149",
+    "source": "naukri",
+    "company": "NGL Fine Chem",
+    "location": "",
+    "queued_at": "2026-10-06T08:15:15.014241+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
     "job_id": "061026916622",
     "title": "Genesys Engineer",
     "url": "https://www.naukri.com/job-listings-genesys-engineer-infosys-limited-bengaluru-1-to-2-years-061026916622",
@@ -191,7 +180,8 @@
     "company": "Infosys",
     "location": "Bengaluru",
     "queued_at": "2026-10-06T10:15:38.685749+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "061026013821",
@@ -201,7 +191,8 @@
     "company": "Swiftin Agencies LLP",
     "location": "Pune",
     "queued_at": "2026-10-06T10:15:38.685749+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "061026916714",
@@ -211,36 +202,7 @@
     "company": "Infosys",
     "location": "Bengaluru",
     "queued_at": "2026-10-06T10:15:38.685749+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026500795",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-kolkata-1-to-5-years-061026500795",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Kolkata",
-    "queued_at": "2026-10-06T10:15:38.685749+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026013794",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-exl-service-gurugram-0-to-1-years-061026013794",
-    "source": "naukri",
-    "company": "EXL",
-    "location": "Gurugram",
-    "queued_at": "2026-10-06T10:15:38.685749+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026013621",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-exl-service-gurugram-1-to-3-years-061026013621",
-    "source": "naukri",
-    "company": "EXL",
-    "location": "Gurugram",
-    "queued_at": "2026-10-06T10:15:38.685749+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
