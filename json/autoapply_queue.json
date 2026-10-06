@@ -1,5 +1,115 @@
 [
   {
+    "job_id": "260826029725",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mohali-0-to-2-years-260826029725",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mohali",
+    "queued_at": "2026-10-06T18:15:23.123221+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "241225026211",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-navi-mumbai-0-to-2-years-241225026211",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-10-06T18:15:23.123221+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "241225026210",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-navi-mumbai-0-to-2-years-241225026210",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-10-06T18:15:23.123221+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "241225026203",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-navi-mumbai-0-to-2-years-241225026203",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-10-06T18:15:23.123221+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "230726035061",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-2-years-230726035061",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-10-06T18:15:23.123221+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "200126041832",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-2-years-200126041832",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-10-06T18:15:23.123221+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "061026916622",
+    "title": "Genesys Engineer",
+    "url": "https://www.naukri.com/job-listings-genesys-engineer-infosys-limited-bengaluru-1-to-2-years-061026916622",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-06T18:15:23.123221+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "061026006633",
+    "title": "Walk-in || Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-ngl-fine-chem-tarapur-boisar-0-to-7-years-061026006633",
+    "source": "naukri",
+    "company": "NGL Fine Chem",
+    "location": "",
+    "queued_at": "2026-10-06T18:15:23.123221+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "061026916714",
+    "title": "GenAI Developer",
+    "url": "https://www.naukri.com/job-listings-genai-developer-infosys-limited-bengaluru-1-to-2-years-061026916714",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-06T18:15:23.123221+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "071026000099",
+    "title": "Tablet Technician/Engineer",
+    "url": "https://www.naukri.com/job-listings-tablet-technician-engineer-communications-test-design-india-ltd-bengaluru-1-to-5-years-071026000099",
+    "source": "naukri",
+    "company": "Communications Test Design India Ltd",
+    "location": "Bengaluru(4th Block Jayanagar)",
+    "queued_at": "2026-10-06T20:15:17.779408+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -160,115 +270,5 @@
     "level": "Early",
     "queued_at": "2026-09-29T16:01:18.815352+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "260826029725",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mohali-0-to-2-years-260826029725",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Mohali",
-    "queued_at": "2026-10-06T18:15:23.123221+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "241225026211",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-navi-mumbai-0-to-2-years-241225026211",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-10-06T18:15:23.123221+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "241225026210",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-navi-mumbai-0-to-2-years-241225026210",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-10-06T18:15:23.123221+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "241225026203",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-navi-mumbai-0-to-2-years-241225026203",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-10-06T18:15:23.123221+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "230726035061",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-2-years-230726035061",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-10-06T18:15:23.123221+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "200126041832",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-2-years-200126041832",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-10-06T18:15:23.123221+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "061026916622",
-    "title": "Genesys Engineer",
-    "url": "https://www.naukri.com/job-listings-genesys-engineer-infosys-limited-bengaluru-1-to-2-years-061026916622",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-06T18:15:23.123221+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "061026006633",
-    "title": "Walk-in || Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-ngl-fine-chem-tarapur-boisar-0-to-7-years-061026006633",
-    "source": "naukri",
-    "company": "NGL Fine Chem",
-    "location": "",
-    "queued_at": "2026-10-06T18:15:23.123221+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "061026916714",
-    "title": "GenAI Developer",
-    "url": "https://www.naukri.com/job-listings-genai-developer-infosys-limited-bengaluru-1-to-2-years-061026916714",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-06T18:15:23.123221+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "071026000099",
-    "title": "Tablet Technician/Engineer",
-    "url": "https://www.naukri.com/job-listings-tablet-technician-engineer-communications-test-design-india-ltd-bengaluru-1-to-5-years-071026000099",
-    "source": "naukri",
-    "company": "Communications Test Design India Ltd",
-    "location": "Bengaluru(4th Block Jayanagar)",
-    "queued_at": "2026-10-06T20:15:17.779408+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
