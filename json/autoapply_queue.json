@@ -162,39 +162,6 @@
     "status": "queued"
   },
   {
-    "job_id": "061026916622",
-    "title": "Genesys Engineer",
-    "url": "https://www.naukri.com/job-listings-genesys-engineer-infosys-limited-bengaluru-1-to-2-years-061026916622",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-06T10:15:38.685749+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "061026013821",
-    "title": "Servo Engineer",
-    "url": "https://www.naukri.com/job-listings-servo-engineer-talent-corner-hr-services-pune-1-to-3-years-061026013821",
-    "source": "naukri",
-    "company": "Swiftin Agencies LLP",
-    "location": "Pune",
-    "queued_at": "2026-10-06T10:15:38.685749+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "061026916714",
-    "title": "GenAI Developer",
-    "url": "https://www.naukri.com/job-listings-genai-developer-infosys-limited-bengaluru-1-to-2-years-061026916714",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-06T10:15:38.685749+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "061026019882",
     "title": "Analyst - LCNC",
     "url": "https://www.naukri.com/job-listings-analyst-lcnc-marico-mumbai-1-to-6-years-061026019882",
@@ -203,7 +170,7 @@
     "location": "Mumbai",
     "queued_at": "2026-10-06T12:15:19.658950+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "061026006633",
@@ -214,57 +181,7 @@
     "location": "",
     "queued_at": "2026-10-06T12:15:19.658950+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "061026505491",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-1-to-2-years-061026505491",
-    "source": "naukri",
-    "company": "Cisco",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026505286",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-1-to-2-years-061026505286",
-    "source": "naukri",
-    "company": "Cisco",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026505590",
-    "title": "Aircraft Maintenance Engineering (AME) Professional",
-    "url": "https://www.naukri.com/job-listings-aircraft-maintenance-engineering-ame-professional-silver-oak-education-ahmedabad-1-to-3-years-061026505590",
-    "source": "naukri",
-    "company": "Silver Oak Education",
-    "location": "Ahmedabad",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026505304",
-    "title": "P1 Analyst - FP&A",
-    "url": "https://www.naukri.com/job-listings-p1-analyst-fp-a-payu-india-mumbai-1-to-2-years-061026505304",
-    "source": "naukri",
-    "company": "PayU",
-    "location": "Mumbai",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026504926",
-    "title": "Outsourcing Analyst",
-    "url": "https://www.naukri.com/job-listings-outsourcing-analyst-northern-operating-services-private-limited-pune-bengaluru-0-to-3-years-061026504926",
-    "source": "naukri",
-    "company": "Northern Trust",
-    "location": "Pune, Bengaluru",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "061026027617",
@@ -274,227 +191,8 @@
     "company": "eClerx",
     "location": "Pune",
     "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026925079",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-ford-motor-private-limited-chennai-1-to-6-years-061026925079",
-    "source": "naukri",
-    "company": "Ford Business Solutions",
-    "location": "Chennai",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026501592",
-    "title": "Backend - Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-beehyv-software-solutions-pvt-ltd-hyderabad-1-to-5-years-061026501592",
-    "source": "naukri",
-    "company": "Beehyv",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026503237",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-nucsoft-pvt-ltd-mumbai-1-to-3-years-061026503237",
-    "source": "naukri",
-    "company": "Nucsoft Limited",
-    "location": "Mumbai",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026502977",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-barclays-shared-services-pune-1-to-5-years-061026502977",
-    "source": "naukri",
-    "company": "Barclays",
-    "location": "Pune",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026503540",
-    "title": "Full Stack Developer (AWS) - Telematics & Vision AI",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-aws-telematics-vision-ai-starkenn-technologies-pune-0-to-2-years-061026503540",
-    "source": "naukri",
-    "company": "Starkenn Technologies",
-    "location": "Pune",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026503539",
-    "title": "Full Stack Developer (AWS)",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-aws-starkenn-technologies-pune-0-to-2-years-061026503539",
-    "source": "naukri",
-    "company": "Starkenn Technologies",
-    "location": "Pune",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026503517",
-    "title": "Java Developer -CITI",
-    "url": "https://www.naukri.com/job-listings-java-developer-citi-envision-technology-solutions-tech-think-infotech-gurugram-1-to-4-years-061026503517",
-    "source": "naukri",
-    "company": "Envision Technology Solutions",
-    "location": "Gurugram",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026503646",
-    "title": "C++ Developer",
-    "url": "https://www.naukri.com/job-listings-c-developer-envision-technology-solutions-tech-think-infotech-hubballi-mangaluru-mysuru-bengaluru-belagavi-1-to-3-years-061026503646",
-    "source": "naukri",
-    "company": "Envision Technology Solutions",
-    "location": "Hubballi, Mangaluru, Mysuru, Bengaluru, Belagavi",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026504457",
-    "title": "Payloads Engineer",
-    "url": "https://www.naukri.com/job-listings-payloads-engineer-tunga-aerospace-industries-chengalpattu-0-to-3-years-061026504457",
-    "source": "naukri",
-    "company": "Tunga Aerospace Industries",
-    "location": "Chengalpattu",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026504020",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-minda-industries-ltd-bawal-1-to-9-years-061026504020",
-    "source": "naukri",
-    "company": "UNO MINDA",
-    "location": "Bawal",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026503407",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-target-bengaluru-1-to-6-years-061026503407",
-    "source": "naukri",
-    "company": "Target",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026502019",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-valmet-chennai-1-to-6-years-061026502019",
-    "source": "naukri",
-    "company": "Valmet",
-    "location": "Chennai",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026504513",
-    "title": "Ethernet AVB Developer",
-    "url": "https://www.naukri.com/job-listings-ethernet-avb-developer-visteon-automotive-india-private-limited-chennai-bengaluru-1-to-5-years-061026504513",
-    "source": "naukri",
-    "company": "Visteon",
-    "location": "Chennai, Bengaluru",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026504380",
-    "title": "Unreal Developer",
-    "url": "https://www.naukri.com/job-listings-unreal-developer-abhiwan-technology-pvt-ltd-noida-0-to-3-years-061026504380",
-    "source": "naukri",
-    "company": "Abhiwan Technology",
-    "location": "Noida",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026503614",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-envision-technology-solutions-tech-think-infotech-mumbai-nagpur-thane-nashik-pune-chhatrapati-sambhajinagar-1-to-3-years-061026503614",
-    "source": "naukri",
-    "company": "Envision Technology Solutions",
-    "location": "Mumbai, Nagpur, Thane, Nashik, Pune, Chhatrapati Sambhajinagar",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026502244",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-061026502244",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026502221",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-061026502221",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026501711",
-    "title": "Proctoring STP Analyst",
-    "url": "https://www.naukri.com/job-listings-proctoring-stp-analyst-enfuse-solutions-pvt-ltd-mumbai-1-to-6-years-061026501711",
-    "source": "naukri",
-    "company": "Enfuse Solutions",
-    "location": "Mumbai",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026501367",
-    "title": "Analyst , VCC Ops",
-    "url": "https://www.naukri.com/job-listings-analyst-vcc-ops-kristal-advisors-sg-pte-ltd-bengaluru-1-to-2-years-061026501367",
-    "source": "naukri",
-    "company": "Kristal.AI",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026500795",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-kolkata-1-to-5-years-061026500795",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Kolkata",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026501665",
-    "title": "Sr Engineer - Cloud and Datacenter",
-    "url": "https://www.naukri.com/job-listings-sr-engineer-cloud-and-datacenter-microland-limited-bengaluru-1-to-2-years-061026501665",
-    "source": "naukri",
-    "company": "Microland",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061026502511",
-    "title": "Verification Engineer, PCIE",
-    "url": "https://www.naukri.com/job-listings-verification-engineer-pcie-nvidia-bengaluru-1-to-6-years-061026502511",
-    "source": "naukri",
-    "company": "Nvidia",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "061026007149",
@@ -504,6 +202,7 @@
     "company": "NGL Fine Chem",
     "location": "",
     "queued_at": "2026-10-06T14:15:27.417772+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
