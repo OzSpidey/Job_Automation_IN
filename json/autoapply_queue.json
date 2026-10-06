@@ -259,5 +259,15 @@
     "queued_at": "2026-10-06T18:15:23.123221+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "071026000099",
+    "title": "Tablet Technician/Engineer",
+    "url": "https://www.naukri.com/job-listings-tablet-technician-engineer-communications-test-design-india-ltd-bengaluru-1-to-5-years-071026000099",
+    "source": "naukri",
+    "company": "Communications Test Design India Ltd",
+    "location": "Bengaluru(4th Block Jayanagar)",
+    "queued_at": "2026-10-06T20:15:17.779408+00:00",
+    "status": "queued"
   }
 ]
