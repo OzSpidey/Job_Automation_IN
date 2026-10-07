@@ -193,5 +193,165 @@
     "level": "Early",
     "queued_at": "2026-09-29T16:01:18.815352+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "071026026544",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-insync-analytics-mumbai-all-areas-1-to-3-years-071026026544",
+    "source": "naukri",
+    "company": "Insync Analytics",
+    "location": "Mumbai (All Areas)",
+    "queued_at": "2026-10-07T10:15:18.148982+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "071026924830",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-starclinch-new-delhi-okhla-industrial-estate-1-to-3-years-071026924830",
+    "source": "naukri",
+    "company": "Starclinch",
+    "location": "New Delhi, Okhla Industrial Estate",
+    "queued_at": "2026-10-07T10:15:18.148982+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "071026924783",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-starclinch-new-delhi-1-to-3-years-071026924783",
+    "source": "naukri",
+    "company": "Starclinch",
+    "location": "New Delhi",
+    "queued_at": "2026-10-07T10:15:18.148982+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "071026028553",
+    "title": "Sales Engineer Fresher",
+    "url": "https://www.naukri.com/job-listings-sales-engineer-fresher-gmmco-gandhidham-rajkot-surat-0-to-1-years-071026028553",
+    "source": "naukri",
+    "company": "Gmmco",
+    "location": "Gandhidham, Rajkot, Surat",
+    "queued_at": "2026-10-07T10:15:18.148982+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "071026028365",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-rotex-anand-0-to-5-years-071026028365",
+    "source": "naukri",
+    "company": "Rotex",
+    "location": "Anand",
+    "queued_at": "2026-10-07T10:15:18.148982+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "071026028247",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-suyash-composite-industries-pvt-ltd-thane-0-to-5-years-071026028247",
+    "source": "naukri",
+    "company": "Suyash Composite Industries Pvt Ltd",
+    "location": "Thane",
+    "queued_at": "2026-10-07T10:15:18.148982+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "071026028509",
+    "title": "Sales Engineer Fresher",
+    "url": "https://www.naukri.com/job-listings-sales-engineer-fresher-gmmco-mumbai-nashik-pune-0-to-1-years-071026028509",
+    "source": "naukri",
+    "company": "Gmmco",
+    "location": "Mumbai, Nashik, Pune",
+    "queued_at": "2026-10-07T10:15:18.148982+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "071026023159",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-deloitte-shared-services-india-delhi-ncr-1-to-5-years-071026023159",
+    "source": "naukri",
+    "company": "Deloitte Shared Services India",
+    "location": "Delhi / NCR",
+    "queued_at": "2026-10-07T10:15:18.148982+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "071026000099",
+    "title": "Tablet Technician/Engineer",
+    "url": "https://www.naukri.com/job-listings-tablet-technician-engineer-communications-test-design-india-ltd-bengaluru-1-to-5-years-071026000099",
+    "source": "naukri",
+    "company": "Communications Test Design India Ltd",
+    "location": "Bengaluru(4th Block Jayanagar)",
+    "queued_at": "2026-10-07T10:15:18.148982+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310826026495",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-2-years-310826026495",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-10-07T10:15:18.148982+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310826025519",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-2-years-310826025519",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-10-07T10:15:18.148982+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310826025518",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-2-years-310826025518",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-10-07T10:15:18.148982+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "310326023167",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-navi-mumbai-0-to-2-years-310326023167",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-10-07T10:15:18.148982+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300526011350",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-2-years-300526011350",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-10-07T10:15:18.148982+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280826009508",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mohali-0-to-2-years-280826009508",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mohali",
+    "queued_at": "2026-10-07T10:15:18.148982+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "260226020020",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-2-years-260226020020",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-10-07T10:15:18.148982+00:00",
+    "status": "queued"
   }
 ]
