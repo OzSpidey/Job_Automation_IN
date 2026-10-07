@@ -162,94 +162,6 @@
     "status": "queued"
   },
   {
-    "job_id": "310826026495",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-2-years-310826026495",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-10-07T04:15:22.961110+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "310826025519",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-2-years-310826025519",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-10-07T04:15:22.961110+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "310826025518",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-2-years-310826025518",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-10-07T04:15:22.961110+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "300526011350",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-2-years-300526011350",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-10-07T04:15:22.961110+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "280826009508",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mohali-0-to-2-years-280826009508",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Mohali",
-    "queued_at": "2026-10-07T04:15:22.961110+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "260226020020",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-2-years-260226020020",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-10-07T04:15:22.961110+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "071026000099",
-    "title": "Tablet Technician/Engineer",
-    "url": "https://www.naukri.com/job-listings-tablet-technician-engineer-communications-test-design-india-ltd-bengaluru-1-to-5-years-071026000099",
-    "source": "naukri",
-    "company": "Communications Test Design India Ltd",
-    "location": "Bengaluru(4th Block Jayanagar)",
-    "queued_at": "2026-10-07T04:15:22.961110+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "310326023167",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-navi-mumbai-0-to-2-years-310326023167",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-10-07T04:15:22.961110+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "071026017511",
     "title": "O2C Analyst",
     "url": "https://www.naukri.com/job-listings-o2c-analyst-a-s-r-business-advisors-gurugram-1-to-2-years-071026017511",
@@ -258,7 +170,7 @@
     "location": "Gurugram",
     "queued_at": "2026-10-07T06:15:07.830580+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "061026006633",
@@ -269,7 +181,7 @@
     "location": "",
     "queued_at": "2026-10-07T06:15:07.830580+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "300726034441",
@@ -280,6 +192,6 @@
     "location": "Navi Mumbai",
     "queued_at": "2026-10-07T06:15:07.830580+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
