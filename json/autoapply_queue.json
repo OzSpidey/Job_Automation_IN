@@ -170,7 +170,7 @@
     "location": "Chandigarh",
     "queued_at": "2026-10-07T04:15:22.961110+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "310826025519",
@@ -181,7 +181,7 @@
     "location": "Chandigarh",
     "queued_at": "2026-10-07T04:15:22.961110+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "310826025518",
@@ -192,7 +192,7 @@
     "location": "Pune",
     "queued_at": "2026-10-07T04:15:22.961110+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "300526011350",
@@ -203,7 +203,7 @@
     "location": "Pune",
     "queued_at": "2026-10-07T04:15:22.961110+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "280826009508",
@@ -214,7 +214,7 @@
     "location": "Mohali",
     "queued_at": "2026-10-07T04:15:22.961110+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "260226020020",
@@ -225,7 +225,7 @@
     "location": "Pune",
     "queued_at": "2026-10-07T04:15:22.961110+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "071026000099",
@@ -236,7 +236,7 @@
     "location": "Bengaluru(4th Block Jayanagar)",
     "queued_at": "2026-10-07T04:15:22.961110+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "310326023167",
@@ -247,17 +247,7 @@
     "location": "Navi Mumbai",
     "queued_at": "2026-10-07T04:15:22.961110+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "071026016811",
-    "title": "Derivatives Trader",
-    "url": "https://www.naukri.com/job-listings-derivatives-trader-mansukh-securities-and-finance-kolkata-patna-ahmedabad-mumbai-all-areas-0-to-2-years-071026016811",
-    "source": "naukri",
-    "company": "Mansukh Securities And Finance",
-    "location": "Kolkata, Patna, Ahmedabad, Mumbai (All Areas)",
-    "queued_at": "2026-10-07T06:15:07.830580+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "071026017511",
@@ -267,7 +257,8 @@
     "company": "Client",
     "location": "Gurugram",
     "queued_at": "2026-10-07T06:15:07.830580+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "061026006633",
@@ -277,7 +268,8 @@
     "company": "NGL Fine Chem",
     "location": "",
     "queued_at": "2026-10-07T06:15:07.830580+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "300726034441",
@@ -287,6 +279,7 @@
     "company": "eClerx",
     "location": "Navi Mumbai",
     "queued_at": "2026-10-07T06:15:07.830580+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
