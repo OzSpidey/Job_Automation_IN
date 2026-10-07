@@ -182,5 +182,25 @@
     "queued_at": "2026-10-06T22:15:06.002846+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "061026006633",
+    "title": "Walk-in || Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-ngl-fine-chem-tarapur-boisar-0-to-7-years-061026006633",
+    "source": "naukri",
+    "company": "NGL Fine Chem",
+    "location": "",
+    "queued_at": "2026-10-07T00:15:15.483729+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300726034441",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-navi-mumbai-0-to-2-years-300726034441",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-10-07T00:15:15.483729+00:00",
+    "status": "queued"
   }
 ]
