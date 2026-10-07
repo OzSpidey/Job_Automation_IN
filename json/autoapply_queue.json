@@ -1,27 +1,5 @@
 [
   {
-    "job_id": "061026006633",
-    "title": "Walk-in || Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-ngl-fine-chem-tarapur-boisar-0-to-7-years-061026006633",
-    "source": "naukri",
-    "company": "NGL Fine Chem",
-    "location": "",
-    "queued_at": "2026-10-07T00:15:15.483729+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "300726034441",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-navi-mumbai-0-to-2-years-300726034441",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-10-07T00:15:15.483729+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -191,7 +169,8 @@
     "company": "eClerx",
     "location": "Chandigarh",
     "queued_at": "2026-10-07T04:15:22.961110+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "310826025519",
@@ -201,7 +180,8 @@
     "company": "eClerx",
     "location": "Chandigarh",
     "queued_at": "2026-10-07T04:15:22.961110+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "310826025518",
@@ -211,7 +191,8 @@
     "company": "eClerx",
     "location": "Pune",
     "queued_at": "2026-10-07T04:15:22.961110+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "300526011350",
@@ -221,7 +202,8 @@
     "company": "eClerx",
     "location": "Pune",
     "queued_at": "2026-10-07T04:15:22.961110+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "280826009508",
@@ -231,7 +213,8 @@
     "company": "eClerx",
     "location": "Mohali",
     "queued_at": "2026-10-07T04:15:22.961110+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "260226020020",
@@ -241,7 +224,8 @@
     "company": "eClerx",
     "location": "Pune",
     "queued_at": "2026-10-07T04:15:22.961110+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "071026000099",
@@ -251,7 +235,8 @@
     "company": "Communications Test Design India Ltd",
     "location": "Bengaluru(4th Block Jayanagar)",
     "queued_at": "2026-10-07T04:15:22.961110+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "310326023167",
@@ -261,6 +246,7 @@
     "company": "eClerx",
     "location": "Navi Mumbai",
     "queued_at": "2026-10-07T04:15:22.961110+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
