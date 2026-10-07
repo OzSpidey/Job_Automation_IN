@@ -170,7 +170,7 @@
     "location": "Mumbai (All Areas)",
     "queued_at": "2026-10-07T10:15:18.148982+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "071026028553",
@@ -181,7 +181,7 @@
     "location": "Gandhidham, Rajkot, Surat",
     "queued_at": "2026-10-07T10:15:18.148982+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "071026028247",
@@ -192,7 +192,7 @@
     "location": "Thane",
     "queued_at": "2026-10-07T10:15:18.148982+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "071026023159",
@@ -203,7 +203,7 @@
     "location": "Delhi / NCR",
     "queued_at": "2026-10-07T10:15:18.148982+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "071026000099",
@@ -214,7 +214,7 @@
     "location": "Bengaluru(4th Block Jayanagar)",
     "queued_at": "2026-10-07T10:15:18.148982+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "310826026495",
@@ -225,7 +225,7 @@
     "location": "Chandigarh",
     "queued_at": "2026-10-07T10:15:18.148982+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "310826025519",
@@ -236,7 +236,7 @@
     "location": "Chandigarh",
     "queued_at": "2026-10-07T10:15:18.148982+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "310826025518",
@@ -247,7 +247,7 @@
     "location": "Pune",
     "queued_at": "2026-10-07T10:15:18.148982+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "310326023167",
@@ -258,7 +258,7 @@
     "location": "Navi Mumbai",
     "queued_at": "2026-10-07T10:15:18.148982+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "300526011350",
@@ -269,7 +269,7 @@
     "location": "Pune",
     "queued_at": "2026-10-07T10:15:18.148982+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "280826009508",
@@ -280,7 +280,7 @@
     "location": "Mohali",
     "queued_at": "2026-10-07T10:15:18.148982+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "260226020020",
@@ -291,147 +291,7 @@
     "location": "Pune",
     "queued_at": "2026-10-07T10:15:18.148982+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "071026503806",
-    "title": "Site Reliability Engineer (II)",
-    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-ii-ncr-voyix-chennai-0-to-2-years-071026503806",
-    "source": "naukri",
-    "company": "NCR Voyix",
-    "location": "Chennai",
-    "queued_at": "2026-10-07T12:15:06.352244+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "071026502059",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-india-websoft-a-complete-it-solutions-indore-1-to-2-years-071026502059",
-    "source": "naukri",
-    "company": "India Websoft - A Complete It Solutions",
-    "location": "Indore",
-    "queued_at": "2026-10-07T12:15:06.352244+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "071026502144",
-    "title": "MLM / Full-Stack Developer",
-    "url": "https://www.naukri.com/job-listings-mlm-full-stack-developer-cromtek-solutions-pvt-ltd-panipat-1-to-4-years-071026502144",
-    "source": "naukri",
-    "company": "Cromtek Solutions",
-    "location": "Panipat",
-    "queued_at": "2026-10-07T12:15:06.352244+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "071026500899",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-exotica-it-solutions-mohali-0-to-1-years-071026500899",
-    "source": "naukri",
-    "company": "Exotica It Solutions",
-    "location": "Mohali",
-    "queued_at": "2026-10-07T12:15:06.352244+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "071026502971",
-    "title": "Professional, Engineering Services",
-    "url": "https://www.naukri.com/job-listings-professional-engineering-services-jones-lang-lasalle-mumbai-1-to-3-years-071026502971",
-    "source": "naukri",
-    "company": "Jones Lang LaSalle (JLL)",
-    "location": "Mumbai",
-    "queued_at": "2026-10-07T12:15:06.352244+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "071026502953",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-iflowtech-solutions-private-limited-bengaluru-1-to-4-years-071026502953",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-07T12:15:06.352244+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "071026502903",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-expert-web-designing-ahmedabad-1-to-6-years-071026502903",
-    "source": "naukri",
-    "company": "Expert Web Designing",
-    "location": "Ahmedabad",
-    "queued_at": "2026-10-07T12:15:06.352244+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "071026502028",
-    "title": "Engineer/Specialist",
-    "url": "https://www.naukri.com/job-listings-engineer-specialist-aumovio-gurugram-1-to-4-years-071026502028",
-    "source": "naukri",
-    "company": "Aumovio",
-    "location": "Gurugram",
-    "queued_at": "2026-10-07T12:15:06.352244+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "071026500984",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-iflowtech-solutions-private-limited-bengaluru-1-to-4-years-071026500984",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-07T12:15:06.352244+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "071026043309",
-    "title": "Bench Engineer",
-    "url": "https://www.naukri.com/job-listings-bench-engineer-roots-group-of-companies-bhubaneswar-1-to-3-years-071026043309",
-    "source": "naukri",
-    "company": "Roots Group of Companies",
-    "location": "Bhubaneswar",
-    "queued_at": "2026-10-07T12:15:06.352244+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "071026502485",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-hyderabad-1-to-5-years-071026502485",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-07T12:15:06.352244+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "071026500502",
-    "title": "Outsourcing Analyst",
-    "url": "https://www.naukri.com/job-listings-outsourcing-analyst-northern-operating-services-private-limited-bengaluru-0-to-3-years-071026500502",
-    "source": "naukri",
-    "company": "Northern Trust",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-07T12:15:06.352244+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "071026500021",
-    "title": "Ethernet AVB Developer",
-    "url": "https://www.naukri.com/job-listings-ethernet-avb-developer-visteon-automotive-india-private-limited-bengaluru-1-to-5-years-071026500021",
-    "source": "naukri",
-    "company": "Visteon",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-07T12:15:06.352244+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "071026503373",
-    "title": "IP Design Verification Engineer - XBAR IP",
-    "url": "https://www.naukri.com/job-listings-ip-design-verification-engineer-xbar-ip-nvidia-bengaluru-1-to-6-years-071026503373",
-    "source": "naukri",
-    "company": "Nvidia",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-07T12:15:06.352244+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "300726034441",
@@ -441,6 +301,7 @@
     "company": "eClerx",
     "location": "Navi Mumbai",
     "queued_at": "2026-10-07T12:15:06.352244+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
