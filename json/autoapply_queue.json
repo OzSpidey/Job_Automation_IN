@@ -1,5 +1,71 @@
 [
   {
+    "job_id": "081026033003",
+    "title": "Python Software Developer",
+    "url": "https://www.naukri.com/job-listings-python-software-developer-findlaw-bengaluru-1-to-2-years-081026033003",
+    "source": "naukri",
+    "company": "FindLaw",
+    "location": "Hybrid - Bengaluru(Whitefield)",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "081026033671",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-tata-consultancy-services-kolkata-1-to-6-years-081026033671",
+    "source": "naukri",
+    "company": "Tata Consultancy Services",
+    "location": "Kolkata",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "081026029162",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-everest-business-advisory-india-gurugram-bengaluru-1-to-2-years-081026029162",
+    "source": "naukri",
+    "company": "Everest Business Advisory India",
+    "location": "Gurugram, Bengaluru",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "281221000347",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-thoughts2binary-gurugram-0-to-3-years-281221000347",
+    "source": "naukri",
+    "company": "Thoughts2Binary",
+    "location": "Gurugram",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "081026020442",
+    "title": "Vibe Coder- AI Assisted Full-Stack Developer",
+    "url": "https://www.naukri.com/job-listings-vibe-coder-ai-assisted-full-stack-developer-codeacious-noida-1-to-3-years-081026020442",
+    "source": "naukri",
+    "company": "Codeacious",
+    "location": "Noida(Sector 142)",
+    "queued_at": "2026-10-08T14:23:49.378324+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "081026019892",
+    "title": "Walk-in || Python Software Developer",
+    "url": "https://www.naukri.com/job-listings-python-software-developer-uniq-technologies-bengaluru-bengaluru-0-to-5-years-081026019892",
+    "source": "naukri",
+    "company": "UNIQ Technologies - Bengaluru",
+    "location": "",
+    "queued_at": "2026-10-08T14:23:49.378324+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -178,71 +244,5 @@
     "level": "Early",
     "queued_at": "2026-10-07T16:01:24.989242+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "081026033003",
-    "title": "Python Software Developer",
-    "url": "https://www.naukri.com/job-listings-python-software-developer-findlaw-bengaluru-1-to-2-years-081026033003",
-    "source": "naukri",
-    "company": "FindLaw",
-    "location": "Hybrid - Bengaluru(Whitefield)",
-    "queued_at": "2026-10-08T12:19:19.685750+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "081026033671",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-tata-consultancy-services-kolkata-1-to-6-years-081026033671",
-    "source": "naukri",
-    "company": "Tata Consultancy Services",
-    "location": "Kolkata",
-    "queued_at": "2026-10-08T12:19:19.685750+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "081026029162",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-everest-business-advisory-india-gurugram-bengaluru-1-to-2-years-081026029162",
-    "source": "naukri",
-    "company": "Everest Business Advisory India",
-    "location": "Gurugram, Bengaluru",
-    "queued_at": "2026-10-08T12:19:19.685750+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "281221000347",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-thoughts2binary-gurugram-0-to-3-years-281221000347",
-    "source": "naukri",
-    "company": "Thoughts2Binary",
-    "location": "Gurugram",
-    "queued_at": "2026-10-08T12:19:19.685750+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "081026020442",
-    "title": "Vibe Coder- AI Assisted Full-Stack Developer",
-    "url": "https://www.naukri.com/job-listings-vibe-coder-ai-assisted-full-stack-developer-codeacious-noida-1-to-3-years-081026020442",
-    "source": "naukri",
-    "company": "Codeacious",
-    "location": "Noida(Sector 142)",
-    "queued_at": "2026-10-08T14:23:49.378324+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "081026019892",
-    "title": "Walk-in || Python Software Developer",
-    "url": "https://www.naukri.com/job-listings-python-software-developer-uniq-technologies-bengaluru-bengaluru-0-to-5-years-081026019892",
-    "source": "naukri",
-    "company": "UNIQ Technologies - Bengaluru",
-    "location": "",
-    "queued_at": "2026-10-08T14:23:49.378324+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
