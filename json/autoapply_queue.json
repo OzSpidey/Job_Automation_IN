@@ -211,5 +211,25 @@
     "level": "Early",
     "queued_at": "2026-10-07T16:01:24.989242+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "081026923959",
+    "title": "Full stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-aicharge-labs-chennai-0-to-3-years-081026923959",
+    "source": "naukri",
+    "company": "Aicharge Labs",
+    "location": "Chennai",
+    "queued_at": "2026-10-08T10:15:12.558286+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "241225026188",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-navi-mumbai-0-to-2-years-241225026188",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-10-08T10:15:12.558286+00:00",
+    "status": "queued"
   }
 ]
