@@ -178,16 +178,5 @@
     "level": "Early",
     "queued_at": "2026-10-07T16:01:24.989242+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "241225026188",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-navi-mumbai-0-to-2-years-241225026188",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-10-08T16:15:27.202290+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
