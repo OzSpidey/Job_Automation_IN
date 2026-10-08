@@ -7600,5 +7600,27 @@
     "queued_at": "2026-10-08T02:15:12.621371+00:00",
     "status": "applied",
     "applied_at": "2026-10-08T02:16:10.867725+00:00"
+  },
+  {
+    "job_id": "081026013227",
+    "title": "Walk-in || Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-inspirisys-chennai-0-to-2-years-081026013227",
+    "source": "naukri",
+    "company": "Inspirisys",
+    "location": "",
+    "queued_at": "2026-10-08T06:15:51.438895+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-08T06:16:52.920717+00:00"
+  },
+  {
+    "job_id": "081026011355",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-081026011355",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-10-08T06:15:51.438895+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-08T06:17:14.722858+00:00"
   }
 ]
