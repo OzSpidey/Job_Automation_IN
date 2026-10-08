@@ -7699,5 +7699,38 @@
     "queued_at": "2026-10-08T10:15:12.558286+00:00",
     "status": "applied",
     "applied_at": "2026-10-08T10:16:37.369997+00:00"
+  },
+  {
+    "job_id": "081026049541",
+    "title": "PLC Engineers - Freshers",
+    "url": "https://www.naukri.com/job-listings-plc-engineers-freshers-cema-automations-chennai-0-to-1-years-081026049541",
+    "source": "naukri",
+    "company": "Cema Automations",
+    "location": "Chennai(Perungudi)",
+    "queued_at": "2026-10-08T14:23:49.378324+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-08T14:28:26.964222+00:00"
+  },
+  {
+    "job_id": "081026934418",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-starclinch-new-delhi-okhla-phase-ii-1-to-3-years-081026934418",
+    "source": "naukri",
+    "company": "Starclinch",
+    "location": "New Delhi, Okhla Phase II",
+    "queued_at": "2026-10-08T14:23:49.378324+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-08T14:28:59.925807+00:00"
+  },
+  {
+    "job_id": "081026933588",
+    "title": "ETF Market Trader",
+    "url": "https://www.naukri.com/job-listings-081026933588",
+    "source": "naukri",
+    "company": "Intellectual Capital HR Consulting",
+    "location": "Gurugram",
+    "queued_at": "2026-10-08T14:23:49.378324+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-08T14:29:42.151731+00:00"
   }
 ]
