@@ -211,5 +211,175 @@
     "queued_at": "2026-10-08T10:15:12.558286+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "081026507828",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-mobileware-technologies-private-limited-mumbai-0-to-4-years-081026507828",
+    "source": "naukri",
+    "company": "Mobileware Technologies",
+    "location": "Mumbai",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "081026508604",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-megaaopes-pvt-ltd-bengaluru-0-to-2-years-081026508604",
+    "source": "naukri",
+    "company": "Megaaopes",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "081026506995",
+    "title": "Full Stack Soft Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-soft-developer-indea-design-systems-pvt-ltd-mangaluru-1-to-3-years-081026506995",
+    "source": "naukri",
+    "company": "Indea Design",
+    "location": "Mangaluru",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "081026505254",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-zensar-technologies-bengaluru-1-to-4-years-081026505254",
+    "source": "naukri",
+    "company": "Zensar",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "081026033003",
+    "title": "Python Software Developer",
+    "url": "https://www.naukri.com/job-listings-python-software-developer-findlaw-bengaluru-1-to-2-years-081026033003",
+    "source": "naukri",
+    "company": "FindLaw",
+    "location": "Hybrid - Bengaluru(Whitefield)",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "081026506556",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-techasoft-bengaluru-0-to-2-years-081026506556",
+    "source": "naukri",
+    "company": "Techasoft",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "081026507719",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-blueera-softech-vadodara-1-to-4-years-081026507719",
+    "source": "naukri",
+    "company": "Blueera Softech",
+    "location": "Vadodara",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "081026505979",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-iglobal-impact-ites-pvt-ltd-durgapur-1-to-6-years-081026505979",
+    "source": "naukri",
+    "company": "IGLOBAL IMPACT ITES (IGI)",
+    "location": "Durgapur",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "081026508844",
+    "title": "ELK Engineer",
+    "url": "https://www.naukri.com/job-listings-elk-engineer-sisa-bengaluru-0-to-2-years-081026508844",
+    "source": "naukri",
+    "company": "Sisa Information Security",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "081026508079",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-g-r-infraprojects-limited-bhopal-gwalior-indore-jabalpur-ujjain-1-to-3-years-081026508079",
+    "source": "naukri",
+    "company": "G R Infraprojects",
+    "location": "Bhopal, Gwalior, Indore, Jabalpur, Ujjain",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "081026506128",
+    "title": "GSOC Engineer",
+    "url": "https://www.naukri.com/job-listings-gsoc-engineer-tomia-remote-0-to-1-years-081026506128",
+    "source": "naukri",
+    "company": "Starhome Mach",
+    "location": "Remote",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "081026506107",
+    "title": "GSOC Engineer",
+    "url": "https://www.naukri.com/job-listings-gsoc-engineer-telarix-remote-0-to-1-years-081026506107",
+    "source": "naukri",
+    "company": "Telarix",
+    "location": "Remote",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "081026504843",
+    "title": "CP Engineer - Entry Level",
+    "url": "https://www.naukri.com/job-listings-cp-engineer-entry-level-heyev-new-delhi-1-to-3-years-081026504843",
+    "source": "naukri",
+    "company": "Heyev",
+    "location": "New Delhi",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "081026504854",
+    "title": "OJS Developer",
+    "url": "https://www.naukri.com/job-listings-ojs-developer-rsis-gurugram-1-to-4-years-081026504854",
+    "source": "naukri",
+    "company": "Rsis",
+    "location": "Gurugram",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "081026033671",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-tata-consultancy-services-kolkata-1-to-6-years-081026033671",
+    "source": "naukri",
+    "company": "Tata Consultancy Services",
+    "location": "Kolkata",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "081026029162",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-everest-business-advisory-india-gurugram-bengaluru-1-to-2-years-081026029162",
+    "source": "naukri",
+    "company": "Everest Business Advisory India",
+    "location": "Gurugram, Bengaluru",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "281221000347",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-thoughts2binary-gurugram-0-to-3-years-281221000347",
+    "source": "naukri",
+    "company": "Thoughts2Binary",
+    "location": "Gurugram",
+    "queued_at": "2026-10-08T12:19:19.685750+00:00",
+    "status": "queued"
   }
 ]
