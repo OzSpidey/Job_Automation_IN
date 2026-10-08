@@ -178,5 +178,35 @@
     "level": "Early",
     "queued_at": "2026-10-07T16:01:24.989242+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "081026013227",
+    "title": "Walk-in || Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-inspirisys-chennai-0-to-2-years-081026013227",
+    "source": "naukri",
+    "company": "Inspirisys",
+    "location": "",
+    "queued_at": "2026-10-08T06:15:51.438895+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "281221000347",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-thoughts2binary-gurugram-0-to-3-years-281221000347",
+    "source": "naukri",
+    "company": "Thoughts2Binary",
+    "location": "Gurugram",
+    "queued_at": "2026-10-08T06:15:51.438895+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "081026011355",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-081026011355",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-10-08T06:15:51.438895+00:00",
+    "status": "queued"
   }
 ]
