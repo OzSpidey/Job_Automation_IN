@@ -188,27 +188,7 @@
     "location": "Gurugram",
     "queued_at": "2026-10-08T06:15:51.438895+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "081026922021",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-nextgenmedia-bengaluru-0-to-1-years-081026922021",
-    "source": "naukri",
-    "company": "Nextgenmedia",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-08T08:19:17.382476+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "081026920653",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-intered-ventures-namakkal-0-to-2-years-081026920653",
-    "source": "naukri",
-    "company": "Intered Ventures",
-    "location": "Namakkal",
-    "queued_at": "2026-10-08T08:19:17.382476+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "081026020442",
@@ -218,17 +198,8 @@
     "company": "Codeacious",
     "location": "Noida(Sector 142)",
     "queued_at": "2026-10-08T08:19:17.382476+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "081026919683",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-info-pune-0-to-2-years-081026919683",
-    "source": "naukri",
-    "company": "Info",
-    "location": "Pune",
-    "queued_at": "2026-10-08T08:19:17.382476+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "081026019892",
@@ -238,36 +209,7 @@
     "company": "UNIQ Technologies - Bengaluru",
     "location": "",
     "queued_at": "2026-10-08T08:19:17.382476+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "081026921986",
-    "title": "Software Developer / Mobile Application Dev",
-    "url": "https://www.naukri.com/job-listings-software-developer-mobile-application-dev-movyo-solutions-pune-0-to-2-years-081026921986",
-    "source": "naukri",
-    "company": "Movyo Solutions",
-    "location": "Pune",
-    "queued_at": "2026-10-08T08:19:17.382476+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "081026920364",
-    "title": "Software Application Developer",
-    "url": "https://www.naukri.com/job-listings-software-application-developer-softclient-pty-ltd-chen-0-to-2-years-081026920364",
-    "source": "naukri",
-    "company": "Softclient Pty Ltd",
-    "location": "Chen",
-    "queued_at": "2026-10-08T08:19:17.382476+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "081026021917",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-wipro-pune-1-to-4-years-081026021917",
-    "source": "naukri",
-    "company": "Wipro",
-    "location": "Pune",
-    "queued_at": "2026-10-08T08:19:17.382476+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
