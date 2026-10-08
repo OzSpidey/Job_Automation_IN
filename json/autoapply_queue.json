@@ -178,5 +178,15 @@
     "level": "Early",
     "queued_at": "2026-10-07T16:01:24.989242+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "081026002469",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-tungsten-fitness-club-navi-mumbai-1-to-5-years-081026002469",
+    "source": "naukri",
+    "company": "Tungsten Fitness Club",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-10-08T02:15:12.621371+00:00",
+    "status": "queued"
   }
 ]
