@@ -180,28 +180,6 @@
     "status": "queued"
   },
   {
-    "job_id": "081026020442",
-    "title": "Vibe Coder- AI Assisted Full-Stack Developer",
-    "url": "https://www.naukri.com/job-listings-vibe-coder-ai-assisted-full-stack-developer-codeacious-noida-1-to-3-years-081026020442",
-    "source": "naukri",
-    "company": "Codeacious",
-    "location": "Noida(Sector 142)",
-    "queued_at": "2026-10-08T14:23:49.378324+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "081026019892",
-    "title": "Walk-in || Python Software Developer",
-    "url": "https://www.naukri.com/job-listings-python-software-developer-uniq-technologies-bengaluru-bengaluru-0-to-5-years-081026019892",
-    "source": "naukri",
-    "company": "UNIQ Technologies - Bengaluru",
-    "location": "",
-    "queued_at": "2026-10-08T14:23:49.378324+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "241225026188",
     "title": "Analyst",
     "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-navi-mumbai-0-to-2-years-241225026188",
@@ -210,6 +188,6 @@
     "location": "Navi Mumbai",
     "queued_at": "2026-10-08T16:15:27.202290+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
