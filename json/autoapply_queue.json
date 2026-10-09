@@ -200,5 +200,25 @@
     "level": "Early",
     "queued_at": "2026-10-07T16:01:24.989242+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "091026924543",
+    "title": "Site Engineer - Interior Design - Fresher also",
+    "url": "https://www.naukri.com/job-listings-site-engineer-interior-design-fresher-also-sone-india-group-of-industries-visakhapatnam-chennai-coimbatore-0-to-3-years-091026924543",
+    "source": "naukri",
+    "company": "Sone India",
+    "location": "Visakhapatnam, Chennai, Coimbatore",
+    "queued_at": "2026-10-09T10:15:31.937893+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "091026914303",
+    "title": "Analyst - Proxy Voting",
+    "url": "https://www.naukri.com/job-listings-analyst-proxy-voting-invesco-hyderabad-pvt-ltd-hyderabad-1-to-3-years-091026914303",
+    "source": "naukri",
+    "company": "Invesco",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-09T10:15:31.937893+00:00",
+    "status": "queued"
   }
 ]
