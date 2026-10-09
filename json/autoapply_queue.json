@@ -1,27 +1,5 @@
 [
   {
-    "job_id": "150726015430",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-netapp-bengaluru-0-to-3-years-150726015430",
-    "source": "naukri",
-    "company": "NetApp",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-09T06:15:03.722982+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "091026020315",
-    "title": "HPLC Analyst",
-    "url": "https://www.naukri.com/job-listings-hplc-analyst-catalysts-bio-technologies-delhi-ncr-1-to-2-years-091026020315",
-    "source": "naukri",
-    "company": "Catalysts Bio Technologies",
-    "location": "Delhi / NCR",
-    "queued_at": "2026-10-09T08:15:12.384023+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -202,23 +180,14 @@
     "status": "queued"
   },
   {
-    "job_id": "091026924543",
-    "title": "Site Engineer - Interior Design - Fresher also",
-    "url": "https://www.naukri.com/job-listings-site-engineer-interior-design-fresher-also-sone-india-group-of-industries-visakhapatnam-chennai-coimbatore-0-to-3-years-091026924543",
+    "job_id": "091026020315",
+    "title": "HPLC Analyst",
+    "url": "https://www.naukri.com/job-listings-hplc-analyst-catalysts-bio-technologies-delhi-ncr-1-to-2-years-091026020315",
     "source": "naukri",
-    "company": "Sone India",
-    "location": "Visakhapatnam, Chennai, Coimbatore",
-    "queued_at": "2026-10-09T10:15:31.937893+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "091026914303",
-    "title": "Analyst - Proxy Voting",
-    "url": "https://www.naukri.com/job-listings-analyst-proxy-voting-invesco-hyderabad-pvt-ltd-hyderabad-1-to-3-years-091026914303",
-    "source": "naukri",
-    "company": "Invesco",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-09T10:15:31.937893+00:00",
-    "status": "queued"
+    "company": "Catalysts Bio Technologies",
+    "location": "Delhi / NCR",
+    "queued_at": "2026-10-09T08:15:12.384023+00:00",
+    "status": "queued",
+    "attempts": 2
   }
 ]
