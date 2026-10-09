@@ -180,47 +180,6 @@
     "status": "queued"
   },
   {
-    "job_id": "091026020315",
-    "title": "HPLC Analyst",
-    "url": "https://www.naukri.com/job-listings-hplc-analyst-catalysts-bio-technologies-delhi-ncr-1-to-2-years-091026020315",
-    "source": "naukri",
-    "company": "Catalysts Bio Technologies",
-    "location": "Delhi / NCR",
-    "queued_at": "2026-10-09T08:15:12.384023+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "091026927731",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-noida-0-to-5-years-091026927731",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Noida",
-    "queued_at": "2026-10-09T12:14:56.509102+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "091026927651",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-millennium-consulting-india-private-limited-bengaluru-1-to-5-years-091026927651",
-    "source": "naukri",
-    "company": "Millennium Consulting",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-09T12:14:56.509102+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "091026928906",
-    "title": "Site Engineer - Interior Design - Fresher also",
-    "url": "https://www.naukri.com/job-listings-site-engineer-interior-design-fresher-also-sone-india-group-of-industries-visakhapatnam-chennai-coimbatore-0-to-3-years-091026928906",
-    "source": "naukri",
-    "company": "Sone India",
-    "location": "Visakhapatnam, Chennai, Coimbatore",
-    "queued_at": "2026-10-09T12:14:56.509102+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "091026028241",
     "title": "Graduate Trainee Engineer Solar Roof Top",
     "url": "https://www.naukri.com/job-listings-graduate-trainee-engineer-solar-roof-top-techb-energy-pune-0-to-1-years-091026028241",
@@ -228,17 +187,8 @@
     "company": "Techb Energy",
     "location": "Pune",
     "queued_at": "2026-10-09T12:14:56.509102+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "091026028831",
-    "title": "Derivatives Trader",
-    "url": "https://www.naukri.com/job-listings-derivatives-trader-mansukh-securities-and-finance-new-delhi-0-to-3-years-091026028831",
-    "source": "naukri",
-    "company": "Mansukh Securities And Finance",
-    "location": "New Delhi(Pandav Nagar +1)",
-    "queued_at": "2026-10-09T12:14:56.509102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "091026025874",
@@ -248,7 +198,8 @@
     "company": "eClerx",
     "location": "Chandigarh",
     "queued_at": "2026-10-09T12:14:56.509102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "150726015430",
@@ -258,16 +209,7 @@
     "company": "NetApp",
     "location": "Bengaluru",
     "queued_at": "2026-10-09T12:14:56.509102+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "091026914303",
-    "title": "Analyst - Proxy Voting",
-    "url": "https://www.naukri.com/job-listings-analyst-proxy-voting-invesco-hyderabad-pvt-ltd-hyderabad-1-to-3-years-091026914303",
-    "source": "naukri",
-    "company": "Invesco",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-09T12:14:56.509102+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]

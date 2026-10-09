@@ -7798,5 +7798,38 @@
     "queued_at": "2026-10-09T10:15:31.937893+00:00",
     "status": "applied",
     "applied_at": "2026-10-09T10:16:51.116168+00:00"
+  },
+  {
+    "job_id": "091026927731",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-noida-0-to-5-years-091026927731",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Noida",
+    "queued_at": "2026-10-09T12:14:56.509102+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-09T12:16:41.297967+00:00"
+  },
+  {
+    "job_id": "091026928906",
+    "title": "Site Engineer - Interior Design - Fresher also",
+    "url": "https://www.naukri.com/job-listings-site-engineer-interior-design-fresher-also-sone-india-group-of-industries-visakhapatnam-chennai-coimbatore-0-to-3-years-091026928906",
+    "source": "naukri",
+    "company": "Sone India",
+    "location": "Visakhapatnam, Chennai, Coimbatore",
+    "queued_at": "2026-10-09T12:14:56.509102+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-09T12:16:55.707328+00:00"
+  },
+  {
+    "job_id": "091026028831",
+    "title": "Derivatives Trader",
+    "url": "https://www.naukri.com/job-listings-derivatives-trader-mansukh-securities-and-finance-new-delhi-0-to-3-years-091026028831",
+    "source": "naukri",
+    "company": "Mansukh Securities And Finance",
+    "location": "New Delhi(Pandav Nagar +1)",
+    "queued_at": "2026-10-09T12:14:56.509102+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-09T12:17:16.929322+00:00"
   }
 ]
