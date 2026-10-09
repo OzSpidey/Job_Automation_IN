@@ -178,16 +178,5 @@
     "level": "Early",
     "queued_at": "2026-10-07T16:01:24.989242+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "091026032298",
-    "title": "Walk-in || Python Software Developer",
-    "url": "https://www.naukri.com/job-listings-python-software-developer-uniq-technologies-puducherry-puducherry-0-to-5-years-091026032298",
-    "source": "naukri",
-    "company": "Uniq Technologies - Puducherry",
-    "location": "",
-    "queued_at": "2026-10-09T14:15:16.540331+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
