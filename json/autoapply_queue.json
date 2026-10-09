@@ -178,5 +178,45 @@
     "level": "Early",
     "queued_at": "2026-10-07T16:01:24.989242+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "091026912317",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-pune-0-to-5-years-091026912317",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Pune",
+    "queued_at": "2026-10-09T06:15:03.722982+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "150726015430",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-netapp-bengaluru-0-to-3-years-150726015430",
+    "source": "naukri",
+    "company": "NetApp",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-09T06:15:03.722982+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "091026914303",
+    "title": "Analyst - Proxy Voting",
+    "url": "https://www.naukri.com/job-listings-analyst-proxy-voting-invesco-hyderabad-pvt-ltd-hyderabad-1-to-3-years-091026914303",
+    "source": "naukri",
+    "company": "Invesco",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-09T06:15:03.722982+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "091026912232",
+    "title": "T24 Developer (EMEA)",
+    "url": "https://www.naukri.com/job-listings-t24-developer-emea-thakral-one-solutions-pvt-ltd-bengaluru-1-to-2-years-091026912232",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-09T06:15:03.722982+00:00",
+    "status": "queued"
   }
 ]
