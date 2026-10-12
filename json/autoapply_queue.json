@@ -253,5 +253,215 @@
     "queued_at": "2026-10-12T16:15:52.713437+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "121026036672",
+    "title": "Quant Developer",
+    "url": "https://www.naukri.com/job-listings-quant-developer-algoedge-technology-gurugram-1-to-2-years-121026036672",
+    "source": "naukri",
+    "company": "Algoedge Technology",
+    "location": "Gurugram",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026502633",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-0-to-2-years-121026502633",
+    "source": "naukri",
+    "company": "Cisco",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026502538",
+    "title": "Software Engineer - API Azure",
+    "url": "https://www.naukri.com/job-listings-software-engineer-api-azure-allegion-bengaluru-1-to-5-years-121026502538",
+    "source": "naukri",
+    "company": "Allegion",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026503271",
+    "title": "LLM Engineer",
+    "url": "https://www.naukri.com/job-listings-llm-engineer-actowiz-solutions-ahmedabad-1-to-2-years-121026503271",
+    "source": "naukri",
+    "company": "Actowiz Solutions",
+    "location": "Ahmedabad",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026504413",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-essar-minmet-mumbai-1-to-4-years-121026504413",
+    "source": "naukri",
+    "company": "Essar Steel",
+    "location": "Mumbai",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026504218",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-gd-research-center-pvt-ltd-hyderabad-1-to-2-years-121026504218",
+    "source": "naukri",
+    "company": "GD Research Center (GDRC)",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026504163",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-ernst-young-mumbai-0-to-1-years-121026504163",
+    "source": "naukri",
+    "company": "EY",
+    "location": "Mumbai",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026504127",
+    "title": "Carbon Footprint Analyst",
+    "url": "https://www.naukri.com/job-listings-carbon-footprint-analyst-chevron-bengaluru-1-to-3-years-121026504127",
+    "source": "naukri",
+    "company": "Chevron India",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026503917",
+    "title": "Analyst - GHRSS",
+    "url": "https://www.naukri.com/job-listings-analyst-ghrss-artex-risk-solutions-bengaluru-1-to-3-years-121026503917",
+    "source": "naukri",
+    "company": "Artex Risk Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026500391",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-stellar-technologies-remote-1-to-3-years-121026500391",
+    "source": "naukri",
+    "company": "Stellar Technologies",
+    "location": "Remote",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026013468",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-innspark-solutions-karunagappally-1-to-4-years-121026013468",
+    "source": "naukri",
+    "company": "Innspark Solutions",
+    "location": "Karunagappally",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026911257",
+    "title": "Software Developer - Confluent",
+    "url": "https://www.naukri.com/job-listings-software-developer-confluent-ibm-india-pvt-limited-bengaluru-1-to-3-years-121026911257",
+    "source": "naukri",
+    "company": "IBM",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026502138",
+    "title": "GenAI Engineer",
+    "url": "https://www.naukri.com/job-listings-genai-engineer-onemetric-formerly-growtomation-gurugram-1-to-3-years-121026502138",
+    "source": "naukri",
+    "company": "Growtomation",
+    "location": "Gurugram",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026500029",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-iflowtech-solutions-private-limited-madurai-tiruppur-salem-chennai-tiruchirappalli-coimbatore-1-to-4-years-121026500029",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Madurai, Tiruppur, Salem, Chennai, Tiruchirappalli, Coimbatore",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026016315",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-pawar-patkar-construction-nashik-pune-akola-0-to-7-years-121026016315",
+    "source": "naukri",
+    "company": "Pawar Patkar Construction",
+    "location": "Nashik, Pune, Akola",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026922316",
+    "title": "GN - SC&E - PRH - RDE - Analyst",
+    "url": "https://www.naukri.com/job-listings-gn-sc-e-prh-rde-analyst-accenture-solutions-pvt-ltd-pune-1-to-4-years-121026922316",
+    "source": "naukri",
+    "company": "Accenture",
+    "location": "Pune",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026502648",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-ernst-young-new-delhi-0-to-1-years-121026502648",
+    "source": "naukri",
+    "company": "EY",
+    "location": "New Delhi",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026502644",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-ernst-young-mumbai-0-to-1-years-121026502644",
+    "source": "naukri",
+    "company": "EY",
+    "location": "Mumbai",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026501794",
+    "title": "Sigma Developer",
+    "url": "https://www.naukri.com/job-listings-sigma-developer-brigosha-technologies-bengaluru-1-to-4-years-121026501794",
+    "source": "naukri",
+    "company": "Brigosha Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026501464",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-ernst-young-mumbai-1-to-6-years-121026501464",
+    "source": "naukri",
+    "company": "EY",
+    "location": "Mumbai",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026502625",
+    "title": "CPU Verification Engineer - Core Enablement",
+    "url": "https://www.naukri.com/job-listings-cpu-verification-engineer-core-enablement-advanced-micro-devices-inc-bengaluru-0-to-2-years-121026502625",
+    "source": "naukri",
+    "company": "Advanced Micro Devices (AMD)",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-12T18:15:12.899925+00:00",
+    "status": "queued"
   }
 ]
