@@ -180,37 +180,6 @@
     "status": "queued"
   },
   {
-    "job_id": "300426026928",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-2-years-300426026928",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-10-12T04:15:03.864259+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "121026008333",
-    "title": "Full Stack Developer - Work From Home",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-work-from-home-maxsource-technologies-remote-1-to-5-years-121026008333",
-    "source": "naukri",
-    "company": "Maxsource Technologies",
-    "location": "Remote",
-    "queued_at": "2026-10-12T08:15:07.755037+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "121026007841",
-    "title": "Full Stack Developer (ReactNative)",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-reactnative-acrapath-new-delhi-1-to-4-years-121026007841",
-    "source": "naukri",
-    "company": "Acrapath",
-    "location": "New Delhi(Kirti Nagar)",
-    "queued_at": "2026-10-12T08:15:07.755037+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "121026007036",
     "title": "JAVA Developer Fresher",
     "url": "https://www.naukri.com/job-listings-java-developer-fresher-tech-talent-chennai-0-to-1-years-121026007036",
@@ -218,7 +187,8 @@
     "company": "TECH TALENT",
     "location": "Chennai",
     "queued_at": "2026-10-12T08:15:07.755037+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "121026007702",
@@ -228,7 +198,8 @@
     "company": "Morepen Laboratories",
     "location": "Gurugram(Cyber Park)",
     "queued_at": "2026-10-12T08:15:07.755037+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "130826031055",
@@ -238,16 +209,7 @@
     "company": "Job Seeks 4u Consultancy Services",
     "location": "Chennai",
     "queued_at": "2026-10-12T08:15:07.755037+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "121026007884",
-    "title": "Analyst-ARD- Rabale",
-    "url": "https://www.naukri.com/job-listings-analyst-ard-rabale-flamingo-pharmaceuticals-navi-mumbai-1-to-6-years-121026007884",
-    "source": "naukri",
-    "company": "Flamingo Pharmaceuticals",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-10-12T08:15:07.755037+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]

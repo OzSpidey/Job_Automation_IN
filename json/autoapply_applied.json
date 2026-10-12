@@ -7908,5 +7908,38 @@
     "queued_at": "2026-10-12T06:15:35.999892+00:00",
     "status": "applied",
     "applied_at": "2026-10-12T06:17:16.310786+00:00"
+  },
+  {
+    "job_id": "121026008333",
+    "title": "Full Stack Developer - Work From Home",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-work-from-home-maxsource-technologies-remote-1-to-5-years-121026008333",
+    "source": "naukri",
+    "company": "Maxsource Technologies",
+    "location": "Remote",
+    "queued_at": "2026-10-12T08:15:07.755037+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-12T08:16:14.153625+00:00"
+  },
+  {
+    "job_id": "121026007841",
+    "title": "Full Stack Developer (ReactNative)",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-reactnative-acrapath-new-delhi-1-to-4-years-121026007841",
+    "source": "naukri",
+    "company": "Acrapath",
+    "location": "New Delhi(Kirti Nagar)",
+    "queued_at": "2026-10-12T08:15:07.755037+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-12T08:16:29.069778+00:00"
+  },
+  {
+    "job_id": "121026007884",
+    "title": "Analyst-ARD- Rabale",
+    "url": "https://www.naukri.com/job-listings-analyst-ard-rabale-flamingo-pharmaceuticals-navi-mumbai-1-to-6-years-121026007884",
+    "source": "naukri",
+    "company": "Flamingo Pharmaceuticals",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-10-12T08:15:07.755037+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-12T08:17:14.071665+00:00"
   }
 ]
