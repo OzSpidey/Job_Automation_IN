@@ -1,38 +1,5 @@
 [
   {
-    "job_id": "121026007036",
-    "title": "JAVA Developer Fresher",
-    "url": "https://www.naukri.com/job-listings-java-developer-fresher-tech-talent-chennai-0-to-1-years-121026007036",
-    "source": "naukri",
-    "company": "TECH TALENT",
-    "location": "Chennai",
-    "queued_at": "2026-10-12T08:15:07.755037+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "121026007702",
-    "title": "GTM Engineer",
-    "url": "https://www.naukri.com/job-listings-gtm-engineer-morepen-laboratories-gurugram-1-to-4-years-121026007702",
-    "source": "naukri",
-    "company": "Morepen Laboratories",
-    "location": "Gurugram(Cyber Park)",
-    "queued_at": "2026-10-12T08:15:07.755037+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "130826031055",
-    "title": "Immediate Hiring For Service Engineer Freshers Can Apply",
-    "url": "https://www.naukri.com/job-listings-immediate-hiring-for-service-engineer-freshers-can-apply-seeks-4u-consultancy-services-chennai-0-to-5-years-130826031055",
-    "source": "naukri",
-    "company": "Job Seeks 4u Consultancy Services",
-    "location": "Chennai",
-    "queued_at": "2026-10-12T08:15:07.755037+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -213,24 +180,37 @@
     "status": "queued"
   },
   {
-    "job_id": "121026911257",
-    "title": "Software Developer - Confluent",
-    "url": "https://www.naukri.com/job-listings-software-developer-confluent-ibm-india-pvt-limited-bengaluru-1-to-3-years-121026911257",
+    "job_id": "121026007036",
+    "title": "JAVA Developer Fresher",
+    "url": "https://www.naukri.com/job-listings-java-developer-fresher-tech-talent-chennai-0-to-1-years-121026007036",
     "source": "naukri",
-    "company": "IBM",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-12T10:17:06.621243+00:00",
-    "status": "queued"
+    "company": "TECH TALENT",
+    "location": "Chennai",
+    "queued_at": "2026-10-12T08:15:07.755037+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
-    "job_id": "121026500029",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-iflowtech-solutions-private-limited-madurai-tiruppur-salem-chennai-tiruchirappalli-coimbatore-1-to-4-years-121026500029",
+    "job_id": "121026007702",
+    "title": "GTM Engineer",
+    "url": "https://www.naukri.com/job-listings-gtm-engineer-morepen-laboratories-gurugram-1-to-4-years-121026007702",
     "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Madurai, Tiruppur, Salem, Chennai, Tiruchirappalli, Coimbatore",
-    "queued_at": "2026-10-12T10:17:06.621243+00:00",
-    "status": "queued"
+    "company": "Morepen Laboratories",
+    "location": "Gurugram(Cyber Park)",
+    "queued_at": "2026-10-12T08:15:07.755037+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "130826031055",
+    "title": "Immediate Hiring For Service Engineer Freshers Can Apply",
+    "url": "https://www.naukri.com/job-listings-immediate-hiring-for-service-engineer-freshers-can-apply-seeks-4u-consultancy-services-chennai-0-to-5-years-130826031055",
+    "source": "naukri",
+    "company": "Job Seeks 4u Consultancy Services",
+    "location": "Chennai",
+    "queued_at": "2026-10-12T08:15:07.755037+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
     "job_id": "300426026936",
@@ -240,7 +220,8 @@
     "company": "eClerx",
     "location": "Pune",
     "queued_at": "2026-10-12T10:17:06.621243+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "300426026928",
@@ -250,6 +231,7 @@
     "company": "eClerx",
     "location": "Pune",
     "queued_at": "2026-10-12T10:17:06.621243+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
