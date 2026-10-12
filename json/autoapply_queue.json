@@ -189,39 +189,6 @@
     "status": "queued"
   },
   {
-    "job_id": "121026036366",
-    "title": "Conformance Analyst",
-    "url": "https://www.naukri.com/job-listings-conformance-analyst-sgs-india-mumbai-all-areas-1-to-3-years-121026036366",
-    "source": "naukri",
-    "company": "SGS India",
-    "location": "Mumbai (All Areas)",
-    "queued_at": "2026-10-12T16:15:52.713437+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "300426026936",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-2-years-300426026936",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-10-12T16:15:52.713437+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "300426026928",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-2-years-300426026928",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-10-12T16:15:52.713437+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "121026036672",
     "title": "Quant Developer",
     "url": "https://www.naukri.com/job-listings-quant-developer-algoedge-technology-gurugram-1-to-2-years-121026036672",
@@ -230,7 +197,7 @@
     "location": "Gurugram",
     "queued_at": "2026-10-12T18:15:12.899925+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "121026013468",
@@ -241,7 +208,7 @@
     "location": "Karunagappally",
     "queued_at": "2026-10-12T18:15:12.899925+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "121026016315",
@@ -252,7 +219,7 @@
     "location": "Nashik, Pune, Akola",
     "queued_at": "2026-10-12T18:15:12.899925+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "121026037029",
@@ -262,6 +229,7 @@
     "company": "Algoedge Technology",
     "location": "Hybrid - Gurugram",
     "queued_at": "2026-10-12T20:15:40.210247+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
