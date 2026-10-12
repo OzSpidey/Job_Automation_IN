@@ -211,5 +211,45 @@
     "level": "Early",
     "queued_at": "2026-10-07T16:01:24.989242+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "121026911257",
+    "title": "Software Developer - Confluent",
+    "url": "https://www.naukri.com/job-listings-software-developer-confluent-ibm-india-pvt-limited-bengaluru-1-to-3-years-121026911257",
+    "source": "naukri",
+    "company": "IBM",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-12T10:17:06.621243+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026500029",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-iflowtech-solutions-private-limited-madurai-tiruppur-salem-chennai-tiruchirappalli-coimbatore-1-to-4-years-121026500029",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Madurai, Tiruppur, Salem, Chennai, Tiruchirappalli, Coimbatore",
+    "queued_at": "2026-10-12T10:17:06.621243+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300426026936",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-2-years-300426026936",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-10-12T10:17:06.621243+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300426026928",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-2-years-300426026928",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-10-12T10:17:06.621243+00:00",
+    "status": "queued"
   }
 ]
