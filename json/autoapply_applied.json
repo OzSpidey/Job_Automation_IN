@@ -7941,5 +7941,71 @@
     "queued_at": "2026-10-12T08:15:07.755037+00:00",
     "status": "applied",
     "applied_at": "2026-10-12T08:17:14.071665+00:00"
+  },
+  {
+    "job_id": "090724010334",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-codepanda-academy-noida-gurugram-delhi-ncr-0-to-4-years-090724010334",
+    "source": "naukri",
+    "company": "Codepanda Academy",
+    "location": "Noida, Gurugram, Delhi / NCR",
+    "queued_at": "2026-10-12T12:15:18.399768+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-12T12:17:05.921861+00:00"
+  },
+  {
+    "job_id": "121026918105",
+    "title": "LLMOps Engineer",
+    "url": "https://www.naukri.com/job-listings-llmops-engineer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-121026918105",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-12T12:15:18.399768+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-12T12:17:16.055978+00:00"
+  },
+  {
+    "job_id": "121026917780",
+    "title": "Launch Engineer",
+    "url": "https://www.naukri.com/job-listings-launch-engineer-tata-technologies-ltd-jamshedpur-1-to-3-years-121026917780",
+    "source": "naukri",
+    "company": "Tata Technologies",
+    "location": "Jamshedpur",
+    "queued_at": "2026-10-12T12:15:18.399768+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-12T12:17:26.029870+00:00"
+  },
+  {
+    "job_id": "121026918097",
+    "title": "Sky-high Proxy Engineer",
+    "url": "https://www.naukri.com/job-listings-sky-high-proxy-engineer-capgemini-technology-services-india-limited-navi-mumbai-0-to-5-years-121026918097",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-10-12T12:15:18.399768+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-12T12:17:35.894477+00:00"
+  },
+  {
+    "job_id": "121026918065",
+    "title": "Performance QA Engineer (Locust)",
+    "url": "https://www.naukri.com/job-listings-performance-qa-engineer-locust-capgemini-technology-services-india-limited-hyderabad-1-to-6-years-121026918065",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-12T12:15:18.399768+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-12T12:18:11.385276+00:00"
+  },
+  {
+    "job_id": "121026010073",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-softinnovation-chennai-1-to-2-years-121026010073",
+    "source": "naukri",
+    "company": "Softinnovation",
+    "location": "Chennai",
+    "queued_at": "2026-10-12T12:15:18.399768+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-12T12:18:26.240510+00:00"
   }
 ]

@@ -180,39 +180,6 @@
     "status": "queued"
   },
   {
-    "job_id": "121026007036",
-    "title": "JAVA Developer Fresher",
-    "url": "https://www.naukri.com/job-listings-java-developer-fresher-tech-talent-chennai-0-to-1-years-121026007036",
-    "source": "naukri",
-    "company": "TECH TALENT",
-    "location": "Chennai",
-    "queued_at": "2026-10-12T08:15:07.755037+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "121026007702",
-    "title": "GTM Engineer",
-    "url": "https://www.naukri.com/job-listings-gtm-engineer-morepen-laboratories-gurugram-1-to-4-years-121026007702",
-    "source": "naukri",
-    "company": "Morepen Laboratories",
-    "location": "Gurugram(Cyber Park)",
-    "queued_at": "2026-10-12T08:15:07.755037+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "130826031055",
-    "title": "Immediate Hiring For Service Engineer Freshers Can Apply",
-    "url": "https://www.naukri.com/job-listings-immediate-hiring-for-service-engineer-freshers-can-apply-seeks-4u-consultancy-services-chennai-0-to-5-years-130826031055",
-    "source": "naukri",
-    "company": "Job Seeks 4u Consultancy Services",
-    "location": "Chennai",
-    "queued_at": "2026-10-12T08:15:07.755037+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "300426026936",
     "title": "Analyst",
     "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-2-years-300426026936",
@@ -221,7 +188,7 @@
     "location": "Pune",
     "queued_at": "2026-10-12T10:17:06.621243+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "300426026928",
@@ -232,47 +199,7 @@
     "location": "Pune",
     "queued_at": "2026-10-12T10:17:06.621243+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "090724010334",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-codepanda-academy-noida-gurugram-delhi-ncr-0-to-4-years-090724010334",
-    "source": "naukri",
-    "company": "Codepanda Academy",
-    "location": "Noida, Gurugram, Delhi / NCR",
-    "queued_at": "2026-10-12T12:15:18.399768+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "121026918105",
-    "title": "LLMOps Engineer",
-    "url": "https://www.naukri.com/job-listings-llmops-engineer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-121026918105",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-12T12:15:18.399768+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "121026917780",
-    "title": "Launch Engineer",
-    "url": "https://www.naukri.com/job-listings-launch-engineer-tata-technologies-ltd-jamshedpur-1-to-3-years-121026917780",
-    "source": "naukri",
-    "company": "Tata Technologies",
-    "location": "Jamshedpur",
-    "queued_at": "2026-10-12T12:15:18.399768+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "121026918097",
-    "title": "Sky-high Proxy Engineer",
-    "url": "https://www.naukri.com/job-listings-sky-high-proxy-engineer-capgemini-technology-services-india-limited-navi-mumbai-0-to-5-years-121026918097",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-10-12T12:15:18.399768+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "121026016315",
@@ -282,7 +209,8 @@
     "company": "Pawar Patkar Construction",
     "location": "Nashik, Pune, Akola",
     "queued_at": "2026-10-12T12:15:18.399768+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "121026014916",
@@ -292,37 +220,8 @@
     "company": "eClerx",
     "location": "Mumbai",
     "queued_at": "2026-10-12T12:15:18.399768+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "121026918065",
-    "title": "Performance QA Engineer (Locust)",
-    "url": "https://www.naukri.com/job-listings-performance-qa-engineer-locust-capgemini-technology-services-india-limited-hyderabad-1-to-6-years-121026918065",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-12T12:15:18.399768+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "121026010073",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-softinnovation-chennai-1-to-2-years-121026010073",
-    "source": "naukri",
-    "company": "Softinnovation",
-    "location": "Chennai",
-    "queued_at": "2026-10-12T12:15:18.399768+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "121026500391",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-stellar-technologies-remote-1-to-3-years-121026500391",
-    "source": "naukri",
-    "company": "Stellar Technologies",
-    "location": "Remote",
-    "queued_at": "2026-10-12T12:15:18.399768+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "121026013468",
@@ -332,26 +231,7 @@
     "company": "Innspark Solutions",
     "location": "Karunagappally",
     "queued_at": "2026-10-12T12:15:18.399768+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "121026911257",
-    "title": "Software Developer - Confluent",
-    "url": "https://www.naukri.com/job-listings-software-developer-confluent-ibm-india-pvt-limited-bengaluru-1-to-3-years-121026911257",
-    "source": "naukri",
-    "company": "IBM",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-12T12:15:18.399768+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "121026500029",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-iflowtech-solutions-private-limited-madurai-tiruppur-salem-chennai-tiruchirappalli-coimbatore-1-to-4-years-121026500029",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Madurai, Tiruppur, Salem, Chennai, Tiruchirappalli, Coimbatore",
-    "queued_at": "2026-10-12T12:15:18.399768+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
