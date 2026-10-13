@@ -231,5 +231,165 @@
     "queued_at": "2026-10-13T10:15:11.242897+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "131026500515",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-neotechie-private-limited-remote-0-to-5-years-131026500515",
+    "source": "naukri",
+    "company": "Neotechie",
+    "location": "Remote",
+    "queued_at": "2026-10-13T12:15:18.405100+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026500731",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-ue-developer-remote-0-to-3-years-131026500731",
+    "source": "naukri",
+    "company": "UE Developer",
+    "location": "Remote",
+    "queued_at": "2026-10-13T12:15:18.405100+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026500599",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-ue-developer-new-delhi-0-to-3-years-131026500599",
+    "source": "naukri",
+    "company": "UE Developer",
+    "location": "New Delhi",
+    "queued_at": "2026-10-13T12:15:18.405100+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026500882",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-trigvent-solutions-mohali-1-to-4-years-131026500882",
+    "source": "naukri",
+    "company": "Trigvent Solutions",
+    "location": "Mohali",
+    "queued_at": "2026-10-13T12:15:18.405100+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026038014",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-siri-tech-solutions-hyderabad-bengaluru-0-to-3-years-131026038014",
+    "source": "naukri",
+    "company": "MNC's",
+    "location": "Hyderabad, Bengaluru",
+    "queued_at": "2026-10-13T12:15:18.405100+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026501120",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-computelib-remote-1-to-4-years-131026501120",
+    "source": "naukri",
+    "company": "Computelib",
+    "location": "Remote",
+    "queued_at": "2026-10-13T12:15:18.405100+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026500461",
+    "title": "Engineers",
+    "url": "https://www.naukri.com/job-listings-engineers-consulting-beyond-chennai-1-to-4-years-131026500461",
+    "source": "naukri",
+    "company": "Consulting Beyond",
+    "location": "Chennai",
+    "queued_at": "2026-10-13T12:15:18.405100+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026041633",
+    "title": "Engineer Trainee / Technician Trainee",
+    "url": "https://www.naukri.com/job-listings-engineer-trainee-technician-trainee-aqua-group-coimbatore-0-to-5-years-131026041633",
+    "source": "naukri",
+    "company": "Aqua Group",
+    "location": "Coimbatore(Chettipalayam +2)",
+    "queued_at": "2026-10-13T12:15:18.405100+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026040815",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-lektus-infrastructure-pune-1-to-3-years-131026040815",
+    "source": "naukri",
+    "company": "Lektus Infrastructure",
+    "location": "Pune(Magarpatta)",
+    "queued_at": "2026-10-13T12:15:18.405100+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026042235",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-tresvista-financial-services-pune-1-to-2-years-131026042235",
+    "source": "naukri",
+    "company": "Tresvista Financial Services",
+    "location": "Pune",
+    "queued_at": "2026-10-13T12:15:18.405100+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026921343",
+    "title": "Custom Software Engineer",
+    "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-1-to-2-years-131026921343",
+    "source": "naukri",
+    "company": "Accenture",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-13T12:15:18.405100+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026500253",
+    "title": "Sound Engineering & Editing Professional",
+    "url": "https://www.naukri.com/job-listings-sound-engineering-editing-professional-sai-institutes-chennai-1-to-4-years-131026500253",
+    "source": "naukri",
+    "company": "Sai Institutions",
+    "location": "Chennai",
+    "queued_at": "2026-10-13T12:15:18.405100+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026500199",
+    "title": "Performance Testing Engineer",
+    "url": "https://www.naukri.com/job-listings-performance-testing-engineer-crew-kraftorz-llp-hyderabad-1-to-4-years-131026500199",
+    "source": "naukri",
+    "company": "Crew Kraftorz",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-13T12:15:18.405100+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026500198",
+    "title": "Performance Testing Engineer",
+    "url": "https://www.naukri.com/job-listings-performance-testing-engineer-crew-kraftorz-llp-hyderabad-1-to-4-years-131026500198",
+    "source": "naukri",
+    "company": "Crew Kraftorz",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-13T12:15:18.405100+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026500025",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-novisync-solutions-india-private-limited-bengaluru-0-to-2-years-131026500025",
+    "source": "naukri",
+    "company": "Novisync Solutions India",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-13T12:15:18.405100+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026012853",
+    "title": "Relevance Engineer",
+    "url": "https://www.naukri.com/job-listings-relevance-engineer-netcore-cloud-bengaluru-1-to-2-years-131026012853",
+    "source": "naukri",
+    "company": "Netcore Cloud",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-13T12:15:18.405100+00:00",
+    "status": "queued"
   }
 ]
