@@ -206,7 +206,7 @@
     "location": "Mumbai",
     "queued_at": "2026-10-13T18:15:57.559062+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "131026041633",
@@ -217,7 +217,7 @@
     "location": "Coimbatore(Chettipalayam +2)",
     "queued_at": "2026-10-13T18:15:57.559062+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "131026040815",
@@ -228,7 +228,7 @@
     "location": "Pune(Magarpatta)",
     "queued_at": "2026-10-13T18:15:57.559062+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "131026012853",
@@ -239,7 +239,7 @@
     "location": "Bengaluru",
     "queued_at": "2026-10-13T18:15:57.559062+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "131026042235",
@@ -250,7 +250,7 @@
     "location": "Pune",
     "queued_at": "2026-10-13T18:15:57.559062+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "131026031031",
@@ -261,7 +261,7 @@
     "location": "Mumbai",
     "queued_at": "2026-10-13T18:15:57.559062+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "131026025100",
@@ -272,7 +272,7 @@
     "location": "Chandigarh",
     "queued_at": "2026-10-13T18:15:57.559062+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "131026025081",
@@ -283,7 +283,7 @@
     "location": "Chandigarh",
     "queued_at": "2026-10-13T18:15:57.559062+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "141026000362",
@@ -293,6 +293,7 @@
     "company": "Zenera Corporation",
     "location": "Remote",
     "queued_at": "2026-10-13T20:15:29.038320+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
