@@ -198,5 +198,145 @@
     "queued_at": "2026-10-13T06:15:19.528262+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "131026016753",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-dream-jobs-staffing-solution-chennai-0-to-3-years-131026016753",
+    "source": "naukri",
+    "company": "Technozis",
+    "location": "Remote",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026015306",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-coxvi-technologies-bengaluru-1-to-4-years-131026015306",
+    "source": "naukri",
+    "company": "Coxvi Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026918900",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-tekskills-india-private-limited-hyderabad-1-to-6-years-131026918900",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026918894",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-tekskills-india-private-limited-mumbai-1-to-6-years-131026918894",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Mumbai",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026918896",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-tekskills-india-private-limited-bengaluru-1-to-6-years-131026918896",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026918905",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-tekskills-india-private-limited-delhi-ncr-1-to-6-years-131026918905",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Delhi / NCR",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026918903",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-tekskills-india-private-limited-chennai-1-to-6-years-131026918903",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Chennai",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026918899",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-tekskills-india-private-limited-kolkata-1-to-6-years-131026918899",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Kolkata",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026918897",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-tekskills-india-private-limited-noida-1-to-6-years-131026918897",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Noida",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026500253",
+    "title": "Sound Engineering & Editing Professional",
+    "url": "https://www.naukri.com/job-listings-sound-engineering-editing-professional-sai-institutes-chennai-1-to-4-years-131026500253",
+    "source": "naukri",
+    "company": "Sai Institutions",
+    "location": "Chennai",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026018338",
+    "title": "Software Engineer ENTRY LEVEL",
+    "url": "https://www.naukri.com/job-listings-software-engineer-entry-level-dream-jobs-staffing-solution-hosur-ambur-krishnagiri-0-to-3-years-131026018338",
+    "source": "naukri",
+    "company": "Technozis",
+    "location": "Hosur, Ambur, Krishnagiri",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026500199",
+    "title": "Performance Testing Engineer",
+    "url": "https://www.naukri.com/job-listings-performance-testing-engineer-crew-kraftorz-llp-hyderabad-1-to-4-years-131026500199",
+    "source": "naukri",
+    "company": "Crew Kraftorz",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026500198",
+    "title": "Performance Testing Engineer",
+    "url": "https://www.naukri.com/job-listings-performance-testing-engineer-crew-kraftorz-llp-hyderabad-1-to-4-years-131026500198",
+    "source": "naukri",
+    "company": "Crew Kraftorz",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026500025",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-novisync-solutions-india-private-limited-bengaluru-0-to-2-years-131026500025",
+    "source": "naukri",
+    "company": "Novisync Solutions India",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "queued"
   }
 ]
