@@ -189,16 +189,6 @@
     "status": "queued"
   },
   {
-    "job_id": "131026500025",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-novisync-solutions-india-private-limited-bengaluru-0-to-2-years-131026500025",
-    "source": "naukri",
-    "company": "Novisync Solutions India",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-13T06:15:19.528262+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "131026012853",
     "title": "Relevance Engineer",
     "url": "https://www.naukri.com/job-listings-relevance-engineer-netcore-cloud-bengaluru-1-to-2-years-131026012853",
@@ -206,16 +196,7 @@
     "company": "Netcore Cloud",
     "location": "Bengaluru",
     "queued_at": "2026-10-13T06:15:19.528262+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "131026012005",
-    "title": "Opearating Engineers",
-    "url": "https://www.naukri.com/job-listings-opearating-engineers-yashaswi-group-pune-1-to-3-years-131026012005",
-    "source": "naukri",
-    "company": "Yashaswi Institute For Skill Development",
-    "location": "Pune(Chakan)",
-    "queued_at": "2026-10-13T06:15:19.528262+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
