@@ -189,48 +189,13 @@
     "status": "queued"
   },
   {
-    "job_id": "131026041633",
-    "title": "Engineer Trainee / Technician Trainee",
-    "url": "https://www.naukri.com/job-listings-engineer-trainee-technician-trainee-aqua-group-coimbatore-0-to-5-years-131026041633",
-    "source": "naukri",
-    "company": "Aqua Group",
-    "location": "Coimbatore(Chettipalayam +2)",
-    "queued_at": "2026-10-13T12:15:18.405100+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "131026040815",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-lektus-infrastructure-pune-1-to-3-years-131026040815",
-    "source": "naukri",
-    "company": "Lektus Infrastructure",
-    "location": "Pune(Magarpatta)",
-    "queued_at": "2026-10-13T12:15:18.405100+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "131026042235",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-tresvista-financial-services-pune-1-to-2-years-131026042235",
-    "source": "naukri",
-    "company": "Tresvista Financial Services",
-    "location": "Pune",
-    "queued_at": "2026-10-13T12:15:18.405100+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "131026012853",
-    "title": "Relevance Engineer",
-    "url": "https://www.naukri.com/job-listings-relevance-engineer-netcore-cloud-bengaluru-1-to-2-years-131026012853",
-    "source": "naukri",
-    "company": "Netcore Cloud",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-13T12:15:18.405100+00:00",
-    "status": "queued",
-    "attempts": 2
+    "job_id": "CiUAL2FckUH-yFtPv1wRXAFaNe2LUQj0UL_hwucdJe7F4NWeChr6EjsA9yzvgihtofa-o7AxNiHtKGIH442aMr08PJNwSMBcJ8LoHsaR6rlhTe-PbIbP58q7eqjRFFBnSwRt-w==_V2",
+    "title": "Software Engineer",
+    "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUH-yFtPv1wRXAFaNe2LUQj0UL_hwucdJe7F4NWeChr6EjsA9yzvgihtofa-o7AxNiHtKGIH442aMr08PJNwSMBcJ8LoHsaR6rlhTe-PbIbP58q7eqjRFFBnSwRt-w%3D%3D_V2&loc=IN&title=Software+Engineer",
+    "source": "google",
+    "level": "Early",
+    "queued_at": "2026-10-13T16:01:27.038778+00:00",
+    "status": "queued"
   },
   {
     "job_id": "131026046519",
@@ -241,18 +206,7 @@
     "location": "Bengaluru",
     "queued_at": "2026-10-13T14:14:59.878645+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "131026500461",
-    "title": "Engineers",
-    "url": "https://www.naukri.com/job-listings-engineers-consulting-beyond-chennai-1-to-4-years-131026500461",
-    "source": "naukri",
-    "company": "Consulting Beyond",
-    "location": "Chennai",
-    "queued_at": "2026-10-13T14:14:59.878645+00:00",
-    "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "131026015306",
@@ -263,15 +217,6 @@
     "location": "Bengaluru",
     "queued_at": "2026-10-13T14:14:59.878645+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "CiUAL2FckUH-yFtPv1wRXAFaNe2LUQj0UL_hwucdJe7F4NWeChr6EjsA9yzvgihtofa-o7AxNiHtKGIH442aMr08PJNwSMBcJ8LoHsaR6rlhTe-PbIbP58q7eqjRFFBnSwRt-w==_V2",
-    "title": "Software Engineer",
-    "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUH-yFtPv1wRXAFaNe2LUQj0UL_hwucdJe7F4NWeChr6EjsA9yzvgihtofa-o7AxNiHtKGIH442aMr08PJNwSMBcJ8LoHsaR6rlhTe-PbIbP58q7eqjRFFBnSwRt-w%3D%3D_V2&loc=IN&title=Software+Engineer",
-    "source": "google",
-    "level": "Early",
-    "queued_at": "2026-10-13T16:01:27.038778+00:00",
-    "status": "queued"
+    "attempts": 2
   }
 ]
