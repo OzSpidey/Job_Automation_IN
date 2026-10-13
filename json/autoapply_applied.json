@@ -8040,5 +8040,104 @@
     "queued_at": "2026-10-13T06:15:19.528262+00:00",
     "status": "applied",
     "applied_at": "2026-10-13T06:16:26.767672+00:00"
+  },
+  {
+    "job_id": "131026016753",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-dream-jobs-staffing-solution-chennai-0-to-3-years-131026016753",
+    "source": "naukri",
+    "company": "Technozis",
+    "location": "Remote",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-13T08:16:25.075250+00:00"
+  },
+  {
+    "job_id": "131026918900",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-tekskills-india-private-limited-hyderabad-1-to-6-years-131026918900",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-13T08:16:46.953704+00:00"
+  },
+  {
+    "job_id": "131026918894",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-tekskills-india-private-limited-mumbai-1-to-6-years-131026918894",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Mumbai",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-13T08:16:56.888088+00:00"
+  },
+  {
+    "job_id": "131026918896",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-tekskills-india-private-limited-bengaluru-1-to-6-years-131026918896",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-13T08:17:06.945563+00:00"
+  },
+  {
+    "job_id": "131026918905",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-tekskills-india-private-limited-delhi-ncr-1-to-6-years-131026918905",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Delhi / NCR",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-13T08:17:16.877262+00:00"
+  },
+  {
+    "job_id": "131026918903",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-tekskills-india-private-limited-chennai-1-to-6-years-131026918903",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Chennai",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-13T08:17:26.756620+00:00"
+  },
+  {
+    "job_id": "131026918899",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-tekskills-india-private-limited-kolkata-1-to-6-years-131026918899",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Kolkata",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-13T08:17:36.638137+00:00"
+  },
+  {
+    "job_id": "131026918897",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-tekskills-india-private-limited-noida-1-to-6-years-131026918897",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Noida",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-13T08:17:46.574540+00:00"
+  },
+  {
+    "job_id": "131026018338",
+    "title": "Software Engineer ENTRY LEVEL",
+    "url": "https://www.naukri.com/job-listings-software-engineer-entry-level-dream-jobs-staffing-solution-hosur-ambur-krishnagiri-0-to-3-years-131026018338",
+    "source": "naukri",
+    "company": "Technozis",
+    "location": "Hosur, Ambur, Krishnagiri",
+    "queued_at": "2026-10-13T08:15:12.329322+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-13T08:18:00.923627+00:00"
   }
 ]
