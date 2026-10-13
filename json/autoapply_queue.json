@@ -209,5 +209,95 @@
     "level": "Early",
     "queued_at": "2026-10-12T16:01:20.717534+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "131026026070",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-dream-jobs-staffing-solution-noida-gurugram-delhi-ncr-0-to-5-years-131026026070",
+    "source": "naukri",
+    "company": "Technozis",
+    "location": "Noida, Gurugram, Delhi / NCR",
+    "queued_at": "2026-10-13T10:15:11.242897+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026031031",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mumbai-0-to-2-years-131026031031",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mumbai",
+    "queued_at": "2026-10-13T10:15:11.242897+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026025100",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-2-years-131026025100",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-10-13T10:15:11.242897+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026025081",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-2-years-131026025081",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-10-13T10:15:11.242897+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026921343",
+    "title": "Custom Software Engineer",
+    "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-1-to-2-years-131026921343",
+    "source": "naukri",
+    "company": "Accenture",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-13T10:15:11.242897+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026500025",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-novisync-solutions-india-private-limited-bengaluru-0-to-2-years-131026500025",
+    "source": "naukri",
+    "company": "Novisync Solutions India",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-13T10:15:11.242897+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026500253",
+    "title": "Sound Engineering & Editing Professional",
+    "url": "https://www.naukri.com/job-listings-sound-engineering-editing-professional-sai-institutes-chennai-1-to-4-years-131026500253",
+    "source": "naukri",
+    "company": "Sai Institutions",
+    "location": "Chennai",
+    "queued_at": "2026-10-13T10:15:11.242897+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026500199",
+    "title": "Performance Testing Engineer",
+    "url": "https://www.naukri.com/job-listings-performance-testing-engineer-crew-kraftorz-llp-hyderabad-1-to-4-years-131026500199",
+    "source": "naukri",
+    "company": "Crew Kraftorz",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-13T10:15:11.242897+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026500198",
+    "title": "Performance Testing Engineer",
+    "url": "https://www.naukri.com/job-listings-performance-testing-engineer-crew-kraftorz-llp-hyderabad-1-to-4-years-131026500198",
+    "source": "naukri",
+    "company": "Crew Kraftorz",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-13T10:15:11.242897+00:00",
+    "status": "queued"
   }
 ]
