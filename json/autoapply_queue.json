@@ -1,5 +1,104 @@
 [
   {
+    "job_id": "131026048954",
+    "title": "IRM-Analyst-RMCC",
+    "url": "https://www.naukri.com/job-listings-irm-analyst-rmcc-hdfc-bank-limited-mumbai-0-to-1-years-131026048954",
+    "source": "naukri",
+    "company": "Hdfc Bank",
+    "location": "Mumbai",
+    "queued_at": "2026-10-13T18:15:57.559062+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "131026041633",
+    "title": "Engineer Trainee / Technician Trainee",
+    "url": "https://www.naukri.com/job-listings-engineer-trainee-technician-trainee-aqua-group-coimbatore-0-to-5-years-131026041633",
+    "source": "naukri",
+    "company": "Aqua Group",
+    "location": "Coimbatore(Chettipalayam +2)",
+    "queued_at": "2026-10-13T18:15:57.559062+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "131026040815",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-lektus-infrastructure-pune-1-to-3-years-131026040815",
+    "source": "naukri",
+    "company": "Lektus Infrastructure",
+    "location": "Pune(Magarpatta)",
+    "queued_at": "2026-10-13T18:15:57.559062+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "131026012853",
+    "title": "Relevance Engineer",
+    "url": "https://www.naukri.com/job-listings-relevance-engineer-netcore-cloud-bengaluru-1-to-2-years-131026012853",
+    "source": "naukri",
+    "company": "Netcore Cloud",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-13T18:15:57.559062+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "131026042235",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-tresvista-financial-services-pune-1-to-2-years-131026042235",
+    "source": "naukri",
+    "company": "Tresvista Financial Services",
+    "location": "Pune",
+    "queued_at": "2026-10-13T18:15:57.559062+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "131026031031",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mumbai-0-to-2-years-131026031031",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mumbai",
+    "queued_at": "2026-10-13T18:15:57.559062+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "131026025100",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-2-years-131026025100",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-10-13T18:15:57.559062+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "131026025081",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-2-years-131026025081",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-10-13T18:15:57.559062+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "141026000362",
+    "title": "AI Software Engineer",
+    "url": "https://www.naukri.com/job-listings-ai-software-engineer-zenera-corporation-hyderabad-0-to-6-years-141026000362",
+    "source": "naukri",
+    "company": "Zenera Corporation",
+    "location": "Remote",
+    "queued_at": "2026-10-13T20:15:29.038320+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -196,104 +295,5 @@
     "level": "Early",
     "queued_at": "2026-10-13T16:01:27.038778+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "131026048954",
-    "title": "IRM-Analyst-RMCC",
-    "url": "https://www.naukri.com/job-listings-irm-analyst-rmcc-hdfc-bank-limited-mumbai-0-to-1-years-131026048954",
-    "source": "naukri",
-    "company": "Hdfc Bank",
-    "location": "Mumbai",
-    "queued_at": "2026-10-13T18:15:57.559062+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "131026041633",
-    "title": "Engineer Trainee / Technician Trainee",
-    "url": "https://www.naukri.com/job-listings-engineer-trainee-technician-trainee-aqua-group-coimbatore-0-to-5-years-131026041633",
-    "source": "naukri",
-    "company": "Aqua Group",
-    "location": "Coimbatore(Chettipalayam +2)",
-    "queued_at": "2026-10-13T18:15:57.559062+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "131026040815",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-lektus-infrastructure-pune-1-to-3-years-131026040815",
-    "source": "naukri",
-    "company": "Lektus Infrastructure",
-    "location": "Pune(Magarpatta)",
-    "queued_at": "2026-10-13T18:15:57.559062+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "131026012853",
-    "title": "Relevance Engineer",
-    "url": "https://www.naukri.com/job-listings-relevance-engineer-netcore-cloud-bengaluru-1-to-2-years-131026012853",
-    "source": "naukri",
-    "company": "Netcore Cloud",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-13T18:15:57.559062+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "131026042235",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-tresvista-financial-services-pune-1-to-2-years-131026042235",
-    "source": "naukri",
-    "company": "Tresvista Financial Services",
-    "location": "Pune",
-    "queued_at": "2026-10-13T18:15:57.559062+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "131026031031",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mumbai-0-to-2-years-131026031031",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Mumbai",
-    "queued_at": "2026-10-13T18:15:57.559062+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "131026025100",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-2-years-131026025100",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-10-13T18:15:57.559062+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "131026025081",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-2-years-131026025081",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Chandigarh",
-    "queued_at": "2026-10-13T18:15:57.559062+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "141026000362",
-    "title": "AI Software Engineer",
-    "url": "https://www.naukri.com/job-listings-ai-software-engineer-zenera-corporation-hyderabad-0-to-6-years-141026000362",
-    "source": "naukri",
-    "company": "Zenera Corporation",
-    "location": "Remote",
-    "queued_at": "2026-10-13T20:15:29.038320+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
