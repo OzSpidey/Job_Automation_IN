@@ -198,50 +198,6 @@
     "status": "queued"
   },
   {
-    "job_id": "141026022106",
-    "title": "NEW.NET Software Developer",
-    "url": "https://www.naukri.com/job-listings-net-software-developer-aon-bengaluru-0-to-1-years-141026022106",
-    "source": "naukri",
-    "company": "Aon",
-    "location": "Hybrid - Bengaluru",
-    "queued_at": "2026-10-14T08:15:08.265693+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "141026019811",
-    "title": "Sales Engineer ( Fresher)",
-    "url": "https://www.naukri.com/job-listings-sales-engineer-fresher-mavitec-recycling-solutions-coimbatore-0-to-5-years-141026019811",
-    "source": "naukri",
-    "company": "Mavitec Recycling Solutions",
-    "location": "Coimbatore(Kovilpalayam)",
-    "queued_at": "2026-10-14T08:15:08.265693+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "141026017714",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-deloitte-shared-services-india-delhi-ncr-1-to-5-years-141026017714",
-    "source": "naukri",
-    "company": "Deloitte Shared Services India",
-    "location": "Delhi / NCR",
-    "queued_at": "2026-10-14T08:15:08.265693+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "141026022236",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-navi-mumbai-1-to-4-years-141026022236",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-10-14T08:15:08.265693+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "141026009993",
     "title": "Deal desk analyst",
     "url": "https://www.naukri.com/job-listings-deal-desk-analyst-cognizant-hyderabad-1-to-6-years-141026009993",
@@ -250,17 +206,7 @@
     "location": "Hyderabad",
     "queued_at": "2026-10-14T10:15:07.758616+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "141026933028",
-    "title": "OIC Software Engineer",
-    "url": "https://www.naukri.com/job-listings-oic-software-engineer-natwest-digital-services-india-pvt-ltd-gurugram-bengaluru-bengaluru-gurugram-1-to-6-years-141026933028",
-    "source": "naukri",
-    "company": "Natwest Digitalx",
-    "location": "Gurugram, Bengaluru, Bengaluru, Gurugram",
-    "queued_at": "2026-10-14T12:15:13.659326+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "141026035392",
@@ -270,7 +216,8 @@
     "company": "Finquant Investech",
     "location": "Chennai",
     "queued_at": "2026-10-14T12:15:13.659326+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "141026033345",
@@ -280,7 +227,8 @@
     "company": "Crescent Techno Solutions",
     "location": "Greater Noida",
     "queued_at": "2026-10-14T12:15:13.659326+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "141026031087",
@@ -290,6 +238,7 @@
     "company": "Sakon",
     "location": "Hybrid - Pune",
     "queued_at": "2026-10-14T12:15:13.659326+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
