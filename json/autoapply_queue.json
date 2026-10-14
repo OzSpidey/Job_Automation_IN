@@ -240,5 +240,35 @@
     "level": "Early",
     "queued_at": "2026-10-13T16:01:27.038778+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "141026930003",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-141026930003",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-14T10:15:07.758616+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "141026930028",
+    "title": "Senior Software Engineer",
+    "url": "https://www.naukri.com/job-listings-senior-software-engineer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-141026930028",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-14T10:15:07.758616+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "141026009993",
+    "title": "Deal desk analyst",
+    "url": "https://www.naukri.com/job-listings-deal-desk-analyst-cognizant-hyderabad-1-to-6-years-141026009993",
+    "source": "naukri",
+    "company": "Cognizant",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-14T10:15:07.758616+00:00",
+    "status": "queued"
   }
 ]
