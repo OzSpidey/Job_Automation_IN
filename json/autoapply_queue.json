@@ -196,16 +196,5 @@
     "level": "Early",
     "queued_at": "2026-10-13T16:01:27.038778+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "141026000362",
-    "title": "AI Software Engineer",
-    "url": "https://www.naukri.com/job-listings-ai-software-engineer-zenera-corporation-hyderabad-0-to-6-years-141026000362",
-    "source": "naukri",
-    "company": "Zenera Corporation",
-    "location": "Remote",
-    "queued_at": "2026-10-13T20:15:29.038320+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
