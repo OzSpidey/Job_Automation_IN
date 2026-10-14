@@ -198,17 +198,6 @@
     "status": "queued"
   },
   {
-    "job_id": "141026000362",
-    "title": "AI Software Engineer",
-    "url": "https://www.naukri.com/job-listings-ai-software-engineer-zenera-corporation-san-francisco-0-to-6-years-141026000362",
-    "source": "naukri",
-    "company": "Zenera Corporation",
-    "location": "Remote",
-    "queued_at": "2026-10-14T16:15:18.542820+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "141026035392",
     "title": "Quant Engineer / Quant Developer",
     "url": "https://www.naukri.com/job-listings-quant-engineer-quant-developer-finquant-investech-chennai-1-to-5-years-141026035392",
@@ -217,7 +206,7 @@
     "location": "Chennai",
     "queued_at": "2026-10-14T18:15:17.701824+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "141026033345",
@@ -228,7 +217,7 @@
     "location": "Greater Noida",
     "queued_at": "2026-10-14T18:15:17.701824+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "141026031087",
@@ -239,6 +228,6 @@
     "location": "Hybrid - Pune",
     "queued_at": "2026-10-14T18:15:17.701824+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
