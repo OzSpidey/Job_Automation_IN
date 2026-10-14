@@ -251,5 +251,45 @@
     "queued_at": "2026-10-14T10:15:07.758616+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "141026933028",
+    "title": "OIC Software Engineer",
+    "url": "https://www.naukri.com/job-listings-oic-software-engineer-natwest-digital-services-india-pvt-ltd-gurugram-bengaluru-bengaluru-gurugram-1-to-6-years-141026933028",
+    "source": "naukri",
+    "company": "Natwest Digitalx",
+    "location": "Gurugram, Bengaluru, Bengaluru, Gurugram",
+    "queued_at": "2026-10-14T12:15:13.659326+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "141026035392",
+    "title": "Quant Engineer / Quant Developer",
+    "url": "https://www.naukri.com/job-listings-quant-engineer-quant-developer-finquant-investech-chennai-1-to-5-years-141026035392",
+    "source": "naukri",
+    "company": "Finquant Investech",
+    "location": "Chennai",
+    "queued_at": "2026-10-14T12:15:13.659326+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "141026033345",
+    "title": "Electrician and Engineer",
+    "url": "https://www.naukri.com/job-listings-electrician-and-engineer-crescent-techno-solutions-greater-noida-1-to-30-years-141026033345",
+    "source": "naukri",
+    "company": "Crescent Techno Solutions",
+    "location": "Greater Noida",
+    "queued_at": "2026-10-14T12:15:13.659326+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "141026031087",
+    "title": "Analyst-Fulfilment",
+    "url": "https://www.naukri.com/job-listings-analyst-fulfilment-sakon-pune-1-to-2-years-141026031087",
+    "source": "naukri",
+    "company": "Sakon",
+    "location": "Hybrid - Pune",
+    "queued_at": "2026-10-14T12:15:13.659326+00:00",
+    "status": "queued"
   }
 ]
