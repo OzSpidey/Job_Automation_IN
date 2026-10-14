@@ -198,27 +198,6 @@
     "status": "queued"
   },
   {
-    "job_id": "141026009993",
-    "title": "Deal desk analyst",
-    "url": "https://www.naukri.com/job-listings-deal-desk-analyst-cognizant-hyderabad-1-to-6-years-141026009993",
-    "source": "naukri",
-    "company": "Cognizant",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-14T04:15:17.260988+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "141026017682",
-    "title": "Hiring: Full Stack Developer-Andheri",
-    "url": "https://www.naukri.com/job-listings-hiring-full-stack-developer-andheri-weavings-manpower-solutions-mumbai-all-areas-1-to-6-years-141026017682",
-    "source": "naukri",
-    "company": "Weavings",
-    "location": "Mumbai (All Areas)",
-    "queued_at": "2026-10-14T08:15:08.265693+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "141026022106",
     "title": "NEW.NET Software Developer",
     "url": "https://www.naukri.com/job-listings-net-software-developer-aon-bengaluru-0-to-1-years-141026022106",
@@ -226,7 +205,8 @@
     "company": "Aon",
     "location": "Hybrid - Bengaluru",
     "queued_at": "2026-10-14T08:15:08.265693+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "141026019811",
@@ -236,7 +216,8 @@
     "company": "Mavitec Recycling Solutions",
     "location": "Coimbatore(Kovilpalayam)",
     "queued_at": "2026-10-14T08:15:08.265693+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "141026017714",
@@ -246,7 +227,8 @@
     "company": "Deloitte Shared Services India",
     "location": "Delhi / NCR",
     "queued_at": "2026-10-14T08:15:08.265693+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "141026022236",
@@ -256,6 +238,7 @@
     "company": "eClerx",
     "location": "Navi Mumbai",
     "queued_at": "2026-10-14T08:15:08.265693+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
