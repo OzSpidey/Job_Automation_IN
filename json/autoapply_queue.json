@@ -205,27 +205,8 @@
     "company": "Maivita",
     "location": "Noida",
     "queued_at": "2026-10-15T08:15:14.349142+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026919159",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-indian-mesh-pvt-ltd-mohali-zirakpur-1-to-2-years-151026919159",
-    "source": "naukri",
-    "company": "Indian Mesh",
-    "location": "Mohali, Zirakpur",
-    "queued_at": "2026-10-15T08:15:14.349142+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026500487",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-sparrow-softech-bokaro-dhanbad-jamshedpur-ranchi-1-to-3-years-151026500487",
-    "source": "naukri",
-    "company": "Sparrow Softech",
-    "location": "Bokaro, Dhanbad, Jamshedpur, Ranchi",
-    "queued_at": "2026-10-15T08:15:14.349142+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "151026015730",
@@ -235,7 +216,8 @@
     "company": "iRage Broking Services LLP",
     "location": "Mumbai (All Areas)",
     "queued_at": "2026-10-15T08:15:14.349142+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "151026018019",
@@ -245,7 +227,8 @@
     "company": "Talent Corner HR Services",
     "location": "Mumbai",
     "queued_at": "2026-10-15T08:15:14.349142+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "151026015820",
@@ -255,6 +238,7 @@
     "company": "eClerx",
     "location": "Navi Mumbai",
     "queued_at": "2026-10-15T08:15:14.349142+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
