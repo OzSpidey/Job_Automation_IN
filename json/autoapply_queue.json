@@ -196,5 +196,15 @@
     "level": "Early",
     "queued_at": "2026-10-13T16:01:27.038778+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "151026034650",
+    "title": "Full Stack Developer (AI-Enabled) Fintech",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-ai-enabled-fintech-bloom-cap-kolkata-1-to-3-years-151026034650",
+    "source": "naukri",
+    "company": "Bloom Cap",
+    "location": "Kolkata(Sector 5 Salt Lake)",
+    "queued_at": "2026-10-15T20:15:18.228235+00:00",
+    "status": "queued"
   }
 ]
