@@ -198,50 +198,6 @@
     "status": "queued"
   },
   {
-    "job_id": "151026019640",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-maivita-noida-0-to-3-years-151026019640",
-    "source": "naukri",
-    "company": "Maivita",
-    "location": "Noida",
-    "queued_at": "2026-10-15T08:15:14.349142+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "151026015730",
-    "title": "Developer Support Engineer",
-    "url": "https://www.naukri.com/job-listings-developer-support-engineer-irage-broking-services-llp-mumbai-all-areas-1-to-3-years-151026015730",
-    "source": "naukri",
-    "company": "iRage Broking Services LLP",
-    "location": "Mumbai (All Areas)",
-    "queued_at": "2026-10-15T08:15:14.349142+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "151026018019",
-    "title": "ERPNext / Frappe developer",
-    "url": "https://www.naukri.com/job-listings-erpnext-frappe-developer-talent-corner-hr-services-mumbai-1-to-6-years-151026018019",
-    "source": "naukri",
-    "company": "Talent Corner HR Services",
-    "location": "Mumbai",
-    "queued_at": "2026-10-15T08:15:14.349142+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "151026015820",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-navi-mumbai-0-to-2-years-151026015820",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-10-15T08:15:14.349142+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "151026027415",
     "title": "Software Developer",
     "url": "https://www.naukri.com/job-listings-software-developer-nxtwave-disruptive-technologies-chennai-0-to-1-years-151026027415",
@@ -249,27 +205,8 @@
     "company": "Nxtwave Disruptive Technologies",
     "location": "Chennai",
     "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026026825",
-    "title": "Engineer- (Freshers)",
-    "url": "https://www.naukri.com/job-listings-engineer-freshers-tata-communications-pune-0-to-1-years-151026026825",
-    "source": "naukri",
-    "company": "Tata Communications",
-    "location": "Pune",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026504434",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-pune-1-to-5-years-151026504434",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Pune",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "151026028802",
@@ -279,27 +216,8 @@
     "company": "eClerx",
     "location": "",
     "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026026492",
-    "title": "Walk-in || Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-r1-rcm-noida-gurugram-1-to-5-years-151026026492",
-    "source": "naukri",
-    "company": "R1 RCM",
-    "location": "",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026504433",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-hyderabad-1-to-5-years-151026504433",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "151026027593",
@@ -309,176 +227,7 @@
     "company": "eClerx",
     "location": "Navi Mumbai",
     "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026501723",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-mastercard-pune-0-to-7-years-151026501723",
-    "source": "naukri",
-    "company": "Mastercard",
-    "location": "Pune",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026501718",
-    "title": "Software Engineer (DevSecOps)",
-    "url": "https://www.naukri.com/job-listings-software-engineer-devsecops-mastercard-pune-0-to-7-years-151026501718",
-    "source": "naukri",
-    "company": "Mastercard",
-    "location": "Pune",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026501467",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-clavrit-chennai-1-to-5-years-151026501467",
-    "source": "naukri",
-    "company": "Clavrit Digital Solutions",
-    "location": "Chennai",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026500964",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-midbrains-technologies-pune-1-to-2-years-151026500964",
-    "source": "naukri",
-    "company": "Midbrains",
-    "location": "Pune",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026500487",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-sparrow-softech-bokaro-dhanbad-jamshedpur-ranchi-1-to-3-years-151026500487",
-    "source": "naukri",
-    "company": "Sparrow Softech",
-    "location": "Bokaro, Dhanbad, Jamshedpur, Ranchi",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026500970",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-midbrains-technologies-pune-1-to-2-years-151026500970",
-    "source": "naukri",
-    "company": "Midbrains",
-    "location": "Pune",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026501851",
-    "title": "Embedded Software Engineer (C/C++)",
-    "url": "https://www.naukri.com/job-listings-embedded-software-engineer-c-c-electrifex-kochi-0-to-3-years-151026501851",
-    "source": "naukri",
-    "company": "Electrifex",
-    "location": "Kochi",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026502100",
-    "title": "Engineer Professional",
-    "url": "https://www.naukri.com/job-listings-engineer-professional-radiant-properties-bengaluru-1-to-4-years-151026502100",
-    "source": "naukri",
-    "company": "Radiant Properties",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026502029",
-    "title": "Biological Engineer",
-    "url": "https://www.naukri.com/job-listings-biological-engineer-lamark-biotech-pune-1-to-4-years-151026502029",
-    "source": "naukri",
-    "company": "Lamark Biotech",
-    "location": "Pune",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026501931",
-    "title": "Engineer-P1",
-    "url": "https://www.naukri.com/job-listings-engineer-p1-jones-lang-lasalle-mumbai-1-to-6-years-151026501931",
-    "source": "naukri",
-    "company": "Jones Lang LaSalle (JLL)",
-    "location": "Mumbai",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026500967",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-midbrains-technologies-pune-1-to-4-years-151026500967",
-    "source": "naukri",
-    "company": "Midbrains",
-    "location": "Pune",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026500897",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-rarefield-engineers-private-limited-chennai-0-to-4-years-151026500897",
-    "source": "naukri",
-    "company": "Rarefield Engineers",
-    "location": "Chennai",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026500788",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-iflowtech-solutions-private-limited-bengaluru-1-to-4-years-151026500788",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026501319",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-barclays-shared-services-pune-0-to-9-years-151026501319",
-    "source": "naukri",
-    "company": "Barclays",
-    "location": "Pune",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026500965",
-    "title": "Mern Developer",
-    "url": "https://www.naukri.com/job-listings-mern-developer-midbrains-technologies-pune-1-to-4-years-151026500965",
-    "source": "naukri",
-    "company": "Midbrains",
-    "location": "Pune",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026501598",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-hyderabad-1-to-5-years-151026501598",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "151026503115",
-    "title": "Embedded Firmware Engineer",
-    "url": "https://www.naukri.com/job-listings-embedded-firmware-engineer-accio-robotics-bengaluru-1-to-3-years-151026503115",
-    "source": "naukri",
-    "company": "Accio Robotics",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-15T12:15:01.999720+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
