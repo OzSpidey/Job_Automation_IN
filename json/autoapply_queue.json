@@ -207,5 +207,35 @@
     "queued_at": "2026-10-16T06:15:07.666379+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "161026500213",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-taphubs-thiruvananthapuram-1-to-2-years-161026500213",
+    "source": "naukri",
+    "company": "Taphubs",
+    "location": "Thiruvananthapuram",
+    "queued_at": "2026-10-16T08:15:25.143600+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161026500205",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-ideas-to-impacts-innovations-pvt-ltd-pune-1-to-4-years-161026500205",
+    "source": "naukri",
+    "company": "Ideas To Impacts Innovation",
+    "location": "Pune",
+    "queued_at": "2026-10-16T08:15:25.143600+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161026913169",
+    "title": "Software Developer - Confluent",
+    "url": "https://www.naukri.com/job-listings-software-developer-confluent-ibm-india-pvt-limited-bengaluru-1-to-3-years-161026913169",
+    "source": "naukri",
+    "company": "IBM",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-16T08:15:25.143600+00:00",
+    "status": "queued"
   }
 ]
