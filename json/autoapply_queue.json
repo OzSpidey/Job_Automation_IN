@@ -198,16 +198,6 @@
     "status": "queued"
   },
   {
-    "job_id": "161026907762",
-    "title": "FP&A Analyst",
-    "url": "https://www.naukri.com/job-listings-fp-a-analyst-pepsico-global-business-services-india-llp-hyderabad-1-to-2-years-161026907762",
-    "source": "naukri",
-    "company": "Pepsico",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-16T06:15:07.666379+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "161026009582",
     "title": "TDL Developer",
     "url": "https://www.naukri.com/job-listings-tdl-developer-cfo-foresight-ahmedabad-1-to-4-years-161026009582",
@@ -215,6 +205,7 @@
     "company": "CFO Foresight",
     "location": "Ahmedabad(Navrangpura)",
     "queued_at": "2026-10-16T06:15:07.666379+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
