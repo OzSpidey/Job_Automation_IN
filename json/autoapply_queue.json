@@ -207,5 +207,165 @@
     "level": "Early",
     "queued_at": "2026-10-13T16:01:27.038778+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "161026019258",
+    "title": "Walk-in || Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-arissa-india-bengaluru-0-to-1-years-161026019258",
+    "source": "naukri",
+    "company": "Arissa India",
+    "location": "",
+    "queued_at": "2026-10-16T10:15:26.331116+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161026501218",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-cofa-studio-multimedia-agency-nashik-1-to-3-years-161026501218",
+    "source": "naukri",
+    "company": "Cofa Studio",
+    "location": "Nashik",
+    "queued_at": "2026-10-16T10:15:26.331116+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161026017156",
+    "title": "Full-stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-krishna-s-herbal-ayurveda-jodhpur-1-to-4-years-161026017156",
+    "source": "naukri",
+    "company": "Krishna's Herbal & Ayurveda",
+    "location": "Jodhpur",
+    "queued_at": "2026-10-16T10:15:26.331116+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161026501317",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-sutherland-global-services-inc-hyderabad-1-to-6-years-161026501317",
+    "source": "naukri",
+    "company": "Sutherland",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-16T10:15:26.331116+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161026500421",
+    "title": "Full Stack Developer (Portal)",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-portal-neutrino-tech-systems-pune-1-to-4-years-161026500421",
+    "source": "naukri",
+    "company": "Neutrino Tech Systems",
+    "location": "Pune",
+    "queued_at": "2026-10-16T10:15:26.331116+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161026501828",
+    "title": "ENGINEERING Professional",
+    "url": "https://www.naukri.com/job-listings-engineering-professional-mmc-consultancy-kolkata-1-to-3-years-161026501828",
+    "source": "naukri",
+    "company": "MMC Consultancy",
+    "location": "Kolkata",
+    "queued_at": "2026-10-16T10:15:26.331116+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161026501233",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-iflowtech-solutions-private-limited-bengaluru-1-to-4-years-161026501233",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-16T10:15:26.331116+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161026501232",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-iflowtech-solutions-private-limited-chennai-1-to-4-years-161026501232",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Chennai",
+    "queued_at": "2026-10-16T10:15:26.331116+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161026501448",
+    "title": "Analyst - Transfer Agency",
+    "url": "https://www.naukri.com/job-listings-analyst-transfer-agency-apex-fund-services-llp-pune-0-to-7-years-161026501448",
+    "source": "naukri",
+    "company": "Apex Group",
+    "location": "Pune",
+    "queued_at": "2026-10-16T10:15:26.331116+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161026501359",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-chennai-1-to-5-years-161026501359",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Chennai",
+    "queued_at": "2026-10-16T10:15:26.331116+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161026501038",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-barclays-shared-services-pune-chennai-0-to-9-years-161026501038",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune, Chennai",
+    "queued_at": "2026-10-16T10:15:26.331116+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161026500606",
+    "title": "Codeignitor Developer",
+    "url": "https://www.naukri.com/job-listings-codeignitor-developer-webdukes-technologies-pvt-ltd-new-delhi-1-to-4-years-161026500606",
+    "source": "naukri",
+    "company": "Webdukes Technologies",
+    "location": "New Delhi",
+    "queued_at": "2026-10-16T10:15:26.331116+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161026500472",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-bengaluru-1-to-5-years-161026500472",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-16T10:15:26.331116+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161026500213",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-taphubs-thiruvananthapuram-1-to-2-years-161026500213",
+    "source": "naukri",
+    "company": "Taphubs",
+    "location": "Thiruvananthapuram",
+    "queued_at": "2026-10-16T10:15:26.331116+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161026500205",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-ideas-to-impacts-innovations-pvt-ltd-pune-1-to-4-years-161026500205",
+    "source": "naukri",
+    "company": "Ideas To Impacts Innovation",
+    "location": "Pune",
+    "queued_at": "2026-10-16T10:15:26.331116+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161026913169",
+    "title": "Software Developer - Confluent",
+    "url": "https://www.naukri.com/job-listings-software-developer-confluent-ibm-india-pvt-limited-bengaluru-1-to-3-years-161026913169",
+    "source": "naukri",
+    "company": "IBM",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-16T10:15:26.331116+00:00",
+    "status": "queued"
   }
 ]
