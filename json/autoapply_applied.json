@@ -8414,5 +8414,38 @@
     "queued_at": "2026-10-16T12:15:08.968319+00:00",
     "status": "applied",
     "applied_at": "2026-10-16T12:16:24.755235+00:00"
+  },
+  {
+    "job_id": "161026026416",
+    "title": "Site Reliability Engineer L1",
+    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-l1-sidgs-digisol-mumbai-all-areas-1-to-3-years-161026026416",
+    "source": "naukri",
+    "company": "Sidgs Digisol",
+    "location": "Mumbai (All Areas)",
+    "queued_at": "2026-10-16T14:15:17.412888+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-16T14:16:25.990168+00:00"
+  },
+  {
+    "job_id": "161026024749",
+    "title": "Model Rocketry Engineer / STEM Tutor",
+    "url": "https://www.naukri.com/job-listings-model-rocketry-engineer-stem-tutor-svspaceunlock-spacetech-mumbai-suburban-0-to-2-years-161026024749",
+    "source": "naukri",
+    "company": "Svspaceunlock Spacetech",
+    "location": "Hybrid - Mumbai Suburban(Goregaon)",
+    "queued_at": "2026-10-16T14:15:17.412888+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-16T14:16:40.417257+00:00"
+  },
+  {
+    "job_id": "161026504404",
+    "title": "Backend Engineering Professional",
+    "url": "https://www.naukri.com/job-listings-backend-engineering-professional-beingmash-services-pvt-ltd-kalburagi-1-to-3-years-161026504404",
+    "source": "naukri",
+    "company": "Beingmash Services",
+    "location": "Kalburagi",
+    "queued_at": "2026-10-16T14:15:17.412888+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-16T14:17:21.382607+00:00"
   }
 ]
