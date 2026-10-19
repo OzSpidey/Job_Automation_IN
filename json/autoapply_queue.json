@@ -1,5 +1,38 @@
 [
   {
+    "job_id": "191026001861",
+    "title": "Production Engineer - Fresher",
+    "url": "https://www.naukri.com/job-listings-production-engineer-fresher-n-p-medical-technologies-pune-0-to-1-years-191026001861",
+    "source": "naukri",
+    "company": "N P Medical Technologies",
+    "location": "Pune(Shirur)",
+    "queued_at": "2026-10-19T06:15:04.343714+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "191026002864",
+    "title": "HPLC Analyst",
+    "url": "https://www.naukri.com/job-listings-hplc-analyst-catalysts-bio-technologies-new-delhi-1-to-3-years-191026002864",
+    "source": "naukri",
+    "company": "Catalysts Bio Technologies",
+    "location": "New Delhi",
+    "queued_at": "2026-10-19T06:15:04.343714+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "191026006924",
+    "title": "Fuel Cell Engineer",
+    "url": "https://www.naukri.com/job-listings-fuel-cell-engineer-hypace-solutions-faridabad-1-to-4-years-191026006924",
+    "source": "naukri",
+    "company": "Hypace Solutions",
+    "location": "Faridabad",
+    "queued_at": "2026-10-19T08:15:09.024218+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -196,38 +229,5 @@
     "level": "Early",
     "queued_at": "2026-10-13T16:01:27.038778+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "191026001861",
-    "title": "Production Engineer - Fresher",
-    "url": "https://www.naukri.com/job-listings-production-engineer-fresher-n-p-medical-technologies-pune-0-to-1-years-191026001861",
-    "source": "naukri",
-    "company": "N P Medical Technologies",
-    "location": "Pune(Shirur)",
-    "queued_at": "2026-10-19T06:15:04.343714+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "191026002864",
-    "title": "HPLC Analyst",
-    "url": "https://www.naukri.com/job-listings-hplc-analyst-catalysts-bio-technologies-new-delhi-1-to-3-years-191026002864",
-    "source": "naukri",
-    "company": "Catalysts Bio Technologies",
-    "location": "New Delhi",
-    "queued_at": "2026-10-19T06:15:04.343714+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "191026006924",
-    "title": "Fuel Cell Engineer",
-    "url": "https://www.naukri.com/job-listings-fuel-cell-engineer-hypace-solutions-faridabad-1-to-4-years-191026006924",
-    "source": "naukri",
-    "company": "Hypace Solutions",
-    "location": "Faridabad",
-    "queued_at": "2026-10-19T08:15:09.024218+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
