@@ -8480,5 +8480,38 @@
     "queued_at": "2026-10-19T08:15:09.024218+00:00",
     "status": "applied",
     "applied_at": "2026-10-19T08:16:37.351238+00:00"
+  },
+  {
+    "job_id": "191026910952",
+    "title": "Senior Software Engineer",
+    "url": "https://www.naukri.com/job-listings-senior-software-engineer-capgemini-technology-services-india-limited-bengaluru-bengaluru-1-to-6-years-191026910952",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru, Bengaluru",
+    "queued_at": "2026-10-19T12:14:54.638369+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-19T12:15:53.777799+00:00"
+  },
+  {
+    "job_id": "191026012479",
+    "title": "Walk-in || Python Software Developer",
+    "url": "https://www.naukri.com/job-listings-python-software-developer-mangalam-placement-mumbai-all-areas-0-to-2-years-191026012479",
+    "source": "naukri",
+    "company": "Mangalam Placement",
+    "location": "",
+    "queued_at": "2026-10-19T12:14:54.638369+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-19T12:16:03.780292+00:00"
+  },
+  {
+    "job_id": "191026910911",
+    "title": "BSP Developer",
+    "url": "https://www.naukri.com/job-listings-bsp-developer-capgemini-technology-services-india-limited-bengaluru-bengaluru-1-to-6-years-191026910911",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru, Bengaluru",
+    "queued_at": "2026-10-19T12:14:54.638369+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-19T12:16:13.731194+00:00"
   }
 ]
