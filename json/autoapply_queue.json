@@ -196,16 +196,5 @@
     "level": "Early",
     "queued_at": "2026-10-13T16:01:27.038778+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "191026006924",
-    "title": "Fuel Cell Engineer",
-    "url": "https://www.naukri.com/job-listings-fuel-cell-engineer-hypace-solutions-faridabad-1-to-4-years-191026006924",
-    "source": "naukri",
-    "company": "Hypace Solutions",
-    "location": "Faridabad",
-    "queued_at": "2026-10-19T14:15:12.091243+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
