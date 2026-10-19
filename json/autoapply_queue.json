@@ -218,5 +218,35 @@
     "queued_at": "2026-10-19T06:15:04.343714+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "191026006924",
+    "title": "Fuel Cell Engineer",
+    "url": "https://www.naukri.com/job-listings-fuel-cell-engineer-hypace-solutions-faridabad-1-to-4-years-191026006924",
+    "source": "naukri",
+    "company": "Hypace Solutions",
+    "location": "Faridabad",
+    "queued_at": "2026-10-19T08:15:09.024218+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "191026005287",
+    "title": "Software Engineer, developer / Programmer, 2026 graduate Can apply",
+    "url": "https://www.naukri.com/job-listings-software-engineer-developer-programmer-2026-graduate-can-apply-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-5-years-191026005287",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-10-19T08:15:09.024218+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "191026903673",
+    "title": "Software Developer - Confluent",
+    "url": "https://www.naukri.com/job-listings-software-developer-confluent-ibm-india-pvt-limited-bengaluru-1-to-3-years-191026903673",
+    "source": "naukri",
+    "company": "IBM",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-19T08:15:09.024218+00:00",
+    "status": "queued"
   }
 ]
