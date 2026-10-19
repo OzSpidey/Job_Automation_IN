@@ -8513,5 +8513,60 @@
     "queued_at": "2026-10-19T12:14:54.638369+00:00",
     "status": "applied",
     "applied_at": "2026-10-19T12:16:13.731194+00:00"
+  },
+  {
+    "job_id": "191026018424",
+    "title": "Software Engineer Freshers",
+    "url": "https://www.naukri.com/job-listings-software-engineer-freshers-netm-corporate-solutions-hyderabad-chennai-bengaluru-0-to-1-years-191026018424",
+    "source": "naukri",
+    "company": "NetM Corporate Solutions",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-10-19T14:15:12.091243+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-19T14:16:30.568323+00:00"
+  },
+  {
+    "job_id": "191026016788",
+    "title": "Dimensional Engineer",
+    "url": "https://www.naukri.com/job-listings-dimensional-engineer-omnex-pune-1-to-2-years-191026016788",
+    "source": "naukri",
+    "company": "Omnex",
+    "location": "Pune",
+    "queued_at": "2026-10-19T14:15:12.091243+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-19T14:17:04.108742+00:00"
+  },
+  {
+    "job_id": "191026914443",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-ecolab-global-services-private-limited-bengaluru-1-to-4-years-191026914443",
+    "source": "naukri",
+    "company": "Ecolab Global Services",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-19T14:15:12.091243+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-19T14:17:34.077048+00:00"
+  },
+  {
+    "job_id": "191026914001",
+    "title": "Senior Site Reliability Engineer - Support",
+    "url": "https://www.naukri.com/job-listings-senior-site-reliability-engineer-support-fis-global-business-solutions-india-pvt-ltd-pune-bengaluru-1-to-6-years-191026914001",
+    "source": "naukri",
+    "company": "FIS",
+    "location": "Pune, Bengaluru",
+    "queued_at": "2026-10-19T14:15:12.091243+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-19T14:17:49.209399+00:00"
+  },
+  {
+    "job_id": "191026914177",
+    "title": "Palantir Developer",
+    "url": "https://www.naukri.com/job-listings-palantir-developer-techstar-software-development-india-pvt-ltd-hyderabad-0-to-5-years-191026914177",
+    "source": "naukri",
+    "company": "Techstar Group",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-19T14:15:12.091243+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-19T14:19:06.098944+00:00"
   }
 ]
