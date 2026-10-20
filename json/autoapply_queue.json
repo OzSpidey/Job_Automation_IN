@@ -218,5 +218,15 @@
     "queued_at": "2026-10-20T12:15:05.915911+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "201026010621",
+    "title": "Software Development Engineer (SDE)",
+    "url": "https://www.naukri.com/job-listings-software-development-engineer-sde-bct-consulting-chennai-1-to-5-years-201026010621",
+    "source": "naukri",
+    "company": "Bct Consulting",
+    "location": "Chennai",
+    "queued_at": "2026-10-20T14:15:12.097271+00:00",
+    "status": "queued"
   }
 ]
