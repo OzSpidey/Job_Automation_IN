@@ -196,5 +196,35 @@
     "level": "Early",
     "queued_at": "2026-10-13T16:01:27.038778+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "301125000131",
+    "title": "Walk-in Interview For Software Developer",
+    "url": "https://www.naukri.com/job-listings-walk-in-interview-for-software-developer-aadasteck-chennai-0-to-2-years-301125000131",
+    "source": "naukri",
+    "company": "Aadasteck",
+    "location": "",
+    "queued_at": "2026-10-20T12:15:05.915911+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201026010159",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-3-years-201026010159",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-10-20T12:15:05.915911+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201026010419",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-xceedance-noida-0-to-2-years-201026010419",
+    "source": "naukri",
+    "company": "Xceedance",
+    "location": "Noida",
+    "queued_at": "2026-10-20T12:15:05.915911+00:00",
+    "status": "queued"
   }
 ]
