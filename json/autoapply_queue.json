@@ -206,7 +206,7 @@
     "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-10-20T12:15:05.915911+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "201026010419",
@@ -217,7 +217,7 @@
     "location": "Noida",
     "queued_at": "2026-10-20T12:15:05.915911+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "201026010621",
@@ -227,6 +227,7 @@
     "company": "Bct Consulting",
     "location": "Chennai",
     "queued_at": "2026-10-20T14:15:12.097271+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
