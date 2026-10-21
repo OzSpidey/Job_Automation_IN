@@ -1,16 +1,5 @@
 [
   {
-    "job_id": "211026005833",
-    "title": "Software Development Engineer",
-    "url": "https://www.naukri.com/job-listings-software-development-engineer-bigarc-analytica-kolkata-0-to-2-years-211026005833",
-    "source": "naukri",
-    "company": "Bigarc Analytica",
-    "location": "Kolkata(Salt Lake)",
-    "queued_at": "2026-10-21T06:16:40.859151+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -206,36 +195,6 @@
     "source": "google",
     "level": "Early",
     "queued_at": "2026-10-13T16:01:27.038778+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "211026013040",
-    "title": "Hiring For All Engineers",
-    "url": "https://www.naukri.com/job-listings-hiring-for-all-engineers-oneclick-manpower-navi-mumbai-hyderabad-chennai-bengaluru-0-to-5-years-211026013040",
-    "source": "naukri",
-    "company": "Oneclick Manpower Navi Mumbai",
-    "location": "Hyderabad, Chennai, Bengaluru",
-    "queued_at": "2026-10-21T10:15:07.846660+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "211026500237",
-    "title": "EKL Developer",
-    "url": "https://www.naukri.com/job-listings-ekl-developer-brigosha-technologies-bengaluru-0-to-3-years-211026500237",
-    "source": "naukri",
-    "company": "Brigosha Technologies",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-21T10:15:07.846660+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "211026500709",
-    "title": "Design Verification Engineer",
-    "url": "https://www.naukri.com/job-listings-design-verification-engineer-texas-instruments-india-ltd-bengaluru-1-to-6-years-211026500709",
-    "source": "naukri",
-    "company": "Texas Instruments",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-21T10:15:07.846660+00:00",
     "status": "queued"
   }
 ]
