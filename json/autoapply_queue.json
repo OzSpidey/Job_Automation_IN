@@ -207,5 +207,175 @@
     "queued_at": "2026-10-21T14:15:19.396088+00:00",
     "status": "queued",
     "attempts": 2
+  },
+  {
+    "job_id": "040826014583",
+    "title": "Software Development Engineer",
+    "url": "https://www.naukri.com/job-listings-software-development-engineer-nxtwave-disruptive-technologies-hyderabad-1-to-2-years-040826014583",
+    "source": "naukri",
+    "company": "Nxtwave Disruptive Technologies",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-21T18:15:43.695566+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "211026026240",
+    "title": "Walk-in || Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-r1-rcm-noida-gurugram-0-to-3-years-211026026240",
+    "source": "naukri",
+    "company": "R1 RCM",
+    "location": "",
+    "queued_at": "2026-10-21T18:15:43.695566+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "211026502322",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-0-to-5-years-211026502322",
+    "source": "naukri",
+    "company": "Cisco",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-21T18:15:43.695566+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "211026501212",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-neotechie-private-limited-noida-0-to-5-years-211026501212",
+    "source": "naukri",
+    "company": "Neotechie",
+    "location": "Noida",
+    "queued_at": "2026-10-21T18:15:43.695566+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "211026005833",
+    "title": "Software Development Engineer",
+    "url": "https://www.naukri.com/job-listings-software-development-engineer-bigarc-analytica-kolkata-0-to-2-years-211026005833",
+    "source": "naukri",
+    "company": "Bigarc Analytica",
+    "location": "Kolkata(Salt Lake)",
+    "queued_at": "2026-10-21T18:15:43.695566+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "211026500956",
+    "title": "Full stack developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-aadvik-tech-jaipur-1-to-3-years-211026500956",
+    "source": "naukri",
+    "company": "Aadvik Tech",
+    "location": "Jaipur",
+    "queued_at": "2026-10-21T18:15:43.695566+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "211026502189",
+    "title": "Java Developer + AI",
+    "url": "https://www.naukri.com/job-listings-java-developer-ai-zensar-technologies-bengaluru-1-to-4-years-211026502189",
+    "source": "naukri",
+    "company": "Zensar",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-21T18:15:43.695566+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "211026501358",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-curis-technologies-private-limited-ahmedabad-1-to-4-years-211026501358",
+    "source": "naukri",
+    "company": "Curis Technologies",
+    "location": "Ahmedabad",
+    "queued_at": "2026-10-21T18:15:43.695566+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "211026501349",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-curis-technologies-private-limited-mumbai-1-to-15-years-211026501349",
+    "source": "naukri",
+    "company": "Curis Technologies",
+    "location": "Mumbai",
+    "queued_at": "2026-10-21T18:15:43.695566+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "211026919040",
+    "title": "Python Developer - Agentic AI / LLM / RAG Engineer",
+    "url": "https://www.naukri.com/job-listings-python-developer-agentic-ai-llm-rag-engineer-infosys-limited-bengaluru-1-to-6-years-211026919040",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-21T18:15:43.695566+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "211026503015",
+    "title": "Website Engineer",
+    "url": "https://www.naukri.com/job-listings-website-engineer-leena-ai-bengaluru-1-to-3-years-211026503015",
+    "source": "naukri",
+    "company": "Leena Ai",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-21T18:15:43.695566+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "211026501791",
+    "title": "AEP Engineer",
+    "url": "https://www.naukri.com/job-listings-aep-engineer-zensar-technologies-bengaluru-1-to-6-years-211026501791",
+    "source": "naukri",
+    "company": "Zensar",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-21T18:15:43.695566+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "211026501624",
+    "title": "SRE Engineer",
+    "url": "https://www.naukri.com/job-listings-sre-engineer-winjit-technologies-pvt-ltd-hyderabad-0-to-1-years-211026501624",
+    "source": "naukri",
+    "company": "Winjit Technologies",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-21T18:15:43.695566+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "211026501404",
+    "title": "Server Engineer ( Fresher )",
+    "url": "https://www.naukri.com/job-listings-server-engineer-fresher-accveil-solutions-private-limited-bhubaneswar-0-to-1-years-211026501404",
+    "source": "naukri",
+    "company": "Accveil Solutions",
+    "location": "Bhubaneswar",
+    "queued_at": "2026-10-21T18:15:43.695566+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "211026502065",
+    "title": "Analyst - Transfer Agency",
+    "url": "https://www.naukri.com/job-listings-analyst-transfer-agency-apex-fund-services-llp-pune-0-to-8-years-211026502065",
+    "source": "naukri",
+    "company": "Apex Group",
+    "location": "Pune",
+    "queued_at": "2026-10-21T18:15:43.695566+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "211026500237",
+    "title": "EKL Developer",
+    "url": "https://www.naukri.com/job-listings-ekl-developer-brigosha-technologies-bengaluru-0-to-3-years-211026500237",
+    "source": "naukri",
+    "company": "Brigosha Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-21T18:15:43.695566+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "211026500709",
+    "title": "Design Verification Engineer",
+    "url": "https://www.naukri.com/job-listings-design-verification-engineer-texas-instruments-india-ltd-bengaluru-1-to-6-years-211026500709",
+    "source": "naukri",
+    "company": "Texas Instruments",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-21T18:15:43.695566+00:00",
+    "status": "queued"
   }
 ]
