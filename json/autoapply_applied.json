@@ -8612,5 +8612,60 @@
     "queued_at": "2026-10-21T12:15:46.202605+00:00",
     "status": "applied",
     "applied_at": "2026-10-21T12:17:42.221026+00:00"
+  },
+  {
+    "job_id": "211026922179",
+    "title": "Manager, Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-manager-site-reliability-engineer-okta-identity-india-private-limited-bengaluru-0-to-3-years-211026922179",
+    "source": "naukri",
+    "company": "Okta",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-21T14:15:19.396088+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-21T14:16:49.090710+00:00"
+  },
+  {
+    "job_id": "211026922094",
+    "title": "Manager, Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-manager-site-reliability-engineer-okta-identity-india-private-limited-bengaluru-0-to-3-years-211026922094",
+    "source": "naukri",
+    "company": "Okta",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-21T14:15:19.396088+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-21T14:16:59.270732+00:00"
+  },
+  {
+    "job_id": "290724004006",
+    "title": "Walk-in || System Admin,System Service Engineer - Freshers",
+    "url": "https://www.naukri.com/job-listings-system-admin-system-service-engineer-freshers-boovan-tech-chennai-0-to-1-years-290724004006",
+    "source": "naukri",
+    "company": "Boovan Tech",
+    "location": "",
+    "queued_at": "2026-10-21T14:15:19.396088+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-21T14:17:09.093285+00:00"
+  },
+  {
+    "job_id": "211026922639",
+    "title": "Guidewire Engineer",
+    "url": "https://www.naukri.com/job-listings-guidewire-engineer-capgemini-technology-services-india-limited-hyderabad-1-to-6-years-211026922639",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-21T14:15:19.396088+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-21T14:17:19.184030+00:00"
+  },
+  {
+    "job_id": "211026922573",
+    "title": "Guidewire Engineer",
+    "url": "https://www.naukri.com/job-listings-guidewire-engineer-capgemini-technology-services-india-limited-hyderabad-1-to-6-years-211026922573",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-21T14:15:19.396088+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-21T14:17:29.187237+00:00"
   }
 ]
