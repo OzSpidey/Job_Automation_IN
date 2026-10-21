@@ -1,38 +1,5 @@
 [
   {
-    "job_id": "040826014583",
-    "title": "Software Development Engineer",
-    "url": "https://www.naukri.com/job-listings-software-development-engineer-nxtwave-disruptive-technologies-hyderabad-1-to-2-years-040826014583",
-    "source": "naukri",
-    "company": "Nxtwave Disruptive Technologies",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-21T18:15:43.695566+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "211026005833",
-    "title": "Software Development Engineer",
-    "url": "https://www.naukri.com/job-listings-software-development-engineer-bigarc-analytica-kolkata-0-to-2-years-211026005833",
-    "source": "naukri",
-    "company": "Bigarc Analytica",
-    "location": "Kolkata(Salt Lake)",
-    "queued_at": "2026-10-21T18:15:43.695566+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "211026919040",
-    "title": "Python Developer - Agentic AI / LLM / RAG Engineer",
-    "url": "https://www.naukri.com/job-listings-python-developer-agentic-ai-llm-rag-engineer-infosys-limited-bengaluru-1-to-6-years-211026919040",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-21T18:15:43.695566+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -238,7 +205,8 @@
     "company": "eClerx",
     "location": "Pune",
     "queued_at": "2026-10-21T22:15:08.255950+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "140826016937",
@@ -248,7 +216,8 @@
     "company": "eClerx",
     "location": "Coimbatore",
     "queued_at": "2026-10-21T22:15:08.255950+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "140826000030",
@@ -258,7 +227,8 @@
     "company": "eClerx",
     "location": "Mohali",
     "queued_at": "2026-10-21T22:15:08.255950+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "140726034145",
@@ -268,6 +238,7 @@
     "company": "eClerx",
     "location": "Pune",
     "queued_at": "2026-10-21T22:15:08.255950+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
