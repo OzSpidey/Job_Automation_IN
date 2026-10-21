@@ -206,7 +206,7 @@
     "location": "Hyderabad",
     "queued_at": "2026-10-21T18:15:43.695566+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "211026005833",
@@ -217,7 +217,7 @@
     "location": "Kolkata(Salt Lake)",
     "queued_at": "2026-10-21T18:15:43.695566+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "211026919040",
@@ -228,17 +228,6 @@
     "location": "Bengaluru",
     "queued_at": "2026-10-21T18:15:43.695566+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "211026502065",
-    "title": "Analyst - Transfer Agency",
-    "url": "https://www.naukri.com/job-listings-analyst-transfer-agency-apex-fund-services-llp-pune-0-to-8-years-211026502065",
-    "source": "naukri",
-    "company": "Apex Group",
-    "location": "Pune",
-    "queued_at": "2026-10-21T18:15:43.695566+00:00",
-    "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
