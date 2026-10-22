@@ -198,17 +198,6 @@
     "status": "queued"
   },
   {
-    "job_id": "221026025980",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-2-years-221026025980",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-10-22T12:15:46.687810+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "201026010159",
     "title": "C++",
     "url": "https://www.naukri.com/job-listings-c-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-3-years-201026010159",
@@ -217,7 +206,7 @@
     "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-10-22T14:23:40.891197+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "221026035307",
@@ -227,117 +216,8 @@
     "company": "Infosys",
     "location": "Hybrid - Chennai, Bengaluru",
     "queued_at": "2026-10-22T16:15:03.827020+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "221026505536",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-cloudstakes-technology-pvt-ltd-remote-1-to-3-years-221026505536",
-    "source": "naukri",
-    "company": "CloudStakes",
-    "location": "Remote",
-    "queued_at": "2026-10-22T16:15:03.827020+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "221026504998",
-    "title": "C++ Developer (InstallShield)- RA",
-    "url": "https://www.naukri.com/job-listings-c-developer-installshield-ra-ncircle-tech-careers-dadra-nagar-haveli-1-to-2-years-221026504998",
-    "source": "naukri",
-    "company": "Ncircle Tech",
-    "location": "Dadra & Nagar Haveli",
-    "queued_at": "2026-10-22T16:15:03.827020+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "221026505145",
-    "title": "Software Engineer - Trainee",
-    "url": "https://www.naukri.com/job-listings-software-engineer-trainee-t-systems-ict-india-pvt-ltd-pune-0-to-1-years-221026505145",
-    "source": "naukri",
-    "company": "T-Systems ICT India Pvt Ltd",
-    "location": "Pune",
-    "queued_at": "2026-10-22T16:15:03.827020+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "221026503363",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-ingersoll-rand-india-limited-bengaluru-1-to-3-years-221026503363",
-    "source": "naukri",
-    "company": "Ingersoll Rand",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-22T16:15:03.827020+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "221026503104",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-meril-pardi-1-to-3-years-221026503104",
-    "source": "naukri",
-    "company": "Meril",
-    "location": "Pardi",
-    "queued_at": "2026-10-22T16:15:03.827020+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "221026503520",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-merck-group-bengaluru-1-to-2-years-221026503520",
-    "source": "naukri",
-    "company": "Merck",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-22T16:15:03.827020+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "221026502171",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-glow-networks-new-delhi-1-to-4-years-221026502171",
-    "source": "naukri",
-    "company": "Glow Networks",
-    "location": "New Delhi",
-    "queued_at": "2026-10-22T16:15:03.827020+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "221026500082",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-techno-softwares-jaipur-0-to-5-years-221026500082",
-    "source": "naukri",
-    "company": "Techno Softwares",
-    "location": "Jaipur",
-    "queued_at": "2026-10-22T16:15:03.827020+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "221026500975",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-iflowtech-solutions-private-limited-bengaluru-1-to-4-years-221026500975",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-22T16:15:03.827020+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "221026917955",
-    "title": "Software Developer - Confluent",
-    "url": "https://www.naukri.com/job-listings-software-developer-confluent-ibm-india-pvt-limited-bengaluru-1-to-3-years-221026917955",
-    "source": "naukri",
-    "company": "IBM",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-22T16:15:03.827020+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "221026500505",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-yeko-enterprises-krishnagiri-1-to-5-years-221026500505",
-    "source": "naukri",
-    "company": "Yeko Enterprises",
-    "location": "Krishnagiri",
-    "queued_at": "2026-10-22T16:15:03.827020+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "221026023170",
@@ -347,36 +227,7 @@
     "company": "Dheeraj Engineers & Contractors",
     "location": "Tikamgarh",
     "queued_at": "2026-10-22T16:15:03.827020+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "221026502098",
-    "title": "Elixir Developer",
-    "url": "https://www.naukri.com/job-listings-elixir-developer-jetbro-ahmedabad-1-to-3-years-221026502098",
-    "source": "naukri",
-    "company": "Jetbro",
-    "location": "Ahmedabad",
-    "queued_at": "2026-10-22T16:15:03.827020+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "221026501925",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-uniqus-gurugram-0-to-4-years-221026501925",
-    "source": "naukri",
-    "company": "Uniqus",
-    "location": "Gurugram",
-    "queued_at": "2026-10-22T16:15:03.827020+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "221026500732",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-hyderabad-1-to-5-years-221026500732",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-22T16:15:03.827020+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
