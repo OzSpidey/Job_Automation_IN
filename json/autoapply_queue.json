@@ -196,49 +196,5 @@
     "level": "Early",
     "queued_at": "2026-10-13T16:01:27.038778+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "140826031917",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-2-years-140826031917",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-10-21T22:15:08.255950+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "140826016937",
-    "title": "Analyst GD - VMG",
-    "url": "https://www.naukri.com/job-listings-analyst-gd-vmg-eclerx-services-ltd-coimbatore-0-to-2-years-140826016937",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Coimbatore",
-    "queued_at": "2026-10-21T22:15:08.255950+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "140826000030",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mohali-0-to-2-years-140826000030",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Mohali",
-    "queued_at": "2026-10-21T22:15:08.255950+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "140726034145",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-2-years-140726034145",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-10-21T22:15:08.255950+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
