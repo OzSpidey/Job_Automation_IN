@@ -196,5 +196,35 @@
     "level": "Early",
     "queued_at": "2026-10-13T16:01:27.038778+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "221026013920",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-221026013920",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-10-22T08:15:55.293288+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "221026917955",
+    "title": "Software Developer - Confluent",
+    "url": "https://www.naukri.com/job-listings-software-developer-confluent-ibm-india-pvt-limited-bengaluru-1-to-3-years-221026917955",
+    "source": "naukri",
+    "company": "IBM",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-22T08:15:55.293288+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "071026028553",
+    "title": "Sales Engineer Fresher",
+    "url": "https://www.naukri.com/job-listings-sales-engineer-fresher-gmmco-gandhidham-rajkot-surat-0-to-1-years-071026028553",
+    "source": "naukri",
+    "company": "Gmmco",
+    "location": "Gandhidham, Rajkot, Surat",
+    "queued_at": "2026-10-22T08:15:55.293288+00:00",
+    "status": "queued"
   }
 ]
