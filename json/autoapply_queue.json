@@ -206,7 +206,7 @@
     "location": "Pune",
     "queued_at": "2026-10-21T22:15:08.255950+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "140826016937",
@@ -217,7 +217,7 @@
     "location": "Coimbatore",
     "queued_at": "2026-10-21T22:15:08.255950+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "140826000030",
@@ -228,7 +228,7 @@
     "location": "Mohali",
     "queued_at": "2026-10-21T22:15:08.255950+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "140726034145",
@@ -239,6 +239,6 @@
     "location": "Pune",
     "queued_at": "2026-10-21T22:15:08.255950+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
