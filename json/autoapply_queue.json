@@ -198,28 +198,6 @@
     "status": "queued"
   },
   {
-    "job_id": "221026035307",
-    "title": "C++ developer 2026",
-    "url": "https://www.naukri.com/job-listings-c-developer-2026-infosys-chennai-bengaluru-1-to-3-years-221026035307",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hybrid - Chennai, Bengaluru",
-    "queued_at": "2026-10-22T16:15:03.827020+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "221026023170",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-dheeraj-engineers-contractors-tikamgarh-1-to-6-years-221026023170",
-    "source": "naukri",
-    "company": "Dheeraj Engineers & Contractors",
-    "location": "Tikamgarh",
-    "queued_at": "2026-10-22T16:15:03.827020+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "221026036140",
     "title": "Growth Engineer",
     "url": "https://www.naukri.com/job-listings-growth-engineer-nayberry-chandigarh-0-to-5-years-221026036140",
@@ -228,6 +206,6 @@
     "location": "Hybrid - Chandigarh",
     "queued_at": "2026-10-22T18:15:12.136252+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
