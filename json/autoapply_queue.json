@@ -218,5 +218,85 @@
     "level": "Early",
     "queued_at": "2026-10-13T16:01:27.038778+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "231026924645",
+    "title": "Python/AI Developer",
+    "url": "https://www.naukri.com/job-listings-python-ai-developer-honeybee-tech-solutions-pune-1-to-3-years-231026924645",
+    "source": "naukri",
+    "company": "Honeybee Tech Solutions",
+    "location": "Pune",
+    "queued_at": "2026-10-23T10:15:16.676669+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "231026924631",
+    "title": "Python/AI Developer",
+    "url": "https://www.naukri.com/job-listings-python-ai-developer-honeybee-tech-solutions-pimpri-chinchwad-pune-1-to-3-years-231026924631",
+    "source": "naukri",
+    "company": "Honeybee Tech Solutions",
+    "location": "Pimpri-Chinchwad, Pune",
+    "queued_at": "2026-10-23T10:15:16.676669+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "231026922050",
+    "title": "C++ Developer",
+    "url": "https://www.naukri.com/job-listings-c-developer-infosys-limited-bengaluru-1-to-2-years-231026922050",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-23T10:15:16.676669+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "231026022275",
+    "title": "C++ developer",
+    "url": "https://www.naukri.com/job-listings-c-developer-infosys-chennai-bengaluru-1-to-3-years-231026022275",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Chennai, Bengaluru",
+    "queued_at": "2026-10-23T10:15:16.676669+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "221026035307",
+    "title": "C++ developer 2026",
+    "url": "https://www.naukri.com/job-listings-c-developer-2026-infosys-chennai-bengaluru-1-to-3-years-221026035307",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Chennai, Bengaluru",
+    "queued_at": "2026-10-23T10:15:16.676669+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "231026923107",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-qualcomm-india-pvt-ltd-hyderabad-1-to-4-years-231026923107",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-23T10:15:16.676669+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "231026925056",
+    "title": "Thermal and Limits Management, Power Performance Engineer, Staff",
+    "url": "https://www.naukri.com/job-listings-thermal-and-limits-management-power-performance-engineer-staff-qualcomm-india-pvt-ltd-bengaluru-1-to-4-years-231026925056",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-23T10:15:16.676669+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "231026021243",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-gra-enterprises-chennai-chennai-0-to-2-years-231026021243",
+    "source": "naukri",
+    "company": "Gra Enterprises Chennai",
+    "location": "Hybrid - Chennai",
+    "queued_at": "2026-10-23T10:15:16.676669+00:00",
+    "status": "queued"
   }
 ]
