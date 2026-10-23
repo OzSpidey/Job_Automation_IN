@@ -1,5 +1,27 @@
 [
   {
+    "job_id": "231026015207",
+    "title": "Hiring For AI Data Engineer - Fresher",
+    "url": "https://www.naukri.com/job-listings-hiring-for-ai-data-engineer-fresher-inlogic-technologies-chennai-0-to-1-years-231026015207",
+    "source": "naukri",
+    "company": "Inlogic Technologies",
+    "location": "Chennai",
+    "queued_at": "2026-10-23T06:15:22.951784+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "231026020276",
+    "title": "Software Engineer/AI Developer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-ai-developer-vipany-global-hyderabad-0-to-2-years-231026020276",
+    "source": "naukri",
+    "company": "Vipany Global Solutions Pvt Ltd",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-23T08:24:01.561081+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -196,27 +218,5 @@
     "level": "Early",
     "queued_at": "2026-10-13T16:01:27.038778+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "231026015207",
-    "title": "Hiring For AI Data Engineer - Fresher",
-    "url": "https://www.naukri.com/job-listings-hiring-for-ai-data-engineer-fresher-inlogic-technologies-chennai-0-to-1-years-231026015207",
-    "source": "naukri",
-    "company": "Inlogic Technologies",
-    "location": "Chennai",
-    "queued_at": "2026-10-23T06:15:22.951784+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "231026020276",
-    "title": "Software Engineer/AI Developer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-ai-developer-vipany-global-hyderabad-0-to-2-years-231026020276",
-    "source": "naukri",
-    "company": "Vipany Global Solutions Pvt Ltd",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-23T08:24:01.561081+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
