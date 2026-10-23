@@ -1,5 +1,38 @@
 [
   {
+    "job_id": "231026034131",
+    "title": "AI Python Developer",
+    "url": "https://www.naukri.com/job-listings-ai-python-developer-techolution-india-1-to-5-years-231026034131",
+    "source": "naukri",
+    "company": "Techolution",
+    "location": "Remote",
+    "queued_at": "2026-10-23T18:15:33.153008+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "231026027969",
+    "title": "Loan Analyst - Syndicated and Bilateral",
+    "url": "https://www.naukri.com/job-listings-loan-analyst-syndicated-and-bilateral-mizuho-global-services-chennai-1-to-4-years-231026027969",
+    "source": "naukri",
+    "company": "Mizuho Global Services",
+    "location": "Chennai(Perungudi)",
+    "queued_at": "2026-10-23T18:15:33.153008+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "231026027501",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-crisil-limited-mumbai-0-to-3-years-231026027501",
+    "source": "naukri",
+    "company": "Crisil",
+    "location": "Mumbai",
+    "queued_at": "2026-10-23T18:15:33.153008+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -196,38 +229,5 @@
     "level": "Early",
     "queued_at": "2026-10-13T16:01:27.038778+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "231026034131",
-    "title": "AI Python Developer",
-    "url": "https://www.naukri.com/job-listings-ai-python-developer-techolution-india-1-to-5-years-231026034131",
-    "source": "naukri",
-    "company": "Techolution",
-    "location": "Remote",
-    "queued_at": "2026-10-23T18:15:33.153008+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "231026027969",
-    "title": "Loan Analyst - Syndicated and Bilateral",
-    "url": "https://www.naukri.com/job-listings-loan-analyst-syndicated-and-bilateral-mizuho-global-services-chennai-1-to-4-years-231026027969",
-    "source": "naukri",
-    "company": "Mizuho Global Services",
-    "location": "Chennai(Perungudi)",
-    "queued_at": "2026-10-23T18:15:33.153008+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "231026027501",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-crisil-limited-mumbai-0-to-3-years-231026027501",
-    "source": "naukri",
-    "company": "Crisil",
-    "location": "Mumbai",
-    "queued_at": "2026-10-23T18:15:33.153008+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
