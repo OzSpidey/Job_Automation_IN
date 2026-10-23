@@ -8766,5 +8766,27 @@
     "queued_at": "2026-10-23T02:15:14.642702+00:00",
     "status": "applied",
     "applied_at": "2026-10-23T02:16:12.034189+00:00"
+  },
+  {
+    "job_id": "231026005665",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-medi-tech-hire-kochi-kolkata-bengaluru-0-to-3-years-231026005665",
+    "source": "naukri",
+    "company": "Meditechhire",
+    "location": "Hybrid - Kochi, Kolkata, Bengaluru",
+    "queued_at": "2026-10-23T04:15:17.724161+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-23T04:16:04.946035+00:00"
+  },
+  {
+    "job_id": "231026008241",
+    "title": "Nextjs Developer",
+    "url": "https://www.naukri.com/job-listings-nextjs-developer-webconnect-private-limited-surat-1-to-3-years-231026008241",
+    "source": "naukri",
+    "company": "Webconnect",
+    "location": "Surat",
+    "queued_at": "2026-10-23T04:15:17.724161+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-23T04:16:14.786602+00:00"
   }
 ]
