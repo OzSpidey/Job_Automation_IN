@@ -206,7 +206,7 @@
     "location": "Chennai",
     "queued_at": "2026-10-23T06:15:22.951784+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "231026020276",
@@ -216,16 +216,7 @@
     "company": "Vipany Global Solutions Pvt Ltd",
     "location": "Hyderabad",
     "queued_at": "2026-10-23T08:24:01.561081+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231026919293",
-    "title": "Labware Developer",
-    "url": "https://www.naukri.com/job-listings-labware-developer-capgemini-technology-services-india-limited-pune-1-to-6-years-231026919293",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Pune",
-    "queued_at": "2026-10-23T08:24:01.561081+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
