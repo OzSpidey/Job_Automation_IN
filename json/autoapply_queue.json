@@ -196,5 +196,15 @@
     "level": "Early",
     "queued_at": "2026-10-13T16:01:27.038778+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "231026005103",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-jobaaj-com-hyderabad-pune-gurugram-0-to-1-years-231026005103",
+    "source": "naukri",
+    "company": "Jobaaj com",
+    "location": "Hyderabad, Pune, Gurugram",
+    "queued_at": "2026-10-23T02:15:14.642702+00:00",
+    "status": "queued"
   }
 ]
