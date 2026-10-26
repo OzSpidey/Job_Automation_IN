@@ -196,5 +196,35 @@
     "level": "Early",
     "queued_at": "2026-10-13T16:01:27.038778+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "261026001527",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-recruit-diary-chandigarh-0-to-3-years-261026001527",
+    "source": "naukri",
+    "company": "RECRUIT DIARY",
+    "location": "Remote",
+    "queued_at": "2026-10-26T04:15:10.125128+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "261026001720",
+    "title": "Software Engineer, developer / Programmer, 2026 graduate Can apply",
+    "url": "https://www.naukri.com/job-listings-software-engineer-developer-programmer-2026-graduate-can-apply-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-5-years-261026001720",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-10-26T04:15:10.125128+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "261026000185",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-jobaaj-com-hyderabad-pune-bengaluru-0-to-1-years-261026000185",
+    "source": "naukri",
+    "company": "Jobaaj com",
+    "location": "Hyderabad, Pune, Bengaluru",
+    "queued_at": "2026-10-26T04:15:10.125128+00:00",
+    "status": "queued"
   }
 ]
