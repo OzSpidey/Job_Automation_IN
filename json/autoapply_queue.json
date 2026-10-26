@@ -206,7 +206,7 @@
     "location": "Ambattur, Chittaurgarh(Padi), Chennai(Ambattur Industrial Estate)",
     "queued_at": "2026-10-26T06:15:37.961693+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "261026004191",
@@ -217,27 +217,7 @@
     "location": "Ahmedabad",
     "queued_at": "2026-10-26T06:15:37.961693+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "261026005898",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-qualcomm-bengaluru-0-to-1-years-261026005898",
-    "source": "naukri",
-    "company": "Qualcomm",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-26T08:24:23.344138+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "261026009709",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-info-edge-delhi-ncr-0-to-2-years-261026009709",
-    "source": "naukri",
-    "company": "Info Edge",
-    "location": "Delhi / NCR",
-    "queued_at": "2026-10-26T08:24:23.344138+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "261026008126",
@@ -247,26 +227,7 @@
     "company": "Harman Finochem",
     "location": "Chhatrapati Sambhajinagar(Shendra MIDC)",
     "queued_at": "2026-10-26T08:24:23.344138+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "261026006745",
-    "title": "Sales Service Engineer Fresher",
-    "url": "https://www.naukri.com/job-listings-sales-service-engineer-fresher-amrutha-business-solution-ahmedabad-0-to-2-years-261026006745",
-    "source": "naukri",
-    "company": "Amrutha Business Solution",
-    "location": "Ahmedabad",
-    "queued_at": "2026-10-26T08:24:23.344138+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "261026005999",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-261026005999",
-    "source": "naukri",
-    "company": "Creative Hands HR",
-    "location": "Hyderabad, Chennai, Bengaluru",
-    "queued_at": "2026-10-26T08:24:23.344138+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]

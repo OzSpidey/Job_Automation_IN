@@ -8942,5 +8942,49 @@
     "queued_at": "2026-10-26T06:15:37.961693+00:00",
     "status": "applied",
     "applied_at": "2026-10-26T06:17:14.363912+00:00"
+  },
+  {
+    "job_id": "261026005898",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-qualcomm-bengaluru-0-to-1-years-261026005898",
+    "source": "naukri",
+    "company": "Qualcomm",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-26T08:24:23.344138+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-26T08:25:38.822048+00:00"
+  },
+  {
+    "job_id": "261026009709",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-info-edge-delhi-ncr-0-to-2-years-261026009709",
+    "source": "naukri",
+    "company": "Info Edge",
+    "location": "Delhi / NCR",
+    "queued_at": "2026-10-26T08:24:23.344138+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-26T08:25:48.440540+00:00"
+  },
+  {
+    "job_id": "261026006745",
+    "title": "Sales Service Engineer Fresher",
+    "url": "https://www.naukri.com/job-listings-sales-service-engineer-fresher-amrutha-business-solution-ahmedabad-0-to-2-years-261026006745",
+    "source": "naukri",
+    "company": "Amrutha Business Solution",
+    "location": "Ahmedabad",
+    "queued_at": "2026-10-26T08:24:23.344138+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-26T08:26:09.188347+00:00"
+  },
+  {
+    "job_id": "261026005999",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-261026005999",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-10-26T08:24:23.344138+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-26T08:26:18.792081+00:00"
   }
 ]
