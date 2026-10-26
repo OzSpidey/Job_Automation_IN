@@ -9030,5 +9030,27 @@
     "queued_at": "2026-10-26T16:15:12.867312+00:00",
     "status": "applied",
     "applied_at": "2026-10-26T16:18:38.281306+00:00"
+  },
+  {
+    "job_id": "261026031067",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-modern-ballistic-mumbai-all-areas-0-to-7-years-261026031067",
+    "source": "naukri",
+    "company": "MBS GLOBAL",
+    "location": "Remote",
+    "queued_at": "2026-10-26T18:24:22.147500+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-26T18:37:56.936293+00:00"
+  },
+  {
+    "job_id": "261026925361",
+    "title": "KDB Developer",
+    "url": "https://www.naukri.com/job-listings-kdb-developer-luxoft-india-llp-bengaluru-1-to-5-years-261026925361",
+    "source": "naukri",
+    "company": "Luxoft",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-26T18:24:22.147500+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-26T18:39:39.244493+00:00"
   }
 ]
