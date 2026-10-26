@@ -1,5 +1,38 @@
 [
   {
+    "job_id": "300326007780",
+    "title": "Entry-Level Engineer For Tool & Die Manufacturing",
+    "url": "https://www.naukri.com/job-listings-entry-level-engineer-for-tool-die-manufacturing-everest-tooling-and-indestry-ambattur-chittaurgarh-chennai-0-to-2-years-300326007780",
+    "source": "naukri",
+    "company": "Everest Tooling And Indestry",
+    "location": "Ambattur, Chittaurgarh(Padi), Chennai(Ambattur Industrial Estate)",
+    "queued_at": "2026-10-26T06:15:37.961693+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "261026004191",
+    "title": "AMC Engineer",
+    "url": "https://www.naukri.com/job-listings-amc-engineer-zodiac-hr-consultants-ahmedabad-0-to-1-years-261026004191",
+    "source": "naukri",
+    "company": "Zodiac HR Consultants",
+    "location": "Ahmedabad",
+    "queued_at": "2026-10-26T06:15:37.961693+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "261026008126",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-harman-finochem-chhatrapati-sambhajinagar-1-to-3-years-261026008126",
+    "source": "naukri",
+    "company": "Harman Finochem",
+    "location": "Chhatrapati Sambhajinagar(Shendra MIDC)",
+    "queued_at": "2026-10-26T08:24:23.344138+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -196,38 +229,5 @@
     "level": "Early",
     "queued_at": "2026-10-13T16:01:27.038778+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "300326007780",
-    "title": "Entry-Level Engineer For Tool & Die Manufacturing",
-    "url": "https://www.naukri.com/job-listings-entry-level-engineer-for-tool-die-manufacturing-everest-tooling-and-indestry-ambattur-chittaurgarh-chennai-0-to-2-years-300326007780",
-    "source": "naukri",
-    "company": "Everest Tooling And Indestry",
-    "location": "Ambattur, Chittaurgarh(Padi), Chennai(Ambattur Industrial Estate)",
-    "queued_at": "2026-10-26T06:15:37.961693+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "261026004191",
-    "title": "AMC Engineer",
-    "url": "https://www.naukri.com/job-listings-amc-engineer-zodiac-hr-consultants-ahmedabad-0-to-1-years-261026004191",
-    "source": "naukri",
-    "company": "Zodiac HR Consultants",
-    "location": "Ahmedabad",
-    "queued_at": "2026-10-26T06:15:37.961693+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "261026008126",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-harman-finochem-chhatrapati-sambhajinagar-1-to-3-years-261026008126",
-    "source": "naukri",
-    "company": "Harman Finochem",
-    "location": "Chhatrapati Sambhajinagar(Shendra MIDC)",
-    "queued_at": "2026-10-26T08:24:23.344138+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
