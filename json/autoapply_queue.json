@@ -198,39 +198,6 @@
     "status": "queued"
   },
   {
-    "job_id": "261026029925",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-career-launcher-kolkata-0-to-5-years-261026029925",
-    "source": "naukri",
-    "company": "AMRS",
-    "location": "Kolkata",
-    "queued_at": "2026-10-26T16:15:12.867312+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "201026010159",
-    "title": "C++",
-    "url": "https://www.naukri.com/job-listings-c-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-3-years-201026010159",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
-    "queued_at": "2026-10-26T16:15:12.867312+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "261026011510",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-crisil-limited-mumbai-0-to-3-years-261026011510",
-    "source": "naukri",
-    "company": "Crisil",
-    "location": "Mumbai",
-    "queued_at": "2026-10-26T16:15:12.867312+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "300326007780",
     "title": "Entry-Level Engineer For Tool & Die Manufacturing",
     "url": "https://www.naukri.com/job-listings-entry-level-engineer-for-tool-die-manufacturing-everest-tooling-and-indestry-ambattur-chittaurgarh-chennai-0-to-2-years-300326007780",
@@ -239,6 +206,6 @@
     "location": "Ambattur, Chittaurgarh(Padi), Chennai(Ambattur Industrial Estate)",
     "queued_at": "2026-10-26T18:24:22.147500+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
