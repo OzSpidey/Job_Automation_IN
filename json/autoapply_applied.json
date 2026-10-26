@@ -8920,5 +8920,27 @@
     "queued_at": "2026-10-26T04:15:10.125128+00:00",
     "status": "applied",
     "applied_at": "2026-10-26T04:16:33.310193+00:00"
+  },
+  {
+    "job_id": "261026004266",
+    "title": "Java Developer - ( PLSQL Mandatory)",
+    "url": "https://www.naukri.com/job-listings-java-developer-plsql-mandatory-trigent-software-bengaluru-1-to-3-years-261026004266",
+    "source": "naukri",
+    "company": "Trigent Software",
+    "location": "Hybrid - Bengaluru",
+    "queued_at": "2026-10-26T06:15:37.961693+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-26T06:16:41.504465+00:00"
+  },
+  {
+    "job_id": "261026003109",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-info-edge-new-delhi-1-to-3-years-261026003109",
+    "source": "naukri",
+    "company": "Infotest_sku",
+    "location": "New Delhi",
+    "queued_at": "2026-10-26T06:15:37.961693+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-26T06:17:14.363912+00:00"
   }
 ]
