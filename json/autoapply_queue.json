@@ -229,5 +229,85 @@
     "level": "Early",
     "queued_at": "2026-10-13T16:01:27.038778+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "261026500117",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-valuelabs-hyderabad-0-to-6-years-261026500117",
+    "source": "naukri",
+    "company": "Valuelabs",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-26T10:16:07.321908+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "261026500073",
+    "title": "Full-Stack Developers",
+    "url": "https://www.naukri.com/job-listings-full-stack-developers-talent-takeaways-consulting-india-pvt-ltd-chennai-1-to-6-years-261026500073",
+    "source": "naukri",
+    "company": "Talent Takeaways",
+    "location": "Chennai",
+    "queued_at": "2026-10-26T10:16:07.321908+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "261026500061",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-valuelabs-hyderabad-1-to-4-years-261026500061",
+    "source": "naukri",
+    "company": "Valuelabs",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-26T10:16:07.321908+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201026010159",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-3-years-201026010159",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-10-26T10:16:07.321908+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "261026500199",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-afresh-study-abroad-thiruvananthapuram-1-to-4-years-261026500199",
+    "source": "naukri",
+    "company": "Afresh Study Abroad",
+    "location": "Thiruvananthapuram",
+    "queued_at": "2026-10-26T10:16:07.321908+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "261026500101",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-citelum-india-pvt-ltd-ahmedabad-1-to-3-years-261026500101",
+    "source": "naukri",
+    "company": "Citelum India",
+    "location": "Ahmedabad",
+    "queued_at": "2026-10-26T10:16:07.321908+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "261026013101",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-lead-hr-services-hosur-krishnagiri-bengaluru-1-to-6-years-261026013101",
+    "source": "naukri",
+    "company": "LEAD HR Services Pvt. Ltd.,",
+    "location": "Hosur, Krishnagiri, Bengaluru(Hosur Road)",
+    "queued_at": "2026-10-26T10:16:07.321908+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "261026011510",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-crisil-limited-mumbai-0-to-3-years-261026011510",
+    "source": "naukri",
+    "company": "Crisil",
+    "location": "Mumbai",
+    "queued_at": "2026-10-26T10:16:07.321908+00:00",
+    "status": "queued"
   }
 ]
