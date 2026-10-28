@@ -205,6 +205,7 @@
     "company": "Japanese mnc",
     "location": "Gurugram",
     "queued_at": "2026-10-28T02:14:59.784778+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
