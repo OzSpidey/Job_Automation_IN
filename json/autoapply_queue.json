@@ -205,7 +205,8 @@
     "company": "Bahwan CyberTek",
     "location": "Bengaluru",
     "queued_at": "2026-10-28T08:15:42.555227+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "281026001065",
@@ -215,6 +216,7 @@
     "company": "Japanese mnc",
     "location": "Gurugram",
     "queued_at": "2026-10-28T08:15:42.555227+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
