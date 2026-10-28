@@ -497,5 +497,25 @@
     "location": "Gurugram",
     "queued_at": "2026-10-28T16:01:32.578798+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "281026925281",
+    "title": "C++ Security Developer",
+    "url": "https://www.naukri.com/job-listings-c-security-developer-capgemini-technology-services-india-limited-bengaluru-1-to-5-years-281026925281",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-28T16:15:34.318085+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "281026925666",
+    "title": "Oilseeds & Meal Trader",
+    "url": "https://www.naukri.com/job-listings-oilseeds-meal-trader-cargill-business-services-india-private-limited-gurugram-1-to-6-years-281026925666",
+    "source": "naukri",
+    "company": "Cargill",
+    "location": "Gurugram",
+    "queued_at": "2026-10-28T16:15:34.318085+00:00",
+    "status": "queued"
   }
 ]
