@@ -206,7 +206,7 @@
     "location": "Bengaluru",
     "queued_at": "2026-10-28T16:01:32.578798+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "281026011889",
@@ -217,7 +217,7 @@
     "location": "Mumbai (All Areas)",
     "queued_at": "2026-10-28T16:01:32.578798+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "281026006430",
@@ -228,7 +228,7 @@
     "location": "Bengaluru",
     "queued_at": "2026-10-28T16:01:32.578798+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "281026001065",
@@ -239,6 +239,6 @@
     "location": "Gurugram",
     "queued_at": "2026-10-28T16:01:32.578798+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
