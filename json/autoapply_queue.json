@@ -1,27 +1,5 @@
 [
   {
-    "job_id": "281026006430",
-    "title": "Software Development Engineer",
-    "url": "https://www.naukri.com/job-listings-software-development-engineer-bct-consulting-bengaluru-1-to-2-years-281026006430",
-    "source": "naukri",
-    "company": "Bahwan CyberTek",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-28T08:15:42.555227+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "281026001065",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-pasona-gurugram-0-to-1-years-281026001065",
-    "source": "naukri",
-    "company": "Japanese mnc",
-    "location": "Gurugram",
-    "queued_at": "2026-10-28T08:15:42.555227+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -220,6 +198,28 @@
     "status": "queued"
   },
   {
+    "job_id": "281026006430",
+    "title": "Software Development Engineer",
+    "url": "https://www.naukri.com/job-listings-software-development-engineer-bct-consulting-bengaluru-1-to-2-years-281026006430",
+    "source": "naukri",
+    "company": "Bahwan CyberTek",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-28T08:15:42.555227+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "281026001065",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-pasona-gurugram-0-to-1-years-281026001065",
+    "source": "naukri",
+    "company": "Japanese mnc",
+    "location": "Gurugram",
+    "queued_at": "2026-10-28T08:15:42.555227+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
     "job_id": "281026011889",
     "title": "Service Engineer (Fresher)",
     "url": "https://www.naukri.com/job-listings-service-engineer-fresher-india-gold-metaverse-mumbai-all-areas-0-to-4-years-281026011889",
@@ -227,16 +227,7 @@
     "company": "India Gold Metaverse",
     "location": "Mumbai (All Areas)",
     "queued_at": "2026-10-28T10:15:09.715971+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "281026015499",
-    "title": "Performance Test Engineer",
-    "url": "https://www.naukri.com/job-listings-performance-test-engineer-quadlabs-technologies-gurugram-1-to-5-years-281026015499",
-    "source": "naukri",
-    "company": "Quadlabs Technologies",
-    "location": "Gurugram",
-    "queued_at": "2026-10-28T10:15:09.715971+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
