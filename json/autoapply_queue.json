@@ -198,28 +198,6 @@
     "status": "queued"
   },
   {
-    "job_id": "281026006430",
-    "title": "Software Development Engineer",
-    "url": "https://www.naukri.com/job-listings-software-development-engineer-bct-consulting-bengaluru-1-to-2-years-281026006430",
-    "source": "naukri",
-    "company": "Bahwan CyberTek",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-28T08:15:42.555227+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "281026001065",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-pasona-gurugram-0-to-1-years-281026001065",
-    "source": "naukri",
-    "company": "Japanese mnc",
-    "location": "Gurugram",
-    "queued_at": "2026-10-28T08:15:42.555227+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "281026011889",
     "title": "Service Engineer (Fresher)",
     "url": "https://www.naukri.com/job-listings-service-engineer-fresher-india-gold-metaverse-mumbai-all-areas-0-to-4-years-281026011889",
@@ -228,127 +206,7 @@
     "location": "Mumbai (All Areas)",
     "queued_at": "2026-10-28T10:15:09.715971+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "281026502018",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-onenet-solutions-pune-0-to-3-years-281026502018",
-    "source": "naukri",
-    "company": "Onenet Solutions",
-    "location": "Pune",
-    "queued_at": "2026-10-28T12:15:16.486466+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "281026502097",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-softlabs-group-mumbai-1-to-5-years-281026502097",
-    "source": "naukri",
-    "company": "Softlabs Technologies And Development",
-    "location": "Mumbai",
-    "queued_at": "2026-10-28T12:15:16.486466+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "281026500956",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-interface-microsystems-gurugram-1-to-6-years-281026500956",
-    "source": "naukri",
-    "company": "Interface Microsystems",
-    "location": "Gurugram",
-    "queued_at": "2026-10-28T12:15:16.486466+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "281026502155",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-hyderabad-1-to-5-years-281026502155",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-28T12:15:16.486466+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "281026501841",
-    "title": "MERN Developer",
-    "url": "https://www.naukri.com/job-listings-mern-developer-technobizzar-software-solutions-mumbai-1-to-5-years-281026501841",
-    "source": "naukri",
-    "company": "Technobizzar",
-    "location": "Mumbai",
-    "queued_at": "2026-10-28T12:15:16.486466+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "281026500953",
-    "title": "Developers",
-    "url": "https://www.naukri.com/job-listings-developers-techgarner-it-services-pvt-ltd-nashik-1-to-6-years-281026500953",
-    "source": "naukri",
-    "company": "Techgarner",
-    "location": "Nashik",
-    "queued_at": "2026-10-28T12:15:16.486466+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "281026500743",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-merck-group-bengaluru-0-to-4-years-281026500743",
-    "source": "naukri",
-    "company": "Merck",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-28T12:15:16.486466+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "281026500709",
-    "title": "Quantitative Analyst",
-    "url": "https://www.naukri.com/job-listings-quantitative-analyst-godrej-properties-mumbai-1-to-4-years-281026500709",
-    "source": "naukri",
-    "company": "Godrej Properties",
-    "location": "Mumbai",
-    "queued_at": "2026-10-28T12:15:16.486466+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "281026502153",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-bengaluru-1-to-5-years-281026502153",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-28T12:15:16.486466+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "281026502152",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-bengaluru-1-to-5-years-281026502152",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-28T12:15:16.486466+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "281026500418",
-    "title": "Ignition Developer",
-    "url": "https://www.naukri.com/job-listings-ignition-developer-birlasoft-india-limited-pune-0-to-5-years-281026500418",
-    "source": "naukri",
-    "company": "Birlasoft",
-    "location": "Pune",
-    "queued_at": "2026-10-28T12:15:16.486466+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "281026500307",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mumbai-1-to-3-years-281026500307",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Mumbai",
-    "queued_at": "2026-10-28T12:15:16.486466+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "300926006146",
@@ -358,6 +216,7 @@
     "company": "Michelin",
     "location": "Hybrid - Pune",
     "queued_at": "2026-10-28T12:15:16.486466+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
