@@ -207,28 +207,6 @@
     "status": "queued"
   },
   {
-    "job_id": "291026037606",
-    "title": "Backend Developer (C++)",
-    "url": "https://www.naukri.com/job-listings-backend-developer-c-infosys-pune-chennai-bengaluru-1-to-3-years-291026037606",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hybrid - Pune, Chennai, Bengaluru",
-    "queued_at": "2026-10-29T16:14:58.436711+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "201026010159",
-    "title": "C++",
-    "url": "https://www.naukri.com/job-listings-c-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-3-years-201026010159",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
-    "queued_at": "2026-10-29T16:14:58.436711+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "301026000202",
     "title": "Engineer - Electromagnetics",
     "url": "https://www.naukri.com/job-listings-engineer-electromagnetics-eaton-technologies-pune-0-to-2-years-301026000202",
@@ -236,6 +214,7 @@
     "company": "Eaton Technologies",
     "location": "Hybrid - Pune",
     "queued_at": "2026-10-29T20:15:00.703411+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
