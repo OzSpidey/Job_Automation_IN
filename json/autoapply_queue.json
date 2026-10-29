@@ -1,38 +1,5 @@
 [
   {
-    "job_id": "291026013661",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-the-fastest-media-company-ahmedabad-1-to-3-years-291026013661",
-    "source": "naukri",
-    "company": "The Fastest Media Company",
-    "location": "Ahmedabad",
-    "queued_at": "2026-10-29T08:15:20.903794+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "291026011347",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-sage-metals-bawal-1-to-3-years-291026011347",
-    "source": "naukri",
-    "company": "Sage Metals",
-    "location": "Bawal",
-    "queued_at": "2026-10-29T08:15:20.903794+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "291026001061",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-kornferry-hyderabad-1-to-3-years-291026001061",
-    "source": "naukri",
-    "company": "Kornferry",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-29T08:15:20.903794+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -231,14 +198,37 @@
     "status": "queued"
   },
   {
-    "job_id": "291026019482",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-wonderbiz-technologies-thane-0-to-1-years-291026019482",
+    "job_id": "291026013661",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-the-fastest-media-company-ahmedabad-1-to-3-years-291026013661",
     "source": "naukri",
-    "company": "Wonderbiz Technologies",
-    "location": "Thane",
-    "queued_at": "2026-10-29T10:15:37.592924+00:00",
-    "status": "queued"
+    "company": "The Fastest Media Company",
+    "location": "Ahmedabad",
+    "queued_at": "2026-10-29T08:15:20.903794+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "291026011347",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-sage-metals-bawal-1-to-3-years-291026011347",
+    "source": "naukri",
+    "company": "Sage Metals",
+    "location": "Bawal",
+    "queued_at": "2026-10-29T08:15:20.903794+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "291026001061",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-kornferry-hyderabad-1-to-3-years-291026001061",
+    "source": "naukri",
+    "company": "Kornferry",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-29T08:15:20.903794+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
     "job_id": "201026010159",
@@ -248,16 +238,7 @@
     "company": "Infosys",
     "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-10-29T10:15:37.592924+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "291026016710",
-    "title": "Urgent Requirement_SOC Analyst L1_CEH Certified_Mumbai",
-    "url": "https://www.naukri.com/job-listings-urgent-requirement-soc-analyst-l1-ceh-certified-mumbai-lrs-services-mumbai-suburban-navi-mumbai-mumbai-all-areas-1-to-3-years-291026016710",
-    "source": "naukri",
-    "company": "LRS Services",
-    "location": "Mumbai Suburban, Navi Mumbai, Mumbai (All Areas)",
-    "queued_at": "2026-10-29T10:15:37.592924+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]

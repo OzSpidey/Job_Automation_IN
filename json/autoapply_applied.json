@@ -9228,5 +9228,27 @@
     "queued_at": "2026-10-29T06:15:20.697788+00:00",
     "status": "applied",
     "applied_at": "2026-10-29T06:16:28.688149+00:00"
+  },
+  {
+    "job_id": "291026019482",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-wonderbiz-technologies-thane-0-to-1-years-291026019482",
+    "source": "naukri",
+    "company": "Wonderbiz Technologies",
+    "location": "Thane",
+    "queued_at": "2026-10-29T10:15:37.592924+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-29T10:17:17.651336+00:00"
+  },
+  {
+    "job_id": "291026016710",
+    "title": "Urgent Requirement_SOC Analyst L1_CEH Certified_Mumbai",
+    "url": "https://www.naukri.com/job-listings-urgent-requirement-soc-analyst-l1-ceh-certified-mumbai-lrs-services-mumbai-suburban-navi-mumbai-mumbai-all-areas-1-to-3-years-291026016710",
+    "source": "naukri",
+    "company": "LRS Services",
+    "location": "Mumbai Suburban, Navi Mumbai, Mumbai (All Areas)",
+    "queued_at": "2026-10-29T10:15:37.592924+00:00",
+    "status": "applied",
+    "applied_at": "2026-10-29T10:17:39.036077+00:00"
   }
 ]
