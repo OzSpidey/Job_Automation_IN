@@ -198,39 +198,6 @@
     "status": "queued"
   },
   {
-    "job_id": "291026013661",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-the-fastest-media-company-ahmedabad-1-to-3-years-291026013661",
-    "source": "naukri",
-    "company": "The Fastest Media Company",
-    "location": "Ahmedabad",
-    "queued_at": "2026-10-29T08:15:20.903794+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "291026011347",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-sage-metals-bawal-1-to-3-years-291026011347",
-    "source": "naukri",
-    "company": "Sage Metals",
-    "location": "Bawal",
-    "queued_at": "2026-10-29T08:15:20.903794+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "291026001061",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-kornferry-hyderabad-1-to-3-years-291026001061",
-    "source": "naukri",
-    "company": "Kornferry",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-29T08:15:20.903794+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "201026010159",
     "title": "C++",
     "url": "https://www.naukri.com/job-listings-c-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-3-years-201026010159",
@@ -239,27 +206,7 @@
     "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-10-29T10:15:37.592924+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "291026500965",
-    "title": "Software Engineers",
-    "url": "https://www.naukri.com/job-listings-software-engineers-ennovate-computer-software-consulting-pvt-ltd-pune-0-to-8-years-291026500965",
-    "source": "naukri",
-    "company": "Ennovate Computer Software And Consulting",
-    "location": "Pune",
-    "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "291026500152",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-barclays-shared-services-pune-0-to-7-years-291026500152",
-    "source": "naukri",
-    "company": "Barclays",
-    "location": "Pune",
-    "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "291026031568",
@@ -269,7 +216,8 @@
     "company": "WebAxis Software Services",
     "location": "Visakhapatnam, Warangal, Hyderabad",
     "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "291026031201",
@@ -279,176 +227,7 @@
     "company": "WebAxis Software Services",
     "location": "Mangaluru, Mysuru, Bengaluru",
     "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "291026500697",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-innowrap-technologies-mumbai-0-to-6-years-291026500697",
-    "source": "naukri",
-    "company": "Innowrap",
-    "location": "Mumbai",
-    "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "291026501654",
-    "title": "Site Reliability Engineer I",
-    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-i-ncr-voyix-hyderabad-0-to-2-years-291026501654",
-    "source": "naukri",
-    "company": "NCR Voyix",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "291026500529",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-lloyds-technology-centre-india-hyderabad-0-to-5-years-291026500529",
-    "source": "naukri",
-    "company": "Lloyds Technology Centre",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "291026501718",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-outsource-big-data-bengaluru-0-to-4-years-291026501718",
-    "source": "naukri",
-    "company": "Aimleap",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "291026501971",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-sodel-software-solutions-pvt-ltd-mumbai-thane-0-to-5-years-291026501971",
-    "source": "naukri",
-    "company": "Sodel Solutions",
-    "location": "Mumbai, Thane",
-    "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "291026501701",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-triazine-software-pvt-ltd-noida-0-to-5-years-291026501701",
-    "source": "naukri",
-    "company": "Triazine Software",
-    "location": "Noida",
-    "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "291026502101",
-    "title": "R&D Engineer (C++)",
-    "url": "https://www.naukri.com/job-listings-r-d-engineer-c-ubisoft-india-pune-0-to-3-years-291026502101",
-    "source": "naukri",
-    "company": "Ubisoft",
-    "location": "Pune",
-    "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "291026500633",
-    "title": "Software Engineer (C++/Python)",
-    "url": "https://www.naukri.com/job-listings-software-engineer-c-python-satori-bengaluru-0-to-6-years-291026500633",
-    "source": "naukri",
-    "company": "Satori",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "291026501899",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-xduce-ahmedabad-1-to-3-years-291026501899",
-    "source": "naukri",
-    "company": "Xduce Technologies",
-    "location": "Ahmedabad",
-    "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "291026500424",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-cradlepoint-part-of-ericsson-pune-0-to-4-years-291026500424",
-    "source": "naukri",
-    "company": "Cradlepoint",
-    "location": "Pune",
-    "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "291026502128",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mumbai-0-to-4-years-291026502128",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Mumbai",
-    "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "291026501459",
-    "title": "VB5 Developer",
-    "url": "https://www.naukri.com/job-listings-vb5-developer-bahwan-cybertek-chennai-0-to-8-years-291026501459",
-    "source": "naukri",
-    "company": "Bahwan CyberTek",
-    "location": "Chennai",
-    "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "291026501259",
-    "title": "SmartComm Developer",
-    "url": "https://www.naukri.com/job-listings-smartcomm-developer-zensar-technologies-nagar-pune-0-to-5-years-291026501259",
-    "source": "naukri",
-    "company": "Zensar",
-    "location": "Nagar, Pune",
-    "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "291026501053",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-vr-della-it-services-noida-bengaluru-0-to-7-years-291026501053",
-    "source": "naukri",
-    "company": "VR Della It Services",
-    "location": "Noida, Bengaluru",
-    "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "291026500075",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-bristol-myers-squibb-india-pvt-ltd-hyderabad-1-to-3-years-291026500075",
-    "source": "naukri",
-    "company": "Bristol Myers Squibb",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "291026501258",
-    "title": "ImageRight Developer",
-    "url": "https://www.naukri.com/job-listings-imageright-developer-zensar-technologies-nagar-pune-0-to-5-years-291026501258",
-    "source": "naukri",
-    "company": "Zensar",
-    "location": "Nagar, Pune",
-    "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "291026501346",
-    "title": "Senior QA Engineer (Performance Testing)",
-    "url": "https://www.naukri.com/job-listings-senior-qa-engineer-performance-testing-procore-bengaluru-0-to-8-years-291026501346",
-    "source": "naukri",
-    "company": "Procore",
-    "location": "Bengaluru",
-    "queued_at": "2026-10-29T12:15:28.502386+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
