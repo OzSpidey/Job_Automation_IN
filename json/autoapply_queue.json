@@ -207,39 +207,6 @@
     "status": "queued"
   },
   {
-    "job_id": "291026001061",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-kornferry-hyderabad-1-to-3-years-291026001061",
-    "source": "naukri",
-    "company": "Kornferry",
-    "location": "Hyderabad",
-    "queued_at": "2026-10-29T14:15:01.277041+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "291026013661",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-the-fastest-media-company-ahmedabad-1-to-3-years-291026013661",
-    "source": "naukri",
-    "company": "The Fastest Media Company",
-    "location": "Ahmedabad",
-    "queued_at": "2026-10-29T14:15:01.277041+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "291026011347",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-sage-metals-bawal-1-to-3-years-291026011347",
-    "source": "naukri",
-    "company": "Sage Metals",
-    "location": "Bawal",
-    "queued_at": "2026-10-29T14:15:01.277041+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "291026037606",
     "title": "Backend Developer (C++)",
     "url": "https://www.naukri.com/job-listings-backend-developer-c-infosys-pune-chennai-bengaluru-1-to-3-years-291026037606",
@@ -248,7 +215,7 @@
     "location": "Hybrid - Pune, Chennai, Bengaluru",
     "queued_at": "2026-10-29T16:14:58.436711+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "201026010159",
@@ -259,6 +226,6 @@
     "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-10-29T16:14:58.436711+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
