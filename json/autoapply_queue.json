@@ -207,5 +207,15 @@
     "queued_at": "2026-10-29T02:15:03.082555+00:00",
     "status": "queued",
     "attempts": 2
+  },
+  {
+    "job_id": "291026002773",
+    "title": "DD/EDDL Developer - Trainee / Freshers",
+    "url": "https://www.naukri.com/job-listings-dd-eddl-developer-trainee-freshers-utthunga-technologies-pvt-ltd-bengaluru-0-to-1-years-291026002773",
+    "source": "naukri",
+    "company": "Utthunga Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-29T06:15:20.697788+00:00",
+    "status": "queued"
   }
 ]
