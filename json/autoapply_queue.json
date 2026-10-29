@@ -205,7 +205,8 @@
     "company": "The Fastest Media Company",
     "location": "Ahmedabad",
     "queued_at": "2026-10-29T08:15:20.903794+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "291026011347",
@@ -215,7 +216,8 @@
     "company": "Sage Metals",
     "location": "Bawal",
     "queued_at": "2026-10-29T08:15:20.903794+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "291026001061",
@@ -225,6 +227,7 @@
     "company": "Kornferry",
     "location": "Hyderabad",
     "queued_at": "2026-10-29T08:15:20.903794+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
