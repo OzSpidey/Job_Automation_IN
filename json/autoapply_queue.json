@@ -229,5 +229,35 @@
     "level": "Early",
     "queued_at": "2026-10-13T16:01:27.038778+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "291026019482",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-wonderbiz-technologies-thane-0-to-1-years-291026019482",
+    "source": "naukri",
+    "company": "Wonderbiz Technologies",
+    "location": "Thane",
+    "queued_at": "2026-10-29T10:15:37.592924+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201026010159",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-3-years-201026010159",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-10-29T10:15:37.592924+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "291026016710",
+    "title": "Urgent Requirement_SOC Analyst L1_CEH Certified_Mumbai",
+    "url": "https://www.naukri.com/job-listings-urgent-requirement-soc-analyst-l1-ceh-certified-mumbai-lrs-services-mumbai-suburban-navi-mumbai-mumbai-all-areas-1-to-3-years-291026016710",
+    "source": "naukri",
+    "company": "LRS Services",
+    "location": "Mumbai Suburban, Navi Mumbai, Mumbai (All Areas)",
+    "queued_at": "2026-10-29T10:15:37.592924+00:00",
+    "status": "queued"
   }
 ]
