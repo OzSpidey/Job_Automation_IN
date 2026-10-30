@@ -205,16 +205,5 @@
     "level": "Early",
     "queued_at": "2026-10-29T16:01:29.175966+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "301026000202",
-    "title": "Engineer - Electromagnetics",
-    "url": "https://www.naukri.com/job-listings-engineer-electromagnetics-eaton-technologies-pune-0-to-2-years-301026000202",
-    "source": "naukri",
-    "company": "Eaton Technologies",
-    "location": "Hybrid - Pune",
-    "queued_at": "2026-10-29T20:15:00.703411+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
