@@ -216,5 +216,255 @@
     "queued_at": "2026-10-30T10:15:29.089636+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "301026504736",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-0-to-1-years-301026504736",
+    "source": "naukri",
+    "company": "Cisco",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026503194",
+    "title": "Software Engineer - Telemetry & Monitoring",
+    "url": "https://www.naukri.com/job-listings-software-engineer-telemetry-monitoring-mro-tek-limited-bengaluru-0-to-3-years-301026503194",
+    "source": "naukri",
+    "company": "MROTEK",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026503449",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-barclays-shared-services-pune-0-to-5-years-301026503449",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026503199",
+    "title": "Software Engineer - NETCONF Protocol Development",
+    "url": "https://www.naukri.com/job-listings-software-engineer-netconf-protocol-development-mro-tek-limited-bengaluru-0-to-3-years-301026503199",
+    "source": "naukri",
+    "company": "MROTEK",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026504263",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-ideas-to-impacts-innovations-pvt-ltd-pune-1-to-2-years-301026504263",
+    "source": "naukri",
+    "company": "Ideas To Impacts Innovation",
+    "location": "Pune",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026027290",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-infosys-chennai-bengaluru-delhi-ncr-1-to-5-years-301026027290",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Chennai, Bengaluru, Delhi / NCR",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026504243",
+    "title": "C++ Python Developer",
+    "url": "https://www.naukri.com/job-listings-c-python-developer-proxelera-hyderabad-1-to-2-years-301026504243",
+    "source": "naukri",
+    "company": "Proxelera",
+    "location": "Hyderabad",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026027497",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-pune-bengaluru-mumbai-all-areas-1-to-3-years-301026027497",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026503193",
+    "title": "Software Engineer - Linux OS Internals & System Programming",
+    "url": "https://www.naukri.com/job-listings-software-engineer-linux-os-internals-system-programming-mro-tek-limited-bengaluru-0-to-3-years-301026503193",
+    "source": "naukri",
+    "company": "MROTEK",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026504381",
+    "title": "Sound Engineering & Editing Professional",
+    "url": "https://www.naukri.com/job-listings-sound-engineering-editing-professional-sai-institutes-chennai-1-to-4-years-301026504381",
+    "source": "naukri",
+    "company": "Sai Institutions",
+    "location": "Chennai",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026502560",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-iflowtech-solutions-private-limited-chennai-1-to-4-years-301026502560",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Chennai",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026502442",
+    "title": "Engineer - Electromagnetics",
+    "url": "https://www.naukri.com/job-listings-engineer-electromagnetics-eaton-technologies-pvt-ltd-pune-0-to-2-years-301026502442",
+    "source": "naukri",
+    "company": "Eaton Technologies",
+    "location": "Pune",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026504743",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-4-years-301026504743",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026504717",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-merck-group-bengaluru-0-to-4-years-301026504717",
+    "source": "naukri",
+    "company": "Merck",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026503852",
+    "title": "AppForms Developer",
+    "url": "https://www.naukri.com/job-listings-appforms-developer-claysys-technologies-pvt-ltd-kochi-1-to-4-years-301026503852",
+    "source": "naukri",
+    "company": "Claysys",
+    "location": "Kochi",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026503008",
+    "title": "Analyst - Transfer Agency",
+    "url": "https://www.naukri.com/job-listings-analyst-transfer-agency-apex-fund-services-llp-pune-1-to-7-years-301026503008",
+    "source": "naukri",
+    "company": "Apex Group",
+    "location": "Pune",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026502456",
+    "title": "SmartComm Developer",
+    "url": "https://www.naukri.com/job-listings-smartcomm-developer-zensar-technologies-pune-0-to-5-years-301026502456",
+    "source": "naukri",
+    "company": "Zensar",
+    "location": "Pune",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026504741",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-4-years-301026504741",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026022214",
+    "title": "Embedded Control Firmware Engineer",
+    "url": "https://www.naukri.com/job-listings-embedded-control-firmware-engineer-charge-green-private-limited-ahmedabad-1-to-5-years-301026022214",
+    "source": "naukri",
+    "company": "CHARGE GREEN PRIVATE LIMITED",
+    "location": "Ahmedabad",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026503213",
+    "title": "Design Verification Engineer",
+    "url": "https://www.naukri.com/job-listings-design-verification-engineer-texas-instruments-india-ltd-hyderabad-bengaluru-1-to-6-years-301026503213",
+    "source": "naukri",
+    "company": "Texas Instruments",
+    "location": "Hyderabad, Bengaluru",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026501411",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-qrestik-technologies-bengaluru-1-to-3-years-301026501411",
+    "source": "naukri",
+    "company": "Qrestik Technologies",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026500374",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-sodel-software-solutions-pvt-ltd-thane-0-to-5-years-301026500374",
+    "source": "naukri",
+    "company": "Sodel Solutions",
+    "location": "Thane",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026500025",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-vr-della-it-services-bengaluru-0-to-7-years-301026500025",
+    "source": "naukri",
+    "company": "VR Della It Services",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026500883",
+    "title": "SmartComm Developer",
+    "url": "https://www.naukri.com/job-listings-smartcomm-developer-zensar-technologies-nagar-0-to-5-years-301026500883",
+    "source": "naukri",
+    "company": "Zensar",
+    "location": "Nagar",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026500881",
+    "title": "ImageRight Developer",
+    "url": "https://www.naukri.com/job-listings-imageright-developer-zensar-technologies-nagar-0-to-5-years-301026500881",
+    "source": "naukri",
+    "company": "Zensar",
+    "location": "Nagar",
+    "queued_at": "2026-10-30T12:14:53.482677+00:00",
+    "status": "queued"
   }
 ]
