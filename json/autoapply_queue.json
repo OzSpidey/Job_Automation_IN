@@ -205,5 +205,35 @@
     "level": "Early",
     "queued_at": "2026-10-29T16:01:29.175966+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "301026500374",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-sodel-software-solutions-pvt-ltd-thane-0-to-5-years-301026500374",
+    "source": "naukri",
+    "company": "Sodel Solutions",
+    "location": "Thane",
+    "queued_at": "2026-10-30T08:14:58.108140+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026015546",
+    "title": "Java Developer | | Bangalore / Hyderabad / Remote",
+    "url": "https://www.naukri.com/job-listings-java-developer-bangalore-hyderabad-remote-modern-ballistic-bengaluru-1-to-6-years-301026015546",
+    "source": "naukri",
+    "company": "MBS GLOBAL",
+    "location": "Remote",
+    "queued_at": "2026-10-30T08:14:58.108140+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026500025",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-vr-della-it-services-bengaluru-0-to-7-years-301026500025",
+    "source": "naukri",
+    "company": "VR Della It Services",
+    "location": "Bengaluru",
+    "queued_at": "2026-10-30T08:14:58.108140+00:00",
+    "status": "queued"
   }
 ]
