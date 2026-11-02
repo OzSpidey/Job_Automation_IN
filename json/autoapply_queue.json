@@ -359,5 +359,45 @@
     "queued_at": "2026-11-02T11:15:15.485076+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "021126015102",
+    "title": "Urgent requirement For Software Developer - Fresher",
+    "url": "https://www.naukri.com/job-listings-urgent-requirement-for-software-developer-fresher-z-tech-solutions-chennai-0-to-1-years-021126015102",
+    "source": "naukri",
+    "company": "Z Tech Solutions",
+    "location": "Chennai(Vadapalani)",
+    "queued_at": "2026-11-02T13:15:35.864333+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "021126502211",
+    "title": "Engineer - Electromagnetics",
+    "url": "https://www.naukri.com/job-listings-engineer-electromagnetics-eaton-technologies-pvt-ltd-pune-0-to-2-years-021126502211",
+    "source": "naukri",
+    "company": "Eaton Technologies",
+    "location": "Pune",
+    "queued_at": "2026-11-02T13:15:35.864333+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "021126005777",
+    "title": "Walk-in || Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-mi-infotech-chennai-0-to-5-years-021126005777",
+    "source": "naukri",
+    "company": "MI infotech",
+    "location": "",
+    "queued_at": "2026-11-02T13:15:35.864333+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "021126005979",
+    "title": "Cyber analyst - Ghansoli Location",
+    "url": "https://www.naukri.com/job-listings-cyber-analyst-ghansoli-location-aforeserve-mumbai-navi-mumbai-mumbai-all-areas-0-to-1-years-021126005979",
+    "source": "naukri",
+    "company": "Aforeserve",
+    "location": "Mumbai, Navi Mumbai, Mumbai (All Areas)",
+    "queued_at": "2026-11-02T13:15:35.864333+00:00",
+    "status": "queued"
   }
 ]
