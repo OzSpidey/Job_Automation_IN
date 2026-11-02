@@ -9328,5 +9328,28 @@
     "queued_at": "2026-11-02T09:15:39.965046+00:00",
     "status": "applied",
     "applied_at": "2026-11-02T09:17:34.108293+00:00"
+  },
+  {
+    "job_id": "021126010771",
+    "title": "Google Workspace Admin - Software Engineer",
+    "url": "https://www.naukri.com/job-listings-google-workspace-admin-software-engineer-fossil-group-inc-bengaluru-0-to-2-years-021126010771",
+    "source": "naukri",
+    "company": "Fossil Group",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-02T11:15:15.485076+00:00",
+    "status": "applied",
+    "attempts": 1,
+    "applied_at": "2026-11-02T13:17:19.877326+00:00"
+  },
+  {
+    "job_id": "021126015102",
+    "title": "Urgent requirement For Software Developer - Fresher",
+    "url": "https://www.naukri.com/job-listings-urgent-requirement-for-software-developer-fresher-z-tech-solutions-chennai-0-to-1-years-021126015102",
+    "source": "naukri",
+    "company": "Z Tech Solutions",
+    "location": "Chennai(Vadapalani)",
+    "queued_at": "2026-11-02T13:15:35.864333+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-02T13:18:09.837301+00:00"
   }
 ]
