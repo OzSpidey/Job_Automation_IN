@@ -215,7 +215,7 @@
     "location": "",
     "queued_at": "2026-11-02T07:15:04.938243+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "021126005979",
@@ -226,7 +226,7 @@
     "location": "Mumbai, Navi Mumbai, Mumbai (All Areas)",
     "queued_at": "2026-11-02T07:15:04.938243+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "301026027290",
@@ -236,7 +236,8 @@
     "company": "Infosys",
     "location": "Chennai, Bengaluru, Delhi / NCR",
     "queued_at": "2026-11-02T09:15:39.965046+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "301026027497",
@@ -246,7 +247,8 @@
     "company": "Infosys",
     "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-02T09:15:39.965046+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "201026010159",
@@ -256,17 +258,8 @@
     "company": "Infosys",
     "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-02T09:15:39.965046+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "021126009501",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-vikas-forgings-faridabad-0-to-3-years-021126009501",
-    "source": "naukri",
-    "company": "Vikas Forgings",
-    "location": "Faridabad(Sector 25)",
-    "queued_at": "2026-11-02T09:15:39.965046+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "020926009991",
@@ -276,6 +269,7 @@
     "company": "Toyo Ink",
     "location": "Bharuch, Dahej, Ankleshwar",
     "queued_at": "2026-11-02T09:15:39.965046+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
