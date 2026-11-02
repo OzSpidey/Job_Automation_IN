@@ -214,27 +214,5 @@
     "level": "Early",
     "queued_at": "2026-11-02T17:02:06.117894+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "021126024995",
-    "title": "Walk-in || Software Developer - Python , Java , Dotnet",
-    "url": "https://www.naukri.com/job-listings-software-developer-python-java-dotnet-aaram-developers-coimbatore-0-to-5-years-021126024995",
-    "source": "naukri",
-    "company": "Aaram Developers",
-    "location": "",
-    "queued_at": "2026-11-02T17:15:32.882218+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "061026916622",
-    "title": "Genesys Engineer",
-    "url": "https://www.naukri.com/job-listings-genesys-engineer-infosys-limited-bengaluru-1-to-2-years-061026916622",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-02T17:15:32.882218+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
