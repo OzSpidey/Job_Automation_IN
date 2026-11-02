@@ -1,71 +1,5 @@
 [
   {
-    "job_id": "021126005777",
-    "title": "Walk-in || Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-mi-infotech-chennai-0-to-5-years-021126005777",
-    "source": "naukri",
-    "company": "MI infotech",
-    "location": "",
-    "queued_at": "2026-11-02T07:15:04.938243+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "021126005979",
-    "title": "Cyber analyst - Ghansoli Location",
-    "url": "https://www.naukri.com/job-listings-cyber-analyst-ghansoli-location-aforeserve-mumbai-navi-mumbai-mumbai-all-areas-0-to-1-years-021126005979",
-    "source": "naukri",
-    "company": "Aforeserve",
-    "location": "Mumbai, Navi Mumbai, Mumbai (All Areas)",
-    "queued_at": "2026-11-02T07:15:04.938243+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "301026027290",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-infosys-chennai-bengaluru-delhi-ncr-1-to-5-years-301026027290",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Chennai, Bengaluru, Delhi / NCR",
-    "queued_at": "2026-11-02T09:15:39.965046+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "301026027497",
-    "title": "C++",
-    "url": "https://www.naukri.com/job-listings-c-infosys-pune-bengaluru-mumbai-all-areas-1-to-3-years-301026027497",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
-    "queued_at": "2026-11-02T09:15:39.965046+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "201026010159",
-    "title": "C++",
-    "url": "https://www.naukri.com/job-listings-c-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-3-years-201026010159",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
-    "queued_at": "2026-11-02T09:15:39.965046+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "020926009991",
-    "title": "QC- GET/PGT/ Executive - Liquid Ink (Japanese MNC)",
-    "url": "https://www.naukri.com/job-listings-qc-get-pgt-executive-liquid-ink-japanese-mnc-toyo-ink-bharuch-dahej-ankleshwar-0-to-1-years-020926009991",
-    "source": "naukri",
-    "company": "Toyo Ink",
-    "location": "Bharuch, Dahej, Ankleshwar",
-    "queued_at": "2026-11-02T09:15:39.965046+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -273,6 +207,50 @@
     "status": "queued"
   },
   {
+    "job_id": "301026027290",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-infosys-chennai-bengaluru-delhi-ncr-1-to-5-years-301026027290",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Chennai, Bengaluru, Delhi / NCR",
+    "queued_at": "2026-11-02T09:15:39.965046+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "301026027497",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-pune-bengaluru-mumbai-all-areas-1-to-3-years-301026027497",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-11-02T09:15:39.965046+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "201026010159",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-3-years-201026010159",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-11-02T09:15:39.965046+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "020926009991",
+    "title": "QC- GET/PGT/ Executive - Liquid Ink (Japanese MNC)",
+    "url": "https://www.naukri.com/job-listings-qc-get-pgt-executive-liquid-ink-japanese-mnc-toyo-ink-bharuch-dahej-ankleshwar-0-to-1-years-020926009991",
+    "source": "naukri",
+    "company": "Toyo Ink",
+    "location": "Bharuch, Dahej, Ankleshwar",
+    "queued_at": "2026-11-02T09:15:39.965046+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
     "job_id": "021126010771",
     "title": "Google Workspace Admin - Software Engineer",
     "url": "https://www.naukri.com/job-listings-google-workspace-admin-software-engineer-fossil-group-inc-bengaluru-0-to-2-years-021126010771",
@@ -280,7 +258,8 @@
     "company": "Fossil Group",
     "location": "Bengaluru",
     "queued_at": "2026-11-02T11:15:15.485076+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "051026938754",
@@ -290,7 +269,8 @@
     "company": "Accenture",
     "location": "Bengaluru",
     "queued_at": "2026-11-02T11:15:15.485076+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "021126500246",
@@ -300,7 +280,8 @@
     "company": "Iflowtech Solutions",
     "location": "Kolkata",
     "queued_at": "2026-11-02T11:15:15.485076+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "021126501262",
@@ -310,7 +291,8 @@
     "company": "Global Business Ser 4u",
     "location": "Jammu",
     "queued_at": "2026-11-02T11:15:15.485076+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "021126501261",
@@ -320,7 +302,8 @@
     "company": "Global Business Ser. 4u",
     "location": "New Delhi",
     "queued_at": "2026-11-02T11:15:15.485076+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "021126501260",
@@ -330,7 +313,8 @@
     "company": "Global Business Ser 4u",
     "location": "Nagar",
     "queued_at": "2026-11-02T11:15:15.485076+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "021126501259",
@@ -340,7 +324,8 @@
     "company": "Global Business Ser 4u",
     "location": "Lakshadweep",
     "queued_at": "2026-11-02T11:15:15.485076+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "021126501258",
@@ -350,7 +335,8 @@
     "company": "Global Business Ser 4u",
     "location": "Daman & Diu",
     "queued_at": "2026-11-02T11:15:15.485076+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "021126501257",
@@ -360,7 +346,8 @@
     "company": "Global Business Ser 4u",
     "location": "Dadra & Nagar Haveli",
     "queued_at": "2026-11-02T11:15:15.485076+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "021126500148",
@@ -370,6 +357,7 @@
     "company": "Iflowtech Solutions",
     "location": "Bengaluru",
     "queued_at": "2026-11-02T11:15:15.485076+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
