@@ -216,5 +216,35 @@
     "queued_at": "2026-11-02T05:15:31.328421+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "021126005777",
+    "title": "Walk-in || Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-mi-infotech-chennai-0-to-5-years-021126005777",
+    "source": "naukri",
+    "company": "MI infotech",
+    "location": "",
+    "queued_at": "2026-11-02T07:15:04.938243+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "021126006107",
+    "title": "MI Analyst",
+    "url": "https://www.naukri.com/job-listings-mi-analyst-manning-consulting-gurugram-1-to-6-years-021126006107",
+    "source": "naukri",
+    "company": "US MNC",
+    "location": "Gurugram",
+    "queued_at": "2026-11-02T07:15:04.938243+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "021126005979",
+    "title": "Cyber analyst - Ghansoli Location",
+    "url": "https://www.naukri.com/job-listings-cyber-analyst-ghansoli-location-aforeserve-mumbai-navi-mumbai-mumbai-all-areas-0-to-1-years-021126005979",
+    "source": "naukri",
+    "company": "Aforeserve",
+    "location": "Mumbai, Navi Mumbai, Mumbai (All Areas)",
+    "queued_at": "2026-11-02T07:15:04.938243+00:00",
+    "status": "queued"
   }
 ]
