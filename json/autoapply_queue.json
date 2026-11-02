@@ -207,17 +207,6 @@
     "status": "queued"
   },
   {
-    "job_id": "021126000262",
-    "title": "M&A Analyst / Associate",
-    "url": "https://www.naukri.com/job-listings-m-a-analyst-associate-jobaaj-com-hyderabad-ahmedabad-chennai-0-to-2-years-021126000262",
-    "source": "naukri",
-    "company": "Jobaaj com",
-    "location": "Hyderabad, Ahmedabad, Chennai",
-    "queued_at": "2026-11-02T05:15:31.328421+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "021126005777",
     "title": "Walk-in || Java Developer",
     "url": "https://www.naukri.com/job-listings-java-developer-mi-infotech-chennai-0-to-5-years-021126005777",
@@ -225,17 +214,8 @@
     "company": "MI infotech",
     "location": "",
     "queued_at": "2026-11-02T07:15:04.938243+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "021126006107",
-    "title": "MI Analyst",
-    "url": "https://www.naukri.com/job-listings-mi-analyst-manning-consulting-gurugram-1-to-6-years-021126006107",
-    "source": "naukri",
-    "company": "US MNC",
-    "location": "Gurugram",
-    "queued_at": "2026-11-02T07:15:04.938243+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "021126005979",
@@ -245,6 +225,7 @@
     "company": "Aforeserve",
     "location": "Mumbai, Navi Mumbai, Mumbai (All Areas)",
     "queued_at": "2026-11-02T07:15:04.938243+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
