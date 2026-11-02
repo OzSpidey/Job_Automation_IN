@@ -214,6 +214,7 @@
     "company": "Jobaaj com",
     "location": "Hyderabad, Ahmedabad, Chennai",
     "queued_at": "2026-11-02T05:15:31.328421+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
