@@ -223,16 +223,7 @@
     "company": "Providence India Insurance Broking",
     "location": "Hyderabad",
     "queued_at": "2026-11-03T11:15:18.629486+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "031126019925",
-    "title": "Cold chain Engineer - (Off- Roll)",
-    "url": "https://www.naukri.com/job-listings-cold-chain-engineer-off-roll-panasonic-life-solutions-guwahati-hyderabad-sonipat-1-to-3-years-031126019925",
-    "source": "naukri",
-    "company": "Panasonic Life Solutions",
-    "location": "Guwahati, Hyderabad, Sonipat(Kundli)",
-    "queued_at": "2026-11-03T11:15:18.629486+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
