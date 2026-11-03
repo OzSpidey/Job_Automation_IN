@@ -216,17 +216,6 @@
     "status": "queued"
   },
   {
-    "job_id": "031126021604",
-    "title": "Full Stack Developer (Go + React), insurance back office",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-go-react-insurance-back-office-providence-india-insurance-broking-hyderabad-1-to-3-years-031126021604",
-    "source": "naukri",
-    "company": "Providence India Insurance Broking",
-    "location": "Hyderabad",
-    "queued_at": "2026-11-03T11:15:18.629486+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "031126022495",
     "title": "C++ Developer Opening at FIS Global PUNE",
     "url": "https://www.naukri.com/job-listings-c-developer-opening-at-fis-global-pune-fis-pune-1-to-3-years-031126022495",
@@ -235,7 +224,7 @@
     "location": "Hybrid - Pune",
     "queued_at": "2026-11-03T13:15:31.121280+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "031126025571",
@@ -246,7 +235,7 @@
     "location": "Navi Mumbai",
     "queued_at": "2026-11-03T13:15:31.121280+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "301026027290",
@@ -257,7 +246,7 @@
     "location": "Chennai, Bengaluru, Delhi / NCR",
     "queued_at": "2026-11-03T13:15:31.121280+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "301026027497",
@@ -268,7 +257,7 @@
     "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-03T13:15:31.121280+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "201026010159",
@@ -279,6 +268,6 @@
     "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-03T13:15:31.121280+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
