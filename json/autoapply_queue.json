@@ -223,7 +223,8 @@
     "company": "Capgemini",
     "location": "Mumbai",
     "queued_at": "2026-11-03T05:15:21.690560+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "031126909449",
@@ -233,7 +234,8 @@
     "company": "Capgemini",
     "location": "Bengaluru",
     "queued_at": "2026-11-03T05:15:21.690560+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "010726021843",
@@ -243,6 +245,7 @@
     "company": "Adecco Group",
     "location": "Kochi, Kozhikode, Thiruvananthapuram",
     "queued_at": "2026-11-03T05:15:21.690560+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
