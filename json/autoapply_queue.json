@@ -214,5 +214,35 @@
     "level": "Early",
     "queued_at": "2026-11-02T17:02:06.117894+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "031126912888",
+    "title": "Software Engineer-AQA",
+    "url": "https://www.naukri.com/job-listings-software-engineer-aqa-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-031126912888",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-03T09:15:19.491284+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "031126011939",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-magnasoft-hassan-1-to-6-years-031126011939",
+    "source": "naukri",
+    "company": "Magnasoft",
+    "location": "Hassan",
+    "queued_at": "2026-11-03T09:15:19.491284+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "031126912915",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-cushman-wakefield-india-pvt-ltd-hyderabad-0-to-5-years-031126912915",
+    "source": "naukri",
+    "company": "Cushman & Wakefield",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-03T09:15:19.491284+00:00",
+    "status": "queued"
   }
 ]
