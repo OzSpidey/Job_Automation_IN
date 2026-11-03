@@ -225,5 +225,175 @@
     "queued_at": "2026-11-03T11:15:18.629486+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "031126501268",
+    "title": "Software Development Engineer- Storage solutions on DPUs",
+    "url": "https://www.naukri.com/job-listings-software-development-engineer-storage-solutions-on-dpus-advanced-micro-devices-inc-bengaluru-0-to-5-years-031126501268",
+    "source": "naukri",
+    "company": "Advanced Micro Devices (AMD)",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-03T13:15:31.121280+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "031126500989",
+    "title": "Site Reliability Engineer - Site Reliability Engineering",
+    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-site-reliability-engineering-freecharge-gurugram-1-to-4-years-031126500989",
+    "source": "naukri",
+    "company": "Freecharge",
+    "location": "Gurugram",
+    "queued_at": "2026-11-03T13:15:31.121280+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "031126501821",
+    "title": "Site Reliability Engineer I",
+    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-i-ncr-voyix-hyderabad-1-to-3-years-031126501821",
+    "source": "naukri",
+    "company": "NCR Voyix",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-03T13:15:31.121280+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "031126501154",
+    "title": "Java Developer + AI",
+    "url": "https://www.naukri.com/job-listings-java-developer-ai-zensar-technologies-bengaluru-1-to-4-years-031126501154",
+    "source": "naukri",
+    "company": "Zensar",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-03T13:15:31.121280+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "031126022495",
+    "title": "C++ Developer Opening at FIS Global PUNE",
+    "url": "https://www.naukri.com/job-listings-c-developer-opening-at-fis-global-pune-fis-pune-1-to-3-years-031126022495",
+    "source": "naukri",
+    "company": "FIS",
+    "location": "Hybrid - Pune",
+    "queued_at": "2026-11-03T13:15:31.121280+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "031126501275",
+    "title": "Fillstack+AI Engineer",
+    "url": "https://www.naukri.com/job-listings-fillstack-ai-engineer-gnani-innovations-vapi-1-to-3-years-031126501275",
+    "source": "naukri",
+    "company": "Gnani Innovations",
+    "location": "Vapi",
+    "queued_at": "2026-11-03T13:15:31.121280+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "031126025571",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-zero-mass-navi-mumbai-1-to-3-years-031126025571",
+    "source": "naukri",
+    "company": "Zero Mass",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-11-03T13:15:31.121280+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "031126501842",
+    "title": "Analyst - Abstractions",
+    "url": "https://www.naukri.com/job-listings-analyst-abstractions-jones-lang-lasalle-gurugram-0-to-3-years-031126501842",
+    "source": "naukri",
+    "company": "Jones Lang LaSalle (JLL)",
+    "location": "Gurugram",
+    "queued_at": "2026-11-03T13:15:31.121280+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "031126500983",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-hyderabad-1-to-5-years-031126500983",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-03T13:15:31.121280+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "031126500888",
+    "title": "PWM WSS Asia- Analyst",
+    "url": "https://www.naukri.com/job-listings-pwm-wss-asia-analyst-goldman-sachs-bengaluru-0-to-4-years-031126500888",
+    "source": "naukri",
+    "company": "Goldman Sachs",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-03T13:15:31.121280+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "031126500727",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-icompaas-remote-0-to-1-years-031126500727",
+    "source": "naukri",
+    "company": "Icompaas",
+    "location": "Remote",
+    "queued_at": "2026-11-03T13:15:31.121280+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "031126500598",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-hyderabad-1-to-5-years-031126500598",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-03T13:15:31.121280+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "031126500380",
+    "title": "Analyst - Transfer Agency",
+    "url": "https://www.naukri.com/job-listings-analyst-transfer-agency-apex-fund-services-llp-pune-1-to-7-years-031126500380",
+    "source": "naukri",
+    "company": "Apex Group",
+    "location": "Pune",
+    "queued_at": "2026-11-03T13:15:31.121280+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "031126918710",
+    "title": "WOW - Software Engineer",
+    "url": "https://www.naukri.com/job-listings-wow-software-engineer-natwest-digital-services-india-pvt-ltd-bengaluru-1-to-6-years-031126918710",
+    "source": "naukri",
+    "company": "Natwest Digitalx",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-03T13:15:31.121280+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026027290",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-infosys-chennai-bengaluru-delhi-ncr-1-to-5-years-301026027290",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Chennai, Bengaluru, Delhi / NCR",
+    "queued_at": "2026-11-03T13:15:31.121280+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026027497",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-pune-bengaluru-mumbai-all-areas-1-to-3-years-301026027497",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-11-03T13:15:31.121280+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201026010159",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-3-years-201026010159",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-11-03T13:15:31.121280+00:00",
+    "status": "queued"
   }
 ]
