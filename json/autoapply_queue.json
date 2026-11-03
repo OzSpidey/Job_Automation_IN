@@ -214,27 +214,5 @@
     "level": "Early",
     "queued_at": "2026-11-02T17:02:06.117894+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "221026036140",
-    "title": "Growth Engineer",
-    "url": "https://www.naukri.com/job-listings-growth-engineer-nayberry-chandigarh-0-to-5-years-221026036140",
-    "source": "naukri",
-    "company": "Nayberry",
-    "location": "Hybrid - Chandigarh",
-    "queued_at": "2026-11-03T17:15:43.912728+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "031126021604",
-    "title": "Full Stack Developer (Go + React), insurance back office",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-go-react-insurance-back-office-providence-india-insurance-broking-hyderabad-1-to-3-years-031126021604",
-    "source": "naukri",
-    "company": "Providence India Insurance Broking",
-    "location": "Hyderabad",
-    "queued_at": "2026-11-03T17:15:43.912728+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
