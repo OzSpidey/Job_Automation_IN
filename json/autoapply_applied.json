@@ -9362,5 +9362,41 @@
     "queued_at": "2026-11-02T15:15:31.685083+00:00",
     "status": "applied",
     "applied_at": "2026-11-02T15:17:35.006887+00:00"
+  },
+  {
+    "job_id": "031126909438",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-mumbai-0-to-5-years-031126909438",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Mumbai",
+    "queued_at": "2026-11-03T05:15:21.690560+00:00",
+    "status": "applied",
+    "attempts": 1,
+    "applied_at": "2026-11-03T07:16:09.277018+00:00"
+  },
+  {
+    "job_id": "031126909449",
+    "title": "Senior Software Engineer",
+    "url": "https://www.naukri.com/job-listings-senior-software-engineer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-031126909449",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-03T05:15:21.690560+00:00",
+    "status": "applied",
+    "attempts": 1,
+    "applied_at": "2026-11-03T07:16:18.955711+00:00"
+  },
+  {
+    "job_id": "010726021843",
+    "title": "Engineer and Wireman vacancies in MNC Internet Provider",
+    "url": "https://www.naukri.com/job-listings-engineer-and-wireman-vacancies-in-mnc-internet-provider-adecco-india-kochi-kozhikode-thiruvananthapuram-0-to-5-years-010726021843",
+    "source": "naukri",
+    "company": "Adecco Group",
+    "location": "Kochi, Kozhikode, Thiruvananthapuram",
+    "queued_at": "2026-11-03T05:15:21.690560+00:00",
+    "status": "applied",
+    "attempts": 1,
+    "applied_at": "2026-11-03T07:16:28.802253+00:00"
   }
 ]
