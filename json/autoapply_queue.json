@@ -214,27 +214,5 @@
     "level": "Early",
     "queued_at": "2026-11-02T17:02:06.117894+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "041126020155",
-    "title": "Analyst, SFA",
-    "url": "https://www.naukri.com/job-listings-analyst-sfa-morningstar-india-p-ltd-mumbai-0-to-2-years-041126020155",
-    "source": "naukri",
-    "company": "Morningstar",
-    "location": "Mumbai",
-    "queued_at": "2026-11-04T15:15:44.164684+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "061026019882",
-    "title": "Analyst - LCNC",
-    "url": "https://www.naukri.com/job-listings-analyst-lcnc-marico-mumbai-1-to-6-years-061026019882",
-    "source": "naukri",
-    "company": "Marico",
-    "location": "Mumbai",
-    "queued_at": "2026-11-04T15:15:44.164684+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
