@@ -1,60 +1,5 @@
 [
   {
-    "job_id": "041126014125",
-    "title": "Prompt Engineer",
-    "url": "https://www.naukri.com/job-listings-prompt-engineer-mea-platforms-technologies-bengaluru-1-to-2-years-041126014125",
-    "source": "naukri",
-    "company": "MEA Platforms Technologies",
-    "location": "Hybrid - Bengaluru",
-    "queued_at": "2026-11-04T07:15:06.814638+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "041126013475",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-nitta-gelatin-india-limited-ernakulam-0-to-5-years-041126013475",
-    "source": "naukri",
-    "company": "Nitta Gelatin India Limited",
-    "location": "Ernakulam(Kakkanad)",
-    "queued_at": "2026-11-04T07:15:06.814638+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "041126016386",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-sasken-technologies-bengaluru-1-to-5-years-041126016386",
-    "source": "naukri",
-    "company": "Sasken Technologies",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-04T09:18:06.251964+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "041126020155",
-    "title": "Analyst, SFA",
-    "url": "https://www.naukri.com/job-listings-analyst-sfa-morningstar-india-p-ltd-mumbai-0-to-2-years-041126020155",
-    "source": "naukri",
-    "company": "Morningstar",
-    "location": "Mumbai",
-    "queued_at": "2026-11-04T09:18:06.251964+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "061026019882",
-    "title": "Analyst - LCNC",
-    "url": "https://www.naukri.com/job-listings-analyst-lcnc-marico-mumbai-1-to-6-years-061026019882",
-    "source": "naukri",
-    "company": "Marico",
-    "location": "Mumbai",
-    "queued_at": "2026-11-04T09:18:06.251964+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -271,64 +216,37 @@
     "status": "queued"
   },
   {
-    "job_id": "041126500880",
+    "job_id": "041126016386",
     "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-easyoffice-ahmedabad-0-to-2-years-041126500880",
+    "url": "https://www.naukri.com/job-listings-software-engineer-sasken-technologies-bengaluru-1-to-5-years-041126016386",
     "source": "naukri",
-    "company": "Electrocom Software",
-    "location": "Ahmedabad",
-    "queued_at": "2026-11-04T11:15:28.849194+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "041126501203",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-heyday-ventures-new-delhi-0-to-4-years-041126501203",
-    "source": "naukri",
-    "company": "Heyday Ventures",
-    "location": "New Delhi",
-    "queued_at": "2026-11-04T11:15:28.849194+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "041126500789",
-    "title": "Mechanical Engineering Professional",
-    "url": "https://www.naukri.com/job-listings-mechanical-engineering-professional-e-mug-engineering-services-private-limited-hyderabad-0-to-1-years-041126500789",
-    "source": "naukri",
-    "company": "e mug",
-    "location": "Hyderabad",
-    "queued_at": "2026-11-04T11:15:28.849194+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "041126500368",
-    "title": "NEWots engineer",
-    "url": "https://www.naukri.com/job-listings-ots-engineer-yokogawa-electric-international-pte-bengaluru-1-to-6-years-041126500368",
-    "source": "naukri",
-    "company": "Yokogawa",
+    "company": "Sasken Technologies",
     "location": "Bengaluru",
-    "queued_at": "2026-11-04T11:15:28.849194+00:00",
-    "status": "queued"
+    "queued_at": "2026-11-04T09:18:06.251964+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
-    "job_id": "041126502004",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mohali-0-to-4-years-041126502004",
+    "job_id": "041126020155",
+    "title": "Analyst, SFA",
+    "url": "https://www.naukri.com/job-listings-analyst-sfa-morningstar-india-p-ltd-mumbai-0-to-2-years-041126020155",
     "source": "naukri",
-    "company": "eClerx",
-    "location": "Mohali",
-    "queued_at": "2026-11-04T11:15:28.849194+00:00",
-    "status": "queued"
+    "company": "Morningstar",
+    "location": "Mumbai",
+    "queued_at": "2026-11-04T09:18:06.251964+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
-    "job_id": "041126022191",
-    "title": "Walk-in || Analyst -Fulfilment",
-    "url": "https://www.naukri.com/job-listings-analyst-fulfilment-sakon-pune-1-to-3-years-041126022191",
+    "job_id": "061026019882",
+    "title": "Analyst - LCNC",
+    "url": "https://www.naukri.com/job-listings-analyst-lcnc-marico-mumbai-1-to-6-years-061026019882",
     "source": "naukri",
-    "company": "Sakon",
-    "location": "",
-    "queued_at": "2026-11-04T11:15:28.849194+00:00",
-    "status": "queued"
+    "company": "Marico",
+    "location": "Mumbai",
+    "queued_at": "2026-11-04T09:18:06.251964+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
     "job_id": "051026930934",
@@ -338,7 +256,8 @@
     "company": "Infosys",
     "location": "Bengaluru",
     "queued_at": "2026-11-04T11:15:28.849194+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "081026029162",
@@ -348,7 +267,8 @@
     "company": "Everest Business Advisory India",
     "location": "Gurugram, Bengaluru",
     "queued_at": "2026-11-04T11:15:28.849194+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "051026930987",
@@ -358,6 +278,7 @@
     "company": "Infosys",
     "location": "Bengaluru",
     "queued_at": "2026-11-04T11:15:28.849194+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
