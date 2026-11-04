@@ -224,7 +224,7 @@
     "location": "Hybrid - Bengaluru",
     "queued_at": "2026-11-04T07:15:06.814638+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "041126013475",
@@ -235,7 +235,7 @@
     "location": "Ernakulam(Kakkanad)",
     "queued_at": "2026-11-04T07:15:06.814638+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "041126016386",
@@ -245,7 +245,8 @@
     "company": "Sasken Technologies",
     "location": "Bengaluru",
     "queued_at": "2026-11-04T09:18:06.251964+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "041126020155",
@@ -255,7 +256,8 @@
     "company": "Morningstar",
     "location": "Mumbai",
     "queued_at": "2026-11-04T09:18:06.251964+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "061026019882",
@@ -265,6 +267,7 @@
     "company": "Marico",
     "location": "Mumbai",
     "queued_at": "2026-11-04T09:18:06.251964+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
