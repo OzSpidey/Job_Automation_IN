@@ -269,5 +269,95 @@
     "level": "Early",
     "queued_at": "2026-11-02T17:02:06.117894+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "041126500880",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-easyoffice-ahmedabad-0-to-2-years-041126500880",
+    "source": "naukri",
+    "company": "Electrocom Software",
+    "location": "Ahmedabad",
+    "queued_at": "2026-11-04T11:15:28.849194+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "041126501203",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-heyday-ventures-new-delhi-0-to-4-years-041126501203",
+    "source": "naukri",
+    "company": "Heyday Ventures",
+    "location": "New Delhi",
+    "queued_at": "2026-11-04T11:15:28.849194+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "041126500789",
+    "title": "Mechanical Engineering Professional",
+    "url": "https://www.naukri.com/job-listings-mechanical-engineering-professional-e-mug-engineering-services-private-limited-hyderabad-0-to-1-years-041126500789",
+    "source": "naukri",
+    "company": "e mug",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-04T11:15:28.849194+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "041126500368",
+    "title": "NEWots engineer",
+    "url": "https://www.naukri.com/job-listings-ots-engineer-yokogawa-electric-international-pte-bengaluru-1-to-6-years-041126500368",
+    "source": "naukri",
+    "company": "Yokogawa",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-04T11:15:28.849194+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "041126502004",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mohali-0-to-4-years-041126502004",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mohali",
+    "queued_at": "2026-11-04T11:15:28.849194+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "041126022191",
+    "title": "Walk-in || Analyst -Fulfilment",
+    "url": "https://www.naukri.com/job-listings-analyst-fulfilment-sakon-pune-1-to-3-years-041126022191",
+    "source": "naukri",
+    "company": "Sakon",
+    "location": "",
+    "queued_at": "2026-11-04T11:15:28.849194+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "051026930934",
+    "title": "Amazon connect Engineer",
+    "url": "https://www.naukri.com/job-listings-amazon-connect-engineer-infosys-limited-bengaluru-1-to-2-years-051026930934",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-04T11:15:28.849194+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "081026029162",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-everest-business-advisory-india-gurugram-bengaluru-1-to-2-years-081026029162",
+    "source": "naukri",
+    "company": "Everest Business Advisory India",
+    "location": "Gurugram, Bengaluru",
+    "queued_at": "2026-11-04T11:15:28.849194+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "051026930987",
+    "title": "Genesys Developer",
+    "url": "https://www.naukri.com/job-listings-genesys-developer-infosys-limited-bengaluru-1-to-2-years-051026930987",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-04T11:15:28.849194+00:00",
+    "status": "queued"
   }
 ]
