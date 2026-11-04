@@ -269,5 +269,125 @@
     "queued_at": "2026-11-04T13:15:40.940139+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "041126028022",
+    "title": "Investment Research Analyst and Trader",
+    "url": "https://www.naukri.com/job-listings-investment-research-analyst-and-trader-master-growth-dmcc-gurugram-0-to-6-years-041126028022",
+    "source": "naukri",
+    "company": "Master Growth Dmcc",
+    "location": "Gurugram",
+    "queued_at": "2026-11-04T15:15:44.164684+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "041126500880",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-easyoffice-ahmedabad-0-to-2-years-041126500880",
+    "source": "naukri",
+    "company": "Electrocom Software",
+    "location": "Ahmedabad",
+    "queued_at": "2026-11-04T15:15:44.164684+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "041126919766",
+    "title": "Custom Software Engineer",
+    "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-1-to-6-years-041126919766",
+    "source": "naukri",
+    "company": "Accenture",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-04T15:15:44.164684+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "041126502491",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-techsbeta-aligarh-1-to-3-years-041126502491",
+    "source": "naukri",
+    "company": "Techsbeta",
+    "location": "Aligarh",
+    "queued_at": "2026-11-04T15:15:44.164684+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "041126503151",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-auxirem-technology-pvt-ltd-remote-1-to-6-years-041126503151",
+    "source": "naukri",
+    "company": "Auxirem Technology",
+    "location": "Remote",
+    "queued_at": "2026-11-04T15:15:44.164684+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "041126501203",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-heyday-ventures-new-delhi-0-to-4-years-041126501203",
+    "source": "naukri",
+    "company": "Heyday Ventures",
+    "location": "New Delhi",
+    "queued_at": "2026-11-04T15:15:44.164684+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "041126500789",
+    "title": "Mechanical Engineering Professional",
+    "url": "https://www.naukri.com/job-listings-mechanical-engineering-professional-e-mug-engineering-services-private-limited-hyderabad-0-to-1-years-041126500789",
+    "source": "naukri",
+    "company": "e mug",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-04T15:15:44.164684+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "041126500368",
+    "title": "ots engineer",
+    "url": "https://www.naukri.com/job-listings-ots-engineer-yokogawa-electric-international-pte-bengaluru-1-to-6-years-041126500368",
+    "source": "naukri",
+    "company": "Yokogawa",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-04T15:15:44.164684+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "041126502076",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-inmobi-solutions-pvt-ltd-lucknow-1-to-3-years-041126502076",
+    "source": "naukri",
+    "company": "Inmobi",
+    "location": "Lucknow",
+    "queued_at": "2026-11-04T15:15:44.164684+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "041126502004",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mohali-0-to-4-years-041126502004",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mohali",
+    "queued_at": "2026-11-04T15:15:44.164684+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "041126020155",
+    "title": "Analyst, SFA",
+    "url": "https://www.naukri.com/job-listings-analyst-sfa-morningstar-india-p-ltd-mumbai-0-to-2-years-041126020155",
+    "source": "naukri",
+    "company": "Morningstar",
+    "location": "Mumbai",
+    "queued_at": "2026-11-04T15:15:44.164684+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061026019882",
+    "title": "Analyst - LCNC",
+    "url": "https://www.naukri.com/job-listings-analyst-lcnc-marico-mumbai-1-to-6-years-061026019882",
+    "source": "naukri",
+    "company": "Marico",
+    "location": "Mumbai",
+    "queued_at": "2026-11-04T15:15:44.164684+00:00",
+    "status": "queued"
   }
 ]
