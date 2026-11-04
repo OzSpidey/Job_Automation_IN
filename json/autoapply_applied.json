@@ -9508,5 +9508,38 @@
     "queued_at": "2026-11-04T11:15:28.849194+00:00",
     "status": "applied",
     "applied_at": "2026-11-04T11:17:57.255582+00:00"
+  },
+  {
+    "job_id": "041126026443",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-tekgence-bengaluru-1-to-6-years-041126026443",
+    "source": "naukri",
+    "company": "Tekgence",
+    "location": "Remote",
+    "queued_at": "2026-11-04T13:15:40.940139+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-04T13:17:41.998035+00:00"
+  },
+  {
+    "job_id": "041126025803",
+    "title": "Resident Engineer || Dadri (UP)",
+    "url": "https://www.naukri.com/job-listings-resident-engineer-dadri-up-team-computers-dadri-1-to-6-years-041126025803",
+    "source": "naukri",
+    "company": "Team Computers",
+    "location": "Dadri",
+    "queued_at": "2026-11-04T13:15:40.940139+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-04T13:17:56.618676+00:00"
+  },
+  {
+    "job_id": "051026931295",
+    "title": "Analyst, Restructuring India",
+    "url": "https://www.naukri.com/job-listings-analyst-restructuring-india-kroll-llc-mumbai-new-delhi-0-to-5-years-051026931295",
+    "source": "naukri",
+    "company": "Kroll",
+    "location": "Mumbai, New Delhi",
+    "queued_at": "2026-11-04T13:15:40.940139+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-04T13:18:34.027342+00:00"
   }
 ]
