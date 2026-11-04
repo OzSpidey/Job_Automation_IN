@@ -216,26 +216,6 @@
     "status": "queued"
   },
   {
-    "job_id": "041126015497",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-ibrowsejobs-technologies-bengaluru-0-to-5-years-041126015497",
-    "source": "naukri",
-    "company": "Ibrowsejobs Technologies",
-    "location": "Remote",
-    "queued_at": "2026-11-04T07:15:06.814638+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "041126015006",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-karnex-software-solution-pune-chennai-bengaluru-0-to-2-years-041126015006",
-    "source": "naukri",
-    "company": "Karnex Software Solution",
-    "location": "Pune, Chennai, Bengaluru",
-    "queued_at": "2026-11-04T07:15:06.814638+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "041126014125",
     "title": "Prompt Engineer",
     "url": "https://www.naukri.com/job-listings-prompt-engineer-mea-platforms-technologies-bengaluru-1-to-2-years-041126014125",
@@ -243,7 +223,8 @@
     "company": "MEA Platforms Technologies",
     "location": "Hybrid - Bengaluru",
     "queued_at": "2026-11-04T07:15:06.814638+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "041126013475",
@@ -253,16 +234,7 @@
     "company": "Nitta Gelatin India Limited",
     "location": "Ernakulam(Kakkanad)",
     "queued_at": "2026-11-04T07:15:06.814638+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "041126010915",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-041126010915",
-    "source": "naukri",
-    "company": "Creative Hands HR",
-    "location": "Hyderabad, Chennai, Bengaluru",
-    "queued_at": "2026-11-04T07:15:06.814638+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]

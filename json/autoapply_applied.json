@@ -9464,5 +9464,38 @@
     "queued_at": "2026-11-03T17:15:43.912728+00:00",
     "status": "applied",
     "applied_at": "2026-11-03T17:17:50.784879+00:00"
+  },
+  {
+    "job_id": "041126015497",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-ibrowsejobs-technologies-bengaluru-0-to-5-years-041126015497",
+    "source": "naukri",
+    "company": "Ibrowsejobs Technologies",
+    "location": "Remote",
+    "queued_at": "2026-11-04T07:15:06.814638+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-04T07:16:06.963095+00:00"
+  },
+  {
+    "job_id": "041126015006",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-karnex-software-solution-pune-chennai-bengaluru-0-to-2-years-041126015006",
+    "source": "naukri",
+    "company": "Karnex Software Solution",
+    "location": "Pune, Chennai, Bengaluru",
+    "queued_at": "2026-11-04T07:15:06.814638+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-04T07:16:16.555766+00:00"
+  },
+  {
+    "job_id": "041126010915",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-041126010915",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-11-04T07:15:06.814638+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-04T07:16:48.985605+00:00"
   }
 ]
