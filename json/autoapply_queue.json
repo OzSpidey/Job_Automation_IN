@@ -1,5 +1,49 @@
 [
   {
+    "job_id": "041126014125",
+    "title": "Prompt Engineer",
+    "url": "https://www.naukri.com/job-listings-prompt-engineer-mea-platforms-technologies-bengaluru-1-to-2-years-041126014125",
+    "source": "naukri",
+    "company": "MEA Platforms Technologies",
+    "location": "Hybrid - Bengaluru",
+    "queued_at": "2026-11-04T13:15:40.940139+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "041126013475",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-nitta-gelatin-india-limited-ernakulam-0-to-5-years-041126013475",
+    "source": "naukri",
+    "company": "Nitta Gelatin India Limited",
+    "location": "Ernakulam(Kakkanad)",
+    "queued_at": "2026-11-04T13:15:40.940139+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "041126020155",
+    "title": "Analyst, SFA",
+    "url": "https://www.naukri.com/job-listings-analyst-sfa-morningstar-india-p-ltd-mumbai-0-to-2-years-041126020155",
+    "source": "naukri",
+    "company": "Morningstar",
+    "location": "Mumbai",
+    "queued_at": "2026-11-04T15:15:44.164684+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "061026019882",
+    "title": "Analyst - LCNC",
+    "url": "https://www.naukri.com/job-listings-analyst-lcnc-marico-mumbai-1-to-6-years-061026019882",
+    "source": "naukri",
+    "company": "Marico",
+    "location": "Mumbai",
+    "queued_at": "2026-11-04T15:15:44.164684+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -214,49 +258,5 @@
     "level": "Early",
     "queued_at": "2026-11-02T17:02:06.117894+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "041126014125",
-    "title": "Prompt Engineer",
-    "url": "https://www.naukri.com/job-listings-prompt-engineer-mea-platforms-technologies-bengaluru-1-to-2-years-041126014125",
-    "source": "naukri",
-    "company": "MEA Platforms Technologies",
-    "location": "Hybrid - Bengaluru",
-    "queued_at": "2026-11-04T13:15:40.940139+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "041126013475",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-nitta-gelatin-india-limited-ernakulam-0-to-5-years-041126013475",
-    "source": "naukri",
-    "company": "Nitta Gelatin India Limited",
-    "location": "Ernakulam(Kakkanad)",
-    "queued_at": "2026-11-04T13:15:40.940139+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "041126020155",
-    "title": "Analyst, SFA",
-    "url": "https://www.naukri.com/job-listings-analyst-sfa-morningstar-india-p-ltd-mumbai-0-to-2-years-041126020155",
-    "source": "naukri",
-    "company": "Morningstar",
-    "location": "Mumbai",
-    "queued_at": "2026-11-04T15:15:44.164684+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "061026019882",
-    "title": "Analyst - LCNC",
-    "url": "https://www.naukri.com/job-listings-analyst-lcnc-marico-mumbai-1-to-6-years-061026019882",
-    "source": "naukri",
-    "company": "Marico",
-    "location": "Mumbai",
-    "queued_at": "2026-11-04T15:15:44.164684+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
