@@ -1,16 +1,5 @@
 [
   {
-    "job_id": "051126032150",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-pimpri-chinchwad-pune-0-to-1-years-051126032150",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pimpri-Chinchwad, Pune",
-    "queued_at": "2026-11-05T13:22:50.870484+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -227,156 +216,6 @@
     "status": "queued"
   },
   {
-    "job_id": "051126501097",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-texas-instruments-india-ltd-bengaluru-0-to-4-years-051126501097",
-    "source": "naukri",
-    "company": "Texas Instruments",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-05T17:14:58.371370+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051126933967",
-    "title": "Site Reliability Engineer II",
-    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-ii-cme-india-technology-and-support-services-pvt-ltd-bengaluru-1-to-3-years-051126933967",
-    "source": "naukri",
-    "company": "CME Group",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-05T17:14:58.371370+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051126502692",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-digiink-solutions-jaipur-1-to-3-years-051126502692",
-    "source": "naukri",
-    "company": "Digiink Solutions",
-    "location": "Jaipur",
-    "queued_at": "2026-11-05T17:14:58.371370+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051126501377",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-exalix-tech-ahmedabad-0-to-2-years-051126501377",
-    "source": "naukri",
-    "company": "Exalix Tech",
-    "location": "Ahmedabad",
-    "queued_at": "2026-11-05T17:14:58.371370+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051126503145",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-novisync-solutions-india-private-limited-bengaluru-0-to-2-years-051126503145",
-    "source": "naukri",
-    "company": "Novisync Solutions India",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-05T17:14:58.371370+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051126501535",
-    "title": "Software Engineer - Backend, Python/Go, Distributed Systems, Cloud",
-    "url": "https://www.naukri.com/job-listings-software-engineer-backend-python-go-distributed-systems-cloud-cisco-bengaluru-0-to-4-years-051126501535",
-    "source": "naukri",
-    "company": "Cisco",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-05T17:14:58.371370+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051126503015",
-    "title": "J2EE Engineers",
-    "url": "https://www.naukri.com/job-listings-j2ee-engineers-jm-origin-kariapatti-1-to-3-years-051126503015",
-    "source": "naukri",
-    "company": "Jmorigin Technosoft",
-    "location": "Kariapatti",
-    "queued_at": "2026-11-05T17:14:58.371370+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051126501515",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-caterpillar-brazil-chennai-1-to-6-years-051126501515",
-    "source": "naukri",
-    "company": "Caterpillar Inc",
-    "location": "Chennai",
-    "queued_at": "2026-11-05T17:14:58.371370+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051126500647",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-iflowtech-solutions-private-limited-chennai-1-to-4-years-051126500647",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Chennai",
-    "queued_at": "2026-11-05T17:14:58.371370+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051126500467",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-iflowtech-solutions-private-limited-new-delhi-1-to-4-years-051126500467",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "New Delhi",
-    "queued_at": "2026-11-05T17:14:58.371370+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051126502841",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-axa-global-business-services-pvt-ltd-pune-0-to-5-years-051126502841",
-    "source": "naukri",
-    "company": "Axa Global Business Services",
-    "location": "Pune",
-    "queued_at": "2026-11-05T17:14:58.371370+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051126502394",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-zensar-technologies-pune-0-to-5-years-051126502394",
-    "source": "naukri",
-    "company": "Zensar",
-    "location": "Pune",
-    "queued_at": "2026-11-05T17:14:58.371370+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051126501447",
-    "title": "ERPNext Developer",
-    "url": "https://www.naukri.com/job-listings-erpnext-developer-exalix-tech-ahmedabad-1-to-6-years-051126501447",
-    "source": "naukri",
-    "company": "Exalix Tech",
-    "location": "Ahmedabad",
-    "queued_at": "2026-11-05T17:14:58.371370+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051126500847",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-pune-1-to-5-years-051126500847",
-    "source": "naukri",
-    "company": "Iflowtech Solutions",
-    "location": "Pune",
-    "queued_at": "2026-11-05T17:14:58.371370+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "051126500422",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-4-years-051126500422",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Pune",
-    "queued_at": "2026-11-05T17:14:58.371370+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "051126031220",
     "title": "Analyst",
     "url": "https://www.naukri.com/job-listings-analyst-tresvista-financial-services-pune-0-to-2-years-051126031220",
@@ -384,6 +223,7 @@
     "company": "Tresvista Financial Services",
     "location": "Pune",
     "queued_at": "2026-11-05T17:14:58.371370+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
