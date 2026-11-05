@@ -9596,5 +9596,38 @@
     "queued_at": "2026-11-05T07:15:31.439050+00:00",
     "status": "applied",
     "applied_at": "2026-11-05T07:17:09.880247+00:00"
+  },
+  {
+    "job_id": "051126031770",
+    "title": "Full stack Developer (1To 2 yrs )",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-1to-2-yrs-nihar-info-global-hyderabad-1-to-2-years-051126031770",
+    "source": "naukri",
+    "company": "Nihar Info Global",
+    "location": "Hyderabad(West Maredpally)",
+    "queued_at": "2026-11-05T11:15:07.248914+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-05T11:16:00.722191+00:00"
+  },
+  {
+    "job_id": "051126028129",
+    "title": "Helpdesk Engineer - Fresher - Gurgaon",
+    "url": "https://www.naukri.com/job-listings-helpdesk-engineer-fresher-gurgaon-3i-infotech-gurugram-0-to-1-years-051126028129",
+    "source": "naukri",
+    "company": "3i Infotech",
+    "location": "Gurugram",
+    "queued_at": "2026-11-05T11:15:07.248914+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-05T11:16:10.367280+00:00"
+  },
+  {
+    "job_id": "051126027247",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-qci-delhi-ncr-1-to-3-years-051126027247",
+    "source": "naukri",
+    "company": "QCI",
+    "location": "Delhi / NCR",
+    "queued_at": "2026-11-05T11:15:07.248914+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-05T11:16:31.742362+00:00"
   }
 ]
