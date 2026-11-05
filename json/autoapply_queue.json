@@ -224,7 +224,7 @@
     "location": "Pune",
     "queued_at": "2026-11-05T11:15:07.248914+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "051126501097",
@@ -234,7 +234,8 @@
     "company": "Texas Instruments",
     "location": "Bengaluru",
     "queued_at": "2026-11-05T13:22:50.870484+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "051126502813",
@@ -244,7 +245,8 @@
     "company": "Pixel Values Technolabs",
     "location": "Nagpur",
     "queued_at": "2026-11-05T13:22:50.870484+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "051126502692",
@@ -254,7 +256,8 @@
     "company": "Digiink Solutions",
     "location": "Jaipur",
     "queued_at": "2026-11-05T13:22:50.870484+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "051126502791",
@@ -264,7 +267,8 @@
     "company": "Pixel Values Technolabs",
     "location": "Nagpur",
     "queued_at": "2026-11-05T13:22:50.870484+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "051126501377",
@@ -274,7 +278,8 @@
     "company": "Exalix Tech",
     "location": "Ahmedabad",
     "queued_at": "2026-11-05T13:22:50.870484+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "051126503145",
@@ -284,7 +289,8 @@
     "company": "Novisync Solutions India",
     "location": "Bengaluru",
     "queued_at": "2026-11-05T13:22:50.870484+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "051126501535",
@@ -294,7 +300,8 @@
     "company": "Cisco",
     "location": "Bengaluru",
     "queued_at": "2026-11-05T13:22:50.870484+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "051126503015",
@@ -304,7 +311,8 @@
     "company": "Jmorigin Technosoft",
     "location": "Kariapatti",
     "queued_at": "2026-11-05T13:22:50.870484+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "051126501515",
@@ -314,7 +322,8 @@
     "company": "Caterpillar Inc",
     "location": "Chennai",
     "queued_at": "2026-11-05T13:22:50.870484+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "051126500647",
@@ -324,7 +333,8 @@
     "company": "Iflowtech Solutions",
     "location": "Chennai",
     "queued_at": "2026-11-05T13:22:50.870484+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "051126500467",
@@ -334,7 +344,8 @@
     "company": "Iflowtech Solutions",
     "location": "New Delhi",
     "queued_at": "2026-11-05T13:22:50.870484+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "051126502841",
@@ -344,7 +355,8 @@
     "company": "Axa Global Business Services",
     "location": "Pune",
     "queued_at": "2026-11-05T13:22:50.870484+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "051126502394",
@@ -354,7 +366,8 @@
     "company": "Zensar",
     "location": "Pune",
     "queued_at": "2026-11-05T13:22:50.870484+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "051126501447",
@@ -364,7 +377,8 @@
     "company": "Exalix Tech",
     "location": "Ahmedabad",
     "queued_at": "2026-11-05T13:22:50.870484+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "051126500847",
@@ -374,7 +388,8 @@
     "company": "Iflowtech Solutions",
     "location": "Pune",
     "queued_at": "2026-11-05T13:22:50.870484+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "051126500422",
@@ -384,7 +399,8 @@
     "company": "eClerx",
     "location": "Pune",
     "queued_at": "2026-11-05T13:22:50.870484+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "051126926881",
@@ -394,7 +410,8 @@
     "company": "Capgemini",
     "location": "Mumbai",
     "queued_at": "2026-11-05T13:22:50.870484+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "051126032150",
@@ -404,6 +421,7 @@
     "company": "eClerx",
     "location": "Pimpri-Chinchwad, Pune",
     "queued_at": "2026-11-05T13:22:50.870484+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
