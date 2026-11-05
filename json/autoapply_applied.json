@@ -9552,5 +9552,49 @@
     "queued_at": "2026-11-04T15:15:44.164684+00:00",
     "status": "applied",
     "applied_at": "2026-11-04T15:20:37.608655+00:00"
+  },
+  {
+    "job_id": "051126911021",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-051126911021",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-05T07:15:31.439050+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-05T07:16:40.741910+00:00"
+  },
+  {
+    "job_id": "051126011664",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-rising-star-development-chennai-0-to-1-years-051126011664",
+    "source": "naukri",
+    "company": "Rising star development",
+    "location": "Chennai",
+    "queued_at": "2026-11-05T07:15:31.439050+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-05T07:16:50.412169+00:00"
+  },
+  {
+    "job_id": "051126911187",
+    "title": "MS Power Apps Developer -C2",
+    "url": "https://www.naukri.com/job-listings-ms-power-apps-developer-c2-capgemini-technology-services-india-limited-hyderabad-1-to-6-years-051126911187",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-05T07:15:31.439050+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-05T07:17:00.235936+00:00"
+  },
+  {
+    "job_id": "051126014703",
+    "title": "Walk-in || Direct Walk-in Interview - Trainee Engineer",
+    "url": "https://www.naukri.com/job-listings-direct-walk-in-interview-trainee-engineer-ge-vernova-chennai-0-to-2-years-051126014703",
+    "source": "naukri",
+    "company": "GE VERNOVA",
+    "location": "",
+    "queued_at": "2026-11-05T07:15:31.439050+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-05T07:17:09.880247+00:00"
   }
 ]
