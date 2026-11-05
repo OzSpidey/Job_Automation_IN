@@ -225,5 +225,15 @@
     "queued_at": "2026-11-05T17:14:58.371370+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "051126038253",
+    "title": "Full-Stack Flutter Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-flutter-developer-nxtwave-disruptive-technologies-hiring-for-a-client-noida-1-to-3-years-051126038253",
+    "source": "naukri",
+    "company": "Nxtwave Disruptive Technologies (Hiring for a Client)",
+    "location": "Noida",
+    "queued_at": "2026-11-05T19:14:56.830500+00:00",
+    "status": "queued"
   }
 ]
