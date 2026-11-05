@@ -224,7 +224,7 @@
     "location": "Pune",
     "queued_at": "2026-11-05T17:14:58.371370+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "051126038253",
@@ -234,6 +234,7 @@
     "company": "Nxtwave Disruptive Technologies (Hiring for a Client)",
     "location": "Noida",
     "queued_at": "2026-11-05T19:14:56.830500+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
