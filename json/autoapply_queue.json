@@ -233,7 +233,7 @@
     "location": "Gurugram",
     "queued_at": "2026-11-06T13:15:17.777549+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "061126024068",
@@ -244,137 +244,7 @@
     "location": "Chennai",
     "queued_at": "2026-11-06T13:15:17.777549+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "061126918638",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-soul-ai-delhi-ncr-1-to-3-years-061126918638",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "Remote",
-    "queued_at": "2026-11-06T13:15:17.777549+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061126918632",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-soul-ai-kolkata-1-to-3-years-061126918632",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "Remote",
-    "queued_at": "2026-11-06T13:15:17.777549+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061126918977",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-soul-ai-new-delhi-1-to-3-years-061126918977",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "New Delhi",
-    "queued_at": "2026-11-06T13:15:17.777549+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061126500159",
-    "title": "Frontend Developer",
-    "url": "https://www.naukri.com/job-listings-frontend-developer-kavya-infoweb-private-limited-nagpur-pune-0-to-1-years-061126500159",
-    "source": "naukri",
-    "company": "Kavya Infoweb",
-    "location": "Nagpur, Pune",
-    "queued_at": "2026-11-06T13:15:17.777549+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061126500128",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-kavya-infoweb-private-limited-hybrid-1-to-3-years-061126500128",
-    "source": "naukri",
-    "company": "Kavya Infoweb",
-    "location": "Hybrid - Hybrid",
-    "queued_at": "2026-11-06T13:15:17.777549+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061126501811",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-ghawk-technologies-mohali-1-to-4-years-061126501811",
-    "source": "naukri",
-    "company": "Ghawk Technologies",
-    "location": "Mohali",
-    "queued_at": "2026-11-06T13:15:17.777549+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061126919280",
-    "title": "Applied AI C++ Engineer",
-    "url": "https://www.naukri.com/job-listings-applied-ai-c-engineer-soul-ai-bengaluru-1-to-6-years-061126919280",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-06T13:15:17.777549+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061126919279",
-    "title": "Applied AI C++ Engineer",
-    "url": "https://www.naukri.com/job-listings-applied-ai-c-engineer-soul-ai-delhi-ncr-1-to-6-years-061126919279",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "Delhi / NCR",
-    "queued_at": "2026-11-06T13:15:17.777549+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061126919278",
-    "title": "Applied AI C++ Engineer",
-    "url": "https://www.naukri.com/job-listings-applied-ai-c-engineer-soul-ai-mumbai-1-to-6-years-061126919278",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "Mumbai",
-    "queued_at": "2026-11-06T13:15:17.777549+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061126918504",
-    "title": "Embedded Systems Developer (C/C++)",
-    "url": "https://www.naukri.com/job-listings-embedded-systems-developer-c-c-soul-ai-mumbai-1-to-2-years-061126918504",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "Remote",
-    "queued_at": "2026-11-06T13:15:17.777549+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061126918488",
-    "title": "Embedded Systems Developer (C/C++)",
-    "url": "https://www.naukri.com/job-listings-embedded-systems-developer-c-c-soul-ai-kolkata-1-to-2-years-061126918488",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "Remote",
-    "queued_at": "2026-11-06T13:15:17.777549+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061126918480",
-    "title": "Junior Software Engineer - C/C++",
-    "url": "https://www.naukri.com/job-listings-junior-software-engineer-c-c-soul-ai-new-delhi-1-to-2-years-061126918480",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "New Delhi",
-    "queued_at": "2026-11-06T13:15:17.777549+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061126919201",
-    "title": "Software Developer/Engineer (Freelancer)",
-    "url": "https://www.naukri.com/job-listings-software-developer-engineer-freelancer-soul-ai-kolkata-1-to-4-years-061126919201",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "Kolkata",
-    "queued_at": "2026-11-06T13:15:17.777549+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "061126501133",
