@@ -9841,5 +9841,115 @@
     "queued_at": "2026-11-06T11:15:07.038577+00:00",
     "status": "applied",
     "applied_at": "2026-11-06T11:19:11.535282+00:00"
+  },
+  {
+    "job_id": "061126916508",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-gurugram-1-to-3-years-061126916508",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Gurugram",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T13:27:36.486908+00:00"
+  },
+  {
+    "job_id": "061126917989",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-hyderabad-1-to-3-years-061126917989",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T13:27:46.625202+00:00"
+  },
+  {
+    "job_id": "061126917324",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-bengaluru-1-to-3-years-061126917324",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T13:27:56.144534+00:00"
+  },
+  {
+    "job_id": "061126917978",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-new-delhi-1-to-3-years-061126917978",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "New Delhi",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T13:28:05.988917+00:00"
+  },
+  {
+    "job_id": "061126917987",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-mumbai-1-to-3-years-061126917987",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Mumbai",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T13:28:15.651321+00:00"
+  },
+  {
+    "job_id": "061126917531",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-chennai-1-to-3-years-061126917531",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Chennai",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T13:28:25.313930+00:00"
+  },
+  {
+    "job_id": "061126917225",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-kolkata-1-to-3-years-061126917225",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Kolkata",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T13:28:34.939393+00:00"
+  },
+  {
+    "job_id": "061126918784",
+    "title": "Junior Software Engineer - C/C++",
+    "url": "https://www.naukri.com/job-listings-junior-software-engineer-c-c-soul-ai-delhi-ncr-1-to-2-years-061126918784",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Remote",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T13:28:44.606057+00:00"
+  },
+  {
+    "job_id": "061126918716",
+    "title": "Junior Software Engineer - C/C++",
+    "url": "https://www.naukri.com/job-listings-061126918716",
+    "source": "naukri",
+    "company": "Soul AI",
+    "location": "Remote",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T13:28:54.268522+00:00"
+  },
+  {
+    "job_id": "061126918507",
+    "title": "Embedded Systems Developer (C/C++)",
+    "url": "https://www.naukri.com/job-listings-061126918507",
+    "source": "naukri",
+    "company": "Soul AI",
+    "location": "Remote",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T13:29:03.922711+00:00"
   }
 ]
