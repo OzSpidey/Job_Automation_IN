@@ -10061,5 +10061,115 @@
     "queued_at": "2026-11-06T11:15:07.038577+00:00",
     "status": "applied",
     "applied_at": "2026-11-06T15:18:04.819962+00:00"
+  },
+  {
+    "job_id": "061126917813",
+    "title": "Backed Engineer",
+    "url": "https://www.naukri.com/job-listings-backed-engineer-soul-ai-chennai-1-to-4-years-061126917813",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Chennai",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T17:15:59.071710+00:00"
+  },
+  {
+    "job_id": "061126916650",
+    "title": "Software Developer/Engineer (Freelancer)",
+    "url": "https://www.naukri.com/job-listings-software-developer-engineer-freelancer-soul-ai-gurugram-1-to-4-years-061126916650",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Gurugram",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T17:16:08.879254+00:00"
+  },
+  {
+    "job_id": "061126916646",
+    "title": "Backed Engineer",
+    "url": "https://www.naukri.com/job-listings-backed-engineer-soul-ai-gurugram-1-to-4-years-061126916646",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Gurugram",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T17:16:18.775096+00:00"
+  },
+  {
+    "job_id": "061126915994",
+    "title": "Software Developer/Engineer (Freelancer)",
+    "url": "https://www.naukri.com/job-listings-software-developer-engineer-freelancer-soul-ai-noida-1-to-4-years-061126915994",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Noida",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T17:16:28.482655+00:00"
+  },
+  {
+    "job_id": "061126915991",
+    "title": "Backed Engineer",
+    "url": "https://www.naukri.com/job-listings-backed-engineer-soul-ai-noida-1-to-4-years-061126915991",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Noida",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T17:16:38.185061+00:00"
+  },
+  {
+    "job_id": "061126024008",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-ventures-hrd-centre-bengaluru-1-to-3-years-061126024008",
+    "source": "naukri",
+    "company": "Ventures Hrd Centre",
+    "location": "Bengaluru(Peenya)",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T17:16:47.939002+00:00"
+  },
+  {
+    "job_id": "061126024324",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-sundaram-finance-chennai-0-to-1-years-061126024324",
+    "source": "naukri",
+    "company": "Sundaram Finance",
+    "location": "Chennai",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T17:16:57.658435+00:00"
+  },
+  {
+    "job_id": "061126024149",
+    "title": "Mechatronics Developer",
+    "url": "https://www.naukri.com/job-listings-mechatronics-developer-m2nxt-solutions-bengaluru-0-to-1-years-061126024149",
+    "source": "naukri",
+    "company": "M2nxt Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T17:17:07.245759+00:00"
+  },
+  {
+    "job_id": "061126918633",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-soul-ai-bengaluru-1-to-3-years-061126918633",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Remote",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T17:17:50.216681+00:00"
+  },
+  {
+    "job_id": "061126918974",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-soul-ai-mumbai-1-to-3-years-061126918974",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Remote",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T17:17:59.931073+00:00"
   }
 ]
