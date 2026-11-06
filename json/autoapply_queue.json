@@ -1,5 +1,27 @@
 [
   {
+    "job_id": "061126009576",
+    "title": "Python Software Developer",
+    "url": "https://www.naukri.com/job-listings-python-software-developer-nxtwave-disruptive-technologies-indore-0-to-1-years-061126009576",
+    "source": "naukri",
+    "company": "Nxtwave Disruptive Technologies",
+    "location": "Indore",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "181025008433",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-legion-energy-bengaluru-dod-ballapur-0-to-5-years-181025008433",
+    "source": "naukri",
+    "company": "Legion Energy Bengaluru",
+    "location": "Dod Ballapur",
+    "queued_at": "2026-11-06T17:15:13.391898+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -223,27 +245,5 @@
     "level": "Early",
     "queued_at": "2026-11-06T17:01:24.963895+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "061126009576",
-    "title": "Python Software Developer",
-    "url": "https://www.naukri.com/job-listings-python-software-developer-nxtwave-disruptive-technologies-indore-0-to-1-years-061126009576",
-    "source": "naukri",
-    "company": "Nxtwave Disruptive Technologies",
-    "location": "Indore",
-    "queued_at": "2026-11-06T13:15:17.777549+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "181025008433",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-legion-energy-bengaluru-dod-ballapur-0-to-5-years-181025008433",
-    "source": "naukri",
-    "company": "Legion Energy Bengaluru",
-    "location": "Dod Ballapur",
-    "queued_at": "2026-11-06T17:15:13.391898+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
