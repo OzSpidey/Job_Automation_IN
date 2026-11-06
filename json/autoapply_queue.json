@@ -486,5 +486,395 @@
     "location": "Noida",
     "queued_at": "2026-11-06T11:15:07.038577+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "061126024008",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-ventures-hrd-centre-bengaluru-1-to-3-years-061126024008",
+    "source": "naukri",
+    "company": "Ventures Hrd Centre",
+    "location": "Bengaluru(Peenya)",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126024324",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-sundaram-finance-chennai-0-to-1-years-061126024324",
+    "source": "naukri",
+    "company": "Sundaram Finance",
+    "location": "Chennai",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126024149",
+    "title": "Mechatronics Developer",
+    "url": "https://www.naukri.com/job-listings-mechatronics-developer-m2nxt-solutions-bengaluru-0-to-1-years-061126024149",
+    "source": "naukri",
+    "company": "M2nxt Solutions",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126024111",
+    "title": "ISIM Developer",
+    "url": "https://www.naukri.com/job-listings-isim-developer-nusummit-technologies-gurugram-1-to-10-years-061126024111",
+    "source": "naukri",
+    "company": "Nusummit Technologies",
+    "location": "Gurugram",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126024068",
+    "title": "OCM Analyst",
+    "url": "https://www.naukri.com/job-listings-ocm-analyst-enterprise-minds-chennai-1-to-4-years-061126024068",
+    "source": "naukri",
+    "company": "Enterprise Minds",
+    "location": "Chennai",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126500389",
+    "title": "Software Engineer (Freshers)",
+    "url": "https://www.naukri.com/job-listings-software-engineer-freshers-inevitable-electronics-private-limited-bengaluru-0-to-1-years-061126500389",
+    "source": "naukri",
+    "company": "Inevitable Electronics",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126501568",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-itron-bengaluru-1-to-4-years-061126501568",
+    "source": "naukri",
+    "company": "Itron",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126918633",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-soul-ai-bengaluru-1-to-3-years-061126918633",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Remote",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126918974",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-soul-ai-mumbai-1-to-3-years-061126918974",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Remote",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126918638",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-soul-ai-delhi-ncr-1-to-3-years-061126918638",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Remote",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126918632",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-soul-ai-kolkata-1-to-3-years-061126918632",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Remote",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126918977",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-soul-ai-new-delhi-1-to-3-years-061126918977",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "New Delhi",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126500159",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-kavya-infoweb-private-limited-nagpur-pune-0-to-1-years-061126500159",
+    "source": "naukri",
+    "company": "Kavya Infoweb",
+    "location": "Nagpur, Pune",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126500128",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-kavya-infoweb-private-limited-hybrid-1-to-3-years-061126500128",
+    "source": "naukri",
+    "company": "Kavya Infoweb",
+    "location": "Hybrid - Hybrid",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126501811",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-ghawk-technologies-mohali-1-to-4-years-061126501811",
+    "source": "naukri",
+    "company": "Ghawk Technologies",
+    "location": "Mohali",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126919280",
+    "title": "Applied AI C++ Engineer",
+    "url": "https://www.naukri.com/job-listings-applied-ai-c-engineer-soul-ai-bengaluru-1-to-6-years-061126919280",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126919279",
+    "title": "Applied AI C++ Engineer",
+    "url": "https://www.naukri.com/job-listings-applied-ai-c-engineer-soul-ai-delhi-ncr-1-to-6-years-061126919279",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Delhi / NCR",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126919278",
+    "title": "Applied AI C++ Engineer",
+    "url": "https://www.naukri.com/job-listings-applied-ai-c-engineer-soul-ai-mumbai-1-to-6-years-061126919278",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Mumbai",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126918504",
+    "title": "Embedded Systems Developer (C/C++)",
+    "url": "https://www.naukri.com/job-listings-embedded-systems-developer-c-c-soul-ai-mumbai-1-to-2-years-061126918504",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Remote",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126918488",
+    "title": "Embedded Systems Developer (C/C++)",
+    "url": "https://www.naukri.com/job-listings-embedded-systems-developer-c-c-soul-ai-kolkata-1-to-2-years-061126918488",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Remote",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126918480",
+    "title": "Junior Software Engineer - C/C++",
+    "url": "https://www.naukri.com/job-listings-junior-software-engineer-c-c-soul-ai-new-delhi-1-to-2-years-061126918480",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "New Delhi",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126919201",
+    "title": "Software Developer/Engineer (Freelancer)",
+    "url": "https://www.naukri.com/job-listings-software-developer-engineer-freelancer-soul-ai-kolkata-1-to-4-years-061126919201",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Kolkata",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126501133",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-target-bengaluru-1-to-6-years-061126501133",
+    "source": "naukri",
+    "company": "Target",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126500391",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-dream-tekis-software-pvt-ltd-hyderabad-1-to-5-years-061126500391",
+    "source": "naukri",
+    "company": "Dream Tekis Software",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126919200",
+    "title": "Software Developer/Engineer (Freelancer)",
+    "url": "https://www.naukri.com/job-listings-software-developer-engineer-freelancer-soul-ai-delhi-ncr-1-to-4-years-061126919200",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Delhi / NCR",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126919166",
+    "title": "Backed Engineer",
+    "url": "https://www.naukri.com/job-listings-backed-engineer-soul-ai-kolkata-1-to-4-years-061126919166",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Kolkata",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126919165",
+    "title": "Backed Engineer",
+    "url": "https://www.naukri.com/job-listings-backed-engineer-soul-ai-delhi-ncr-1-to-4-years-061126919165",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Delhi / NCR",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126919164",
+    "title": "Backed Engineer",
+    "url": "https://www.naukri.com/job-listings-backed-engineer-soul-ai-bengaluru-1-to-4-years-061126919164",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126919053",
+    "title": "Backed Engineer",
+    "url": "https://www.naukri.com/job-listings-backed-engineer-soul-ai-mumbai-1-to-4-years-061126919053",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Mumbai",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126918838",
+    "title": "Software Developer/Engineer (Freelancer)",
+    "url": "https://www.naukri.com/job-listings-software-developer-engineer-freelancer-soul-ai-mumbai-1-to-4-years-061126918838",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Mumbai",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126920673",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-delight-hr-services-pvt-ltd-bengaluru-0-to-1-years-061126920673",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126502161",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mohali-0-to-4-years-061126502161",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mohali",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126501417",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-axa-global-business-services-pvt-ltd-bengaluru-0-to-1-years-061126501417",
+    "source": "naukri",
+    "company": "Axa Global Business Services",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126500638",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-hyderabad-1-to-5-years-061126500638",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126501961",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mumbai-0-to-4-years-061126501961",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mumbai",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126500150",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-kolkata-chennai-1-to-5-years-061126500150",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Kolkata, Chennai",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126500142",
+    "title": "Analyst - Transfer Agency",
+    "url": "https://www.naukri.com/job-listings-analyst-transfer-agency-apex-fund-services-llp-pune-1-to-7-years-061126500142",
+    "source": "naukri",
+    "company": "Apex Group",
+    "location": "Pune",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126501554",
+    "title": "Sr. Engineer",
+    "url": "https://www.naukri.com/job-listings-sr-engineer-comviva-technologies-limited-bengaluru-1-to-5-years-061126501554",
+    "source": "naukri",
+    "company": "Comviva Technology",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126009576",
+    "title": "Python Software Developer",
+    "url": "https://www.naukri.com/job-listings-python-software-developer-nxtwave-disruptive-technologies-indore-0-to-1-years-061126009576",
+    "source": "naukri",
+    "company": "Nxtwave Disruptive Technologies",
+    "location": "Indore",
+    "queued_at": "2026-11-06T13:15:17.777549+00:00",
+    "status": "queued"
   }
 ]
