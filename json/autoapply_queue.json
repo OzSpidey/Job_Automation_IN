@@ -214,5 +214,15 @@
     "level": "Early",
     "queued_at": "2026-11-02T17:02:06.117894+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "061126009576",
+    "title": "Python Software Developer",
+    "url": "https://www.naukri.com/job-listings-python-software-developer-nxtwave-disruptive-technologies-indore-0-to-1-years-061126009576",
+    "source": "naukri",
+    "company": "Nxtwave Disruptive Technologies",
+    "location": "Indore",
+    "queued_at": "2026-11-06T07:15:31.583249+00:00",
+    "status": "queued"
   }
 ]
