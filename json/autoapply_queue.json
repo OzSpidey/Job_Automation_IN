@@ -224,26 +224,6 @@
     "location": "Indore",
     "queued_at": "2026-11-06T07:15:31.583249+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "061126915861",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-noida-1-to-3-years-061126915861",
-    "source": "naukri",
-    "company": "Soul Ai",
-    "location": "Noida",
-    "queued_at": "2026-11-06T09:15:05.912622+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "061126016498",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-recex-jajpur-0-to-1-years-061126016498",
-    "source": "naukri",
-    "company": "Steel company",
-    "location": "Jajpur",
-    "queued_at": "2026-11-06T09:15:05.912622+00:00",
-    "status": "queued"
+    "attempts": 2
   }
 ]
