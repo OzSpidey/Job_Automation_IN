@@ -663,5 +663,15 @@
     "level": "Early",
     "queued_at": "2026-11-06T17:01:24.963895+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "181025008433",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-legion-energy-bengaluru-dod-ballapur-0-to-5-years-181025008433",
+    "source": "naukri",
+    "company": "Legion Energy Bengaluru",
+    "location": "Dod Ballapur",
+    "queued_at": "2026-11-06T17:15:13.391898+00:00",
+    "status": "queued"
   }
 ]
