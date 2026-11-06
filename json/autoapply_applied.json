@@ -9731,5 +9731,115 @@
     "queued_at": "2026-11-06T09:15:05.912622+00:00",
     "status": "applied",
     "applied_at": "2026-11-06T09:16:11.501883+00:00"
+  },
+  {
+    "job_id": "061126917659",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-soul-ai-delhi-ncr-1-to-3-years-061126917659",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Remote",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T11:17:44.173984+00:00"
+  },
+  {
+    "job_id": "061126918637",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-soul-ai-hyderabad-1-to-3-years-061126918637",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T11:17:53.869692+00:00"
+  },
+  {
+    "job_id": "061126916414",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-soul-ai-gurugram-1-to-3-years-061126916414",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Gurugram",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T11:18:03.600082+00:00"
+  },
+  {
+    "job_id": "061126917203",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-soul-ai-bengaluru-1-to-3-years-061126917203",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T11:18:13.285948+00:00"
+  },
+  {
+    "job_id": "061126917224",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-soul-ai-hyderabad-1-to-3-years-061126917224",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T11:18:22.948538+00:00"
+  },
+  {
+    "job_id": "061126917204",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-soul-ai-new-delhi-1-to-3-years-061126917204",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "New Delhi",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T11:18:32.647523+00:00"
+  },
+  {
+    "job_id": "061126915799",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-soul-ai-noida-1-to-3-years-061126915799",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Noida",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T11:18:42.554605+00:00"
+  },
+  {
+    "job_id": "061126916983",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-soul-ai-mumbai-1-to-3-years-061126916983",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Mumbai",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T11:18:52.218138+00:00"
+  },
+  {
+    "job_id": "061126917969",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-soul-ai-kolkata-1-to-3-years-061126917969",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Kolkata",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T11:19:01.883837+00:00"
+  },
+  {
+    "job_id": "061126917430",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-soul-ai-chennai-1-to-3-years-061126917430",
+    "source": "naukri",
+    "company": "Soul Ai",
+    "location": "Chennai",
+    "queued_at": "2026-11-06T11:15:07.038577+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-06T11:19:11.535282+00:00"
   }
 ]
