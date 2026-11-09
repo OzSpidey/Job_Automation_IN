@@ -225,17 +225,6 @@
     "status": "queued"
   },
   {
-    "job_id": "091126003715",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-sataware-technologies-bengaluru-0-to-2-years-091126003715",
-    "source": "naukri",
-    "company": "Sataware Technologies",
-    "location": "Remote",
-    "queued_at": "2026-11-09T09:15:10.387224+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "301026027290",
     "title": "Java Developer",
     "url": "https://www.naukri.com/job-listings-java-developer-infosys-chennai-bengaluru-delhi-ncr-1-to-5-years-301026027290",
@@ -244,7 +233,7 @@
     "location": "Chennai, Bengaluru, Delhi / NCR",
     "queued_at": "2026-11-09T11:15:00.089663+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "301026027497",
@@ -255,7 +244,7 @@
     "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-09T11:15:00.089663+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "201026010159",
@@ -266,7 +255,7 @@
     "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-09T11:15:00.089663+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "091126005991",
@@ -276,7 +265,8 @@
     "company": "Michelin",
     "location": "Hybrid - Pune(Kharadi)",
     "queued_at": "2026-11-09T13:15:22.644035+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "071126007818",
@@ -286,6 +276,7 @@
     "company": "Electreps",
     "location": "Bengaluru(Rajaji Nagar)",
     "queued_at": "2026-11-09T13:15:22.644035+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
