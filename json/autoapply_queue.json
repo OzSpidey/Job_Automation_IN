@@ -223,5 +223,55 @@
     "level": "Early",
     "queued_at": "2026-11-06T17:01:24.963895+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "301026027290",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-infosys-chennai-bengaluru-delhi-ncr-1-to-5-years-301026027290",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Chennai, Bengaluru, Delhi / NCR",
+    "queued_at": "2026-11-09T05:15:11.041656+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026027497",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-pune-bengaluru-mumbai-all-areas-1-to-3-years-301026027497",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-11-09T05:15:11.041656+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201026010159",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-3-years-201026010159",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-11-09T05:15:11.041656+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "091126000771",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-091126000771",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-11-09T05:15:11.041656+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "091126000793",
+    "title": "Software Engineer, developer / Programmer, 2026 graduate Can apply",
+    "url": "https://www.naukri.com/job-listings-software-engineer-developer-programmer-2026-graduate-can-apply-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-5-years-091126000793",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-11-09T05:15:11.041656+00:00",
+    "status": "queued"
   }
 ]
