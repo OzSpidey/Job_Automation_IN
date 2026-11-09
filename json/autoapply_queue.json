@@ -245,5 +245,55 @@
     "level": "Early",
     "queued_at": "2026-11-06T17:01:24.963895+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "091126004576",
+    "title": "Urgent opening For Software Developer - Fresher",
+    "url": "https://www.naukri.com/job-listings-urgent-opening-for-software-developer-fresher-infyjob-technology-services-chennai-0-to-1-years-091126004576",
+    "source": "naukri",
+    "company": "TripByGenie",
+    "location": "Chennai(Saidapet)",
+    "queued_at": "2026-11-09T11:15:00.089663+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "091126004816",
+    "title": "Walk-in || Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-r1-rcm-noida-gurugram-0-to-5-years-091126004816",
+    "source": "naukri",
+    "company": "R1 RCM",
+    "location": "",
+    "queued_at": "2026-11-09T11:15:00.089663+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026027290",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-infosys-chennai-bengaluru-delhi-ncr-1-to-5-years-301026027290",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Chennai, Bengaluru, Delhi / NCR",
+    "queued_at": "2026-11-09T11:15:00.089663+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026027497",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-pune-bengaluru-mumbai-all-areas-1-to-3-years-301026027497",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-11-09T11:15:00.089663+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201026010159",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-3-years-201026010159",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-11-09T11:15:00.089663+00:00",
+    "status": "queued"
   }
 ]
