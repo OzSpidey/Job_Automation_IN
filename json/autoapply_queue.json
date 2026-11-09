@@ -232,7 +232,8 @@
     "company": "Infosys",
     "location": "Chennai, Bengaluru, Delhi / NCR",
     "queued_at": "2026-11-09T05:15:11.041656+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "301026027497",
@@ -242,7 +243,8 @@
     "company": "Infosys",
     "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-09T05:15:11.041656+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "201026010159",
@@ -252,26 +254,7 @@
     "company": "Infosys",
     "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-09T05:15:11.041656+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "091126000771",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-091126000771",
-    "source": "naukri",
-    "company": "Creative Hands HR",
-    "location": "Hyderabad, Chennai, Bengaluru",
-    "queued_at": "2026-11-09T05:15:11.041656+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "091126000793",
-    "title": "Software Engineer, developer / Programmer, 2026 graduate Can apply",
-    "url": "https://www.naukri.com/job-listings-software-engineer-developer-programmer-2026-graduate-can-apply-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-5-years-091126000793",
-    "source": "naukri",
-    "company": "Creative Hands HR",
-    "location": "Hyderabad, Chennai, Bengaluru",
-    "queued_at": "2026-11-09T05:15:11.041656+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
