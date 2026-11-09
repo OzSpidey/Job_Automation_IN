@@ -233,7 +233,7 @@
     "location": "Chennai, Bengaluru, Delhi / NCR",
     "queued_at": "2026-11-09T05:15:11.041656+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "301026027497",
@@ -244,7 +244,7 @@
     "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-09T05:15:11.041656+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "201026010159",
@@ -255,7 +255,7 @@
     "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-09T05:15:11.041656+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "071126007818",
@@ -265,6 +265,7 @@
     "company": "Electreps",
     "location": "Bengaluru(Rajaji Nagar)",
     "queued_at": "2026-11-09T07:14:58.813142+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
