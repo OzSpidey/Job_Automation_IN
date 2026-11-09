@@ -267,5 +267,15 @@
     "queued_at": "2026-11-09T07:14:58.813142+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "091126003715",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-sataware-technologies-bengaluru-0-to-2-years-091126003715",
+    "source": "naukri",
+    "company": "Sataware Technologies",
+    "location": "Remote",
+    "queued_at": "2026-11-09T09:15:10.387224+00:00",
+    "status": "queued"
   }
 ]
