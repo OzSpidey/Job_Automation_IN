@@ -1,27 +1,5 @@
 [
   {
-    "job_id": "071126007818",
-    "title": "Backend Developer (Microservices)",
-    "url": "https://www.naukri.com/job-listings-backend-developer-microservices-electreps-bengaluru-0-to-1-years-071126007818",
-    "source": "naukri",
-    "company": "Electreps",
-    "location": "Bengaluru(Rajaji Nagar)",
-    "queued_at": "2026-11-09T07:14:58.813142+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "091126003715",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-sataware-technologies-bengaluru-0-to-2-years-091126003715",
-    "source": "naukri",
-    "company": "Sataware Technologies",
-    "location": "Remote",
-    "queued_at": "2026-11-09T09:15:10.387224+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -247,24 +225,15 @@
     "status": "queued"
   },
   {
-    "job_id": "091126004576",
-    "title": "Urgent opening For Software Developer - Fresher",
-    "url": "https://www.naukri.com/job-listings-urgent-opening-for-software-developer-fresher-infyjob-technology-services-chennai-0-to-1-years-091126004576",
+    "job_id": "091126003715",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-sataware-technologies-bengaluru-0-to-2-years-091126003715",
     "source": "naukri",
-    "company": "TripByGenie",
-    "location": "Chennai(Saidapet)",
-    "queued_at": "2026-11-09T11:15:00.089663+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "091126004816",
-    "title": "Walk-in || Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-r1-rcm-noida-gurugram-0-to-5-years-091126004816",
-    "source": "naukri",
-    "company": "R1 RCM",
-    "location": "",
-    "queued_at": "2026-11-09T11:15:00.089663+00:00",
-    "status": "queued"
+    "company": "Sataware Technologies",
+    "location": "Remote",
+    "queued_at": "2026-11-09T09:15:10.387224+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
     "job_id": "301026027290",
@@ -274,7 +243,8 @@
     "company": "Infosys",
     "location": "Chennai, Bengaluru, Delhi / NCR",
     "queued_at": "2026-11-09T11:15:00.089663+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "301026027497",
@@ -284,7 +254,8 @@
     "company": "Infosys",
     "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-09T11:15:00.089663+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "201026010159",
@@ -294,6 +265,7 @@
     "company": "Infosys",
     "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-09T11:15:00.089663+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
