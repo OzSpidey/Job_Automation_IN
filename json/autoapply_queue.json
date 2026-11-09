@@ -256,5 +256,15 @@
     "queued_at": "2026-11-09T05:15:11.041656+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "071126007818",
+    "title": "Backend Developer (Microservices)",
+    "url": "https://www.naukri.com/job-listings-backend-developer-microservices-electreps-bengaluru-0-to-1-years-071126007818",
+    "source": "naukri",
+    "company": "Electreps",
+    "location": "Bengaluru(Rajaji Nagar)",
+    "queued_at": "2026-11-09T07:14:58.813142+00:00",
+    "status": "queued"
   }
 ]
