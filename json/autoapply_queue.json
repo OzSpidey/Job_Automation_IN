@@ -1,27 +1,5 @@
 [
   {
-    "job_id": "091126005991",
-    "title": "Performance Analysis Engineer",
-    "url": "https://www.naukri.com/job-listings-performance-analysis-engineer-michelin-pune-1-to-5-years-091126005991",
-    "source": "naukri",
-    "company": "Michelin",
-    "location": "Hybrid - Pune(Kharadi)",
-    "queued_at": "2026-11-09T13:15:22.644035+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "071126007818",
-    "title": "Backend Developer (Microservices)",
-    "url": "https://www.naukri.com/job-listings-backend-developer-microservices-electreps-bengaluru-0-to-1-years-071126007818",
-    "source": "naukri",
-    "company": "Electreps",
-    "location": "Bengaluru(Rajaji Nagar)",
-    "queued_at": "2026-11-09T13:15:22.644035+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -247,16 +225,6 @@
     "status": "queued"
   },
   {
-    "job_id": "091126007576",
-    "title": "Full stack developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-adhna-group-pvt-ltd-madurai-0-to-1-years-091126007576",
-    "source": "naukri",
-    "company": "Adhna Group",
-    "location": "Madurai(Vadipatti)",
-    "queued_at": "2026-11-09T17:15:07.145097+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "091126003715",
     "title": "Full Stack Developer",
     "url": "https://www.naukri.com/job-listings-full-stack-developer-sataware-technologies-bengaluru-0-to-2-years-091126003715",
@@ -264,7 +232,8 @@
     "company": "Sataware Technologies",
     "location": "Remote",
     "queued_at": "2026-11-09T17:15:07.145097+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "301026027290",
@@ -274,7 +243,8 @@
     "company": "Infosys",
     "location": "Chennai, Bengaluru, Delhi / NCR",
     "queued_at": "2026-11-09T17:15:07.145097+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "301026027497",
@@ -284,7 +254,8 @@
     "company": "Infosys",
     "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-09T17:15:07.145097+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "201026010159",
@@ -294,6 +265,7 @@
     "company": "Infosys",
     "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-09T17:15:07.145097+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
