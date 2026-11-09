@@ -233,7 +233,7 @@
     "location": "Remote",
     "queued_at": "2026-11-09T17:15:07.145097+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "301026027290",
@@ -244,7 +244,7 @@
     "location": "Chennai, Bengaluru, Delhi / NCR",
     "queued_at": "2026-11-09T17:15:07.145097+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "301026027497",
@@ -255,7 +255,7 @@
     "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-09T17:15:07.145097+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "201026010159",
@@ -266,6 +266,6 @@
     "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-09T17:15:07.145097+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
