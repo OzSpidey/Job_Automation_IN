@@ -267,5 +267,25 @@
     "queued_at": "2026-11-09T11:15:00.089663+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "091126005991",
+    "title": "Performance Analysis Engineer",
+    "url": "https://www.naukri.com/job-listings-performance-analysis-engineer-michelin-pune-1-to-5-years-091126005991",
+    "source": "naukri",
+    "company": "Michelin",
+    "location": "Hybrid - Pune(Kharadi)",
+    "queued_at": "2026-11-09T13:15:22.644035+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "071126007818",
+    "title": "Backend Developer (Microservices)",
+    "url": "https://www.naukri.com/job-listings-backend-developer-microservices-electreps-bengaluru-0-to-1-years-071126007818",
+    "source": "naukri",
+    "company": "Electreps",
+    "location": "Bengaluru(Rajaji Nagar)",
+    "queued_at": "2026-11-09T13:15:22.644035+00:00",
+    "status": "queued"
   }
 ]
