@@ -223,5 +223,15 @@
     "level": "Early",
     "queued_at": "2026-11-06T17:01:24.963895+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "101126003987",
+    "title": "Walk-in || Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-lloyds-metals-energy-ltd-chandrapur-0-to-5-years-101126003987",
+    "source": "naukri",
+    "company": "Lloyds Metals & Energy Ltd",
+    "location": "",
+    "queued_at": "2026-11-10T05:18:00.734442+00:00",
+    "status": "queued"
   }
 ]
