@@ -225,47 +225,6 @@
     "status": "queued"
   },
   {
-    "job_id": "061126024068",
-    "title": "OCM Analyst",
-    "url": "https://www.naukri.com/job-listings-ocm-analyst-enterprise-minds-chennai-1-to-4-years-061126024068",
-    "source": "naukri",
-    "company": "Enterprise Minds",
-    "location": "Chennai",
-    "queued_at": "2026-11-10T09:17:41.518799+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "101126013596",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-netm-corporate-solutions-hyderabad-bengaluru-india-0-to-1-years-101126013596",
-    "source": "naukri",
-    "company": "NetM Corporate Solutions",
-    "location": "Hybrid - Hyderabad, India, Bengaluru",
-    "queued_at": "2026-11-10T13:15:16.636556+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "101126013792",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-netm-corporate-solutions-hyderabad-bengaluru-india-0-to-1-years-101126013792",
-    "source": "naukri",
-    "company": "NetM Corporate Solutions",
-    "location": "Hybrid - Hyderabad, India, Bengaluru",
-    "queued_at": "2026-11-10T13:15:16.636556+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "101126013723",
-    "title": "Software Engineer Freshers MBA/MCA",
-    "url": "https://www.naukri.com/job-listings-software-engineer-freshers-mba-mca-netm-corporate-solutions-hyderabad-bengaluru-india-0-to-1-years-101126013723",
-    "source": "naukri",
-    "company": "NetM Corporate Solutions",
-    "location": "Hybrid - Hyderabad, India, Bengaluru",
-    "queued_at": "2026-11-10T13:15:16.636556+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "141026009993",
     "title": "Deal desk analyst",
     "url": "https://www.naukri.com/job-listings-deal-desk-analyst-cognizant-hyderabad-1-to-6-years-141026009993",
@@ -273,7 +232,8 @@
     "company": "Cognizant",
     "location": "Hyderabad",
     "queued_at": "2026-11-10T13:15:16.636556+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "101126003987",
@@ -283,6 +243,7 @@
     "company": "Lloyds Metals & Energy Ltd",
     "location": "",
     "queued_at": "2026-11-10T13:15:16.636556+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]

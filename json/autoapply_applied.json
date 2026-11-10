@@ -10424,5 +10424,38 @@
     "queued_at": "2026-11-10T09:17:41.518799+00:00",
     "status": "applied",
     "applied_at": "2026-11-10T09:18:43.765364+00:00"
+  },
+  {
+    "job_id": "101126013596",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-netm-corporate-solutions-hyderabad-bengaluru-india-0-to-1-years-101126013596",
+    "source": "naukri",
+    "company": "NetM Corporate Solutions",
+    "location": "Hybrid - Hyderabad, India, Bengaluru",
+    "queued_at": "2026-11-10T13:15:16.636556+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-10T13:16:32.161298+00:00"
+  },
+  {
+    "job_id": "101126013792",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-netm-corporate-solutions-hyderabad-bengaluru-india-0-to-1-years-101126013792",
+    "source": "naukri",
+    "company": "NetM Corporate Solutions",
+    "location": "Hybrid - Hyderabad, India, Bengaluru",
+    "queued_at": "2026-11-10T13:15:16.636556+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-10T13:16:41.821171+00:00"
+  },
+  {
+    "job_id": "101126013723",
+    "title": "Software Engineer Freshers MBA/MCA",
+    "url": "https://www.naukri.com/job-listings-software-engineer-freshers-mba-mca-netm-corporate-solutions-hyderabad-bengaluru-india-0-to-1-years-101126013723",
+    "source": "naukri",
+    "company": "NetM Corporate Solutions",
+    "location": "Hybrid - Hyderabad, India, Bengaluru",
+    "queued_at": "2026-11-10T13:15:16.636556+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-10T13:16:51.417403+00:00"
   }
 ]
