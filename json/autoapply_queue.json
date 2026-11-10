@@ -234,5 +234,25 @@
     "queued_at": "2026-11-10T05:18:00.734442+00:00",
     "status": "queued",
     "attempts": 2
+  },
+  {
+    "job_id": "101126007243",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-gra-enterprises-chennai-chennai-0-to-5-years-101126007243",
+    "source": "naukri",
+    "company": "Gra Enterprises Chennai",
+    "location": "Chennai",
+    "queued_at": "2026-11-10T09:17:41.518799+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126024068",
+    "title": "OCM Analyst",
+    "url": "https://www.naukri.com/job-listings-ocm-analyst-enterprise-minds-chennai-1-to-4-years-061126024068",
+    "source": "naukri",
+    "company": "Enterprise Minds",
+    "location": "Chennai",
+    "queued_at": "2026-11-10T09:17:41.518799+00:00",
+    "status": "queued"
   }
 ]
