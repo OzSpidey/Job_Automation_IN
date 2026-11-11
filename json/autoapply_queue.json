@@ -1,109 +1,5 @@
 [
   {
-    "job_id": "301026027290",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-infosys-chennai-bengaluru-delhi-ncr-1-to-5-years-301026027290",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Chennai, Bengaluru, Delhi / NCR",
-    "queued_at": "2026-11-11T11:15:10.169953+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "301026027497",
-    "title": "C++",
-    "url": "https://www.naukri.com/job-listings-c-infosys-pune-bengaluru-mumbai-all-areas-1-to-3-years-301026027497",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
-    "queued_at": "2026-11-11T11:15:10.169953+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "201026010159",
-    "title": "C++",
-    "url": "https://www.naukri.com/job-listings-c-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-3-years-201026010159",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
-    "queued_at": "2026-11-11T11:15:10.169953+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "111126025283",
-    "title": "C++/Python Developer Junior Role",
-    "url": "https://www.naukri.com/job-listings-c-python-developer-junior-role-bmw-techworks-india-bengaluru-1-to-3-years-111126025283",
-    "source": "naukri",
-    "company": "BMW Techworks India",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-11T13:14:58.940529+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "111126918443",
-    "title": "Autocad Design Engineer-fresher",
-    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-gurugram-0-to-3-years-111126918443",
-    "source": "naukri",
-    "company": "Delight HR",
-    "location": "Gurugram",
-    "queued_at": "2026-11-11T13:14:58.940529+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126918442",
-    "title": "Autocad Design Engineer-fresher",
-    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-new-delhi-0-to-3-years-111126918442",
-    "source": "naukri",
-    "company": "Delight HR",
-    "location": "New Delhi",
-    "queued_at": "2026-11-11T13:14:58.940529+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126918441",
-    "title": "Autocad Design Engineer-fresher",
-    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-ahmedabad-0-to-3-years-111126918441",
-    "source": "naukri",
-    "company": "Delight HR",
-    "location": "Ahmedabad",
-    "queued_at": "2026-11-11T13:14:58.940529+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126918440",
-    "title": "Autocad Design Engineer-fresher",
-    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-kolkata-0-to-3-years-111126918440",
-    "source": "naukri",
-    "company": "Delight HR",
-    "location": "Kolkata",
-    "queued_at": "2026-11-11T13:14:58.940529+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126918439",
-    "title": "Autocad Design Engineer-fresher",
-    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-chennai-0-to-3-years-111126918439",
-    "source": "naukri",
-    "company": "Delight HR",
-    "location": "Chennai",
-    "queued_at": "2026-11-11T13:14:58.940529+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126918438",
-    "title": "Autocad Design Engineer-fresher",
-    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-pune-0-to-3-years-111126918438",
-    "source": "naukri",
-    "company": "Delight HR",
-    "location": "Pune",
-    "queued_at": "2026-11-11T13:14:58.940529+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -329,253 +225,47 @@
     "status": "queued"
   },
   {
-    "job_id": "111126504443",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-training-basket-noida-0-to-1-years-111126504443",
-    "source": "naukri",
-    "company": "Training Basket",
-    "location": "Noida",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126504114",
-    "title": "Software Engineer : AI",
-    "url": "https://www.naukri.com/job-listings-software-engineer-ai-apple-india-pvt-ltd-bengaluru-1-to-10-years-111126504114",
-    "source": "naukri",
-    "company": "Apple",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126501592",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-apple-india-pvt-ltd-hyderabad-1-to-2-years-111126501592",
-    "source": "naukri",
-    "company": "Apple",
-    "location": "Hyderabad",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126506442",
-    "title": "Site Reliability Engineer",
-    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-bookmyshow-mumbai-1-to-3-years-111126506442",
-    "source": "naukri",
-    "company": "BOOKMYSHOW.COM",
-    "location": "Mumbai",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126504445",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-training-basket-noida-0-to-1-years-111126504445",
-    "source": "naukri",
-    "company": "Training Basket",
-    "location": "Noida",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126503670",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-credit-samadhaan-mumbai-indore-new-delhi-pune-chennai-ahmedabad-bengaluru-0-to-2-years-111126503670",
-    "source": "naukri",
-    "company": "Credit Samadhaan",
-    "location": "Mumbai, Indore, New Delhi, Pune, Chennai, Ahmedabad, Bengaluru",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126502372",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-unibcomp-networks-private-limited-gurugram-1-to-3-years-111126502372",
-    "source": "naukri",
-    "company": "Unibcomp Networks",
-    "location": "Gurugram",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126503930",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-comviva-technologies-limited-new-delhi-gurugram-0-to-4-years-111126503930",
-    "source": "naukri",
-    "company": "Comviva Technology",
-    "location": "New Delhi, Gurugram",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126503637",
-    "title": "Frontend Developer",
-    "url": "https://www.naukri.com/job-listings-frontend-developer-credit-samadhaan-mumbai-indore-new-delhi-pune-ahmedabad-chennai-bengaluru-0-to-2-years-111126503637",
-    "source": "naukri",
-    "company": "Credit Samadhaan",
-    "location": "Mumbai, Indore, New Delhi, Pune, Ahmedabad, Chennai, Bengaluru",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126506073",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-apxor-hyderabad-1-to-3-years-111126506073",
-    "source": "naukri",
-    "company": "Apxor",
-    "location": "Hyderabad",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126503703",
-    "title": "AI-Enabled Full Stack Developer 2",
-    "url": "https://www.naukri.com/job-listings-ai-enabled-full-stack-developer-2-zensar-technologies-pune-0-to-8-years-111126503703",
-    "source": "naukri",
-    "company": "Zensar",
-    "location": "Pune",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126503926",
-    "title": "SAP Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-sap-full-stack-developer-jade-global-software-pvt-ltd-pune-0-to-3-years-111126503926",
-    "source": "naukri",
-    "company": "Jade Global",
-    "location": "Pune",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126503217",
+    "job_id": "301026027290",
     "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-umang-software-technologies-margao-1-to-3-years-111126503217",
+    "url": "https://www.naukri.com/job-listings-java-developer-infosys-chennai-bengaluru-delhi-ncr-1-to-5-years-301026027290",
     "source": "naukri",
-    "company": "Umang Software Technologies",
-    "location": "Margao",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
+    "company": "Infosys",
+    "location": "Chennai, Bengaluru, Delhi / NCR",
+    "queued_at": "2026-11-11T11:15:10.169953+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
-    "job_id": "111126506516",
-    "title": "Python Developer (AI/ML Focus)",
-    "url": "https://www.naukri.com/job-listings-python-developer-ai-ml-focus-webtechnomind-it-solutions-kolkata-1-to-2-years-111126506516",
+    "job_id": "301026027497",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-pune-bengaluru-mumbai-all-areas-1-to-3-years-301026027497",
     "source": "naukri",
-    "company": "Webtechnomind It Solutions",
-    "location": "Kolkata",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
+    "company": "Infosys",
+    "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-11-11T11:15:10.169953+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
-    "job_id": "111126505380",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-techno-softwares-jaipur-0-to-2-years-111126505380",
+    "job_id": "201026010159",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-3-years-201026010159",
     "source": "naukri",
-    "company": "Techno Softwares",
-    "location": "Jaipur",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
+    "company": "Infosys",
+    "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-11-11T11:15:10.169953+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
-    "job_id": "111126503218",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-umang-software-technologies-margao-0-to-3-years-111126503218",
+    "job_id": "111126025283",
+    "title": "C++/Python Developer Junior Role",
+    "url": "https://www.naukri.com/job-listings-c-python-developer-junior-role-bmw-techworks-india-bengaluru-1-to-3-years-111126025283",
     "source": "naukri",
-    "company": "Umang Software Technologies",
-    "location": "Margao",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126505957",
-    "title": "C++ Software Engineer",
-    "url": "https://www.naukri.com/job-listings-c-software-engineer-citadel-securities-gurugram-1-to-6-years-111126505957",
-    "source": "naukri",
-    "company": "Citadel Securities",
-    "location": "Gurugram",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126926885",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-shashwath-solution-mysuru-1-to-3-years-111126926885",
-    "source": "naukri",
-    "company": "Shashwath Solution",
-    "location": "Remote",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126506050",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-computelib-remote-1-to-4-years-111126506050",
-    "source": "naukri",
-    "company": "Computelib",
-    "location": "Remote",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126507486",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mumbai-0-to-4-years-111126507486",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "Mumbai",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126505956",
-    "title": "Systematic Trader",
-    "url": "https://www.naukri.com/job-listings-systematic-trader-citadel-securities-gurugram-1-to-5-years-111126505956",
-    "source": "naukri",
-    "company": "Citadel Securities",
-    "location": "Gurugram",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126505520",
-    "title": "Developer",
-    "url": "https://www.naukri.com/job-listings-developer-apxor-hyderabad-1-to-4-years-111126505520",
-    "source": "naukri",
-    "company": "Apxor",
-    "location": "Hyderabad",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126504753",
-    "title": "Performance Engineer",
-    "url": "https://www.naukri.com/job-listings-performance-engineer-knowledgesprint-technologies-india-pvt-ltd-hyderabad-1-to-3-years-111126504753",
-    "source": "naukri",
-    "company": "Knowledgesprint Technologies",
-    "location": "Hyderabad",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126500221",
-    "title": "Frontend Developer",
-    "url": "https://www.naukri.com/job-listings-frontend-developer-kavya-infoweb-private-limited-nagpur-0-to-1-years-111126500221",
-    "source": "naukri",
-    "company": "Kavya Infoweb",
-    "location": "Nagpur",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126923213",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-dotflick-solutions-dubai-dubai-1-to-4-years-111126923213",
-    "source": "naukri",
-    "company": "Dotflick Solutions",
-    "location": "Dubai, Dubai",
-    "queued_at": "2026-11-11T17:15:23.183774+00:00",
-    "status": "queued"
+    "company": "BMW Techworks India",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued",
+    "attempts": 2
   }
 ]
