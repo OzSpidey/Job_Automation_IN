@@ -305,5 +305,325 @@
     "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-11T11:15:10.169953+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "111126028176",
+    "title": "Software Engineer / Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-software-developer-netm-corporate-solutions-hyderabad-bengaluru-india-0-to-5-years-111126028176",
+    "source": "naukri",
+    "company": "NetM Corporate Solutions",
+    "location": "Hybrid - Hyderabad, India, Bengaluru",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126504443",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-training-basket-noida-0-to-1-years-111126504443",
+    "source": "naukri",
+    "company": "Training Basket",
+    "location": "Noida",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126504114",
+    "title": "Software Engineer : AI",
+    "url": "https://www.naukri.com/job-listings-software-engineer-ai-apple-india-pvt-ltd-bengaluru-1-to-10-years-111126504114",
+    "source": "naukri",
+    "company": "Apple",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126025956",
+    "title": "Software Development Engineer",
+    "url": "https://www.naukri.com/job-listings-software-development-engineer-hiringwaves-bengaluru-0-to-1-years-111126025956",
+    "source": "naukri",
+    "company": "Hiringwaves",
+    "location": "Bengaluru(Sarjapur)",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126501592",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-apple-india-pvt-ltd-hyderabad-1-to-2-years-111126501592",
+    "source": "naukri",
+    "company": "Apple",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126504445",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-training-basket-noida-0-to-1-years-111126504445",
+    "source": "naukri",
+    "company": "Training Basket",
+    "location": "Noida",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126503670",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-credit-samadhaan-mumbai-indore-new-delhi-pune-chennai-ahmedabad-bengaluru-0-to-2-years-111126503670",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Mumbai, Indore, New Delhi, Pune, Chennai, Ahmedabad, Bengaluru",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126502372",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-unibcomp-networks-private-limited-gurugram-1-to-3-years-111126502372",
+    "source": "naukri",
+    "company": "Unibcomp Networks",
+    "location": "Gurugram",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126503930",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-comviva-technologies-limited-new-delhi-gurugram-0-to-4-years-111126503930",
+    "source": "naukri",
+    "company": "Comviva Technology",
+    "location": "New Delhi, Gurugram",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126503637",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-credit-samadhaan-mumbai-indore-new-delhi-pune-ahmedabad-chennai-bengaluru-0-to-2-years-111126503637",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Mumbai, Indore, New Delhi, Pune, Ahmedabad, Chennai, Bengaluru",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126504334",
+    "title": "Full Stack React Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-react-developer-cpidroid-product-of-thesmartware-noida-1-to-6-years-111126504334",
+    "source": "naukri",
+    "company": "Cpidroid (product Of Thesmartware)",
+    "location": "Noida",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126503703",
+    "title": "AI-Enabled Full Stack Developer 2",
+    "url": "https://www.naukri.com/job-listings-ai-enabled-full-stack-developer-2-zensar-technologies-pune-0-to-8-years-111126503703",
+    "source": "naukri",
+    "company": "Zensar",
+    "location": "Pune",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126503926",
+    "title": "SAP Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-sap-full-stack-developer-jade-global-software-pvt-ltd-pune-0-to-3-years-111126503926",
+    "source": "naukri",
+    "company": "Jade Global",
+    "location": "Pune",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126503217",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-umang-software-technologies-margao-1-to-3-years-111126503217",
+    "source": "naukri",
+    "company": "Umang Software Technologies",
+    "location": "Margao",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126503218",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-umang-software-technologies-margao-0-to-3-years-111126503218",
+    "source": "naukri",
+    "company": "Umang Software Technologies",
+    "location": "Margao",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126025283",
+    "title": "C++/Python Developer Junior Role",
+    "url": "https://www.naukri.com/job-listings-c-python-developer-junior-role-bmw-techworks-india-bengaluru-1-to-3-years-111126025283",
+    "source": "naukri",
+    "company": "BMW Techworks India",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126504225",
+    "title": "Graduate Trainee Engineer - Reliability",
+    "url": "https://www.naukri.com/job-listings-graduate-trainee-engineer-reliability-nvent-bengaluru-1-to-3-years-111126504225",
+    "source": "naukri",
+    "company": "nVent",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126501801",
+    "title": "Docker Engineer",
+    "url": "https://www.naukri.com/job-listings-docker-engineer-training-basket-noida-1-to-3-years-111126501801",
+    "source": "naukri",
+    "company": "Training Basket",
+    "location": "Noida",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126504561",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-ernst-young-new-delhi-1-to-4-years-111126504561",
+    "source": "naukri",
+    "company": "EY",
+    "location": "New Delhi",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126503942",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-mumbai-0-to-4-years-111126503942",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Mumbai",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126500221",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-kavya-infoweb-private-limited-nagpur-0-to-1-years-111126500221",
+    "source": "naukri",
+    "company": "Kavya Infoweb",
+    "location": "Nagpur",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126918448",
+    "title": "Autocad Design Engineer-fresher",
+    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-bengaluru-0-to-3-years-111126918448",
+    "source": "naukri",
+    "company": "Delight HR",
+    "location": "Bengaluru(Rajaji Nagar)",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126918447",
+    "title": "Autocad Design Engineer-fresher",
+    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-bangalore-rural-0-to-3-years-111126918447",
+    "source": "naukri",
+    "company": "Delight HR",
+    "location": "Bangalore Rural",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126918446",
+    "title": "Autocad Design Engineer-fresher",
+    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-noida-0-to-3-years-111126918446",
+    "source": "naukri",
+    "company": "Delight HR",
+    "location": "Noida",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126918445",
+    "title": "Autocad Design Engineer-fresher",
+    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-ghaziabad-0-to-3-years-111126918445",
+    "source": "naukri",
+    "company": "Delight HR",
+    "location": "Ghaziabad",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126918444",
+    "title": "Autocad Design Engineer-fresher",
+    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-faridabad-0-to-3-years-111126918444",
+    "source": "naukri",
+    "company": "Delight HR",
+    "location": "Faridabad",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126918443",
+    "title": "Autocad Design Engineer-fresher",
+    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-gurugram-0-to-3-years-111126918443",
+    "source": "naukri",
+    "company": "Delight HR",
+    "location": "Gurugram",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126918442",
+    "title": "Autocad Design Engineer-fresher",
+    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-new-delhi-0-to-3-years-111126918442",
+    "source": "naukri",
+    "company": "Delight HR",
+    "location": "New Delhi",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126918441",
+    "title": "Autocad Design Engineer-fresher",
+    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-ahmedabad-0-to-3-years-111126918441",
+    "source": "naukri",
+    "company": "Delight HR",
+    "location": "Ahmedabad",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126918440",
+    "title": "Autocad Design Engineer-fresher",
+    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-kolkata-0-to-3-years-111126918440",
+    "source": "naukri",
+    "company": "Delight HR",
+    "location": "Kolkata",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126918439",
+    "title": "Autocad Design Engineer-fresher",
+    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-chennai-0-to-3-years-111126918439",
+    "source": "naukri",
+    "company": "Delight HR",
+    "location": "Chennai",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126918438",
+    "title": "Autocad Design Engineer-fresher",
+    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-pune-0-to-3-years-111126918438",
+    "source": "naukri",
+    "company": "Delight HR",
+    "location": "Pune",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "queued"
   }
 ]
