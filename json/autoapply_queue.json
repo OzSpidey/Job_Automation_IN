@@ -232,17 +232,8 @@
     "company": "Infosys",
     "location": "Chennai, Bengaluru, Delhi / NCR",
     "queued_at": "2026-11-11T05:15:13.743631+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126906757",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-rimpac-hr-services-llp-pune-bengaluru-1-to-6-years-111126906757",
-    "source": "naukri",
-    "company": "Leading Client",
-    "location": "Pune, Bengaluru",
-    "queued_at": "2026-11-11T05:15:13.743631+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "301026027497",
@@ -252,7 +243,8 @@
     "company": "Infosys",
     "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-11T05:15:13.743631+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "201026010159",
@@ -262,16 +254,7 @@
     "company": "Infosys",
     "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-11T05:15:13.743631+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126906833",
-    "title": "MERN Developer",
-    "url": "https://www.naukri.com/job-listings-mern-developer-rimpac-hr-services-llp-pune-bengaluru-1-to-5-years-111126906833",
-    "source": "naukri",
-    "company": "Leading Client",
-    "location": "Pune, Bengaluru",
-    "queued_at": "2026-11-11T05:15:13.743631+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
