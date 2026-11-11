@@ -256,5 +256,45 @@
     "queued_at": "2026-11-11T05:15:13.743631+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "111126909689",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-bajaj-finance-limited-pune-1-to-4-years-111126909689",
+    "source": "naukri",
+    "company": "Bajaj Finance",
+    "location": "Pune",
+    "queued_at": "2026-11-11T07:15:13.405459+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126908339",
+    "title": "Senior Software Engineer",
+    "url": "https://www.naukri.com/job-listings-senior-software-engineer-capgemini-technology-services-india-limited-bengaluru-1-to-6-years-111126908339",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-11T07:15:13.405459+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126908331",
+    "title": "Python GenAI Developer",
+    "url": "https://www.naukri.com/job-listings-python-genai-developer-capgemini-technology-services-india-limited-hyderabad-1-to-6-years-111126908331",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-11T07:15:13.405459+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "111126908790",
+    "title": "PI Engineer",
+    "url": "https://www.naukri.com/job-listings-pi-engineer-alstom-transport-india-ltd-ghaziabad-1-to-6-years-111126908790",
+    "source": "naukri",
+    "company": "Alstom Transportation",
+    "location": "Ghaziabad",
+    "queued_at": "2026-11-11T07:15:13.405459+00:00",
+    "status": "queued"
   }
 ]
