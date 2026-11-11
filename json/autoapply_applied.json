@@ -10666,5 +10666,115 @@
     "queued_at": "2026-11-11T11:15:10.169953+00:00",
     "status": "applied",
     "applied_at": "2026-11-11T11:17:53.026758+00:00"
+  },
+  {
+    "job_id": "111126915500",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-delight-hr-services-pvt-ltd-new-delhi-0-to-1-years-111126915500",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "New Delhi",
+    "queued_at": "2026-11-11T11:15:10.169953+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-11T13:16:17.903960+00:00"
+  },
+  {
+    "job_id": "111126915499",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-delight-hr-services-pvt-ltd-ahmedabad-0-to-1-years-111126915499",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Ahmedabad",
+    "queued_at": "2026-11-11T11:15:10.169953+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-11T13:16:27.649248+00:00"
+  },
+  {
+    "job_id": "111126915498",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-delight-hr-services-pvt-ltd-kolkata-0-to-1-years-111126915498",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Kolkata",
+    "queued_at": "2026-11-11T11:15:10.169953+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-11T13:16:37.231510+00:00"
+  },
+  {
+    "job_id": "111126028176",
+    "title": "Software Engineer / Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-software-developer-netm-corporate-solutions-hyderabad-bengaluru-india-0-to-5-years-111126028176",
+    "source": "naukri",
+    "company": "NetM Corporate Solutions",
+    "location": "Hybrid - Hyderabad, India, Bengaluru",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-11T13:17:22.693685+00:00"
+  },
+  {
+    "job_id": "111126025956",
+    "title": "Software Development Engineer",
+    "url": "https://www.naukri.com/job-listings-software-development-engineer-hiringwaves-bengaluru-0-to-1-years-111126025956",
+    "source": "naukri",
+    "company": "Hiringwaves",
+    "location": "Bengaluru(Sarjapur)",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-11T13:17:41.589725+00:00"
+  },
+  {
+    "job_id": "111126918448",
+    "title": "Autocad Design Engineer-fresher",
+    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-bengaluru-0-to-3-years-111126918448",
+    "source": "naukri",
+    "company": "Delight HR",
+    "location": "Bengaluru(Rajaji Nagar)",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-11T13:19:13.560813+00:00"
+  },
+  {
+    "job_id": "111126918447",
+    "title": "Autocad Design Engineer-fresher",
+    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-bangalore-rural-0-to-3-years-111126918447",
+    "source": "naukri",
+    "company": "Delight HR",
+    "location": "Bangalore Rural",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-11T13:19:23.151899+00:00"
+  },
+  {
+    "job_id": "111126918446",
+    "title": "Autocad Design Engineer-fresher",
+    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-noida-0-to-3-years-111126918446",
+    "source": "naukri",
+    "company": "Delight HR",
+    "location": "Noida",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-11T13:19:32.776451+00:00"
+  },
+  {
+    "job_id": "111126918445",
+    "title": "Autocad Design Engineer-fresher",
+    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-ghaziabad-0-to-3-years-111126918445",
+    "source": "naukri",
+    "company": "Delight HR",
+    "location": "Ghaziabad",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-11T13:19:42.380029+00:00"
+  },
+  {
+    "job_id": "111126918444",
+    "title": "Autocad Design Engineer-fresher",
+    "url": "https://www.naukri.com/job-listings-autocad-design-engineer-fresher-delight-hr-faridabad-0-to-3-years-111126918444",
+    "source": "naukri",
+    "company": "Delight HR",
+    "location": "Faridabad",
+    "queued_at": "2026-11-11T13:14:58.940529+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-11T13:19:52.038924+00:00"
   }
 ]
