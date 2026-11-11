@@ -1,27 +1,5 @@
 [
   {
-    "job_id": "111126011138",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-tresvista-financial-services-pune-0-to-1-years-111126011138",
-    "source": "naukri",
-    "company": "Tresvista Financial Services",
-    "location": "Pune",
-    "queued_at": "2026-11-11T09:15:11.486691+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "111126010785",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-tresvista-financial-services-pune-0-to-1-years-111126010785",
-    "source": "naukri",
-    "company": "Tresvista Financial Services",
-    "location": "Pune",
-    "queued_at": "2026-11-11T09:15:11.486691+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -247,114 +225,26 @@
     "status": "queued"
   },
   {
-    "job_id": "111126022931",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-bnc-motors-coimbatore-0-to-1-years-111126022931",
-    "source": "naukri",
-    "company": "BNC Motors",
-    "location": "Coimbatore",
-    "queued_at": "2026-11-11T11:15:10.169953+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126017005",
-    "title": "Software Developer/Software Tester",
-    "url": "https://www.naukri.com/job-listings-software-developer-software-tester-independent-recruitment-consultant-freelancer-chennai-0-to-1-years-111126017005",
-    "source": "naukri",
-    "company": "Freelancer",
-    "location": "Chennai",
-    "queued_at": "2026-11-11T11:15:10.169953+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126500221",
-    "title": "Frontend Developer",
-    "url": "https://www.naukri.com/job-listings-frontend-developer-kavya-infoweb-private-limited-nagpur-0-to-1-years-111126500221",
-    "source": "naukri",
-    "company": "Kavya Infoweb",
-    "location": "Nagpur",
-    "queued_at": "2026-11-11T11:15:10.169953+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126915511",
+    "job_id": "111126011138",
     "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-delight-hr-services-pvt-ltd-delhi-ncr-0-to-1-years-111126915511",
+    "url": "https://www.naukri.com/job-listings-analyst-tresvista-financial-services-pune-0-to-1-years-111126011138",
     "source": "naukri",
-    "company": "Leading Client",
-    "location": "Delhi / NCR",
-    "queued_at": "2026-11-11T11:15:10.169953+00:00",
-    "status": "queued"
+    "company": "Tresvista Financial Services",
+    "location": "Pune",
+    "queued_at": "2026-11-11T09:15:11.486691+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
-    "job_id": "111126915510",
+    "job_id": "111126010785",
     "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-delight-hr-services-pvt-ltd-bangalore-rural-0-to-1-years-111126915510",
+    "url": "https://www.naukri.com/job-listings-analyst-tresvista-financial-services-pune-0-to-1-years-111126010785",
     "source": "naukri",
-    "company": "Leading Client",
-    "location": "Bangalore Rural",
-    "queued_at": "2026-11-11T11:15:10.169953+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126915509",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-delight-hr-services-pvt-ltd-navi-mumbai-0-to-1-years-111126915509",
-    "source": "naukri",
-    "company": "Leading Client",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-11-11T11:15:10.169953+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126915508",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-delight-hr-services-pvt-ltd-greater-noida-0-to-1-years-111126915508",
-    "source": "naukri",
-    "company": "Leading Client",
-    "location": "Greater Noida",
-    "queued_at": "2026-11-11T11:15:10.169953+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126915507",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-delight-hr-services-pvt-ltd-noida-0-to-1-years-111126915507",
-    "source": "naukri",
-    "company": "Leading Client",
-    "location": "Noida",
-    "queued_at": "2026-11-11T11:15:10.169953+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126915505",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-delight-hr-services-pvt-ltd-ghaziabad-0-to-1-years-111126915505",
-    "source": "naukri",
-    "company": "Leading Client",
-    "location": "Ghaziabad",
-    "queued_at": "2026-11-11T11:15:10.169953+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126915504",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-delight-hr-services-pvt-ltd-faridabad-0-to-1-years-111126915504",
-    "source": "naukri",
-    "company": "Leading Client",
-    "location": "Faridabad",
-    "queued_at": "2026-11-11T11:15:10.169953+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "111126915502",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-delight-hr-services-pvt-ltd-gurugram-0-to-1-years-111126915502",
-    "source": "naukri",
-    "company": "Leading Client",
-    "location": "Gurugram",
-    "queued_at": "2026-11-11T11:15:10.169953+00:00",
-    "status": "queued"
+    "company": "Tresvista Financial Services",
+    "location": "Pune",
+    "queued_at": "2026-11-11T09:15:11.486691+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
     "job_id": "111126915500",

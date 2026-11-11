@@ -10556,5 +10556,115 @@
     "queued_at": "2026-11-11T09:15:11.486691+00:00",
     "status": "applied",
     "applied_at": "2026-11-11T09:17:14.393909+00:00"
+  },
+  {
+    "job_id": "111126022931",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-bnc-motors-coimbatore-0-to-1-years-111126022931",
+    "source": "naukri",
+    "company": "BNC Motors",
+    "location": "Coimbatore",
+    "queued_at": "2026-11-11T11:15:10.169953+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-11T11:16:21.478032+00:00"
+  },
+  {
+    "job_id": "111126017005",
+    "title": "Software Developer/Software Tester",
+    "url": "https://www.naukri.com/job-listings-software-developer-software-tester-independent-recruitment-consultant-freelancer-chennai-0-to-1-years-111126017005",
+    "source": "naukri",
+    "company": "Freelancer",
+    "location": "Chennai",
+    "queued_at": "2026-11-11T11:15:10.169953+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-11T11:16:31.208038+00:00"
+  },
+  {
+    "job_id": "111126915511",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-delight-hr-services-pvt-ltd-delhi-ncr-0-to-1-years-111126915511",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Delhi / NCR",
+    "queued_at": "2026-11-11T11:15:10.169953+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-11T11:16:45.249266+00:00"
+  },
+  {
+    "job_id": "111126915510",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-delight-hr-services-pvt-ltd-bangalore-rural-0-to-1-years-111126915510",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Bangalore Rural",
+    "queued_at": "2026-11-11T11:15:10.169953+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-11T11:16:55.036960+00:00"
+  },
+  {
+    "job_id": "111126915509",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-delight-hr-services-pvt-ltd-navi-mumbai-0-to-1-years-111126915509",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Navi Mumbai",
+    "queued_at": "2026-11-11T11:15:10.169953+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-11T11:17:04.803512+00:00"
+  },
+  {
+    "job_id": "111126915508",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-delight-hr-services-pvt-ltd-greater-noida-0-to-1-years-111126915508",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Greater Noida",
+    "queued_at": "2026-11-11T11:15:10.169953+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-11T11:17:14.432724+00:00"
+  },
+  {
+    "job_id": "111126915507",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-delight-hr-services-pvt-ltd-noida-0-to-1-years-111126915507",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Noida",
+    "queued_at": "2026-11-11T11:15:10.169953+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-11T11:17:24.076832+00:00"
+  },
+  {
+    "job_id": "111126915505",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-delight-hr-services-pvt-ltd-ghaziabad-0-to-1-years-111126915505",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Ghaziabad",
+    "queued_at": "2026-11-11T11:15:10.169953+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-11T11:17:33.739490+00:00"
+  },
+  {
+    "job_id": "111126915504",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-delight-hr-services-pvt-ltd-faridabad-0-to-1-years-111126915504",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Faridabad",
+    "queued_at": "2026-11-11T11:15:10.169953+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-11T11:17:43.376723+00:00"
+  },
+  {
+    "job_id": "111126915502",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-delight-hr-services-pvt-ltd-gurugram-0-to-1-years-111126915502",
+    "source": "naukri",
+    "company": "Leading Client",
+    "location": "Gurugram",
+    "queued_at": "2026-11-11T11:15:10.169953+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-11T11:17:53.026758+00:00"
   }
 ]
