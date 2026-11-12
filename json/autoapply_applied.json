@@ -10875,5 +10875,49 @@
     "queued_at": "2026-11-11T17:15:23.183774+00:00",
     "status": "applied",
     "applied_at": "2026-11-11T17:20:42.866666+00:00"
+  },
+  {
+    "job_id": "121126021338",
+    "title": "Walk-in || Retainer- Analyst",
+    "url": "https://www.naukri.com/job-listings-retainer-analyst-eclerx-coimbatore-0-to-1-years-121126021338",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "",
+    "queued_at": "2026-11-12T09:15:06.799073+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-12T09:16:50.101692+00:00"
+  },
+  {
+    "job_id": "131026939842",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-chennai-0-to-5-years-131026939842",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Chennai",
+    "queued_at": "2026-11-12T09:15:06.799073+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-12T09:17:00.019387+00:00"
+  },
+  {
+    "job_id": "131026939722",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-capgemini-technology-services-india-limited-pune-1-to-6-years-131026939722",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Pune",
+    "queued_at": "2026-11-12T09:15:06.799073+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-12T09:17:14.225002+00:00"
+  },
+  {
+    "job_id": "131026939804",
+    "title": "C++ Middleware Developer",
+    "url": "https://www.naukri.com/job-listings-c-middleware-developer-capgemini-technology-services-india-limited-bengaluru-1-to-5-years-131026939804",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-12T09:15:06.799073+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-12T09:17:58.933243+00:00"
   }
 ]

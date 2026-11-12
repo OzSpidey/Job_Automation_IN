@@ -232,7 +232,8 @@
     "company": "Bahwan CyberTek",
     "location": "Hyderabad",
     "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "121126023200",
@@ -242,7 +243,8 @@
     "company": "Ascent Hr",
     "location": "Bengaluru",
     "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "121126022073",
@@ -252,7 +254,8 @@
     "company": "Vitrina.Ai",
     "location": "Hybrid - Mumbai(Ghatkopar)",
     "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "121126021015",
@@ -262,47 +265,8 @@
     "company": "Inspire I-tech Services",
     "location": "",
     "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "121126021338",
-    "title": "Walk-in || Retainer- Analyst",
-    "url": "https://www.naukri.com/job-listings-retainer-analyst-eclerx-coimbatore-0-to-1-years-121126021338",
-    "source": "naukri",
-    "company": "eClerx",
-    "location": "",
-    "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "131026939842",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-chennai-0-to-5-years-131026939842",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Chennai",
-    "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "131026921343",
-    "title": "Custom Software Engineer",
-    "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-1-to-2-years-131026921343",
-    "source": "naukri",
-    "company": "Accenture",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "131026939722",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-capgemini-technology-services-india-limited-pune-1-to-6-years-131026939722",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Pune",
-    "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "301026027290",
@@ -312,7 +276,8 @@
     "company": "Infosys",
     "location": "Chennai, Bengaluru, Delhi / NCR",
     "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "061126009576",
@@ -322,7 +287,8 @@
     "company": "Nxtwave Disruptive Technologies",
     "location": "Indore",
     "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "301026027497",
@@ -332,17 +298,8 @@
     "company": "Infosys",
     "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "131026939804",
-    "title": "C++ Middleware Developer",
-    "url": "https://www.naukri.com/job-listings-c-middleware-developer-capgemini-technology-services-india-limited-bengaluru-1-to-5-years-131026939804",
-    "source": "naukri",
-    "company": "Capgemini",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "201026010159",
@@ -352,7 +309,8 @@
     "company": "Infosys",
     "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "131026042235",
@@ -362,16 +320,7 @@
     "company": "Tresvista Financial Services",
     "location": "Pune",
     "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "121026922316",
-    "title": "GN - SC&E - PRH - RDE - Analyst",
-    "url": "https://www.naukri.com/job-listings-gn-sc-e-prh-rde-analyst-accenture-solutions-pvt-ltd-pune-1-to-4-years-121026922316",
-    "source": "naukri",
-    "company": "Accenture",
-    "location": "Pune",
-    "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
