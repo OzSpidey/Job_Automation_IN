@@ -322,5 +322,185 @@
     "level": "Early",
     "queued_at": "2026-11-06T17:01:24.963895+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "121126500040",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-credit-samadhaan-ahmedabad-0-to-2-years-121126500040",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Ahmedabad",
+    "queued_at": "2026-11-12T11:15:14.654486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500037",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-credit-samadhaan-pune-0-to-2-years-121126500037",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Pune",
+    "queued_at": "2026-11-12T11:15:14.654486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500039",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-credit-samadhaan-bengaluru-0-to-2-years-121126500039",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-12T11:15:14.654486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500035",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-credit-samadhaan-indore-0-to-2-years-121126500035",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Indore",
+    "queued_at": "2026-11-12T11:15:14.654486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500038",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-credit-samadhaan-new-delhi-0-to-2-years-121126500038",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "New Delhi",
+    "queued_at": "2026-11-12T11:15:14.654486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500036",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-credit-samadhaan-chennai-0-to-2-years-121126500036",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Chennai",
+    "queued_at": "2026-11-12T11:15:14.654486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500187",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-comviva-technologies-limited-new-delhi-0-to-4-years-121126500187",
+    "source": "naukri",
+    "company": "Comviva Technology",
+    "location": "New Delhi",
+    "queued_at": "2026-11-12T11:15:14.654486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500437",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-credit-samadhaan-pune-0-to-2-years-121126500437",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Pune",
+    "queued_at": "2026-11-12T11:15:14.654486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500439",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-credit-samadhaan-indore-0-to-2-years-121126500439",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Indore",
+    "queued_at": "2026-11-12T11:15:14.654486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500435",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-credit-samadhaan-bengaluru-0-to-2-years-121126500435",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-12T11:15:14.654486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500440",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-credit-samadhaan-mumbai-0-to-2-years-121126500440",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Mumbai",
+    "queued_at": "2026-11-12T11:15:14.654486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500438",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-credit-samadhaan-chennai-0-to-2-years-121126500438",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Chennai",
+    "queued_at": "2026-11-12T11:15:14.654486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500436",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-credit-samadhaan-new-delhi-0-to-2-years-121126500436",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "New Delhi",
+    "queued_at": "2026-11-12T11:15:14.654486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "280923006009",
+    "title": "Quantitative Trader.",
+    "url": "https://www.naukri.com/job-listings-quantitative-trader-qnance-technology-llp-bengaluru-0-to-3-years-280923006009",
+    "source": "naukri",
+    "company": "Qnance Technology LLP",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-12T11:15:14.654486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126025378",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-sundaram-finance-chennai-0-to-4-years-121126025378",
+    "source": "naukri",
+    "company": "Sundaram Finance",
+    "location": "Chennai",
+    "queued_at": "2026-11-12T11:15:14.654486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026921343",
+    "title": "Custom Software Engineer",
+    "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-1-to-2-years-131026921343",
+    "source": "naukri",
+    "company": "Accenture",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-12T11:15:14.654486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026933811",
+    "title": "AVEVA E3D / AVEVA P&ID / AutoPIPE Engineer",
+    "url": "https://www.naukri.com/job-listings-aveva-e3d-aveva-p-id-autopipe-engineer-infosys-limited-noida-1-to-3-years-131026933811",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Noida",
+    "queued_at": "2026-11-12T11:15:14.654486+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121026922316",
+    "title": "GN - SC&E - PRH - RDE - Analyst",
+    "url": "https://www.naukri.com/job-listings-gn-sc-e-prh-rde-analyst-accenture-solutions-pvt-ltd-pune-1-to-4-years-121026922316",
+    "source": "naukri",
+    "company": "Accenture",
+    "location": "Pune",
+    "queued_at": "2026-11-12T11:15:14.654486+00:00",
+    "status": "queued"
   }
 ]
