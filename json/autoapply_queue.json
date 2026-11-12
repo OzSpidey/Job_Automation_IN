@@ -245,5 +245,415 @@
     "queued_at": "2026-11-12T13:15:07.179422+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "121126500040",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-credit-samadhaan-ahmedabad-0-to-2-years-121126500040",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Ahmedabad",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500037",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-credit-samadhaan-pune-0-to-2-years-121126500037",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Pune",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500039",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-credit-samadhaan-bengaluru-0-to-2-years-121126500039",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500035",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-credit-samadhaan-indore-0-to-2-years-121126500035",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Indore",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500038",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-credit-samadhaan-new-delhi-0-to-2-years-121126500038",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "New Delhi",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500036",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-credit-samadhaan-chennai-0-to-2-years-121126500036",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Chennai",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500187",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-comviva-technologies-limited-new-delhi-0-to-4-years-121126500187",
+    "source": "naukri",
+    "company": "Comviva",
+    "location": "New Delhi",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500437",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-credit-samadhaan-pune-0-to-2-years-121126500437",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Pune",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500439",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-credit-samadhaan-indore-0-to-2-years-121126500439",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Indore",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500435",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-credit-samadhaan-bengaluru-0-to-2-years-121126500435",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500440",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-credit-samadhaan-mumbai-0-to-2-years-121126500440",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Mumbai",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500438",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-credit-samadhaan-chennai-0-to-2-years-121126500438",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "Chennai",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500436",
+    "title": "Frontend Developer",
+    "url": "https://www.naukri.com/job-listings-frontend-developer-credit-samadhaan-new-delhi-0-to-2-years-121126500436",
+    "source": "naukri",
+    "company": "Credit Samadhaan",
+    "location": "New Delhi",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126504604",
+    "title": "Full Stack Developer [L1]",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-l1-alef-education-consultancy-llc-pune-1-to-2-years-121126504604",
+    "source": "naukri",
+    "company": "Alef Education Consultancy",
+    "location": "Pune",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126502939",
+    "title": "Full-Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-webomindapps-private-limited-bengaluru-1-to-4-years-121126502939",
+    "source": "naukri",
+    "company": "Webomindapps",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126501840",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-websenor-remote-1-to-4-years-121126501840",
+    "source": "naukri",
+    "company": "WebSenor",
+    "location": "Remote",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500211",
+    "title": "Full Stack Trainer Cum Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-trainer-developer-galtech-chengalpattu-1-to-6-years-121126500211",
+    "source": "naukri",
+    "company": "Galtech",
+    "location": "Chengalpattu",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126500210",
+    "title": "Full Stack Trainer Cum Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-trainer-developer-galtech-chennai-1-to-6-years-121126500210",
+    "source": "naukri",
+    "company": "Galtech",
+    "location": "Chennai",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126504718",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-afresh-study-abroad-thiruvananthapuram-1-to-4-years-121126504718",
+    "source": "naukri",
+    "company": "Afresh Study Abroad",
+    "location": "Thiruvananthapuram",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126503911",
+    "title": "Separation Dynamics Engineer",
+    "url": "https://www.naukri.com/job-listings-separation-dynamics-engineer-s3flyroot-technologies-private-limited-hyderabad-0-to-1-years-121126503911",
+    "source": "naukri",
+    "company": "Skyroot Aerospace",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126502148",
+    "title": "Software developers",
+    "url": "https://www.naukri.com/job-listings-software-developers-coretus-technologies-rajkot-1-to-6-years-121126502148",
+    "source": "naukri",
+    "company": "Coretus Technologies",
+    "location": "Rajkot",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126021015",
+    "title": "Walk-in || Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-inspire-i-tech-services-kolkata-0-to-3-years-121126021015",
+    "source": "naukri",
+    "company": "Inspire I-tech Services",
+    "location": "",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126504969",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-pune-0-to-3-years-121126504969",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Pune",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126504501",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-ernst-young-new-delhi-1-to-6-years-121126504501",
+    "source": "naukri",
+    "company": "EY",
+    "location": "New Delhi",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126504967",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-eclerx-services-ltd-chandigarh-0-to-3-years-121126504967",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Chandigarh",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126504449",
+    "title": "Social Experience Analyst",
+    "url": "https://www.naukri.com/job-listings-social-experience-analyst-salesforce-hyderabad-1-to-3-years-121126504449",
+    "source": "naukri",
+    "company": "Salesforce",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126504192",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-ernst-young-gurugram-1-to-4-years-121126504192",
+    "source": "naukri",
+    "company": "EY",
+    "location": "Gurugram",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126504157",
+    "title": "Fresher / Entry-Level Developer",
+    "url": "https://www.naukri.com/job-listings-fresher-entry-level-developer-growbiz-solutions-inc-chandigarh-0-to-5-years-121126504157",
+    "source": "naukri",
+    "company": "Growbiz Solutions",
+    "location": "Chandigarh",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126503944",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-ernst-young-bengaluru-1-to-6-years-121126503944",
+    "source": "naukri",
+    "company": "EY",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126503211",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-metayb-pvt-ltd-chennai-0-to-2-years-121126503211",
+    "source": "naukri",
+    "company": "Metayb",
+    "location": "Chennai",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126502828",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-iflowtech-solutions-private-limited-kochi-1-to-5-years-121126502828",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Kochi",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126502250",
+    "title": "Drone Developer",
+    "url": "https://www.naukri.com/job-listings-drone-developer-indian-robotics-solution-pvt-ltd-noida-0-to-2-years-121126502250",
+    "source": "naukri",
+    "company": "Indian Robotics Solution",
+    "location": "Noida",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026921343",
+    "title": "Custom Software Engineer",
+    "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-1-to-2-years-131026921343",
+    "source": "naukri",
+    "company": "Accenture",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126020440",
+    "title": "Software Development Engineer",
+    "url": "https://www.naukri.com/job-listings-software-development-engineer-bct-consulting-hyderabad-1-to-3-years-121126020440",
+    "source": "naukri",
+    "company": "Bahwan CyberTek",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026027290",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-infosys-chennai-bengaluru-delhi-ncr-1-to-5-years-301026027290",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Chennai, Bengaluru, Delhi / NCR",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126023200",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-ascent-staffing-solutions-bengaluru-1-to-2-years-121126023200",
+    "source": "naukri",
+    "company": "Ascent Hr",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "061126009576",
+    "title": "Python Software Developer",
+    "url": "https://www.naukri.com/job-listings-python-software-developer-nxtwave-disruptive-technologies-indore-0-to-1-years-061126009576",
+    "source": "naukri",
+    "company": "Nxtwave Disruptive Technologies",
+    "location": "Indore",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "121126022073",
+    "title": "Generative AI Developer (RAG / Agentic AI, Python)",
+    "url": "https://www.naukri.com/job-listings-generative-ai-developer-rag-agentic-ai-python-vasinfotec-mumbai-0-to-4-years-121126022073",
+    "source": "naukri",
+    "company": "Vitrina.Ai",
+    "location": "Hybrid - Mumbai(Ghatkopar)",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026027497",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-pune-bengaluru-mumbai-all-areas-1-to-3-years-301026027497",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201026010159",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-3-years-201026010159",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "131026042235",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-tresvista-financial-services-pune-1-to-2-years-131026042235",
+    "source": "naukri",
+    "company": "Tresvista Financial Services",
+    "location": "Pune",
+    "queued_at": "2026-11-12T15:15:37.320458+00:00",
+    "status": "queued"
   }
 ]
