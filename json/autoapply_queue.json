@@ -1,5 +1,104 @@
 [
   {
+    "job_id": "121126020440",
+    "title": "Software Development Engineer",
+    "url": "https://www.naukri.com/job-listings-software-development-engineer-bct-consulting-hyderabad-1-to-3-years-121126020440",
+    "source": "naukri",
+    "company": "Bahwan CyberTek",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-12T09:15:06.799073+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "121126023200",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-ascent-staffing-solutions-bengaluru-1-to-2-years-121126023200",
+    "source": "naukri",
+    "company": "Ascent Hr",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-12T09:15:06.799073+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "121126022073",
+    "title": "Generative AI Developer (RAG / Agentic AI, Python)",
+    "url": "https://www.naukri.com/job-listings-generative-ai-developer-rag-agentic-ai-python-vasinfotec-mumbai-0-to-4-years-121126022073",
+    "source": "naukri",
+    "company": "Vitrina.Ai",
+    "location": "Hybrid - Mumbai(Ghatkopar)",
+    "queued_at": "2026-11-12T09:15:06.799073+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "121126021015",
+    "title": "Walk-in || Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-inspire-i-tech-services-kolkata-0-to-3-years-121126021015",
+    "source": "naukri",
+    "company": "Inspire I-tech Services",
+    "location": "",
+    "queued_at": "2026-11-12T09:15:06.799073+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "301026027290",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-infosys-chennai-bengaluru-delhi-ncr-1-to-5-years-301026027290",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Chennai, Bengaluru, Delhi / NCR",
+    "queued_at": "2026-11-12T09:15:06.799073+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "061126009576",
+    "title": "Python Software Developer",
+    "url": "https://www.naukri.com/job-listings-python-software-developer-nxtwave-disruptive-technologies-indore-0-to-1-years-061126009576",
+    "source": "naukri",
+    "company": "Nxtwave Disruptive Technologies",
+    "location": "Indore",
+    "queued_at": "2026-11-12T09:15:06.799073+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "301026027497",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-pune-bengaluru-mumbai-all-areas-1-to-3-years-301026027497",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-11-12T09:15:06.799073+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "201026010159",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-3-years-201026010159",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-11-12T09:15:06.799073+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
+    "job_id": "131026042235",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-tresvista-financial-services-pune-1-to-2-years-131026042235",
+    "source": "naukri",
+    "company": "Tresvista Financial Services",
+    "location": "Pune",
+    "queued_at": "2026-11-12T09:15:06.799073+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -223,104 +322,5 @@
     "level": "Early",
     "queued_at": "2026-11-06T17:01:24.963895+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "121126020440",
-    "title": "Software Development Engineer",
-    "url": "https://www.naukri.com/job-listings-software-development-engineer-bct-consulting-hyderabad-1-to-3-years-121126020440",
-    "source": "naukri",
-    "company": "Bahwan CyberTek",
-    "location": "Hyderabad",
-    "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "121126023200",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-ascent-staffing-solutions-bengaluru-1-to-2-years-121126023200",
-    "source": "naukri",
-    "company": "Ascent Hr",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "121126022073",
-    "title": "Generative AI Developer (RAG / Agentic AI, Python)",
-    "url": "https://www.naukri.com/job-listings-generative-ai-developer-rag-agentic-ai-python-vasinfotec-mumbai-0-to-4-years-121126022073",
-    "source": "naukri",
-    "company": "Vitrina.Ai",
-    "location": "Hybrid - Mumbai(Ghatkopar)",
-    "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "121126021015",
-    "title": "Walk-in || Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-inspire-i-tech-services-kolkata-0-to-3-years-121126021015",
-    "source": "naukri",
-    "company": "Inspire I-tech Services",
-    "location": "",
-    "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "301026027290",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-infosys-chennai-bengaluru-delhi-ncr-1-to-5-years-301026027290",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Chennai, Bengaluru, Delhi / NCR",
-    "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "061126009576",
-    "title": "Python Software Developer",
-    "url": "https://www.naukri.com/job-listings-python-software-developer-nxtwave-disruptive-technologies-indore-0-to-1-years-061126009576",
-    "source": "naukri",
-    "company": "Nxtwave Disruptive Technologies",
-    "location": "Indore",
-    "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "301026027497",
-    "title": "C++",
-    "url": "https://www.naukri.com/job-listings-c-infosys-pune-bengaluru-mumbai-all-areas-1-to-3-years-301026027497",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
-    "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "201026010159",
-    "title": "C++",
-    "url": "https://www.naukri.com/job-listings-c-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-3-years-201026010159",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
-    "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "131026042235",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-tresvista-financial-services-pune-1-to-2-years-131026042235",
-    "source": "naukri",
-    "company": "Tresvista Financial Services",
-    "location": "Pune",
-    "queued_at": "2026-11-12T09:15:06.799073+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
