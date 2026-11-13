@@ -232,7 +232,8 @@
     "company": "Gautam",
     "location": "Greater Noida(Greater Noida West)",
     "queued_at": "2026-11-13T19:15:19.216293+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "121026000796",
@@ -242,6 +243,7 @@
     "company": "Omm It Solutions",
     "location": "Remote",
     "queued_at": "2026-11-13T19:15:19.216293+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
