@@ -267,5 +267,115 @@
     "level": "Early",
     "queued_at": "2026-11-06T17:01:24.963895+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "161126501640",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-comviva-technologies-limited-noida-0-to-4-years-161126501640",
+    "source": "naukri",
+    "company": "Comviva",
+    "location": "Noida",
+    "queued_at": "2026-11-16T11:15:18.724327+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126501387",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-techpulse-it-services-pune-0-to-3-years-161126501387",
+    "source": "naukri",
+    "company": "Techpulse It Services",
+    "location": "Pune",
+    "queued_at": "2026-11-16T11:15:18.724327+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126018691",
+    "title": "TME Engineer",
+    "url": "https://www.naukri.com/job-listings-tme-engineer-evoke-hr-nashik-chhatrapati-sambhajinagar-amravati-1-to-5-years-161126018691",
+    "source": "naukri",
+    "company": "Evoke HR Pvt Ltd",
+    "location": "Nashik, Chhatrapati Sambhajinagar, Amravati",
+    "queued_at": "2026-11-16T11:15:18.724327+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126012996",
+    "title": "Designer/Engineer",
+    "url": "https://www.naukri.com/job-listings-designer-engineer-3d-magic-info-solutions-pune-0-to-2-years-161126012996",
+    "source": "naukri",
+    "company": "3D Magic Info Solutions",
+    "location": "Pune(Nighoje)",
+    "queued_at": "2026-11-16T11:15:18.724327+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126013377",
+    "title": "Walk-in || Deal Desk Analyst",
+    "url": "https://www.naukri.com/job-listings-deal-desk-analyst-cognizant-hyderabad-1-to-6-years-161126013377",
+    "source": "naukri",
+    "company": "Cognizant",
+    "location": "",
+    "queued_at": "2026-11-16T11:15:18.724327+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126500076",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-information-evolution-inc-coimbatore-0-to-1-years-161126500076",
+    "source": "naukri",
+    "company": "Information Evolution",
+    "location": "Coimbatore",
+    "queued_at": "2026-11-16T11:15:18.724327+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "231026922050",
+    "title": "C++ Developer",
+    "url": "https://www.naukri.com/job-listings-c-developer-infosys-limited-bengaluru-1-to-2-years-231026922050",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-16T11:15:18.724327+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "231026022275",
+    "title": "C++ developer",
+    "url": "https://www.naukri.com/job-listings-c-developer-infosys-chennai-bengaluru-1-to-3-years-231026022275",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Chennai, Bengaluru",
+    "queued_at": "2026-11-16T11:15:18.724327+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126002210",
+    "title": "M365 Systems Associate",
+    "url": "https://www.naukri.com/job-listings-m365-systems-associate-engminds-ahmedabad-0-to-1-years-161126002210",
+    "source": "naukri",
+    "company": "Engminds",
+    "location": "Ahmedabad",
+    "queued_at": "2026-11-16T11:15:18.724327+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126001011",
+    "title": "EDE - Educator and Developer Engineer",
+    "url": "https://www.naukri.com/job-listings-ede-educator-and-developer-engineer-being-infinity-hyderabad-0-to-6-years-161126001011",
+    "source": "naukri",
+    "company": "Being Infinity",
+    "location": "Hyderabad(KPHB)",
+    "queued_at": "2026-11-16T11:15:18.724327+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "140926022076",
+    "title": "Derivatives Trader",
+    "url": "https://www.naukri.com/job-listings-derivatives-trader-mansukh-securities-and-finance-new-delhi-0-to-3-years-140926022076",
+    "source": "naukri",
+    "company": "Mansukh Securities And Finance",
+    "location": "New Delhi(Pandav Nagar +1)",
+    "queued_at": "2026-11-16T11:15:18.724327+00:00",
+    "status": "queued"
   }
 ]
