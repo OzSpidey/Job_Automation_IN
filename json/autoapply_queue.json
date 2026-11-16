@@ -256,5 +256,45 @@
     "queued_at": "2026-11-16T05:15:07.625183+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "161126500076",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-information-evolution-inc-coimbatore-0-to-1-years-161126500076",
+    "source": "naukri",
+    "company": "Information Evolution",
+    "location": "Coimbatore",
+    "queued_at": "2026-11-16T07:15:42.473689+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126006286",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-edstellar-solutions-bengaluru-0-to-5-years-161126006286",
+    "source": "naukri",
+    "company": "Edstellar Solutions",
+    "location": "Bengaluru(BTM Layout)",
+    "queued_at": "2026-11-16T07:15:42.473689+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "221026035307",
+    "title": "C++ developer 2026",
+    "url": "https://www.naukri.com/job-listings-c-developer-2026-infosys-chennai-bengaluru-1-to-3-years-221026035307",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Chennai, Bengaluru",
+    "queued_at": "2026-11-16T07:15:42.473689+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "211026022849",
+    "title": "DAM Engineer",
+    "url": "https://www.naukri.com/job-listings-dam-engineer-3i-infotech-mumbai-all-areas-1-to-6-years-211026022849",
+    "source": "naukri",
+    "company": "3i Infotech",
+    "location": "Mumbai (All Areas)",
+    "queued_at": "2026-11-16T07:15:42.473689+00:00",
+    "status": "queued"
   }
 ]
