@@ -223,47 +223,5 @@
     "level": "Early",
     "queued_at": "2026-11-06T17:01:24.963895+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "161126023110",
-    "title": "Sales Development Executive (SDE)",
-    "url": "https://www.naukri.com/job-listings-sales-development-executive-sde-collabrains-software-solutions-hyderabad-0-to-2-years-161126023110",
-    "source": "naukri",
-    "company": "Collabrains Software Solutions",
-    "location": "Hyderabad",
-    "queued_at": "2026-11-16T15:15:55.398571+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "161126010861",
-    "title": "ERPNext Frappe Developer",
-    "url": "https://www.naukri.com/job-listings-erpnext-frappe-developer-flowjet-valves-ahmedabad-1-to-5-years-161126010861",
-    "source": "naukri",
-    "company": "Flowjet Valves",
-    "location": "Ahmedabad",
-    "queued_at": "2026-11-16T15:15:55.398571+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "161126025844",
-    "title": "Python Developer",
-    "url": "https://www.naukri.com/job-listings-python-developer-dhruv-technology-system-solution-hyderabad-bengaluru-1-to-6-years-161126025844",
-    "source": "naukri",
-    "company": "Dhruv Technology",
-    "location": "Hyderabad, Bengaluru",
-    "queued_at": "2026-11-16T19:15:35.836997+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "161126507516",
-    "title": "DBT Developer",
-    "url": "https://www.naukri.com/job-listings-dbt-developer-clifyx-technology-mumbai-0-to-2-years-161126507516",
-    "source": "naukri",
-    "company": "Clifyx Technology",
-    "location": "Mumbai",
-    "queued_at": "2026-11-16T19:15:35.836997+00:00",
-    "status": "queued"
   }
 ]
