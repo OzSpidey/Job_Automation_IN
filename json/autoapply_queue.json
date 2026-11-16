@@ -225,39 +225,6 @@
     "status": "queued"
   },
   {
-    "job_id": "161126002210",
-    "title": "M365 Systems Associate",
-    "url": "https://www.naukri.com/job-listings-m365-systems-associate-engminds-ahmedabad-0-to-1-years-161126002210",
-    "source": "naukri",
-    "company": "Engminds",
-    "location": "Ahmedabad",
-    "queued_at": "2026-11-16T05:15:07.625183+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "161126001011",
-    "title": "EDE - Educator and Developer Engineer",
-    "url": "https://www.naukri.com/job-listings-ede-educator-and-developer-engineer-being-infinity-hyderabad-0-to-6-years-161126001011",
-    "source": "naukri",
-    "company": "Being Infinity",
-    "location": "Hyderabad(KPHB)",
-    "queued_at": "2026-11-16T05:15:07.625183+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "140926022076",
-    "title": "Derivatives Trader",
-    "url": "https://www.naukri.com/job-listings-derivatives-trader-mansukh-securities-and-finance-new-delhi-0-to-3-years-140926022076",
-    "source": "naukri",
-    "company": "Mansukh Securities And Finance",
-    "location": "New Delhi(Pandav Nagar +1)",
-    "queued_at": "2026-11-16T05:15:07.625183+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "161126006286",
     "title": "Software Developer",
     "url": "https://www.naukri.com/job-listings-software-developer-edstellar-solutions-bengaluru-0-to-5-years-161126006286",
@@ -266,7 +233,7 @@
     "location": "Bengaluru(BTM Layout)",
     "queued_at": "2026-11-16T07:15:42.473689+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "221026035307",
@@ -277,7 +244,7 @@
     "location": "Hybrid - Chennai, Bengaluru",
     "queued_at": "2026-11-16T07:15:42.473689+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "211026022849",
@@ -288,17 +255,7 @@
     "location": "Mumbai (All Areas)",
     "queued_at": "2026-11-16T07:15:42.473689+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "161126011181",
-    "title": "Walk-in || Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-r1-rcm-noida-gurugram-0-to-3-years-161126011181",
-    "source": "naukri",
-    "company": "R1 RCM",
-    "location": "",
-    "queued_at": "2026-11-16T09:15:54.148220+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "161126010861",
@@ -308,16 +265,7 @@
     "company": "Flowjet Valves",
     "location": "Ahmedabad",
     "queued_at": "2026-11-16T09:15:54.148220+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "161126500076",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-information-evolution-inc-coimbatore-0-to-1-years-161126500076",
-    "source": "naukri",
-    "company": "Information Evolution",
-    "location": "Coimbatore",
-    "queued_at": "2026-11-16T09:15:54.148220+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
