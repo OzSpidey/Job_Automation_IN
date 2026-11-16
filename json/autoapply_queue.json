@@ -311,5 +311,225 @@
     "queued_at": "2026-11-16T11:15:18.724327+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "161126503819",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-barclays-shared-services-pune-0-to-7-years-161126503819",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126503810",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-barclays-shared-services-pune-0-to-7-years-161126503810",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126505394",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-boot-infotech-private-limited-pune-1-to-3-years-161126505394",
+    "source": "naukri",
+    "company": "Boot Infotech",
+    "location": "Pune",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026027290",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-infosys-chennai-bengaluru-delhi-ncr-1-to-5-years-301026027290",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Chennai, Bengaluru, Delhi / NCR",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126505200",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-nrich-it-consulting-services-pune-0-to-3-years-161126505200",
+    "source": "naukri",
+    "company": "Nrich It Consulting Services",
+    "location": "Pune",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "050526006845",
+    "title": "Software Developer (In Python)",
+    "url": "https://www.naukri.com/job-listings-software-developer-in-python-drishti-lifesaving-mumbai-0-to-2-years-050526006845",
+    "source": "naukri",
+    "company": "Drishti Lifesaving",
+    "location": "Mumbai(Mumbai Central)",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "301026027497",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-pune-bengaluru-mumbai-all-areas-1-to-3-years-301026027497",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201026010159",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-3-years-201026010159",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "240626011971",
+    "title": "Orthophoto Engineer",
+    "url": "https://www.naukri.com/job-listings-orthophoto-engineer-secon-bengaluru-1-to-5-years-240626011971",
+    "source": "naukri",
+    "company": "SECON",
+    "location": "Bengaluru(Whitefield)",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126505631",
+    "title": "Prompt Engineer",
+    "url": "https://www.naukri.com/job-listings-prompt-engineer-digital-it-hub-remote-0-to-1-years-161126505631",
+    "source": "naukri",
+    "company": "Digital It Hub",
+    "location": "Remote",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126505122",
+    "title": "Prompt Engineer",
+    "url": "https://www.naukri.com/job-listings-prompt-engineer-terratern-bengaluru-1-to-3-years-161126505122",
+    "source": "naukri",
+    "company": "Terratern",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126504887",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-iflowtech-solutions-private-limited-chennai-1-to-4-years-161126504887",
+    "source": "naukri",
+    "company": "Iflowtech Solutions",
+    "location": "Chennai",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126504997",
+    "title": "Developer",
+    "url": "https://www.naukri.com/job-listings-developer-tectree-noida-1-to-4-years-161126504997",
+    "source": "naukri",
+    "company": "Tectree Consulting",
+    "location": "Noida",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126504764",
+    "title": "Analyst Dom PCB & other scrap1",
+    "url": "https://www.naukri.com/job-listings-analyst-dom-pcb-other-scrap1-aditya-birla-insulators-mumbai-1-to-2-years-161126504764",
+    "source": "naukri",
+    "company": "Aditya Birla Insulators",
+    "location": "Mumbai",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126503806",
+    "title": "Analyst - Dll2",
+    "url": "https://www.naukri.com/job-listings-analyst-dll2-eclerx-services-ltd-coimbatore-0-to-4-years-161126503806",
+    "source": "naukri",
+    "company": "eClerx",
+    "location": "Coimbatore",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126500639",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-xoom-inc-bengaluru-1-to-6-years-161126500639",
+    "source": "naukri",
+    "company": "Xoom",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126501640",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-comviva-technologies-limited-noida-0-to-4-years-161126501640",
+    "source": "naukri",
+    "company": "Comviva",
+    "location": "Noida",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126501387",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-techpulse-it-services-pune-0-to-3-years-161126501387",
+    "source": "naukri",
+    "company": "Techpulse It Services",
+    "location": "Pune",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126500076",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-information-evolution-inc-coimbatore-0-to-1-years-161126500076",
+    "source": "naukri",
+    "company": "Information Evolution",
+    "location": "Coimbatore",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126006286",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-edstellar-solutions-bengaluru-0-to-5-years-161126006286",
+    "source": "naukri",
+    "company": "Edstellar Solutions",
+    "location": "Bengaluru(BTM Layout)",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "221026035307",
+    "title": "C++ developer 2026",
+    "url": "https://www.naukri.com/job-listings-c-developer-2026-infosys-chennai-bengaluru-1-to-3-years-221026035307",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Chennai, Bengaluru",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "211026022849",
+    "title": "DAM Engineer",
+    "url": "https://www.naukri.com/job-listings-dam-engineer-3i-infotech-mumbai-all-areas-1-to-6-years-211026022849",
+    "source": "naukri",
+    "company": "3i Infotech",
+    "location": "Mumbai (All Areas)",
+    "queued_at": "2026-11-16T13:15:10.716578+00:00",
+    "status": "queued"
   }
 ]
