@@ -233,7 +233,7 @@
     "location": "Ahmedabad",
     "queued_at": "2026-11-16T05:15:07.625183+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "161126001011",
@@ -244,7 +244,7 @@
     "location": "Hyderabad(KPHB)",
     "queued_at": "2026-11-16T05:15:07.625183+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "140926022076",
@@ -255,17 +255,7 @@
     "location": "New Delhi(Pandav Nagar +1)",
     "queued_at": "2026-11-16T05:15:07.625183+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "161126500076",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-information-evolution-inc-coimbatore-0-to-1-years-161126500076",
-    "source": "naukri",
-    "company": "Information Evolution",
-    "location": "Coimbatore",
-    "queued_at": "2026-11-16T07:15:42.473689+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "161126006286",
@@ -275,7 +265,8 @@
     "company": "Edstellar Solutions",
     "location": "Bengaluru(BTM Layout)",
     "queued_at": "2026-11-16T07:15:42.473689+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "221026035307",
@@ -285,7 +276,8 @@
     "company": "Infosys",
     "location": "Hybrid - Chennai, Bengaluru",
     "queued_at": "2026-11-16T07:15:42.473689+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "211026022849",
@@ -295,6 +287,7 @@
     "company": "3i Infotech",
     "location": "Mumbai (All Areas)",
     "queued_at": "2026-11-16T07:15:42.473689+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
