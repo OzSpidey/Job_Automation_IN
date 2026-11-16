@@ -245,5 +245,25 @@
     "queued_at": "2026-11-16T15:15:55.398571+00:00",
     "status": "queued",
     "attempts": 2
+  },
+  {
+    "job_id": "161126025844",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-dhruv-technology-system-solution-hyderabad-bengaluru-1-to-6-years-161126025844",
+    "source": "naukri",
+    "company": "Dhruv Technology",
+    "location": "Hyderabad, Bengaluru",
+    "queued_at": "2026-11-16T19:15:35.836997+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126507516",
+    "title": "DBT Developer",
+    "url": "https://www.naukri.com/job-listings-dbt-developer-clifyx-technology-mumbai-0-to-2-years-161126507516",
+    "source": "naukri",
+    "company": "Clifyx Technology",
+    "location": "Mumbai",
+    "queued_at": "2026-11-16T19:15:35.836997+00:00",
+    "status": "queued"
   }
 ]
