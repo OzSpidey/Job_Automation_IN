@@ -289,5 +289,35 @@
     "queued_at": "2026-11-16T07:15:42.473689+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "161126011181",
+    "title": "Walk-in || Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-r1-rcm-noida-gurugram-0-to-3-years-161126011181",
+    "source": "naukri",
+    "company": "R1 RCM",
+    "location": "",
+    "queued_at": "2026-11-16T09:15:54.148220+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126010861",
+    "title": "ERPNext Frappe Developer",
+    "url": "https://www.naukri.com/job-listings-erpnext-frappe-developer-flowjet-valves-ahmedabad-1-to-5-years-161126010861",
+    "source": "naukri",
+    "company": "Flowjet Valves",
+    "location": "Ahmedabad",
+    "queued_at": "2026-11-16T09:15:54.148220+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "161126500076",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-information-evolution-inc-coimbatore-0-to-1-years-161126500076",
+    "source": "naukri",
+    "company": "Information Evolution",
+    "location": "Coimbatore",
+    "queued_at": "2026-11-16T09:15:54.148220+00:00",
+    "status": "queued"
   }
 ]
