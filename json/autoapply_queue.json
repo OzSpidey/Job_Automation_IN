@@ -1,49 +1,5 @@
 [
   {
-    "job_id": "161126006286",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-edstellar-solutions-bengaluru-0-to-5-years-161126006286",
-    "source": "naukri",
-    "company": "Edstellar Solutions",
-    "location": "Bengaluru(BTM Layout)",
-    "queued_at": "2026-11-16T07:15:42.473689+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "221026035307",
-    "title": "C++ developer 2026",
-    "url": "https://www.naukri.com/job-listings-c-developer-2026-infosys-chennai-bengaluru-1-to-3-years-221026035307",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hybrid - Chennai, Bengaluru",
-    "queued_at": "2026-11-16T07:15:42.473689+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "211026022849",
-    "title": "DAM Engineer",
-    "url": "https://www.naukri.com/job-listings-dam-engineer-3i-infotech-mumbai-all-areas-1-to-6-years-211026022849",
-    "source": "naukri",
-    "company": "3i Infotech",
-    "location": "Mumbai (All Areas)",
-    "queued_at": "2026-11-16T07:15:42.473689+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "161126010861",
-    "title": "ERPNext Frappe Developer",
-    "url": "https://www.naukri.com/job-listings-erpnext-frappe-developer-flowjet-valves-ahmedabad-1-to-5-years-161126010861",
-    "source": "naukri",
-    "company": "Flowjet Valves",
-    "location": "Ahmedabad",
-    "queued_at": "2026-11-16T09:15:54.148220+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -269,34 +225,15 @@
     "status": "queued"
   },
   {
-    "job_id": "161126501640",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-comviva-technologies-limited-noida-0-to-4-years-161126501640",
+    "job_id": "161126010861",
+    "title": "ERPNext Frappe Developer",
+    "url": "https://www.naukri.com/job-listings-erpnext-frappe-developer-flowjet-valves-ahmedabad-1-to-5-years-161126010861",
     "source": "naukri",
-    "company": "Comviva",
-    "location": "Noida",
-    "queued_at": "2026-11-16T11:15:18.724327+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "161126501387",
-    "title": "Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-techpulse-it-services-pune-0-to-3-years-161126501387",
-    "source": "naukri",
-    "company": "Techpulse It Services",
-    "location": "Pune",
-    "queued_at": "2026-11-16T11:15:18.724327+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "161126018691",
-    "title": "TME Engineer",
-    "url": "https://www.naukri.com/job-listings-tme-engineer-evoke-hr-nashik-chhatrapati-sambhajinagar-amravati-1-to-5-years-161126018691",
-    "source": "naukri",
-    "company": "Evoke HR Pvt Ltd",
-    "location": "Nashik, Chhatrapati Sambhajinagar, Amravati",
-    "queued_at": "2026-11-16T11:15:18.724327+00:00",
-    "status": "queued"
+    "company": "Flowjet Valves",
+    "location": "Ahmedabad",
+    "queued_at": "2026-11-16T09:15:54.148220+00:00",
+    "status": "queued",
+    "attempts": 2
   },
   {
     "job_id": "161126012996",
@@ -306,7 +243,8 @@
     "company": "3D Magic Info Solutions",
     "location": "Pune(Nighoje)",
     "queued_at": "2026-11-16T11:15:18.724327+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "161126013377",
@@ -316,17 +254,8 @@
     "company": "Cognizant",
     "location": "",
     "queued_at": "2026-11-16T11:15:18.724327+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "161126500076",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-information-evolution-inc-coimbatore-0-to-1-years-161126500076",
-    "source": "naukri",
-    "company": "Information Evolution",
-    "location": "Coimbatore",
-    "queued_at": "2026-11-16T11:15:18.724327+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "231026922050",
@@ -336,7 +265,8 @@
     "company": "Infosys",
     "location": "Bengaluru",
     "queued_at": "2026-11-16T11:15:18.724327+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "231026022275",
@@ -346,7 +276,8 @@
     "company": "Infosys",
     "location": "Hybrid - Chennai, Bengaluru",
     "queued_at": "2026-11-16T11:15:18.724327+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "161126002210",
@@ -356,7 +287,8 @@
     "company": "Engminds",
     "location": "Ahmedabad",
     "queued_at": "2026-11-16T11:15:18.724327+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "161126001011",
@@ -366,7 +298,8 @@
     "company": "Being Infinity",
     "location": "Hyderabad(KPHB)",
     "queued_at": "2026-11-16T11:15:18.724327+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "140926022076",
@@ -376,6 +309,7 @@
     "company": "Mansukh Securities And Finance",
     "location": "New Delhi(Pandav Nagar +1)",
     "queued_at": "2026-11-16T11:15:18.724327+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
