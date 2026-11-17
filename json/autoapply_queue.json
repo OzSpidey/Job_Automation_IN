@@ -225,17 +225,6 @@
     "status": "queued"
   },
   {
-    "job_id": "171126018809",
-    "title": "Python Software Developer",
-    "url": "https://www.naukri.com/job-listings-python-software-developer-v2stech-thane-1-to-3-years-171126018809",
-    "source": "naukri",
-    "company": "V2STech",
-    "location": "Thane",
-    "queued_at": "2026-11-17T15:15:38.408769+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "171126033465",
     "title": "Java Developer",
     "url": "https://www.naukri.com/job-listings-java-developer-ignitefortune-tech-pune-0-to-1-years-171126033465",
@@ -244,6 +233,6 @@
     "location": "Remote",
     "queued_at": "2026-11-17T17:15:12.002078+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
