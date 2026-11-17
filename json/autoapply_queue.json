@@ -1,60 +1,5 @@
 [
   {
-    "job_id": "171126017272",
-    "title": "Software Engineer _ Trainee_ Immediate Joiner",
-    "url": "https://www.naukri.com/job-listings-software-engineer-trainee-immediate-joiner-r-s-diamonds-mumbai-0-to-2-years-171126017272",
-    "source": "naukri",
-    "company": "R S Diamonds",
-    "location": "Mumbai(Prabhadevi +1)",
-    "queued_at": "2026-11-17T07:15:13.703408+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "171126013876",
-    "title": "Walk-in || Face-to-Face Interview | Engineer | 19th & 20th Nov | Sambhinagar",
-    "url": "https://www.naukri.com/job-listings-face-to-face-interview-engineer-19th-20th-nov-sambhinagar-amnex-maharasht-0-to-1-years-171126013876",
-    "source": "naukri",
-    "company": "Amnex",
-    "location": "",
-    "queued_at": "2026-11-17T07:15:13.703408+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "171126018240",
-    "title": "Analyst - DCM",
-    "url": "https://www.naukri.com/job-listings-analyst-dcm-skima-innovation-private-limited-mumbai-1-to-2-years-171126018240",
-    "source": "naukri",
-    "company": "CareerFit.ai",
-    "location": "Mumbai",
-    "queued_at": "2026-11-17T07:15:13.703408+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "171126018809",
-    "title": "Python Software Developer",
-    "url": "https://www.naukri.com/job-listings-python-software-developer-v2stech-thane-1-to-3-years-171126018809",
-    "source": "naukri",
-    "company": "V2STech",
-    "location": "Thane",
-    "queued_at": "2026-11-17T09:15:24.818723+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "171126018596",
-    "title": "Software Developer For Leading Financial Services Org. in Delhi",
-    "url": "https://www.naukri.com/job-listings-software-developer-for-leading-financial-services-org-in-delhi-gist-management-solutions-new-delhi-delhi-ncr-1-to-5-years-171126018596",
-    "source": "naukri",
-    "company": "Global Incorporation for Staffing and Training(GIST)",
-    "location": "New Delhi, Delhi / NCR",
-    "queued_at": "2026-11-17T09:15:24.818723+00:00",
-    "status": "queued",
-    "attempts": 1
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -278,5 +223,27 @@
     "level": "Early",
     "queued_at": "2026-11-06T17:01:24.963895+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "171126018809",
+    "title": "Python Software Developer",
+    "url": "https://www.naukri.com/job-listings-python-software-developer-v2stech-thane-1-to-3-years-171126018809",
+    "source": "naukri",
+    "company": "V2STech",
+    "location": "Thane",
+    "queued_at": "2026-11-17T09:15:24.818723+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "171126018596",
+    "title": "Software Developer For Leading Financial Services Org. in Delhi",
+    "url": "https://www.naukri.com/job-listings-software-developer-for-leading-financial-services-org-in-delhi-gist-management-solutions-new-delhi-delhi-ncr-1-to-5-years-171126018596",
+    "source": "naukri",
+    "company": "Global Incorporation for Staffing and Training(GIST)",
+    "location": "New Delhi, Delhi / NCR",
+    "queued_at": "2026-11-17T09:15:24.818723+00:00",
+    "status": "queued",
+    "attempts": 2
   }
 ]
