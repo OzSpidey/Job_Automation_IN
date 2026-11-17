@@ -232,37 +232,8 @@
     "company": "R S Diamonds",
     "location": "Mumbai(Prabhadevi +1)",
     "queued_at": "2026-11-17T07:15:13.703408+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "171126015821",
-    "title": "Software Principal Engineer-System Test & Platform Validation (SON",
-    "url": "https://www.naukri.com/job-listings-software-principal-engineer-system-test-platform-validation-son-dell-inc-chennai-0-to-5-years-171126015821",
-    "source": "naukri",
-    "company": "Dell Technologies",
-    "location": "Chennai",
-    "queued_at": "2026-11-17T07:15:13.703408+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "171126501109",
-    "title": "Mlops Engineer",
-    "url": "https://www.naukri.com/job-listings-mlops-engineer-clifyx-technology-bengaluru-1-to-4-years-171126501109",
-    "source": "naukri",
-    "company": "Clifyx Technology",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-17T07:15:13.703408+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "171126501082",
-    "title": "SAM Engineer",
-    "url": "https://www.naukri.com/job-listings-sam-engineer-clifyx-technology-mumbai-1-to-4-years-171126501082",
-    "source": "naukri",
-    "company": "Clifyx Technology",
-    "location": "Mumbai",
-    "queued_at": "2026-11-17T07:15:13.703408+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "171126013876",
@@ -272,17 +243,8 @@
     "company": "Amnex",
     "location": "",
     "queued_at": "2026-11-17T07:15:13.703408+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "171126502052",
-    "title": "Amazon Connect Developer",
-    "url": "https://www.naukri.com/job-listings-amazon-connect-developer-clifyx-technology-mumbai-1-to-4-years-171126502052",
-    "source": "naukri",
-    "company": "Clifyx Technology",
-    "location": "Mumbai",
-    "queued_at": "2026-11-17T07:15:13.703408+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "171126018240",
@@ -292,26 +254,7 @@
     "company": "CareerFit.ai",
     "location": "Mumbai",
     "queued_at": "2026-11-17T07:15:13.703408+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "171126015173",
-    "title": "FP&A Analyst",
-    "url": "https://www.naukri.com/job-listings-fp-a-analyst-tata-elxsi-bengaluru-0-to-2-years-171126015173",
-    "source": "naukri",
-    "company": "Tata Elxsi",
-    "location": "Bengaluru(Hoodi)",
-    "queued_at": "2026-11-17T07:15:13.703408+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "171126500896",
-    "title": "Proximus_Fullstack developer",
-    "url": "https://www.naukri.com/job-listings-proximus-fullstack-developer-clifyx-technology-mumbai-0-to-1-years-171126500896",
-    "source": "naukri",
-    "company": "Clifyx Technology",
-    "location": "Mumbai",
-    "queued_at": "2026-11-17T07:15:13.703408+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
