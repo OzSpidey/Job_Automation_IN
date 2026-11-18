@@ -234,5 +234,25 @@
     "queued_at": "2026-11-18T05:15:12.846613+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "181126015436",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-nxtwave-disruptive-technologies-hyderabad-chennai-bengaluru-0-to-1-years-181126015436",
+    "source": "naukri",
+    "company": "Nxtwave Disruptive Technologies",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-11-18T07:15:18.224383+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201026010159",
+    "title": "C++",
+    "url": "https://www.naukri.com/job-listings-c-infosys-hyderabad-bengaluru-mumbai-all-areas-1-to-3-years-201026010159",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
+    "queued_at": "2026-11-18T07:15:18.224383+00:00",
+    "status": "queued"
   }
 ]
