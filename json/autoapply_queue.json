@@ -232,16 +232,7 @@
     "company": "Nexus Engiconsults",
     "location": "Noida(Sector 6)",
     "queued_at": "2026-11-18T05:15:12.846613+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "181126010278",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-mphasis-bengaluru-0-to-1-years-181126010278",
-    "source": "naukri",
-    "company": "Mphasis",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-18T05:15:12.846613+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
