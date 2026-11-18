@@ -11218,5 +11218,82 @@
     "queued_at": "2026-11-18T11:22:02.689410+00:00",
     "status": "applied",
     "applied_at": "2026-11-18T11:25:31.077745+00:00"
+  },
+  {
+    "job_id": "181126930804",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-starclinch-new-delhi-okhla-industrial-estate-1-to-3-years-181126930804",
+    "source": "naukri",
+    "company": "Starclinch",
+    "location": "New Delhi, Okhla Industrial Estate",
+    "queued_at": "2026-11-18T13:15:55.768140+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-18T13:17:16.931902+00:00"
+  },
+  {
+    "job_id": "181126033973",
+    "title": "Python Developer at A FinTech Company",
+    "url": "https://www.naukri.com/job-listings-python-developer-at-a-fintech-company-talentzo-delhi-bengaluru-0-to-4-years-181126033973",
+    "source": "naukri",
+    "company": "Talentzo Delhi",
+    "location": "Remote",
+    "queued_at": "2026-11-18T13:15:55.768140+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-18T13:17:26.648022+00:00"
+  },
+  {
+    "job_id": "181126930812",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-starclinch-new-delhi-1-to-3-years-181126930812",
+    "source": "naukri",
+    "company": "Starclinch",
+    "location": "New Delhi",
+    "queued_at": "2026-11-18T13:15:55.768140+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-18T13:17:36.535517+00:00"
+  },
+  {
+    "job_id": "181126930844",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-starclinch-new-delhi-okhla-phase-ii-1-to-3-years-181126930844",
+    "source": "naukri",
+    "company": "Starclinch",
+    "location": "New Delhi, Okhla Phase II",
+    "queued_at": "2026-11-18T13:15:55.768140+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-18T13:17:46.251525+00:00"
+  },
+  {
+    "job_id": "181126928759",
+    "title": "Software Development Developer III",
+    "url": "https://www.naukri.com/job-listings-software-development-developer-iii-teleperformance-global-business-private-limited-gurugram-1-to-6-years-181126928759",
+    "source": "naukri",
+    "company": "TP",
+    "location": "Gurugram",
+    "queued_at": "2026-11-18T13:15:55.768140+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-18T13:17:56.171404+00:00"
+  },
+  {
+    "job_id": "181126929593",
+    "title": "In Tune developer",
+    "url": "https://www.naukri.com/job-listings-in-tune-developer-cgi-information-systems-and-management-consultants-bengaluru-1-to-6-years-181126929593",
+    "source": "naukri",
+    "company": "CGI",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-18T13:15:55.768140+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-18T13:18:14.771745+00:00"
+  },
+  {
+    "job_id": "181126931563",
+    "title": "Firmware Engineer",
+    "url": "https://www.naukri.com/job-listings-firmware-engineer-sns-technosys-pune-pimple-nilkah-1-to-2-years-181126931563",
+    "source": "naukri",
+    "company": "SNS Technosys",
+    "location": "Pune, Pimple Nilkah",
+    "queued_at": "2026-11-18T13:15:55.768140+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-18T13:18:29.083584+00:00"
   }
 ]
