@@ -225,28 +225,6 @@
     "status": "queued"
   },
   {
-    "job_id": "181126025214",
-    "title": "IMOS Engineer",
-    "url": "https://www.naukri.com/job-listings-imos-engineer-kalpakaaru-projects-greater-noida-0-to-5-years-181126025214",
-    "source": "naukri",
-    "company": "Kalpakaaru Projects",
-    "location": "Greater Noida",
-    "queued_at": "2026-11-18T11:22:02.689410+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "181126012166",
-    "title": "System Software Engineer",
-    "url": "https://www.naukri.com/job-listings-system-software-engineer-nexus-engiconsults-noida-0-to-1-years-181126012166",
-    "source": "naukri",
-    "company": "Nexus Engiconsults",
-    "location": "Noida(Sector 6)",
-    "queued_at": "2026-11-18T11:22:02.689410+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "181126032849",
     "title": "Sr. AI Engineer",
     "url": "https://www.naukri.com/job-listings-sr-ai-engineer-info-edge-noida-1-to-2-years-181126032849",
@@ -255,7 +233,7 @@
     "location": "Noida",
     "queued_at": "2026-11-18T13:15:55.768140+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "181126015436",
@@ -266,7 +244,7 @@
     "location": "Hyderabad, Chennai, Bengaluru",
     "queued_at": "2026-11-18T13:15:55.768140+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "201026010159",
@@ -277,6 +255,6 @@
     "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-18T13:15:55.768140+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
