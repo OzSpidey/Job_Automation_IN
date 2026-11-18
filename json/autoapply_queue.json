@@ -225,17 +225,6 @@
     "status": "queued"
   },
   {
-    "job_id": "181126012166",
-    "title": "System Software Engineer",
-    "url": "https://www.naukri.com/job-listings-system-software-engineer-nexus-engiconsults-noida-0-to-1-years-181126012166",
-    "source": "naukri",
-    "company": "Nexus Engiconsults",
-    "location": "Noida(Sector 6)",
-    "queued_at": "2026-11-18T05:15:12.846613+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "181126015436",
     "title": "Java Developer",
     "url": "https://www.naukri.com/job-listings-java-developer-nxtwave-disruptive-technologies-hyderabad-chennai-bengaluru-0-to-1-years-181126015436",
@@ -244,7 +233,7 @@
     "location": "Hyderabad, Chennai, Bengaluru",
     "queued_at": "2026-11-18T07:15:18.224383+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "201026010159",
@@ -255,16 +244,6 @@
     "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-18T07:15:18.224383+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "181126021456",
-    "title": "Fresher-B.E/ B .Tech Engineer",
-    "url": "https://www.naukri.com/job-listings-fresher-b-e-b-tech-engineer-hira-group-chhatrapati-sambhajinagar-0-to-1-years-181126021456",
-    "source": "naukri",
-    "company": "Hira Group",
-    "location": "Chhatrapati Sambhajinagar",
-    "queued_at": "2026-11-18T09:20:50.819887+00:00",
-    "status": "queued"
+    "attempts": 2
   }
 ]
