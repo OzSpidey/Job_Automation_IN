@@ -233,7 +233,7 @@
     "location": "Noida(Sector 6)",
     "queued_at": "2026-11-18T05:15:12.846613+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "181126015436",
@@ -243,7 +243,8 @@
     "company": "Nxtwave Disruptive Technologies",
     "location": "Hyderabad, Chennai, Bengaluru",
     "queued_at": "2026-11-18T07:15:18.224383+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "201026010159",
@@ -253,6 +254,7 @@
     "company": "Infosys",
     "location": "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",
     "queued_at": "2026-11-18T07:15:18.224383+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
