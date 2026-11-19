@@ -1,16 +1,5 @@
 [
   {
-    "job_id": "181126030992",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-ga-digital-web-word-gwalior-indore-pithampur-1-to-5-years-181126030992",
-    "source": "naukri",
-    "company": "Aavantika Gas Limited",
-    "location": "Gwalior, Indore(Juni Indore), Pithampur",
-    "queued_at": "2026-11-19T01:15:23.078518+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -243,7 +232,8 @@
     "company": "Bahwan CyberTek",
     "location": "Bengaluru",
     "queued_at": "2026-11-19T05:15:02.132326+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "191126012362",
@@ -253,16 +243,7 @@
     "company": "Incise Infotech",
     "location": "Noida",
     "queued_at": "2026-11-19T05:15:02.132326+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "191126011561",
-    "title": "Hiring For All Engineers",
-    "url": "https://www.naukri.com/job-listings-hiring-for-all-engineers-oneclick-manpower-navi-mumbai-hyderabad-chennai-bengaluru-0-to-5-years-191126011561",
-    "source": "naukri",
-    "company": "Oneclick Manpower Navi Mumbai",
-    "location": "Hyderabad, Chennai, Bengaluru",
-    "queued_at": "2026-11-19T05:15:02.132326+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
