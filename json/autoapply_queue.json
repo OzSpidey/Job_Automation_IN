@@ -245,5 +245,15 @@
     "queued_at": "2026-11-19T05:15:02.132326+00:00",
     "status": "queued",
     "attempts": 2
+  },
+  {
+    "job_id": "191126017736",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-bonzer-business-solutions-bbs-delhi-ncr-0-to-1-years-191126017736",
+    "source": "naukri",
+    "company": "Bonzer Business Solutions(BBS)",
+    "location": "Delhi / NCR",
+    "queued_at": "2026-11-19T09:18:23.443912+00:00",
+    "status": "queued"
   }
 ]
