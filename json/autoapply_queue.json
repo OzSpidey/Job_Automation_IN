@@ -234,5 +234,35 @@
     "level": "Early",
     "queued_at": "2026-11-06T17:01:24.963895+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "281026006430",
+    "title": "Software Development Engineer",
+    "url": "https://www.naukri.com/job-listings-software-development-engineer-bct-consulting-bengaluru-1-to-2-years-281026006430",
+    "source": "naukri",
+    "company": "Bahwan CyberTek",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-19T05:15:02.132326+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "191126012362",
+    "title": "Standard Cell Generation Engineer",
+    "url": "https://www.naukri.com/job-listings-standard-cell-generation-engineer-incise-infotech-noida-1-to-3-years-191126012362",
+    "source": "naukri",
+    "company": "Incise Infotech",
+    "location": "Noida",
+    "queued_at": "2026-11-19T05:15:02.132326+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "191126011561",
+    "title": "Hiring For All Engineers",
+    "url": "https://www.naukri.com/job-listings-hiring-for-all-engineers-oneclick-manpower-navi-mumbai-hyderabad-chennai-bengaluru-0-to-5-years-191126011561",
+    "source": "naukri",
+    "company": "Oneclick Manpower Navi Mumbai",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-11-19T05:15:02.132326+00:00",
+    "status": "queued"
   }
 ]
