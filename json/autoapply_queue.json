@@ -223,16 +223,5 @@
     "level": "Early",
     "queued_at": "2026-11-06T17:01:24.963895+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "281026006430",
-    "title": "Software Development Engineer",
-    "url": "https://www.naukri.com/job-listings-software-development-engineer-bct-consulting-bengaluru-1-to-2-years-281026006430",
-    "source": "naukri",
-    "company": "Bahwan CyberTek",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-19T17:14:56.696249+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
