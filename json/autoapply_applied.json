@@ -11317,5 +11317,27 @@
     "queued_at": "2026-11-19T09:18:23.443912+00:00",
     "status": "applied",
     "applied_at": "2026-11-19T09:22:21.792021+00:00"
+  },
+  {
+    "job_id": "191126926869",
+    "title": "OpenShift Engineer",
+    "url": "https://www.naukri.com/job-listings-openshift-engineer-qcs-dc-labs-bengaluru-1-to-5-years-191126926869",
+    "source": "naukri",
+    "company": "QCS Dc Labs",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-19T11:16:14.775914+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-19T11:16:56.182954+00:00"
+  },
+  {
+    "job_id": "191126924272",
+    "title": "IBP/ITP analyst",
+    "url": "https://www.naukri.com/job-listings-ibp-itp-analyst-capgemini-technology-services-india-limited-chennai-0-to-3-years-191126924272",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Chennai",
+    "queued_at": "2026-11-19T11:16:14.775914+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-19T11:17:05.730155+00:00"
   }
 ]
