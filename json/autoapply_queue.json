@@ -232,6 +232,7 @@
     "company": "Aavantika Gas Limited",
     "location": "Gwalior, Indore(Juni Indore), Pithampur",
     "queued_at": "2026-11-19T01:15:23.078518+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
