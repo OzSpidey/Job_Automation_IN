@@ -233,7 +233,7 @@
     "location": "Bengaluru",
     "queued_at": "2026-11-19T05:15:02.132326+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "191126012362",
@@ -244,6 +244,6 @@
     "location": "Noida",
     "queued_at": "2026-11-19T05:15:02.132326+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
