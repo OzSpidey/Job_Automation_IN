@@ -223,37 +223,5 @@
     "level": "Early",
     "queued_at": "2026-11-06T17:01:24.963895+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "281026006430",
-    "title": "Software Development Engineer",
-    "url": "https://www.naukri.com/job-listings-software-development-engineer-bct-consulting-bengaluru-1-to-2-years-281026006430",
-    "source": "naukri",
-    "company": "Bahwan CyberTek",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-19T05:15:02.132326+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "191126012362",
-    "title": "Standard Cell Generation Engineer",
-    "url": "https://www.naukri.com/job-listings-standard-cell-generation-engineer-incise-infotech-noida-1-to-3-years-191126012362",
-    "source": "naukri",
-    "company": "Incise Infotech",
-    "location": "Noida",
-    "queued_at": "2026-11-19T05:15:02.132326+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "191126017736",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-bonzer-business-solutions-bbs-delhi-ncr-0-to-1-years-191126017736",
-    "source": "naukri",
-    "company": "Bonzer Business Solutions(BBS)",
-    "location": "Delhi / NCR",
-    "queued_at": "2026-11-19T09:18:23.443912+00:00",
-    "status": "queued"
   }
 ]
