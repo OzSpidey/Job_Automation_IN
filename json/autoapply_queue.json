@@ -223,5 +223,75 @@
     "level": "Early",
     "queued_at": "2026-11-06T17:01:24.963895+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "191126926869",
+    "title": "OpenShift Engineer",
+    "url": "https://www.naukri.com/job-listings-openshift-engineer-qcs-dc-labs-bengaluru-1-to-5-years-191126926869",
+    "source": "naukri",
+    "company": "QCS Dc Labs",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-19T11:16:14.775914+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "191126924272",
+    "title": "IBP/ITP analyst",
+    "url": "https://www.naukri.com/job-listings-ibp-itp-analyst-capgemini-technology-services-india-limited-chennai-0-to-3-years-191126924272",
+    "source": "naukri",
+    "company": "Capgemini",
+    "location": "Chennai",
+    "queued_at": "2026-11-19T11:16:14.775914+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "191126923218",
+    "title": "S&C GN - SC&E - VCR - RSVC - Analyst",
+    "url": "https://www.naukri.com/job-listings-s-c-gn-sc-e-vcr-rsvc-analyst-accenture-solutions-pvt-ltd-bengaluru-1-to-3-years-191126923218",
+    "source": "naukri",
+    "company": "Accenture",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-19T11:16:14.775914+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "191126026518",
+    "title": "Analyst- DLP",
+    "url": "https://www.naukri.com/job-listings-analyst-dlp-bdo-india-mumbai-1-to-3-years-191126026518",
+    "source": "naukri",
+    "company": "BDO India",
+    "location": "Mumbai(Lower Parel +1)",
+    "queued_at": "2026-11-19T11:16:14.775914+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "191126026516",
+    "title": "SAPIO Developer",
+    "url": "https://www.naukri.com/job-listings-sapio-developer-elite-exceed-chennai-1-to-6-years-191126026516",
+    "source": "naukri",
+    "company": "Elite Exceed",
+    "location": "Chennai",
+    "queued_at": "2026-11-19T11:16:14.775914+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "281026006430",
+    "title": "Software Development Engineer",
+    "url": "https://www.naukri.com/job-listings-software-development-engineer-bct-consulting-bengaluru-1-to-2-years-281026006430",
+    "source": "naukri",
+    "company": "Bahwan CyberTek",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-19T11:16:14.775914+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "191126012362",
+    "title": "Standard Cell Generation Engineer",
+    "url": "https://www.naukri.com/job-listings-standard-cell-generation-engineer-incise-infotech-noida-1-to-3-years-191126012362",
+    "source": "naukri",
+    "company": "Incise Infotech",
+    "location": "Noida",
+    "queued_at": "2026-11-19T11:16:14.775914+00:00",
+    "status": "queued"
   }
 ]
