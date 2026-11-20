@@ -234,5 +234,195 @@
     "queued_at": "2026-11-20T13:15:47.990580+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "201126504884",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-gururo-remote-1-to-4-years-201126504884",
+    "source": "naukri",
+    "company": "Gururo",
+    "location": "Remote",
+    "queued_at": "2026-11-20T15:15:06.938846+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201126504846",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-g-r-infraprojects-limited-naharlagun-aalo-itanagar-1-to-3-years-201126504846",
+    "source": "naukri",
+    "company": "G R Infraprojects",
+    "location": "Naharlagun, Aalo, Itanagar",
+    "queued_at": "2026-11-20T15:15:06.938846+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201126029174",
+    "title": "Analyst- FP& A",
+    "url": "https://www.naukri.com/job-listings-analyst-fp-a-ankr-consulting-hyderabad-0-to-3-years-201126029174",
+    "source": "naukri",
+    "company": "Ankr Consulting",
+    "location": "Hybrid - Hyderabad(HITEC City)",
+    "queued_at": "2026-11-20T15:15:06.938846+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201126500118",
+    "title": "Software Engineer - AI",
+    "url": "https://www.naukri.com/job-listings-software-engineer-ai-barclays-shared-services-pune-0-to-5-years-201126500118",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune",
+    "queued_at": "2026-11-20T15:15:06.938846+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201126500128",
+    "title": "Software Engineer - AI",
+    "url": "https://www.naukri.com/job-listings-software-engineer-ai-barclays-shared-services-pune-0-to-5-years-201126500128",
+    "source": "naukri",
+    "company": "Barclays",
+    "location": "Pune",
+    "queued_at": "2026-11-20T15:15:06.938846+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201126501465",
+    "title": "Java Developer",
+    "url": "https://www.naukri.com/job-listings-java-developer-knowledgesprint-technologies-india-pvt-ltd-hyderabad-0-to-3-years-201126501465",
+    "source": "naukri",
+    "company": "Knowledgesprint Technologies",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-20T15:15:06.938846+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201126501411",
+    "title": "C++ Developer",
+    "url": "https://www.naukri.com/job-listings-c-developer-knowledgesprint-technologies-india-pvt-ltd-hyderabad-0-to-3-years-201126501411",
+    "source": "naukri",
+    "company": "Knowledgesprint Technologies",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-20T15:15:06.938846+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201126504165",
+    "title": "AE - Outplay Professional",
+    "url": "https://www.naukri.com/job-listings-ae-outplay-professional-jungleworks-mohali-1-to-3-years-201126504165",
+    "source": "naukri",
+    "company": "Click Labs",
+    "location": "Mohali",
+    "queued_at": "2026-11-20T15:15:06.938846+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201126502703",
+    "title": "Azure Engineer (Tier 1)",
+    "url": "https://www.naukri.com/job-listings-azure-engineer-tier-1-alifcloud-it-consulting-pvt-ltd-pune-1-to-3-years-201126502703",
+    "source": "naukri",
+    "company": "Alifcloud It Consulting",
+    "location": "Pune",
+    "queued_at": "2026-11-20T15:15:06.938846+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201126500970",
+    "title": "Software Programmer",
+    "url": "https://www.naukri.com/job-listings-software-programmer-apex-fund-services-llp-mumbai-1-to-3-years-201126500970",
+    "source": "naukri",
+    "company": "Apex Group",
+    "location": "Mumbai",
+    "queued_at": "2026-11-20T15:15:06.938846+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201126500410",
+    "title": "Engineer MPC ( 83092299 )",
+    "url": "https://www.naukri.com/job-listings-engineer-mpc-83092299-reliance-retail-jamnagar-1-to-3-years-201126500410",
+    "source": "naukri",
+    "company": "Reliance Retail",
+    "location": "Jamnagar",
+    "queued_at": "2026-11-20T15:15:06.938846+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201126920424",
+    "title": "UV Developer",
+    "url": "https://www.naukri.com/job-listings-uv-developer-mouser-electronics-india-pvt-ltd-bengaluru-0-to-1-years-201126920424",
+    "source": "naukri",
+    "company": "Mouser",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-20T15:15:06.938846+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201126502902",
+    "title": "Quantitative Analyst",
+    "url": "https://www.naukri.com/job-listings-quantitative-analyst-upflairs-private-limited-jaipur-1-to-4-years-201126502902",
+    "source": "naukri",
+    "company": "Upflairs",
+    "location": "Jaipur",
+    "queued_at": "2026-11-20T15:15:06.938846+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201126502511",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-uniqus-gurugram-0-to-4-years-201126502511",
+    "source": "naukri",
+    "company": "Uniqus",
+    "location": "Gurugram",
+    "queued_at": "2026-11-20T15:15:06.938846+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201126502806",
+    "title": "Backened Developer",
+    "url": "https://www.naukri.com/job-listings-backened-developer-upflairs-private-limited-jaipur-0-to-2-years-201126502806",
+    "source": "naukri",
+    "company": "Upflairs",
+    "location": "Jaipur",
+    "queued_at": "2026-11-20T15:15:06.938846+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201126501977",
+    "title": "Firmware Engineer",
+    "url": "https://www.naukri.com/job-listings-firmware-engineer-logitech-sales-marketing-chennai-1-to-2-years-201126501977",
+    "source": "naukri",
+    "company": "Logitech",
+    "location": "Chennai",
+    "queued_at": "2026-11-20T15:15:06.938846+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300426502455",
+    "title": "Java Developers",
+    "url": "https://www.naukri.com/job-listings-java-developers-psr-tek-pune-1-to-5-years-300426502455",
+    "source": "naukri",
+    "company": "PSRTEK",
+    "location": "Pune",
+    "queued_at": "2026-11-20T15:15:06.938846+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "271026032048",
+    "title": "C++ Developer",
+    "url": "https://www.naukri.com/job-listings-c-developer-infosys-chennai-bengaluru-1-to-2-years-271026032048",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Chennai, Bengaluru",
+    "queued_at": "2026-11-20T15:15:06.938846+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201126917035",
+    "title": "Software Developer - Confluent",
+    "url": "https://www.naukri.com/job-listings-software-developer-confluent-ibm-india-pvt-limited-bengaluru-1-to-2-years-201126917035",
+    "source": "naukri",
+    "company": "IBM",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-20T15:15:06.938846+00:00",
+    "status": "queued"
   }
 ]
