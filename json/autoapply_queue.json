@@ -234,5 +234,25 @@
     "queued_at": "2026-11-20T03:15:31.138541+00:00",
     "status": "queued",
     "attempts": 2
+  },
+  {
+    "job_id": "201126014710",
+    "title": "Hiring! Software Developer (Shopify & WordPress)| Consultancy | Noida",
+    "url": "https://www.naukri.com/job-listings-hiring-software-developer-shopify-wordpress-consultancy-noida-acute-vision-consultant-noida-new-delhi-delhi-ncr-0-to-1-years-201126014710",
+    "source": "naukri",
+    "company": "Acute Vision Consultants Pvt. Ltd.",
+    "location": "Noida, New Delhi, Delhi / NCR",
+    "queued_at": "2026-11-20T07:14:44.465196+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201126015273",
+    "title": "VAPT Analyst",
+    "url": "https://www.naukri.com/job-listings-vapt-analyst-securium-solutions-noida-1-to-3-years-201126015273",
+    "source": "naukri",
+    "company": "Securium Solutions",
+    "location": "Noida(Sector 1)",
+    "queued_at": "2026-11-20T07:14:44.465196+00:00",
+    "status": "queued"
   }
 ]
