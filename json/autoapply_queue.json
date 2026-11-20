@@ -1,5 +1,16 @@
 [
   {
+    "job_id": "271026032048",
+    "title": "C++ Developer",
+    "url": "https://www.naukri.com/job-listings-c-developer-infosys-chennai-bengaluru-1-to-2-years-271026032048",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Chennai, Bengaluru",
+    "queued_at": "2026-11-20T09:15:31.087535+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -223,16 +234,5 @@
     "level": "Early",
     "queued_at": "2026-11-06T17:01:24.963895+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "271026032048",
-    "title": "C++ Developer",
-    "url": "https://www.naukri.com/job-listings-c-developer-infosys-chennai-bengaluru-1-to-2-years-271026032048",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hybrid - Chennai, Bengaluru",
-    "queued_at": "2026-11-20T09:15:31.087535+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
