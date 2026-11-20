@@ -223,5 +223,45 @@
     "level": "Early",
     "queued_at": "2026-11-06T17:01:24.963895+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "300426502455",
+    "title": "Java Developers",
+    "url": "https://www.naukri.com/job-listings-java-developers-psr-tek-pune-1-to-5-years-300426502455",
+    "source": "naukri",
+    "company": "PSRTEK",
+    "location": "Pune",
+    "queued_at": "2026-11-20T09:15:31.087535+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "271026032048",
+    "title": "C++ Developer",
+    "url": "https://www.naukri.com/job-listings-c-developer-infosys-chennai-bengaluru-1-to-2-years-271026032048",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Chennai, Bengaluru",
+    "queued_at": "2026-11-20T09:15:31.087535+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201126917035",
+    "title": "Software Developer - Confluent",
+    "url": "https://www.naukri.com/job-listings-software-developer-confluent-ibm-india-pvt-limited-bengaluru-1-to-2-years-201126917035",
+    "source": "naukri",
+    "company": "IBM",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-20T09:15:31.087535+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "201126019145",
+    "title": "Decision Analyst",
+    "url": "https://www.naukri.com/job-listings-decision-analyst-ehrs-hercolleagues-delhi-ncr-1-to-3-years-201126019145",
+    "source": "naukri",
+    "company": "Elements HR Services",
+    "location": "Hybrid - Delhi / NCR",
+    "queued_at": "2026-11-20T09:15:31.087535+00:00",
+    "status": "queued"
   }
 ]
