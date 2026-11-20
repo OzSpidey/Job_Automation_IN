@@ -232,6 +232,7 @@
     "company": "Arnmak Fashion Llp",
     "location": "Pune",
     "queued_at": "2026-11-20T03:15:31.138541+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
