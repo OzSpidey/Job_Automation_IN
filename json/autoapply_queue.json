@@ -232,7 +232,8 @@
     "company": "Naineet Tech",
     "location": "Remote",
     "queued_at": "2026-11-23T07:15:51.566428+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "231126007487",
@@ -242,7 +243,8 @@
     "company": "Veeda CR",
     "location": "Ahmedabad",
     "queued_at": "2026-11-23T07:15:51.566428+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "231126004565",
@@ -252,6 +254,7 @@
     "company": "Kroll",
     "location": "Hybrid - Mumbai (All Areas)(Bandra Kurla Complex)",
     "queued_at": "2026-11-23T07:15:51.566428+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
