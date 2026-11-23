@@ -223,5 +223,15 @@
     "level": "Early",
     "queued_at": "2026-11-06T17:01:24.963895+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "231126000025",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-norvi-infotech-pune-1-to-3-years-231126000025",
+    "source": "naukri",
+    "company": "Norvi Infotech",
+    "location": "Pune(Wakdewadi)",
+    "queued_at": "2026-11-23T05:14:59.165242+00:00",
+    "status": "queued"
   }
 ]
