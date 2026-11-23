@@ -225,28 +225,6 @@
     "status": "queued"
   },
   {
-    "job_id": "231126011576",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-newgen-hyderabad-chennai-1-to-4-years-231126011576",
-    "source": "naukri",
-    "company": "Newgen",
-    "location": "Hyderabad, Chennai",
-    "queued_at": "2026-11-23T09:15:37.320631+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "231126007899",
-    "title": "GSOC Analyst",
-    "url": "https://www.naukri.com/job-listings-gsoc-analyst-securitas-hyderabad-pune-0-to-2-years-231126007899",
-    "source": "naukri",
-    "company": "Securitas",
-    "location": "Hyderabad, Pune",
-    "queued_at": "2026-11-23T09:15:37.320631+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "231126012639",
     "title": "Software Developer",
     "url": "https://www.naukri.com/job-listings-software-developer-nxtwave-disruptive-technologies-hyderabad-0-to-1-years-231126012639",
@@ -255,7 +233,7 @@
     "location": "Hyderabad",
     "queued_at": "2026-11-23T11:15:00.687374+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "231126018050",
@@ -266,7 +244,7 @@
     "location": "Chennai",
     "queued_at": "2026-11-23T11:15:00.687374+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "111025011871",
@@ -277,87 +255,7 @@
     "location": "Navi Mumbai",
     "queued_at": "2026-11-23T11:15:00.687374+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "231126502389",
-    "title": "Apprentice Software Engineer",
-    "url": "https://www.naukri.com/job-listings-apprentice-software-engineer-trigyn-technologies-remote-1-to-5-years-231126502389",
-    "source": "naukri",
-    "company": "Trigyn Technologies",
-    "location": "Remote",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126501788",
-    "title": "Backend Developer",
-    "url": "https://www.naukri.com/job-listings-backend-developer-hbwebsol-indore-0-to-3-years-231126501788",
-    "source": "naukri",
-    "company": "Hbwebsol",
-    "location": "Indore",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126501562",
-    "title": "Java Developer (Freshers )",
-    "url": "https://www.naukri.com/job-listings-java-developer-freshers-endeavor-it-solutions-indore-0-to-1-years-231126501562",
-    "source": "naukri",
-    "company": "Endeavor IT Solution",
-    "location": "Indore",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126501579",
-    "title": "Java Developer (freshers)",
-    "url": "https://www.naukri.com/job-listings-java-developer-freshers-endeavor-it-solutions-indore-0-to-1-years-231126501579",
-    "source": "naukri",
-    "company": "Endeavor IT Solution",
-    "location": "Indore",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126501567",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-endeavor-it-solutions-indore-0-to-1-years-231126501567",
-    "source": "naukri",
-    "company": "Endeavor IT Solution",
-    "location": "Indore",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126501569",
-    "title": "Java Developers",
-    "url": "https://www.naukri.com/job-listings-java-developers-endeavor-it-solutions-indore-0-to-2-years-231126501569",
-    "source": "naukri",
-    "company": "Endeavor IT Solution",
-    "location": "Indore",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126501577",
-    "title": "JAVA Developers In Indore",
-    "url": "https://www.naukri.com/job-listings-java-developers-in-indore-endeavor-it-solutions-indore-0-to-2-years-231126501577",
-    "source": "naukri",
-    "company": "Endeavor IT Solution",
-    "location": "Indore",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126501524",
-    "title": "Java Developer",
-    "url": "https://www.naukri.com/job-listings-java-developer-endeavor-it-solutions-indore-1-to-3-years-231126501524",
-    "source": "naukri",
-    "company": "Endeavor IT Solution",
-    "location": "Indore",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "231126020165",
@@ -367,197 +265,8 @@
     "company": "The Glove",
     "location": "New Delhi(Nehru Place), Bengaluru",
     "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126502494",
-    "title": "Senior Cloud Developer in Test",
-    "url": "https://www.naukri.com/job-listings-senior-cloud-developer-in-test-hewlett-packard-enterprise-bengaluru-0-to-6-years-231126502494",
-    "source": "naukri",
-    "company": "Hewlett Packard Enterprise",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126501552",
-    "title": "Software Programmer (PHP)",
-    "url": "https://www.naukri.com/job-listings-software-programmer-php-endeavor-it-solutions-indore-0-to-1-years-231126501552",
-    "source": "naukri",
-    "company": "Endeavor IT Solution",
-    "location": "Indore",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126502492",
-    "title": "Cloud Developer",
-    "url": "https://www.naukri.com/job-listings-cloud-developer-hewlett-packard-enterprise-bengaluru-0-to-6-years-231126502492",
-    "source": "naukri",
-    "company": "Hewlett Packard Enterprise",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126502449",
-    "title": "Statistical Analyst",
-    "url": "https://www.naukri.com/job-listings-statistical-analyst-cambium-learning-group-remote-1-to-6-years-231126502449",
-    "source": "naukri",
-    "company": "Learning Az",
-    "location": "Remote",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126919873",
-    "title": "Urgent Opening Embedded Hardware & Firmware Engineer \u2013 R&D",
-    "url": "https://www.naukri.com/job-listings-urgent-opening-embedded-hardware-firmware-engineer-r-d-contactx-resource-management-pvt-ltd-gandhinagar-1-to-3-years-231126919873",
-    "source": "naukri",
-    "company": "Leading Client",
-    "location": "Gandhinagar",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126917728",
-    "title": "CPU Software Engineer",
-    "url": "https://www.naukri.com/job-listings-cpu-software-engineer-qualcomm-india-pvt-ltd-bengaluru-0-to-5-years-231126917728",
-    "source": "naukri",
-    "company": "Qualcomm",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126915952",
-    "title": "Frontend Developer",
-    "url": "https://www.naukri.com/job-listings-frontend-developer-ideamagix-thane-0-to-4-years-231126915952",
-    "source": "naukri",
-    "company": "Ideamagix",
-    "location": "Thane",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126917690",
-    "title": "CPU - Engineer",
-    "url": "https://www.naukri.com/job-listings-cpu-engineer-qualcomm-india-pvt-ltd-bengaluru-0-to-5-years-231126917690",
-    "source": "naukri",
-    "company": "Qualcomm",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126917655",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-qualcomm-india-pvt-ltd-hyderabad-0-to-5-years-231126917655",
-    "source": "naukri",
-    "company": "Qualcomm",
-    "location": "Hyderabad",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126917574",
-    "title": "Engineer- Camera",
-    "url": "https://www.naukri.com/job-listings-engineer-camera-qualcomm-india-pvt-ltd-hyderabad-0-to-5-years-231126917574",
-    "source": "naukri",
-    "company": "Qualcomm",
-    "location": "Hyderabad",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126917523",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-qualcomm-india-pvt-ltd-hyderabad-0-to-5-years-231126917523",
-    "source": "naukri",
-    "company": "Qualcomm",
-    "location": "Hyderabad",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126917488",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-qualcomm-india-pvt-ltd-bengaluru-0-to-5-years-231126917488",
-    "source": "naukri",
-    "company": "Qualcomm",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126917742",
-    "title": "RFIC Digital Verification Sr Engineer",
-    "url": "https://www.naukri.com/job-listings-rfic-digital-verification-sr-engineer-qualcomm-india-pvt-ltd-bengaluru-1-to-4-years-231126917742",
-    "source": "naukri",
-    "company": "Qualcomm",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126917694",
-    "title": "SOC Design Verification Staff Engineer",
-    "url": "https://www.naukri.com/job-listings-soc-design-verification-staff-engineer-qualcomm-india-pvt-ltd-bengaluru-1-to-4-years-231126917694",
-    "source": "naukri",
-    "company": "Qualcomm",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126917573",
-    "title": "Peripherals Design Verification - Staff Engineer",
-    "url": "https://www.naukri.com/job-listings-peripherals-design-verification-staff-engineer-qualcomm-india-pvt-ltd-bengaluru-1-to-4-years-231126917573",
-    "source": "naukri",
-    "company": "Qualcomm",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126917456",
-    "title": "SOC Design Verification Staff Engineer",
-    "url": "https://www.naukri.com/job-listings-soc-design-verification-staff-engineer-qualcomm-india-pvt-ltd-bengaluru-1-to-4-years-231126917456",
-    "source": "naukri",
-    "company": "Qualcomm",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126917439",
-    "title": "Video Design Verification Engineer",
-    "url": "https://www.naukri.com/job-listings-video-design-verification-engineer-qualcomm-india-pvt-ltd-bengaluru-1-to-4-years-231126917439",
-    "source": "naukri",
-    "company": "Qualcomm",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126917743",
-    "title": "Signal Integrity Engineer",
-    "url": "https://www.naukri.com/job-listings-signal-integrity-engineer-qualcomm-india-pvt-ltd-bengaluru-1-to-5-years-231126917743",
-    "source": "naukri",
-    "company": "Qualcomm",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126917465",
-    "title": "Staff Digital Design Engineer",
-    "url": "https://www.naukri.com/job-listings-staff-digital-design-engineer-qualcomm-india-pvt-ltd-bengaluru-0-to-3-years-231126917465",
-    "source": "naukri",
-    "company": "Qualcomm",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "231126004781",
@@ -567,7 +276,8 @@
     "company": "Naineet Tech",
     "location": "Remote",
     "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "231126004565",
@@ -577,6 +287,7 @@
     "company": "Kroll",
     "location": "Hybrid - Mumbai (All Areas)(Bandra Kurla Complex)",
     "queued_at": "2026-11-23T13:15:01.382115+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
