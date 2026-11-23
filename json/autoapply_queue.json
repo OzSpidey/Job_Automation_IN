@@ -225,39 +225,6 @@
     "status": "queued"
   },
   {
-    "job_id": "231126012639",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-nxtwave-disruptive-technologies-hyderabad-0-to-1-years-231126012639",
-    "source": "naukri",
-    "company": "Nxtwave Disruptive Technologies",
-    "location": "Hyderabad",
-    "queued_at": "2026-11-23T11:15:00.687374+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "231126018050",
-    "title": "Full stack developer",
-    "url": "https://www.naukri.com/job-listings-full-stack-developer-cavinkare-chennai-1-to-3-years-231126018050",
-    "source": "naukri",
-    "company": "CavinKare",
-    "location": "Chennai",
-    "queued_at": "2026-11-23T11:15:00.687374+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "111025011871",
-    "title": "AOI Engineer",
-    "url": "https://www.naukri.com/job-listings-aoi-engineer-pvr-controls-navi-mumbai-1-to-6-years-111025011871",
-    "source": "naukri",
-    "company": "PVR Controls",
-    "location": "Navi Mumbai",
-    "queued_at": "2026-11-23T11:15:00.687374+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
     "job_id": "231126020165",
     "title": "Java Developer",
     "url": "https://www.naukri.com/job-listings-java-developer-the-glove-new-delhi-bengaluru-0-to-5-years-231126020165",
@@ -266,7 +233,7 @@
     "location": "New Delhi(Nehru Place), Bengaluru",
     "queued_at": "2026-11-23T13:15:01.382115+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "231126004781",
@@ -277,7 +244,7 @@
     "location": "Remote",
     "queued_at": "2026-11-23T13:15:01.382115+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "231126004565",
@@ -288,6 +255,6 @@
     "location": "Hybrid - Mumbai (All Areas)(Bandra Kurla Complex)",
     "queued_at": "2026-11-23T13:15:01.382115+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   }
 ]
