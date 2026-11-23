@@ -233,18 +233,7 @@
     "location": "Remote",
     "queued_at": "2026-11-23T07:15:51.566428+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "231126007487",
-    "title": "Feasibility Analyst",
-    "url": "https://www.naukri.com/job-listings-feasibility-analyst-veeda-cr-ahmedabad-0-to-1-years-231126007487",
-    "source": "naukri",
-    "company": "Veeda CR",
-    "location": "Ahmedabad",
-    "queued_at": "2026-11-23T07:15:51.566428+00:00",
-    "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "231126004565",
@@ -255,27 +244,7 @@
     "location": "Hybrid - Mumbai (All Areas)(Bandra Kurla Complex)",
     "queued_at": "2026-11-23T07:15:51.566428+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "231126011501",
-    "title": "Software Engineer",
-    "url": "https://www.naukri.com/job-listings-software-engineer-ibrowsejobs-technologies-bengaluru-0-to-5-years-231126011501",
-    "source": "naukri",
-    "company": "Ibrowsejobs Technologies",
-    "location": "Remote",
-    "queued_at": "2026-11-23T09:15:37.320631+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126010509",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-crpl-infra-kolkata-0-to-1-years-231126010509",
-    "source": "naukri",
-    "company": "Crpl Infra",
-    "location": "Kolkata",
-    "queued_at": "2026-11-23T09:15:37.320631+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "231126011576",
@@ -285,17 +254,8 @@
     "company": "Newgen",
     "location": "Hyderabad, Chennai",
     "queued_at": "2026-11-23T09:15:37.320631+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "231126010683",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-nlb-services-gurugram-0-to-2-years-231126010683",
-    "source": "naukri",
-    "company": "NLB",
-    "location": "Gurugram",
-    "queued_at": "2026-11-23T09:15:37.320631+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "231126007899",
@@ -305,6 +265,7 @@
     "company": "Securitas",
     "location": "Hyderabad, Pune",
     "queued_at": "2026-11-23T09:15:37.320631+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
