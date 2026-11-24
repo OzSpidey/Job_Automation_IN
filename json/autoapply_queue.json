@@ -263,5 +263,15 @@
     "queued_at": "2026-11-24T17:15:47.981223+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "241126030083",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-spartan-infosoft-mumbai-all-areas-0-to-1-years-241126030083",
+    "source": "naukri",
+    "company": "Spartan Infosoft",
+    "location": "Remote",
+    "queued_at": "2026-11-24T19:15:19.154103+00:00",
+    "status": "queued"
   }
 ]
