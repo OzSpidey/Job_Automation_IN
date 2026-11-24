@@ -234,26 +234,6 @@
     "status": "queued"
   },
   {
-    "job_id": "241126016023",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-kidloland-mumbai-thane-0-to-1-years-241126016023",
-    "source": "naukri",
-    "company": "Kidloland",
-    "location": "Mumbai(Borivali West +1), Thane",
-    "queued_at": "2026-11-24T07:19:50.961761+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "241126013937",
-    "title": "Java Developer - Multiple Hiring Positions",
-    "url": "https://www.naukri.com/job-listings-java-developer-multiple-hiring-positions-modern-ballistic-bengaluru-1-to-6-years-241126013937",
-    "source": "naukri",
-    "company": "MBS GLOBAL",
-    "location": "Remote",
-    "queued_at": "2026-11-24T07:19:50.961761+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "241126013433",
     "title": "Software Developer",
     "url": "https://www.naukri.com/job-listings-software-developer-selective-global-search-vadodara-1-to-5-years-241126013433",
@@ -261,26 +241,7 @@
     "company": "Leading Chemical Company",
     "location": "Vadodara",
     "queued_at": "2026-11-24T07:19:50.961761+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "241126014016",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-241126014016",
-    "source": "naukri",
-    "company": "Creative Hands HR",
-    "location": "Hyderabad, Chennai, Bengaluru",
-    "queued_at": "2026-11-24T07:19:50.961761+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "241126015842",
-    "title": "Unreal Developer",
-    "url": "https://www.naukri.com/job-listings-unreal-developer-kidloland-thane-mumbai-all-areas-0-to-3-years-241126015842",
-    "source": "naukri",
-    "company": "Kidloland",
-    "location": "Thane, Mumbai (All Areas)",
-    "queued_at": "2026-11-24T07:19:50.961761+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
