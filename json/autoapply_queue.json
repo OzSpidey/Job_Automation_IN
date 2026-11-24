@@ -232,5 +232,25 @@
     "level": "Early",
     "queued_at": "2026-11-23T17:01:22.594536+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "241126010494",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-2-years-241126010494",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-11-24T05:15:01.834576+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "241126010529",
+    "title": "Software Engineer, developer / Programmer, 2026 graduate Can apply",
+    "url": "https://www.naukri.com/job-listings-software-engineer-developer-programmer-2026-graduate-can-apply-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-5-years-241126010529",
+    "source": "naukri",
+    "company": "Creative Hands HR",
+    "location": "Hyderabad, Chennai, Bengaluru",
+    "queued_at": "2026-11-24T05:15:01.834576+00:00",
+    "status": "queued"
   }
 ]
