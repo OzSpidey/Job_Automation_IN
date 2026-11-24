@@ -250,7 +250,8 @@
     "company": "Flex",
     "location": "Hybrid - Chennai",
     "queued_at": "2026-11-24T17:15:47.981223+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "241126013433",
@@ -260,6 +261,7 @@
     "company": "Leading Chemical Company",
     "location": "Vadodara",
     "queued_at": "2026-11-24T17:15:47.981223+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
