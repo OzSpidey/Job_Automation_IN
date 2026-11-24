@@ -241,37 +241,5 @@
     "level": "Early",
     "queued_at": "2026-11-24T17:01:23.542820+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "241126029169",
-    "title": "Analyst",
-    "url": "https://www.naukri.com/job-listings-analyst-flex-chennai-1-to-4-years-241126029169",
-    "source": "naukri",
-    "company": "Flex",
-    "location": "Hybrid - Chennai",
-    "queued_at": "2026-11-24T17:15:47.981223+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "241126013433",
-    "title": "Software Developer",
-    "url": "https://www.naukri.com/job-listings-software-developer-selective-global-search-vadodara-1-to-5-years-241126013433",
-    "source": "naukri",
-    "company": "Leading Chemical Company",
-    "location": "Vadodara",
-    "queued_at": "2026-11-24T17:15:47.981223+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "251126500001",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-sun-shine-automation-india-limited-jaipur-0-to-5-years-251126500001",
-    "source": "naukri",
-    "company": "Sun Shine Automation",
-    "location": "Jaipur",
-    "queued_at": "2026-11-24T21:14:56.356523+00:00",
-    "status": "queued"
   }
 ]
