@@ -263,5 +263,15 @@
     "queued_at": "2026-11-24T17:15:47.981223+00:00",
     "status": "queued",
     "attempts": 2
+  },
+  {
+    "job_id": "251126500001",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-sun-shine-automation-india-limited-jaipur-0-to-5-years-251126500001",
+    "source": "naukri",
+    "company": "Sun Shine Automation",
+    "location": "Jaipur",
+    "queued_at": "2026-11-24T21:14:56.356523+00:00",
+    "status": "queued"
   }
 ]
