@@ -11670,5 +11670,71 @@
     "queued_at": "2026-11-25T07:15:11.662076+00:00",
     "status": "applied",
     "applied_at": "2026-11-25T07:16:26.984319+00:00"
+  },
+  {
+    "job_id": "251126504131",
+    "title": "Software Engineer - Graduates 2026",
+    "url": "https://www.naukri.com/job-listings-software-engineer-graduates-2026-zycus-infotech-pvt-ltd-mumbai-0-to-1-years-251126504131",
+    "source": "naukri",
+    "company": "Zycus Infotech",
+    "location": "Mumbai",
+    "queued_at": "2026-11-25T11:15:04.107101+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-25T11:16:40.862662+00:00"
+  },
+  {
+    "job_id": "251126500410",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-beingmash-services-pvt-ltd-kalburagi-1-to-4-years-251126500410",
+    "source": "naukri",
+    "company": "Beingmash Services",
+    "location": "Kalburagi",
+    "queued_at": "2026-11-25T11:15:04.107101+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-25T11:17:17.257733+00:00"
+  },
+  {
+    "job_id": "251126504449",
+    "title": "Junior DevOps Engineer (Fresher)",
+    "url": "https://www.naukri.com/job-listings-junior-devops-engineer-fresher-khodape-software-pune-0-to-1-years-251126504449",
+    "source": "naukri",
+    "company": "Khodape Software",
+    "location": "Pune",
+    "queued_at": "2026-11-25T11:15:04.107101+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-25T11:18:04.647667+00:00"
+  },
+  {
+    "job_id": "251126500430",
+    "title": "Software Developer",
+    "url": "https://www.naukri.com/job-listings-software-developer-akalp-techno-media-solutions-bhopal-1-to-4-years-251126500430",
+    "source": "naukri",
+    "company": "Akalp Techno Media Solutions",
+    "location": "Bhopal",
+    "queued_at": "2026-11-25T11:15:04.107101+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-25T11:18:36.666644+00:00"
+  },
+  {
+    "job_id": "251126504047",
+    "title": "Collections Analyst (Part Time) in Hyderabad, India",
+    "url": "https://www.naukri.com/job-listings-collections-analyst-part-time-in-hyderabad-india-meltwater-hyderabad-0-to-2-years-251126504047",
+    "source": "naukri",
+    "company": "Meltwater",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-25T11:15:04.107101+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-25T11:19:03.866246+00:00"
+  },
+  {
+    "job_id": "251126026914",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-integrity-mentors-pvt-ltd-gurugram-0-to-3-years-251126026914",
+    "source": "naukri",
+    "company": "Integrity Mentors Pvt Ltd.",
+    "location": "Gurugram",
+    "queued_at": "2026-11-25T11:15:04.107101+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-25T11:20:04.542827+00:00"
   }
 ]
