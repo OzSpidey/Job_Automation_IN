@@ -241,5 +241,25 @@
     "level": "Early",
     "queued_at": "2026-11-24T17:01:23.542820+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "251126000517",
+    "title": "Python Software Developer ( AI ML )",
+    "url": "https://www.naukri.com/job-listings-python-software-developer-ai-ml-see-outside-surabhi-placement-services-pune-pune-0-to-1-years-251126000517",
+    "source": "naukri",
+    "company": "US based Software Company",
+    "location": "Remote",
+    "queued_at": "2026-11-25T01:15:24.059524+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "251126500001",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-sun-shine-automation-india-limited-jaipur-0-to-5-years-251126500001",
+    "source": "naukri",
+    "company": "Sun Shine Automation",
+    "location": "Jaipur",
+    "queued_at": "2026-11-25T01:15:24.059524+00:00",
+    "status": "queued"
   }
 ]
