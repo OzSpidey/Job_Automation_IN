@@ -251,7 +251,7 @@
     "location": "Bengaluru",
     "queued_at": "2026-11-25T07:15:11.662076+00:00",
     "status": "queued",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "job_id": "251126024036",
@@ -261,7 +261,8 @@
     "company": "Niit Learning Systems",
     "location": "Gurugram",
     "queued_at": "2026-11-25T09:14:59.349726+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "251126021928",
@@ -271,7 +272,8 @@
     "company": "Sage Publications India Pvt Ltd",
     "location": "Hybrid - Dehradun",
     "queued_at": "2026-11-25T09:14:59.349726+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   },
   {
     "job_id": "291026013661",
@@ -281,16 +283,7 @@
     "company": "The Fastest Media Company",
     "location": "Ahmedabad",
     "queued_at": "2026-11-25T09:14:59.349726+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "251126500001",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-sun-shine-automation-india-limited-jaipur-0-to-5-years-251126500001",
-    "source": "naukri",
-    "company": "Sun Shine Automation",
-    "location": "Jaipur",
-    "queued_at": "2026-11-25T09:14:59.349726+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
