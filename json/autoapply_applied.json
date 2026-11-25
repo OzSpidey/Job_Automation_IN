@@ -11637,5 +11637,38 @@
     "queued_at": "2026-11-25T01:15:24.059524+00:00",
     "status": "applied",
     "applied_at": "2026-11-25T01:16:13.292061+00:00"
+  },
+  {
+    "job_id": "251126011769",
+    "title": "Urgent requirement For Software Developer - Fresher",
+    "url": "https://www.naukri.com/job-listings-urgent-requirement-for-software-developer-fresher-z-tech-solutions-chennai-0-to-1-years-251126011769",
+    "source": "naukri",
+    "company": "Z Tech Solutions",
+    "location": "Chennai(Vadapalani)",
+    "queued_at": "2026-11-25T07:15:11.662076+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-25T07:16:07.742311+00:00"
+  },
+  {
+    "job_id": "251126014662",
+    "title": "Hiring Python Developer Freshers | Immediate Joiners | Entry-Level IT",
+    "url": "https://www.naukri.com/job-listings-hiring-python-developer-freshers-immediate-joiners-entry-level-it-gist-management-solutions-hyderabad-bengaluru-0-to-1-years-251126014662",
+    "source": "naukri",
+    "company": "GIST Management Solutions",
+    "location": "Hyderabad, Bengaluru",
+    "queued_at": "2026-11-25T07:15:11.662076+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-25T07:16:17.336179+00:00"
+  },
+  {
+    "job_id": "251126013365",
+    "title": "Hiring IT Freshers | Software Developers | Immediate Joiners | Chennai",
+    "url": "https://www.naukri.com/job-listings-hiring-it-freshers-software-developers-immediate-joiners-chennai-gist-management-solutions-chennai-0-to-1-years-251126013365",
+    "source": "naukri",
+    "company": "GIST Management Solutions",
+    "location": "Chennai",
+    "queued_at": "2026-11-25T07:15:11.662076+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-25T07:16:26.984319+00:00"
   }
 ]

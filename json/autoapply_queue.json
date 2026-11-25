@@ -243,36 +243,6 @@
     "status": "queued"
   },
   {
-    "job_id": "251126011769",
-    "title": "Urgent requirement For Software Developer - Fresher",
-    "url": "https://www.naukri.com/job-listings-urgent-requirement-for-software-developer-fresher-z-tech-solutions-chennai-0-to-1-years-251126011769",
-    "source": "naukri",
-    "company": "Z Tech Solutions",
-    "location": "Chennai(Vadapalani)",
-    "queued_at": "2026-11-25T07:15:11.662076+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "251126014662",
-    "title": "Hiring Python Developer Freshers | Immediate Joiners | Entry-Level IT",
-    "url": "https://www.naukri.com/job-listings-hiring-python-developer-freshers-immediate-joiners-entry-level-it-gist-management-solutions-hyderabad-bengaluru-0-to-1-years-251126014662",
-    "source": "naukri",
-    "company": "GIST Management Solutions",
-    "location": "Hyderabad, Bengaluru",
-    "queued_at": "2026-11-25T07:15:11.662076+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "251126013365",
-    "title": "Hiring IT Freshers | Software Developers | Immediate Joiners | Chennai",
-    "url": "https://www.naukri.com/job-listings-hiring-it-freshers-software-developers-immediate-joiners-chennai-gist-management-solutions-chennai-0-to-1-years-251126013365",
-    "source": "naukri",
-    "company": "GIST Management Solutions",
-    "location": "Chennai",
-    "queued_at": "2026-11-25T07:15:11.662076+00:00",
-    "status": "queued"
-  },
-  {
     "job_id": "251126013363",
     "title": "Engineer",
     "url": "https://www.naukri.com/job-listings-engineer-tejas-networks-bengaluru-0-to-3-years-251126013363",
@@ -280,16 +250,7 @@
     "company": "Tejas Networks",
     "location": "Bengaluru",
     "queued_at": "2026-11-25T07:15:11.662076+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "251126500001",
-    "title": "Engineer",
-    "url": "https://www.naukri.com/job-listings-engineer-sun-shine-automation-india-limited-jaipur-0-to-5-years-251126500001",
-    "source": "naukri",
-    "company": "Sun Shine Automation",
-    "location": "Jaipur",
-    "queued_at": "2026-11-25T07:15:11.662076+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
