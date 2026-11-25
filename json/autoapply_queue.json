@@ -252,5 +252,45 @@
     "queued_at": "2026-11-25T07:15:11.662076+00:00",
     "status": "queued",
     "attempts": 1
+  },
+  {
+    "job_id": "251126024036",
+    "title": "Software Engineer | eLearning Developer(Storyline)",
+    "url": "https://www.naukri.com/job-listings-software-engineer-elearning-developer-storyline-niit-learning-systems-gurugram-1-to-5-years-251126024036",
+    "source": "naukri",
+    "company": "Niit Learning Systems",
+    "location": "Gurugram",
+    "queued_at": "2026-11-25T09:14:59.349726+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "251126021928",
+    "title": "Communication Developer",
+    "url": "https://www.naukri.com/job-listings-communication-developer-sage-publications-india-pvt-ltd-dehradun-0-to-3-years-251126021928",
+    "source": "naukri",
+    "company": "Sage Publications India Pvt Ltd",
+    "location": "Hybrid - Dehradun",
+    "queued_at": "2026-11-25T09:14:59.349726+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "291026013661",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-the-fastest-media-company-ahmedabad-1-to-3-years-291026013661",
+    "source": "naukri",
+    "company": "The Fastest Media Company",
+    "location": "Ahmedabad",
+    "queued_at": "2026-11-25T09:14:59.349726+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "251126500001",
+    "title": "Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-sun-shine-automation-india-limited-jaipur-0-to-5-years-251126500001",
+    "source": "naukri",
+    "company": "Sun Shine Automation",
+    "location": "Jaipur",
+    "queued_at": "2026-11-25T09:14:59.349726+00:00",
+    "status": "queued"
   }
 ]
