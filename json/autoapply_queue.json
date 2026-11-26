@@ -252,5 +252,75 @@
     "level": "Early",
     "queued_at": "2026-11-24T17:01:23.542820+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "261126035610",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-aeoru-enterprises-delhi-new-delhi-0-to-4-years-261126035610",
+    "source": "naukri",
+    "company": "Aeoru Enterprises Delhi",
+    "location": "New Delhi(Hauz Khas)",
+    "queued_at": "2026-11-26T11:15:06.603917+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "300326012256",
+    "title": "Full Stack Developer - CDOT - Delhi",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-cdot-delhi-national-institute-for-smart-government-nisg-new-delhi-1-to-3-years-300326012256",
+    "source": "naukri",
+    "company": "National Institute for Smart Government (NISG)",
+    "location": "New Delhi",
+    "queued_at": "2026-11-26T11:15:06.603917+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "261126036204",
+    "title": "L1 Support Engineer - Freshers",
+    "url": "https://www.naukri.com/job-listings-l1-support-engineer-freshers-independent-recruitment-consultant-freelancer-chennai-0-to-1-years-261126036204",
+    "source": "naukri",
+    "company": "Independent Recruitment Consultant (freelancer)",
+    "location": "Chennai",
+    "queued_at": "2026-11-26T11:15:06.603917+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "261126033546",
+    "title": "Embedded Engineer (Freshers Apply)",
+    "url": "https://www.naukri.com/job-listings-embedded-engineer-freshers-apply-indian-institute-of-embedded-systems-bengaluru-0-to-2-years-261126033546",
+    "source": "naukri",
+    "company": "Indian Institute Of Embedded Systems",
+    "location": "Hybrid - Bengaluru(Koramangala Industrial Layout)",
+    "queued_at": "2026-11-26T11:15:06.603917+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "261126033062",
+    "title": "Walk-in || Engineer",
+    "url": "https://www.naukri.com/job-listings-engineer-cenlub-systems-delhi-ncr-1-to-3-years-261126033062",
+    "source": "naukri",
+    "company": "Cenlub Systems",
+    "location": "",
+    "queued_at": "2026-11-26T11:15:06.603917+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "261126922930",
+    "title": "Analyst",
+    "url": "https://www.naukri.com/job-listings-analyst-kennect-mumbai-surya-nagar-mumbai-vikhroli-west-0-to-2-years-261126922930",
+    "source": "naukri",
+    "company": "Kennect Solutions",
+    "location": "Mumbai, Surya Nagar,  Mumbai,  Vikhroli West",
+    "queued_at": "2026-11-26T11:15:06.603917+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "261126911412",
+    "title": "UV Developer",
+    "url": "https://www.naukri.com/job-listings-uv-developer-mouser-electronics-india-pvt-ltd-bengaluru-0-to-1-years-261126911412",
+    "source": "naukri",
+    "company": "Mouser",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-26T11:15:06.603917+00:00",
+    "status": "queued"
   }
 ]
