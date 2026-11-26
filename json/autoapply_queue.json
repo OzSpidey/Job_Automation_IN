@@ -1,5 +1,16 @@
 [
   {
+    "job_id": "261126020759",
+    "title": "External Geometry Developer",
+    "url": "https://www.naukri.com/job-listings-external-geometry-developer-michelin-pune-1-to-4-years-261126020759",
+    "source": "naukri",
+    "company": "Michelin",
+    "location": "Hybrid - Pune(Kharadi)",
+    "queued_at": "2026-11-26T07:15:08.803744+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -241,16 +252,5 @@
     "level": "Early",
     "queued_at": "2026-11-24T17:01:23.542820+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "261126020759",
-    "title": "External Geometry Developer",
-    "url": "https://www.naukri.com/job-listings-external-geometry-developer-michelin-pune-1-to-4-years-261126020759",
-    "source": "naukri",
-    "company": "Michelin",
-    "location": "Hybrid - Pune(Kharadi)",
-    "queued_at": "2026-11-26T07:15:08.803744+00:00",
-    "status": "queued",
-    "attempts": 2
   }
 ]
