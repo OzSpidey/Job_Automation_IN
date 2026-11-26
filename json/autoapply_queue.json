@@ -241,5 +241,75 @@
     "level": "Early",
     "queued_at": "2026-11-24T17:01:23.542820+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "261126014666",
+    "title": "Software Engineer",
+    "url": "https://www.naukri.com/job-listings-software-engineer-electronica-mechatronic-systems-pune-0-to-5-years-261126014666",
+    "source": "naukri",
+    "company": "Electronica Mechatronic Systems",
+    "location": "Pune",
+    "queued_at": "2026-11-26T07:15:08.803744+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "261126915711",
+    "title": "Secondary Engineer",
+    "url": "https://www.naukri.com/job-listings-secondary-engineer-hitachi-energy-india-limited-chennai-1-to-6-years-261126915711",
+    "source": "naukri",
+    "company": "Hitachi Energy",
+    "location": "Chennai",
+    "queued_at": "2026-11-26T07:15:08.803744+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "261126022896",
+    "title": "DevOps Engineer (Fresher)",
+    "url": "https://www.naukri.com/job-listings-devops-engineer-fresher-swadesh-mobile-mumbai-0-to-1-years-261126022896",
+    "source": "naukri",
+    "company": "Swadesh Mobile",
+    "location": "Mumbai(Jogeshwari West)",
+    "queued_at": "2026-11-26T07:15:08.803744+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "261126020759",
+    "title": "External Geometry Developer",
+    "url": "https://www.naukri.com/job-listings-external-geometry-developer-michelin-pune-1-to-4-years-261126020759",
+    "source": "naukri",
+    "company": "Michelin",
+    "location": "Hybrid - Pune(Kharadi)",
+    "queued_at": "2026-11-26T07:15:08.803744+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "261126018699",
+    "title": "Senior Analyst - FP&A",
+    "url": "https://www.naukri.com/job-listings-senior-analyst-fp-a-sumitomo-mitsui-banking-corporation-mumbai-1-to-6-years-261126018699",
+    "source": "naukri",
+    "company": "Sumitomo Mitsui Banking Corporation (SMBC)",
+    "location": "Mumbai",
+    "queued_at": "2026-11-26T07:15:08.803744+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "261126912015",
+    "title": "Secondary Engineer",
+    "url": "https://www.naukri.com/job-listings-secondary-engineer-hitachi-energy-india-limited-chennai-1-to-6-years-261126912015",
+    "source": "naukri",
+    "company": "Hitachi Energy",
+    "location": "Chennai",
+    "queued_at": "2026-11-26T07:15:08.803744+00:00",
+    "status": "queued"
+  },
+  {
+    "job_id": "261126911412",
+    "title": "UV Developer",
+    "url": "https://www.naukri.com/job-listings-uv-developer-mouser-electronics-india-pvt-ltd-bengaluru-0-to-1-years-261126911412",
+    "source": "naukri",
+    "company": "Mouser",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-26T07:15:08.803744+00:00",
+    "status": "queued"
   }
 ]
