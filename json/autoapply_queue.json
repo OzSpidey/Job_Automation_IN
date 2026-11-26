@@ -1,5 +1,49 @@
 [
   {
+    "job_id": "261126040079",
+    "title": "AI-Assisted Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-ai-assisted-full-stack-developer-bluewud-concepts-noida-1-to-3-years-261126040079",
+    "source": "naukri",
+    "company": "Bluewud Concepts",
+    "location": "Noida(Sector 65)",
+    "queued_at": "2026-11-26T13:15:00.746101+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "291026037606",
+    "title": "Backend Developer (C++)",
+    "url": "https://www.naukri.com/job-listings-backend-developer-c-infosys-pune-chennai-bengaluru-1-to-3-years-291026037606",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Hybrid - Pune, Chennai, Bengaluru",
+    "queued_at": "2026-11-26T13:15:00.746101+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "261126020759",
+    "title": "External Geometry Developer",
+    "url": "https://www.naukri.com/job-listings-external-geometry-developer-michelin-pune-1-to-4-years-261126020759",
+    "source": "naukri",
+    "company": "Michelin",
+    "location": "Hybrid - Pune(Kharadi)",
+    "queued_at": "2026-11-26T13:15:00.746101+00:00",
+    "status": "queued",
+    "attempts": 2
+  },
+  {
+    "job_id": "211026919040",
+    "title": "Python Developer - Agentic AI / LLM / RAG Engineer",
+    "url": "https://www.naukri.com/job-listings-python-developer-agentic-ai-llm-rag-engineer-infosys-limited-bengaluru-1-to-6-years-211026919040",
+    "source": "naukri",
+    "company": "Infosys",
+    "location": "Bengaluru",
+    "queued_at": "2026-11-26T15:15:17.640856+00:00",
+    "status": "queued",
+    "attempts": 1
+  },
+  {
     "job_id": "CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA==_V2",
     "title": "Software Engineer II",
     "url": "https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcVB8nkEOzmp8k-9jVr4vyFM5mYZdix0-7A0F0tga_56EjsA1Ny_i949RSgAh3vAcXs1eXuGjR-khQnPGS2ELq2oQD6rfjq04h8ye6aQageKQOkSDe6o5fOCdeoirA%3D%3D_V2&loc=IN&title=Software+Engineer+II",
@@ -241,49 +285,5 @@
     "level": "Early",
     "queued_at": "2026-11-24T17:01:23.542820+00:00",
     "status": "queued"
-  },
-  {
-    "job_id": "261126040079",
-    "title": "AI-Assisted Full Stack Developer",
-    "url": "https://www.naukri.com/job-listings-ai-assisted-full-stack-developer-bluewud-concepts-noida-1-to-3-years-261126040079",
-    "source": "naukri",
-    "company": "Bluewud Concepts",
-    "location": "Noida(Sector 65)",
-    "queued_at": "2026-11-26T13:15:00.746101+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "291026037606",
-    "title": "Backend Developer (C++)",
-    "url": "https://www.naukri.com/job-listings-backend-developer-c-infosys-pune-chennai-bengaluru-1-to-3-years-291026037606",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Hybrid - Pune, Chennai, Bengaluru",
-    "queued_at": "2026-11-26T13:15:00.746101+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "261126020759",
-    "title": "External Geometry Developer",
-    "url": "https://www.naukri.com/job-listings-external-geometry-developer-michelin-pune-1-to-4-years-261126020759",
-    "source": "naukri",
-    "company": "Michelin",
-    "location": "Hybrid - Pune(Kharadi)",
-    "queued_at": "2026-11-26T13:15:00.746101+00:00",
-    "status": "queued",
-    "attempts": 2
-  },
-  {
-    "job_id": "211026919040",
-    "title": "Python Developer - Agentic AI / LLM / RAG Engineer",
-    "url": "https://www.naukri.com/job-listings-python-developer-agentic-ai-llm-rag-engineer-infosys-limited-bengaluru-1-to-6-years-211026919040",
-    "source": "naukri",
-    "company": "Infosys",
-    "location": "Bengaluru",
-    "queued_at": "2026-11-26T15:15:17.640856+00:00",
-    "status": "queued",
-    "attempts": 1
   }
 ]
