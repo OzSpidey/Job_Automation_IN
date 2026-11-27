@@ -241,5 +241,15 @@
     "level": "Early",
     "queued_at": "2026-11-24T17:01:23.542820+00:00",
     "status": "queued"
+  },
+  {
+    "job_id": "271126010594",
+    "title": "Site Reliability Engineer (Fresher)",
+    "url": "https://www.naukri.com/job-listings-site-reliability-engineer-fresher-qualys-pune-0-to-2-years-271126010594",
+    "source": "naukri",
+    "company": "Qualys",
+    "location": "Hybrid - Pune",
+    "queued_at": "2026-11-27T05:15:20.972335+00:00",
+    "status": "queued"
   }
 ]
