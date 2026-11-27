@@ -12022,5 +12022,93 @@
     "queued_at": "2026-11-27T11:15:42.316245+00:00",
     "status": "applied",
     "applied_at": "2026-11-27T11:19:00.360931+00:00"
+  },
+  {
+    "job_id": "271126505922",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-dew-software-inc-hyderabad-1-to-5-years-271126505922",
+    "source": "naukri",
+    "company": "Dew Software",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-27T13:15:15.924400+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-27T13:17:01.045208+00:00"
+  },
+  {
+    "job_id": "271126919502",
+    "title": "Backend Developer",
+    "url": "https://www.naukri.com/job-listings-backend-developer-forward-eye-technologies-noida-0-to-2-years-271126919502",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Noida",
+    "queued_at": "2026-11-27T13:15:15.924400+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-27T13:18:13.872380+00:00"
+  },
+  {
+    "job_id": "271126919628",
+    "title": "SFCC Backend Developer",
+    "url": "https://www.naukri.com/job-listings-sfcc-backend-developer-forward-eye-technologies-noida-1-to-3-years-271126919628",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Noida",
+    "queued_at": "2026-11-27T13:15:15.924400+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-27T13:18:23.771019+00:00"
+  },
+  {
+    "job_id": "271126920941",
+    "title": "Structural Engineer Freshers",
+    "url": "https://www.naukri.com/job-listings-structural-engineer-freshers-brownsofts-llc-kaliyakkavilai-0-to-1-years-271126920941",
+    "source": "naukri",
+    "company": "Brownsofts",
+    "location": "Kaliyakkavilai",
+    "queued_at": "2026-11-27T13:15:15.924400+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-27T13:18:33.404830+00:00"
+  },
+  {
+    "job_id": "271126920434",
+    "title": "Analyst/ Consultant",
+    "url": "https://www.naukri.com/job-listings-analyst-consultant-innergize-solutions-pvt-ltd-mumbai-worli-1-to-2-years-271126920434",
+    "source": "naukri",
+    "company": "Innergize Solutions",
+    "location": "Mumbai, Worli",
+    "queued_at": "2026-11-27T13:15:15.924400+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-27T13:19:05.678023+00:00"
+  },
+  {
+    "job_id": "271126919882",
+    "title": "Venture Analyst",
+    "url": "https://www.naukri.com/job-listings-venture-analyst-bolstart-pune-1-to-2-years-271126919882",
+    "source": "naukri",
+    "company": "Bolstart",
+    "location": "Pune",
+    "queued_at": "2026-11-27T13:15:15.924400+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-27T13:19:15.433702+00:00"
+  },
+  {
+    "job_id": "271126919415",
+    "title": "Dell One Identity Developer",
+    "url": "https://www.naukri.com/job-listings-dell-one-identity-developer-forward-eye-technologies-pune-1-to-3-years-271126919415",
+    "source": "naukri",
+    "company": "Forward Eye Technologies",
+    "location": "Pune",
+    "queued_at": "2026-11-27T13:15:15.924400+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-27T13:19:25.176426+00:00"
+  },
+  {
+    "job_id": "271126922173",
+    "title": "Embedded Firmware Engineer",
+    "url": "https://www.naukri.com/job-listings-embedded-firmware-engineer-gridbots-technologies-pvt-ltd-ahmedabad-1-to-3-years-271126922173",
+    "source": "naukri",
+    "company": "Gridbots Technologies",
+    "location": "Ahmedabad",
+    "queued_at": "2026-11-27T13:15:15.924400+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-27T13:19:34.839916+00:00"
   }
 ]
