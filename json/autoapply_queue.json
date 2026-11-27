@@ -250,16 +250,7 @@
     "company": "AvenuesAI",
     "location": "Bengaluru",
     "queued_at": "2026-11-27T07:15:42.616789+00:00",
-    "status": "queued"
-  },
-  {
-    "job_id": "271126015188",
-    "title": "Faculty-BIM (Modeler/Engineer/Expert) / Energy & Building performance",
-    "url": "https://www.naukri.com/job-listings-faculty-bim-modeler-engineer-expert-energy-building-performance-amity-university-noida-1-to-6-years-271126015188",
-    "source": "naukri",
-    "company": "Amity University",
-    "location": "Noida",
-    "queued_at": "2026-11-27T07:15:42.616789+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
