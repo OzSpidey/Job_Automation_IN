@@ -251,17 +251,7 @@
     "location": "Bengaluru",
     "queued_at": "2026-11-27T07:15:42.616789+00:00",
     "status": "queued",
-    "attempts": 1
-  },
-  {
-    "job_id": "271126018869",
-    "title": "CPQ Engineer",
-    "url": "https://www.naukri.com/job-listings-cpq-engineer-jaytech-pune-1-to-3-years-271126018869",
-    "source": "naukri",
-    "company": "Jaytech",
-    "location": "Pune",
-    "queued_at": "2026-11-27T09:14:57.664985+00:00",
-    "status": "queued"
+    "attempts": 2
   },
   {
     "job_id": "271126017488",
@@ -271,6 +261,7 @@
     "company": "Indospace Development Management",
     "location": "Mumbai",
     "queued_at": "2026-11-27T09:14:57.664985+00:00",
-    "status": "queued"
+    "status": "queued",
+    "attempts": 1
   }
 ]
