@@ -12110,5 +12110,27 @@
     "queued_at": "2026-11-27T13:15:15.924400+00:00",
     "status": "applied",
     "applied_at": "2026-11-27T13:19:34.839916+00:00"
+  },
+  {
+    "job_id": "271126922831",
+    "title": "Full Stack Developer",
+    "url": "https://www.naukri.com/job-listings-full-stack-developer-tenacitics-india-nungambakkam-0-to-2-years-271126922831",
+    "source": "naukri",
+    "company": "Tenacitics",
+    "location": "Nungambakkam",
+    "queued_at": "2026-11-27T17:15:13.694972+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-27T17:18:05.231322+00:00"
+  },
+  {
+    "job_id": "271126922418",
+    "title": "Python Developer",
+    "url": "https://www.naukri.com/job-listings-python-developer-arshil-hyderabad-1-to-5-years-271126922418",
+    "source": "naukri",
+    "company": "Arshil Llc",
+    "location": "Hyderabad",
+    "queued_at": "2026-11-27T17:15:13.694972+00:00",
+    "status": "applied",
+    "applied_at": "2026-11-27T17:18:14.985975+00:00"
   }
 ]
